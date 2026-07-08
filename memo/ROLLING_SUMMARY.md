@@ -1,11 +1,16 @@
 # ROLLING SUMMARY — cập nhật sau mỗi batch dịch
-*Khởi tạo tại điểm nối ch.386 (bản dịch cũ kết thúc). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+*Cập nhật đến hết Chương 389 (= zh 0394). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
 
-## 10 chương gần nhất (377–386)
-Camillo hoàn thiện hàn ma lực; Evita đặt đơn vị đo ma lực "Ev", Hứa Dịch chuẩn bị cùng cô xuất bản sách "Ma Lực Tiêu Chuẩn Hóa". Nhờ phân bón theo công thức Elf, sản lượng lúa mì Bontar nhảy vọt (330→870 vạn tấn); Bá tước Stark đổi thái độ, tái khởi động Kênh đào Sandy–Rum (mùng 7 Tết), xây kho lương quốc gia đầu tiên rồi được Quốc vương Lanpari XIII điều đi làm Thành chủ thành Loren — Bontar lại sắp đổi Thành chủ. Trước khi đi, Stark gặp riêng Hứa Dịch, thừa nhận thua, và hỏi hai câu treo lơ lửng: "cậu là thương nhân hay quý tộc?" và "cậu thật sự không xem trọng Hoàng tử Aerick sao?" — chương 386 kết đúng tại câu hỏi thứ hai, Hứa Dịch nheo mắt chưa đáp.
-Song song: Tử tước Leslie ở Dãy núi Murto cạn lương thảo (Cục Hậu cần 3 tháng không cấp hàng), sợ quân Sack phản công mùa xuân, viết thư cầu cứu Hứa Dịch; đồng thời tuyên bố tranh chức Tộc trưởng Gia tộc Stark dù bị ép cưới Tiểu thư Aleman. Hội trưởng Allen vẫn đang ngầm giải mã bí mật kỹ thuật Tân Phi (mua qua Alex, giao cho pháp sư trẻ Anko). Người sói Woller và các bộ lạc Người thú ăn Tết sung túc bằng lương công nhân, các bộ lạc khác ghen tị xin hợp tác.
+## Chương vừa dịch (387–389)
+Hứa Dịch né khéo câu hỏi của Bá tước Stark về Hoàng tử Aerick (không tỏ thái độ — bất kính là đại kỵ). Sau đó anh đưa Hội trưởng Pompeii (Hãng xe ngựa Filson) đi xem khu biệt thự thương mại "Nước Biếc Trời Xanh" của Thương hội Amli — dấu hiệu một tầng lớp trung lưu mới hình thành ở Bontar (công nhân lành nghề, quản lý, pháp sư hạ cấp có lương cao). Hé lộ: chính Hứa Dịch ngầm "nuôi" Liên minh Thương mại Ireland (Kovacs, Freeman) làm đối trọng thị trường.
+Tại Thung lũng Rainfall, Hứa Dịch cho Cruz và Pompeii xem chạy thử **xe máy ma lực** đời đầu (động cơ ma lực hệ Phong, lực kéo ~6 ngựa, 35 km/h không tải, chở 1 tấn vẫn >30 km/h) — cả hai choáng, Pompeii lập tức đòi mua thay đội xe ngựa, đề nghị Hứa Dịch ra giá. Hứa Dịch vẽ đường cho Filson chuyển thành thương hội vận tải **logistics** chuyên nghiệp, và nhờ Vương nữ Cervini trình Nghị viện Vương quốc quy định tài xế phải có **bằng lái** do Tân Phi cấp (chuẩn mực do mình đặt = quyền lực ngành).
+Cảnh phụ ch.389: thị dân thất nghiệp Mercado ra bến xe Filson đi Khu công nghiệp Sancton tìm việc (dân Bontar phấn khởi vì Stark sắp rời nhiệm, thương hội đang quay lại) — chương kết bằng cliffhanger: đám đông sững người nhìn chiếc xe buýt vừa tới (nhiều khả năng là xe buýt ma lực mới thay xe ngựa).
 
-## Việc cần nhớ khi dịch chương tiếp (387 = zh 0392)
-- Mở đầu nhiều khả năng nối tiếp cảnh đối thoại Hứa Dịch ↔ Bá tước Stark (câu hỏi về Hoàng tử Aerick) hoặc hậu quả việc Stark rời Bontar.
-- Xưng hô cảnh này: Stark gọi Hứa Dịch "cậu", xưng "tôi"; Hứa Dịch gọi "ngài"/"Thành chủ", xưng "tôi".
-- Tên mới gặp lần đầu: tra GLOSSARY trước, không có thì phiên kiểu Tây (trừ tên Trung → Hán Việt, thị tộc Elf → tiếng Anh) và ghi vào glossary_pending của PROGRESS.json.
+## Trạng thái nối tiếp cho chương 390 (= zh 0395)
+- Pompeii đang chờ báo giá xe máy ma lực; thương vụ logistics Filson ↔ Tân Phi đang mở.
+- Đề xuất "bằng lái" đã gửi Vương nữ Cervini → Nghị viện Vương quốc, chưa có kết quả.
+- Mạch cũ vẫn treo: Leslie cạn lương thảo ở Dãy núi Murto chờ Hứa Dịch cứu; Bontar sắp có Thành chủ mới; gián điệp Allen/Anko đang chạy ngầm; sách "Ma Lực Tiêu Chuẩn Hóa" sắp xuất bản.
+- Xưng hô lưu ý: Cruz & Pompeii ↔ Hứa Dịch: "ngài/anh – tôi", họ gọi nhau "Hội trưởng X".
+
+## Quy tắc mới chốt (đã vào GLOSSARY)
+公主 = Vương nữ (không phải Công chúa); 风系 = hệ Phong; 爱尔兰联合商会 = Liên minh Thương mại Ireland; 费里曼 = Freeman; 考瓦奇 = Kovacs; 菲尔逊车马行 = Hãng xe ngựa Filson.

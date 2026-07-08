@@ -4,21 +4,13 @@
   "first_new_chapter_vi": 387,
   "first_new_chapter_zh_file": "0392",
   "last_zh_file": "1280",
-  "last_done_vi": 387,
-  "translated": [387],
+  "last_done_vi": 389,
+  "translated": [387, 388, 389],
   "failed": [],
-  "glossary_pending": [
-    "菲尔逊车马行 → Hãng xe ngựa Filson",
-    "碧水蓝天商业住宅小区 → khu biệt thự thương mại Nước Biếc Trời Xanh",
-    "现代魔法屋 → Nhà Ma thuật Hiện đại",
-    "爱尔兰联合商会 → Thương hội Liên hợp Ireland",
-    "爱尔兰村 → Làng Ireland",
-    "考瓦奇 → Kovac (LƯU Ý: epub cũ có 'Kovacs' 21 lần — cần chuẩn hóa)",
-    "费里曼 → Ferriman (LƯU Ý: có thể trùng 'Freeman' trong epub cũ — cần đối chiếu)",
-    "瑟维尼公主 → Công chúa Cervini (agent dùng 'Vương nữ' — cần chuẩn hóa về epub)"
-  ],
+  "glossary_pending": [],
   "review_notes": [
-    "0387: kiểm tra 'Vương nữ Cervini' vs 'Công chúa Cervini' (epub dùng Công chúa)"
+    "387-389: đã đồng bộ thuật ngữ (Vương nữ, hệ Phong, Liên minh TM Ireland, Kovacs, Freeman, Hãng xe ngựa Filson) ngày 2026-07-08. Chờ user duyệt văn phong trước khi chạy đại trà."
   ],
+  "next_action": "User duyệt 3 chương thử → chạy đại trà từ chương 390 (zh 0395), batch 5-10 chương song song/đợt, cập nhật ROLLING_SUMMARY mỗi 10 chương",
   "output_epub": "Ma Phap Cong Nghiep De Quoc_v2.epub"
 }
