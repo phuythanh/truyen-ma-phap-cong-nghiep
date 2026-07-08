@@ -4,8 +4,9 @@
   "first_new_chapter_vi": 387,
   "first_new_chapter_zh_file": "0392",
   "last_zh_file": "1280",
-  "last_done_vi": 449,
-  "translated_ranges": "387-449 (lien tuc)",
+  "last_done_vi": 699,
+  "translated_ranges": "387-699 (lien tuc)",
+  "epub_built": "Ma Phap Cong Nghiep De Quoc_v2.epub (Chuong 387-699 = file noi bo C760-C1072), build lai bang scratchpad/build_epub.ps1",
   "failed": [],
   "glossary_pending": [],
   "review_notes": [
@@ -15,6 +16,8 @@
     "BÀI HỌC: KHÔNG dùng PowerShell .Replace() để thay ký tự CJK lẻ trên chuỗi có dấu cách -> gây hỏng dấu cách hàng loạt. Nếu chương lỗi thì DỊCH LẠI bằng Sonnet, đừng vá bằng script.",
     "CHẤT LƯỢNG: Haiku 4.5 dịch 50 chương thì ~11 chương (22%) lỗi phải làm lại -> tỉ lệ hỏng cao. Cân nhắc đổi hẳn sang Sonnet cho các đợt sau (đắt hơn ~3x nhưng gần như không phải QA/dịch lại)."
   ],
-  "next_action": "Chạy tiếp từ chương 450 (zh 0455). ĐỀ XUẤT: dùng Sonnet thay Haiku. Vẫn 5 chương/agent, QA độ dài + CJK + mangle sau mỗi đợt.",
+  "next_action": "Chạy tiếp từ chương 700 (zh 0705). DÙNG SONNET qua Workflow (50 agent x 5 = 250 chương/mẻ chạy ngon, 0 lỗi). QA gate PowerShell sau mỗi mẻ: CJK + ratio + space% + so doan. Build lai epub bang scratchpad/build_epub.ps1 (chinh $last).",
+  "batch_400_449_note": "Haiku: 11/50 chuong loi phai lam lai.",
+  "batch_450_699_note": "2026-07-09: 250 chuong Sonnet qua Workflow, 7.42M token, 0 loi qua QA gate (250/250 pass). +293 ten GLOSSARY. Con vai bien the ten le chua sync trong text (polish sau).",
   "output_epub": "Ma Phap Cong Nghiep De Quoc_v2.epub"
 }

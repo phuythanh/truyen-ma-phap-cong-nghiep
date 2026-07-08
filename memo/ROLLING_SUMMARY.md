@@ -1,20 +1,19 @@
 # ROLLING SUMMARY — cập nhật sau mỗi batch dịch
-*Cập nhật đến hết Chương 449 (= zh 0454). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+*Cập nhật đến hết Chương 699 (= zh 0704). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
 
-## Mạch chính đợt 400–449 (tóm lược)
-- **400–409:** Hứa Dịch tung dòng xe khách/taxi/xe tải ma lực, đẩy mảng logistics và nông sản. Phát hiện gián điệp công nghệ: công nghệ khớp nối pháp trận trục lực bị rò cho **Thương hội Ma lực An Khoa** (nghi nội thần Rem). **Evita** mang tới mô hình **tàu bay ma thuật** (pháp trận ngự phong + kỹ thuật cộng hưởng cùng tần số). Hội thương Phi Độ (Chelnov) làm nhái; Công tước Jose khai thác quặng ở Krammya.
-- **410–419:** Mở rộng cơ sở nông nghiệp; tuyển Elf (Miranda, Linda, Lisi) qua trưởng lão Waylon; máy ép trái cây; **máy móc ma lực tự động** do kỹ sư lập trình Sancheri phát triển; hệ thống điều khiển từ xa tập trung cho gia dụng.
-- **420–429:** Nhắm thị trường nước ngoài; đối tác **Thương hội Walmart** (Hội trưởng Kolma Lundes, phó Hank Wilson). Tiệc của Hoàng tử; kỳ thi kỹ năng nghề (Mick đỗ). Vấn đề nhà ở để giữ pháp sư → tăng lương Camillo lên 10.000 gold/năm. Đấu giá ở Anweimar: mua nhật ký Ma đạo sư Sorne (5.700 gold) và vòng cổ "Đại dương xanh sâu" (350.000 gold, đấu với quý tộc Folado).
-- **430–439:** Gián điệp qua Alexis (cháu Heinze) ở chi nhánh Anweimar; đàm phán mua tư liệu nghiên cứu với Murna Lifao; phí bảo vệ bằng sáng chế ma pháp. Năm Đại pháp sư (**Truki, Torres, Eisenka, Allen** + Hội trưởng Hiệp hội Pháp sư) chuyển hướng, muốn mở nhà máy ma lực. **Ankelu** (Công quốc Stan) hạ quyết tâm gây xung đột.
-- **440–449:** Vương quốc Sack cũng có máy ném đá ma lực → căng thẳng quân sự (Thiếu tá Maconli, Quân đoàn Trấn Bắc). Đại sứ Xi Hack (Parames) tới lập liên minh thương mại. Hứa Dịch được xác nhận **pháp sư hạng 8**, tuyển Bukaroles vào Viện. Phát hiện **đất hiếm** ở Công quốc Milano nhưng vấp cản trở chính trị từ các Bá tước phe Hoàng tử Aerick (Scandi Weir/thành Laimat, Michele/Duledon, Longli/Baturu — Longli bắt đầu ngả về Hứa Dịch). Lên kế hoạch xây **quốc lộ mới** (đường Rainfall) để phá thế hạn chế vận chuyển; ra hệ thống giảm xóc cho xe máy ma lực.
+## Mạch chính đợt 450–699 (tóm lược cấp cao)
+- **Kinh tế/công nghiệp:** Tân Phi tiếp tục bành trướng — máy móc ma lực gia dụng, xe máy/xe hơi ma lực (thêm hệ thống giảm xóc), **tàu ma lực** (đường thủy) đang nghiên cứu; mở rộng sang các thành mới (Cerwell, Laimat, Anweimar...). Cạnh tranh & hợp tác với hàng loạt thương hội (Walmart/Kolma Lundes, Mobil/Dwayne Selop, Rockefeller/Skander Orwell, Porter, Melda/Ladis Sampson, Chimera phát hành ngân phiếu vàng). Tài chính do Sebastian (giám đốc tài chính) lo.
+- **Chính trị/kế vị:** Tranh chấp kế vị Lanpari XIII giữa các con (Aerick, Cervini, Durant...); Nghị viện Quý tộc (Bá tước Basa phó nghị trưởng) xét tước vị; các Bá tước Thành chủ (Scandi Weir/Laimat, Michele/Duledon, Rivel Longli/Baturu) chọn phe. Thành chủ Bontar mới: Bá tước Kanaino Kamadu (kế Cervini). Kennard xuất thân gia tộc Emma (Hầu tước Emma là cha).
+- **Quân sự/đối ngoại:** Căng thẳng với **Vương quốc Sack** — Quân đoàn Tham Lang (quân đoàn trưởng Sharlon Lenur, tham mưu Ivo Joao, pháp sư cấp 8 Delal, tướng kỵ binh Everton) áp sát dãy núi Murto/Multo; Quân đoàn Trấn Bắc phòng thủ. Buôn lậu hàng Tân Phi vào Sack (Walker). Đối ngoại với Xi Hack, Công quốc Stan, Công quốc Delac, Vương quốc Feno.
+- **Cuối đợt (696–699):** Hứa Dịch tung **kế hoạch xây đường bộ >5000 km** (cần xi măng quy mô lớn); bàn bạc với Hội trưởng Cruz; bối cảnh chuyển sang Công quốc Stan (giữa tháng 11).
 
-## Trạng thái nối tiếp cho chương 450 (= zh 0455)
-- Xung đột với **Công quốc Stan (Ankelu)** đang tới gần.
-- Ván **đất hiếm Milano** + cản trở chính trị của các Bá tước phe Aerick đang mở; Longli đang chuyển phe.
-- Kế hoạch **quốc lộ mới** (đường Rainfall) giải quyết ách tắc vận chuyển.
-- Gián điệp công nghệ (Rem / An Khoa / Alexis) vẫn âm ỉ.
-- Stella mang thai; Cervini làm Thành chủ Bontar, Aerick làm Thành chủ Roleng.
-- Năm Đại pháp sư muốn mở nhà máy ma lực (cơ hội hợp tác lớn).
+## Trạng thái nối tiếp cho chương 700 (= zh 0705)
+- Kế hoạch **quốc lộ >5000km + sản xuất xi măng** đang khởi động — mạch công nghiệp lớn tiếp theo.
+- Nguy cơ **chiến tranh với Vương quốc Sack** (Quân đoàn Tham Lang) đang dồn nén ở biên giới bắc.
+- Tranh chấp kế vị Lanpari + các Bá tước Thành chủ chọn phe vẫn tiếp diễn.
+- Bối cảnh đang ở **Công quốc Stan**; Hội trưởng Cruz có mặt (liên quan bộ lạc Người Sói Voller / Người thú).
+- Gián điệp công nghệ, tàu ma lực đường thủy, mở rộng thị trường đa thành phố vẫn là mạch nền.
 
-## Chốt tên riêng nhất quán (đã vào GLOSSARY, dùng ĐÚNG các dạng này)
-Kolma Lundes (KHÔNG Landers/Lendus/Colmar); Truki (KHÔNG Truchi/Terucci); Eisenka (KHÔNG Artisana); Camillo (KHÔNG Camel); Lifao (KHÔNG Rifao/Lifaluo); Kantona (KHÔNG Cantona); Sheldon (KHÔNG Sheraton); Alexis (KHÔNG Alex); Xi Hack (KHÔNG Tây Hạk); Cerwell (KHÔNG Sewell); Lisi (KHÔNG Lisse); Kanbi (KHÔNG Kambi); Plana (KHÔNG Purana); Remit (KHÔNG Remidt); Sorne; Quân đoàn Trấn Bắc; Evita; Akali.
+## Chốt tên nhất quán (đã vào GLOSSARY — dùng ĐÚNG)
+Kolma Lundes; Truki; Eisenka; Camillo; Lifao; Kantona; Sheldon; Alexis; Xi Hack; Cerwell; Lisi; Kanbi; Plana; Remit; Sorne; Quân đoàn Trấn Bắc; Evita; Akali; Sebastian; Sharlon Lenur (李努尔, KHÔNG viết Linur); gia tộc Emma (艾玛, KHÔNG viết Aima); Sakichi (萨克奇); làng Kambia (坎比亚).
+*Lưu ý polish sau: đợt 450–699 do 50 agent dịch, còn một số biến thể tên lẻ giữa các chương (vd Sachi/Sacchi, Lam/Ram) — chưa đồng bộ triệt để trong text, nhưng KHÔNG ảnh hưởng đọc. GLOSSARY đã có bản chốt.*
