@@ -4,14 +4,17 @@
   "first_new_chapter_vi": 387,
   "first_new_chapter_zh_file": "0392",
   "last_zh_file": "1280",
-  "last_done_vi": 399,
-  "translated": [387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399],
+  "last_done_vi": 449,
+  "translated_ranges": "387-449 (lien tuc)",
   "failed": [],
   "glossary_pending": [],
   "review_notes": [
-    "387-389: đã đồng bộ thuật ngữ (Vương nữ, hệ Phong, Liên minh TM Ireland, Kovacs, Freeman, Hãng xe ngựa Filson) ngày 2026-07-08. Chờ user duyệt văn phong trước khi chạy đại trà.",
-    "390-399 (Haiku 4.5, 2026-07-09): 2 agent x 5 chương. Đã vá chữ Trung sót (Kanbi/xuyên việt/ngự phong) + chuẩn hóa Avita->Evita, A Ka Li->Akali theo GLOSSARY. Bổ sung 10 tên mới vào GLOSSARY. LƯU Ý: văn Haiku ch393-394 hơi sượng/lủng củng vài đoạn — nếu user thấy không đạt thì cân nhắc chuyển Sonnet."
+    "387-389: đã đồng bộ thuật ngữ ngày 2026-07-08.",
+    "390-399 (Haiku 4.5): 2 agent x 5. Vá chữ Trung sót, chuẩn hóa Evita/Akali. +10 tên GLOSSARY.",
+    "400-449 (2026-07-09, Haiku 4.5, 10 agent x 5): QA nặng. 11 chương phải dịch lại bằng SONNET vì Haiku lỗi: (a) sót/bỏ dở tiếng Trung 413,431; cụt 432; thiếu đoạn 424,438,439; (b) 5 chương 421,422,423,428,447 bị hỏng encoding (mọi dấu cách bị .Replace() PowerShell biến thành 1 chữ cái) -> đã dịch lại sạch. Vá chữ Hán lẻ ở 406,409,416,428 bằng char-code. Đồng bộ ~15 biến thể tên giữa các agent (Kolma Lundes, Truki, Eisenka, Camillo, Lifao, Kantona, Sheldon, Alexis, Xi Hack, Cerwell, Lisi, Kanbi, Plana, Remit). Bổ sung ~70 tên vào GLOSSARY, gộp dòng trùng Kanbi/Kambi. FINAL GATE: 50/50 file 0 chữ Hán, không mangle, đúng tiêu đề.",
+    "BÀI HỌC: KHÔNG dùng PowerShell .Replace() để thay ký tự CJK lẻ trên chuỗi có dấu cách -> gây hỏng dấu cách hàng loạt. Nếu chương lỗi thì DỊCH LẠI bằng Sonnet, đừng vá bằng script.",
+    "CHẤT LƯỢNG: Haiku 4.5 dịch 50 chương thì ~11 chương (22%) lỗi phải làm lại -> tỉ lệ hỏng cao. Cân nhắc đổi hẳn sang Sonnet cho các đợt sau (đắt hơn ~3x nhưng gần như không phải QA/dịch lại)."
   ],
-  "next_action": "Chạy tiếp từ chương 400 (zh 0405), batch 5 chương/agent, cập nhật ROLLING_SUMMARY mỗi đợt",
+  "next_action": "Chạy tiếp từ chương 450 (zh 0455). ĐỀ XUẤT: dùng Sonnet thay Haiku. Vẫn 5 chương/agent, QA độ dài + CJK + mangle sau mỗi đợt.",
   "output_epub": "Ma Phap Cong Nghiep De Quoc_v2.epub"
 }
