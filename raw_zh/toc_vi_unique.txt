@@ -1,0 +1,386 @@
+0001|Đi xin việc
+0002|Giá mà có cái quạt điện
+0003|Quạt ma thuật
+0004|Bán hàng
+0005|Sản xuất hàng loạt
+0006|Cơn sốt mua sắm
+0007|Khởi đầu từ con số không
+0008|Triệu kiến của Đại Pháp Sư
+0009|Mục tiêu vĩ đại
+0010|Thuê đất
+0011|Mua một Nô lệ
+0012|Quạt ma thuật có thể điều chỉnh tốc độ
+0013|Vấn đề của việc sản xuất hàng loạt
+0014|Mười vạn chiếc Vít
+0015|Mỗi người một chí hướng
+0016|Thương hiệu
+0017|Sửa chữa miễn phí
+0018|Bu lông ra đời
+0019|Lời mời
+0020|Vivian
+0021|Phần thưởng bằng tiền mặt
+0022|Khách quý
+0023|Hợp tác
+0024|Đàn ông cũng biết ghen tuông
+0025|Máy thử nghiệm
+0026|Thép hợp kim
+0027|Tôi chỉ là một đứa trẻ con
+0028|Người đàn ông trung niên
+0029|Nhu cầu nhân lực
+0030|Xưởng trưởng và trợ lý xưởng trưởng
+0031|Người Đại Diện
+0032|Lợi thế năng lượng
+0033|Ý nghĩa của việc nghiên cứu đầu tư
+0034|Mỹ Nhân Như Họa
+0035|Bàn về hợp tác
+0036|Thương hội hàng đầu tạo ra tiêu chuẩn
+0037|Định vị sản phẩm trung và cao cấp
+0038|Yến tiệc
+0039|Máy móc nông nghiệp
+0040|Hội trưởng Hứa Dịch Kỳ Lạ
+0041|Bài kiểm tra phỏng vấn
+0042|Hạn chế về nguyên liệu
+0043|Ngày Lĩnh Lương
+0044|Đổi sang một sản phẩm mới
+0045|Nhà nghiên cứu của Viện nghiên cứu
+0046|Sự ra đời của Máy gặt Ma thuật
+0047|Xưởng sản xuất Máy móc Ma thuật Gia dụng
+0048|Nồi cơm Ma thuật
+0049|Lòng người bối rối
+0050|Vị Đại Pháp Sư Nghèo Khó
+0051|Pháp sư và địa vị của thương nhân
+0052|Chuyển biến tư duy
+0053|Tuyển dụng công nhân
+0054|Sản phẩm nhái thế hệ thứ hai
+0055|Chênh lệch chất lượng
+0056|Hi vọng
+0057|Quảng cáo mới
+0058|Cuộc thi ăn
+0059|Giải phóng sức sản xuất
+0060|Máy Cày Ma Thuật
+0061|Paparazzi
+0062|Nhật báo Bontar
+0063|Tiệc tối tại Phủ Thành chủ
+0064|Cuộc gặp gỡ
+0065|Tài năng của Vivian
+0066|Buổi học đầu tiên
+0067|Gieo một hạt giống
+0068|Nếu cậu là Đại Ma Đạo Sư
+0069|Miễn giảm thuế
+0070|Hợp kim mới
+0071|Cậu muốn tạo phản sao?
+0072|Bộ lạc Angola
+0073|Thăm dò mạch khoáng sản
+0074|Nữ Elf
+0075|Thiệp mời của Liên minh Thương mại
+0076|Đèn Tinh thể Ma thuật
+0077|Chuyển nhượng nô lệ
+0078|Yến tiệc
+0079|Chúng ta là bạn bè sao?
+0080|Trơ trẽn
+0081|Hay là em gả cho anh nhé?
+0082|Vị khách kỳ lạ
+0083|Tham vọng của Hainas
+0084|Quyết định
+0085|Cỏ huỳnh quang
+0086|Hay là hắn thích đàn ông?
+0087|Nỗi đau của Vina
+0088|Thỏa thuận bảo mật
+0089|Chủ nhân, cứu tôi với!
+0090|Quỹ hỗ trợ học tập
+0091|Giá như ta có một lãnh địa
+0092|Nâng cao hiệu suất
+0093|Ngài Tử tước oai phong lẫm liệt
+0094|Đăng ký
+0095|Tuyển dụng
+0096|Bạn học cũ
+0097|Cơ quan Nông nghiệp kiêu ngạo
+0098|Pháp trận có thể lập trình
+0099|Cuộc sống của thiếu gia quý tộc cũng chẳng dễ dàng gì
+0100|Cơ quan Nông nghiệp lại phái người đến
+0101|Đầu tư
+0102|Khảo hạch sơ cấp
+0103|Tôi có thể nhận được lợi ích gì?
+0104|Hay là cho tôi một mảnh đất đi
+0105|Luận văn
+0106|Hành trình đến Vương cung
+0107|Chỉ là một quân cờ
+0108|Ta có một số thứ rất đáng giá
+0109|Khảo nghiệm Cấp 5
+0110|Người Đại Diện
+0111|Xin Lỗi
+0112|Thương hội Tân Phi Tạm Bời
+0113|Kỹ sư Máy móc Ma thuật Người lùn
+0114|Bột cỏ huỳnh quang
+0115|Nhà thiết kế kiểu dáng
+0116|Đạp Phá Thiết Giày Vô Mịch Xứ
+0117|Nghiên cứu phân đoạn
+0118|Ân cần quá mức
+0119|Phung phí
+0120|Giấy phép lao động
+0121|Xi măng
+0122|Bức tranh quảng cáo thất bại
+0123|Giá trị của Yanis
+0124|Tâm lý đám đông
+0125|Muốn có mỏ quặng sao?
+0126|Thực lực của Thương hội Tân Phi
+0127|Tiền bảo lãnh
+0128|Buổi đấu giá
+0129|Cậu thật sự có tiền sao?
+0130|Kẻ điên
+0131|Thưởng cuối năm
+0132|Đến nhà tôi ăn Tết đi
+0133|Bốn người đồng hành
+0134|Xây dựng bộ lạc mới
+0135|Bộ tộc Elf
+0136|Nhảy vào hố
+0137|Trở thành nô lệ của ta
+0138|Cơ hội cuối cùng
+0139|Hai mầm non (Hết quyển 1)
+0140|Hội Giao Lưu Thương Mại
+0141|Lời mời từ Thành phố Karma
+0142|Thương hội nhỏ bé không có tương lai
+0143|Vậy thì đưa tôi đi
+0144|Không cần phải vòng vo tam quốc
+0145|Kế hoạch dài hạn
+0146|Hợp tác với tôi
+0147|Buổi họp báo ra mắt sản phẩm
+0148|Nồi Cơm Ma Thuật Tự Động
+0149|Hãy Trả Giá Đi
+0150|Gia công linh kiện
+0151|Sau này sẽ không quay lại nữa
+0152|Vương nữ Điện hạ
+0153|Cuối cùng vẫn phải rời đi
+0154|Lời khuyên của Tử tước Leslie
+0155|Muốn giàu có thì phải làm đường trước đã
+0156|Lý do đến ăn ké
+0157|Chúng ta không thể nào đến được với nhau
+0158|Luôn phải ra ngoài gặp người khác chứ
+0159|Quân bài tẩy của Thương hội Tân Phi
+0160|Vị đại sư bí ẩn
+0161|Cô gái Elf bí ẩn
+0162|Lời tuyên bố của Yanis
+0163|Micromet
+0164|Thái độ thực sự của Gia tộc Stark là gì?
+0165|Cập nhật và thay thế sản phẩm
+0166|Tăng tiền thuê
+0167|Không thèm chơi với hắn ta nữa
+0168|Trang viên Sancton
+0169|Sản xuất hàng loạt vũ khí và áo giáp
+0170|Món quà của Yanis
+0171|Chiếm lĩnh thị trường
+0172|Truyền tải ma lực từ xa và điều chỉnh công suất ma lực
+0173|Evita, Viện trưởng
+0174|Chủ động quảng bá
+0175|Tôi nói chính là tiêu chuẩn
+0176|Đơn hàng lớn hơn
+0177|Kế hoạch hỗ trợ Thương hội nhỏ
+0178|Những kẻ đứng sau Rem
+0179|Tiềm năng của các Thương hội nhỏ
+0180|Xây đường cũng có lợi
+0181|Sức mạnh của công nghiệp
+0182|Hiệu ứng người nổi tiếng
+0183|Con đường sau khi tốt nghiệp
+0184|Thông xe
+0185|Nạn thiếu hụt lao động
+0186|Thép là nền tảng của công nghiệp
+0187|Quy hoạch
+0188|Tỷ lệ lỗi siêu cao
+0189|Tính kỷ luật của Tộc Elf
+0190|Kem
+0191|Công nhân Tộc Elf
+0192|Thêm hai thân phận
+0193|Kế hoạch mới của Thành phố Bontar
+0194|Vấn đề giao thông vận tải
+0195|Lốp xe
+0196|Các người có tư cách gì mà kiêu ngạo?
+0197|Động cơ
+0198|Ma pháp trận thu nhỏ
+0199|Cháu cũng muốn đi làm
+0200|Tôi cho phép, bọn họ mới được lấy
+0201|Thương hội Grett
+0202|Tên trộm hèn hạ
+0203|Chứng cứ
+0204|Cái kết của Rem và Zimiro
+0205|Bán kỹ thuật
+0206|Tự tạo ra luật sáng chế
+0207|Lốp xe
+0208|Hệ thống giao thông công cộng thành phố
+0209|Giá của một con ngựa
+0210|Hiệu quả của Tân thành
+0211|Thành phố nhỏ đổi thay
+0212|Hắn chỉ là may mắn thôi
+0213|Phong cảnh khác biệt của Thành phố Bontar
+0214|Cái gì cũng liên quan đến hắn sao?
+0215|Đệ tử của Hainas ư?
+0216|Công việc của Hứa Dịch
+0217|Thương hội Walmart cao cao tại thượng
+0218|Khu mua sắm Máy móc Ma thuật Gia dụng
+0219|Liệu có thể sống đến năm bốn mươi tuổi không?
+0220|Hiệp hội Thương mại Máy móc Ma thuật
+0221|Nguy cơ của sông Sandy
+0222|Trị ngọn cần phải trị gốc
+0223|Tôi muốn bay vào vũ trụ
+0224|Điều chỉnh cấu trúc lương
+0225|Thu nhỏ Pháp trận Bão tố
+0226|Ngươi sẽ đau lòng sao?
+0227|Thương hội Tân Phi kỳ thực không hề yếu
+0228|Bộ tộc Night Song tràn đầy “sinh khí”
+0229|Xây đường cái đến tận cửa nhà Chủng tộc Người thú
+0230|Mạch khoáng sản kim loại màu
+0231|Đầu tư xây dựng nhà máy trên lãnh địa của Người thú
+0232|Theo đuổi hiệu quả quảng cáo
+0233|Nỗi lo xa xỉ
+0234|Giao dịch với Bộ Quân sự
+0235|Khu tái định cư Orchid
+0236|Xây dựng nhà ở thương mại trên đất của Quý tộc
+0237|Quy định an toàn và nâng cấp động cơ
+0238|Phúc lợi của các Nghiên cứu viên
+0239|Cửa sổ hướng tới công chúng
+0240|Chiến lược bán hàng &quot;kích thích&quot;
+0241|Dạo phố
+0242|Ảo tưởng tuổi trẻ
+0243|Cục Hậu cần nghèo rớt mồng tơi
+0244|Cướp miếng mồi ngon
+0245|Tôi thích phiêu lưu
+0246|Kỹ thuật của người khác
+0247|Hai người ngoại quốc
+0248|Mua và bán
+0249|Cậu biết Ma thuật Cấp cao sao?
+0250|Em yêu anh mất rồi
+0251|Sự phẫn nộ của Allen
+0252|Tân hình Ma thuật Hệ Lôi có chút đặc biệt
+0253|Lệ phí bảo hộ Bằng sáng chế Ma pháp
+0254|Máy phát điện gió mini
+0255|Ba tai họa của Thành Anweimar
+0256|Kẻ Đánh Bạc
+0257|Hầu tước Jose
+0258|Tranh Đoạt Vương Vị
+0259|Đặc khu Kinh tế
+0260|Đến tận nhà xin lỗi
+0261|Công nghệ sản xuất xi măng
+0262|Kambi kháng điện
+0263|Hay là buông tay?
+0264|Xe buýt công cộng là một loại phúc lợi
+0265|Đào kênh vận chuyển
+0266|Tiệc cuối năm
+0267|Các tiểu thư Quý tộc nhiệt tình
+0268|Lời mời nửa đêm của Ludy
+0269|Chúng ta kết hôn đi!
+0270|Xe ma lực
+0271|Dấu hiệu tập kích bất ngờ
+0272|Quân đoàn Độc lập Người thú
+0273|Vấn đề thuê nhân công
+0274|Bộ tộc Shadow Moon
+0275|Ngài nhất định sẽ mang đến thay đổi
+0276|Tại sao lại nghèo như vậy?
+0277|Xưởng Sản xuất Hoa quả đóng hộp và Xưởng Chế biến Cao su
+0278|Tôi chỉ là người đưa thư
+0279|Những kẻ tham lam
+0280|Có thật là một đất nước?
+0281|Tôi cần một người đáng tin cậy
+0282|Quyết định của Bộ tộc Shadow Moon
+0283|Món quà dành tặng cho Vivian
+0284|Quyết định của Hứa Dịch
+0285|Máy Bắn Đá Ma Lực
+0286|Bộ Quân sự Nghèo Khó
+0287|Đối Tượng Kết Hôn
+0288|Nông nghiệp Công nghiệp hoá
+0289|Hội trưởng Hứa Biến Đá Thành Vàng
+0290|Công Nghệ Cộng Hưởng Pháp Trận
+0291|Nghĩ nhiều như vậy để làm gì?
+0292|Cuộc công phá kỹ thuật của tiểu thương hội
+0293|Quảng trường thành phố hoàn toàn mới
+0294|Xây dựng hình ảnh thành phố
+0295|Tham vọng của Thành phố Bontar
+0296|Đầu óc anh làm bằng đá à?
+0297|Chúng tôi cũng muốn thuê Elf
+0298|Người lùn cũng cần sĩ diện
+0299|Con cá cắn câu
+0300|Lợi thế của công nhân tộc Người thú
+0301|Vị thần mới
+0302|Chiếc xe đạp không liên quan đến Ma pháp
+0303|Kennard không thể thay thế
+0304|Tòa tháp Đại Pháp Sư biến mất
+0305|Bá tước Satsuma phải rời đi
+0306|Người Đại Diện
+0307|Lễ cưới
+0308|Rùa rụt cổ
+0309|Tái cấu trúc Thương hội
+0310|Biểu hiện lập trường
+0311|Người đại diện cho dị tộc
+0312|Elf cũng muốn mở nhà máy
+0313|Ý nghĩa của việc mở xưởng
+0314|Việc cuối cùng trước khi rời đi
+0315|Năm trăm tinh nhuệ
+0316|Trận pháp tuyến ổn cố ngoại trang
+0317|Ý tưởng về mạng lưới ma lực
+0318|Di dời toàn bộ
+0319|Yêu cầu của các thương hội nhỏ
+0320|Chiếc mũ thật lớn
+0321|Anh chọn thân phận nào?
+0322|Liên minh Thương mại danh tồn thực vong
+0323|Tôi cố ý đấy
+0324|Quyết định của Freeman
+0325|Lần đầu gặp Yanis, cô ấy rất cao ngạo
+0326|Tử tước và lãnh địa
+0327|Lưu giữ ngọn lửa (hết quyển 2)
+0328|Tình hình chiến sự đảo ngược ở biên giới
+0329|Những suy nghĩ khác biệt hai bên sườn núi
+0330|Vị Bá tước đau đầu
+0331|Diễn kịch cho Thành chủ xem
+0332|Thành phố Bontar Chìm Trong Bóng Tối
+0333|Chào mừng đến Vương quốc Rulson đầu tư
+0334|Trong Mắt Chỉ Có Lãnh Chúa
+0335|Nguồn cung cấp trang bị dồi dào
+0336|Mũi tên nhựa
+0337|Khái niệm sống mới
+0338|Trải nghiệm cuộc sống mới
+0339|Thương vụ đầu tiên của Delisle
+0340|Điểm tăng trưởng lợi nhuận mới
+0341|Đầu tư vào tộc Người thú
+0342|Công quốc Delac
+0343|Yêu cầu của Bá tước Stark
+0344|Mượn trọ
+0345|Bá tước Stark sắp không chịu đựng nổi nữa
+0346|Cái gì cũng có thể đem ra trao đổi
+0347|Xây dựng một Thành phố Bontar khác
+0348|Quyết tâm của Caroline
+0349|Kế hoạch 5 năm
+0350|Giải Đua Xe đạp Đường trường Tân Phi
+0351|Đổi chỗ gieo trồng
+0352|Niềm vui của Trưởng lão Alucia
+0353|Hành động chung
+0354|Đập tan sự phản kháng của Chủng tộc Người thú
+0355|Sự áp đảo
+0356|Đằng sau chiến quả đáng kinh ngạc
+0357|Lại đến xin xỏ lợi ích?
+0358|Di dân
+0359|Ảnh hưởng từ quyền tự do thương mại
+0360|Hay là cá cược một phen?
+0361|Những điều muốn làm
+0362|Cô gái gặp rắc rối
+0363|Chúng tôi muốn thử một chút
+0364|So sánh giữa nông dân hai nước
+0365|Cảng biển
+0366|Chẳng coi họ là công nhân chính thức
+0367|Đặc quyền
+0368|Rốt cuộc thì khi nào mới chế tạo xong được?
+0369|Bí mật của Elf
+0370|Hiện Tượng Kỳ Lạ
+0371|Lời tán dương của các Đại Pháp Sư
+0372|Việc công và việc riêng
+0373|Giao dịch
+0374|Lễ Rửa Tội Của Nguyệt Thần
+0375|Tôi Cũng Là Pháp Sư
+0376|Máy thử nghiệm
+0377|Kỹ thuật hàn ma lực
+0378|Một Ev
+0379|Nghi ngờ về lý tưởng
+0380|Dự án Kênh đào được khởi động lại
+0381|Những người đón Tết xa nhà
+0382|Quyết tâm của Tử tước Leslie
+0383|Phân bón
+0384|Lại muốn đổi Thành chủ?
+0385|Sao cứ phải trồng trọt?
+0386|Rời đi

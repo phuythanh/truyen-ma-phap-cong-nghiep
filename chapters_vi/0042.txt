@@ -1,0 +1,56 @@
+Hạn chế về nguyên liệu
+
+Khi Hứa Dịch bước vào xưởng sản xuất và nghiên cứu máy móc ma thuật, cả trăm người lùn trong xưởng đều đang miệt mài làm việc.
+Cả trăm người lùn này hiện đang đảm nhiệm những công việc khác nhau, một bộ phận tiếp tục sản xuất máy mài răng ma thuật và năm loại máy móc ma thuật cần thiết cho việc sản xuất quạt ma thuật, một bộ phận khác chịu trách nhiệm nghiên cứu chế tạo loại máy móc ma thuật mới mà Hứa Dịch giao cho.
+Giai đoạn này, trọng tâm nghiên cứu là máy gặt ma thuật.
+Sau cuộc trò chuyện với Tử tước Leslie lần trước, Hứa Dịch tin chắc rằng triển vọng của máy móc nông nghiệp ở Lục địa Saiens là rất lớn, vì vậy sau khi trở về, anh đã bắt tay vào nghiên cứu.
+Vì sắp đến mùa thu hoạch, Hứa Dịch nhắm đến mục tiêu đầu tiên là máy gặt cỡ nhỏ dùng trong nông nghiệp.
+Nghiên cứu này được chia thành hai hướng đồng thời, một mặt là Hứa Dịch và Stella cùng nhau nghiên cứu về phương diện pháp trận đại diện cho động lực truyền động của máy gặt, mặt khác là những người lùn này chịu trách nhiệm về kết cấu cơ khí bên ngoài của máy gặt.
+Trong đó, công việc của Hứa Dịch là quan trọng nhất, anh phải kết hợp hoàn hảo động lực của pháp trận với toàn bộ máy gặt, và để làm được điều này, cần phải có rất nhiều dữ liệu thực nghiệm hỗ trợ, vì vậy những ngày này anh gần như ngày nào cũng chạy đi chạy lại giữa xưởng sản xuất ở ngoại thành và viện nghiên cứu trong Thành phố Bontar.
+Tất nhiên, sự chăm chỉ đã được đền đáp, sau một thời gian nghiên cứu, chiếc máy gặt ma thuật cỡ nhỏ đã bắt đầu thành hình, hiện đang ở trong xưởng này, những người lùn phụ trách nghiên cứu loại máy móc ma thuật mới đã chế tạo ra một chiếc máy gặt ma thuật có hình dáng gần giống với máy gặt trên Trái Đất, đang không ngừng được điều chỉnh.
+Thấy Hứa Dịch đến, người lùn Kambi được Hứa Dịch bổ nhiệm làm quản đốc xưởng đi tới.
+"Này, Hứa... à không, Hội trưởng, anh lại đến xem tình hình máy gặt ma thuật à?" Kambi giơ cánh tay ngắn mập chào Hứa Dịch.
+"Thôi nào, Kambi, cứ gọi tên tôi là được." Hứa Dịch mỉm cười gật đầu."Đúng rồi. Anh không thấy lúa trên cánh đồng của Tử tước đại nhân đã bắt đầu ngả vàng rồi sao? Xem ra chưa đầy một tháng nữa là đến mùa thu hoạch rồi. Nếu chúng ta không nhanh chóng chế tạo xong máy gặt ma thuật trước khi lúa chín thì ít nhất cũng phải đợi thêm nửa năm nữa."
+"Yên tâm đi, mấy ngày nay anh em cũng đang tăng ca làm việc chăm chỉ. Anh xem, thứ này thực ra đã làm xong rồi, chỉ là luôn có một số vấn đề nhỏ phát sinh, nếu không thì có thể đưa xuống ruộng luôn rồi."
+"Bây giờ phát hiện ra vấn đề còn hơn là sau này khi sử dụng mới phát sinh vấn đề."
+Hứa Dịch cùng Kambi đi đến bên cạnh những người lùn đang điều chỉnh máy gặt ma thuật, cẩn thận hỏi han một phen, phát hiện ra vấn đề họ gặp phải hiện tại là máy chạy tốc độ cao một thời gian thì sẽ xuất hiện tình trạng vận hành không trơn tru rõ rệt.
+Không cần kiểm tra, Hứa Dịch cũng biết, nhất định là do ổ trục bị hỏng.
+Quả như dự đoán, mở ra xem, trục động lực của máy gặt ma thuật xuất hiện rõ ràng sự mài mòn, dẫn đến bề mặt trục quay xuất hiện tình trạng lồi lõm không bằng phẳng, đương nhiên sẽ ảnh hưởng đến sự vận hành.
+Hứa Dịch thực sự rất bất lực về điều này, bởi vì đây hoàn toàn là do vấn đề vật liệu của ổ trục gây ra.
+Do hạn chế về kỹ thuật luyện kim hiện tại trên Lục địa Saiens, hiện tại vẫn chưa xuất hiện loại thép hợp kim vừa có khả năng chống mài mòn vừa có khả năng chịu kéo giãn phù hợp để chế tạo ổ trục.
+Cho dù là gang trắng hay gang xám, dùng để chế tạo loại ổ trục cần phải ma sát quay tốc độ cao liên tục này đều sẽ tỏ ra không đủ.
+Mặc dù quạt ma thuật trước đây cũng cần ổ trục tốc độ cao, nhưng vì công suất đầu ra của quạt ma thuật không lớn, áp lực tạo ra cũng không lớn, nên dùng ổ trục bằng sắt đơn giản vẫn có thể ứng phó được, nhưng thay vào máy gặt ma thuật cần động lực mạnh hơn thì rất dễ xảy ra vấn đề.
+Vấn đề vật liệu Hứa Dịch tạm thời không thể giải quyết, anh suy nghĩ kỹ một hồi, chỉ có thể áp dụng một phương án dung hòa, để những người lùn bổ sung thêm một con lăn bi bằng sắt vào giữa ổ trục, như vậy có thể giảm ma sát một cách hiệu quả, giúp kéo dài tuổi thọ của ổ trục.
+Tất nhiên, điều này cũng sẽ khiến động lực đầu ra bị suy giảm tương đối, vì vậy Hứa Dịch buộc phải xem xét lại phương án sửa đổi pháp trận, để đảm bảo pháp trận có thể xuất ra đủ động lực.
+"Haiz, nói đi nói lại, vẫn là hệ thống công nghiệp trên lục địa này quá đơn điệu. Nếu như trên Trái Đất, chỉ riêng vật liệu thép hợp kim đã có hơn chục loại để lựa chọn, thì cần gì phải phiền phức như vậy?" Nhìn những người lùn vì một sửa đổi nhỏ của mình mà lại bắt đầu bận rộn, Hứa Dịch không khỏi lắc đầu than thầm trong lòng.
+Nghĩ đến đây, Hứa Dịch tự nhiên nghĩ đến phòng nghiên cứu vật liệu mà anh đã lập ra ở Bộ lạc Người lùn.
+Mặc dù lúc đó anh hứa hẹn chi phí nghiên cứu năm trăm đồng vàng một tháng phần lớn là để có được một trăm bậc thầy rèn người lùn này, nhưng trong lòng anh vẫn le lói một tia hy vọng.
+Nếu những người lùn của Bộ lạc Người lùn thực sự có thể đạt được đột phá trong nghiên cứu vật liệu, thì việc đầu tư năm trăm đồng vàng mỗi tháng này là quá đáng giá.
+Tất nhiên, là một chuyên gia kỹ thuật cơ khí, Hứa Dịch biết rất rõ rằng nghiên cứu vật liệu không có chút mánh khóe nào, chỉ có thể từng bước một cải tiến, căn bản là không thể nóng vội.
+"Thôi vậy, cái gọi là kỹ sư cơ khí, vốn dĩ là để giải quyết những vấn đề này. Hoàn thành nhiệm vụ trong điều kiện có hạn chế, mới là ý nghĩa tồn tại của những người như tôi." Nghĩ đến đây, Hứa Dịch theo thói quen tự cổ vũ bản thân trong lòng.
+Ngay sau đó, anh lại nghĩ, vì sửa đổi nhỏ này, anh phải sửa đổi pháp trận cho phù hợp. Mà vừa nghĩ đến việc sửa đổi pháp trận, Hứa Dịch liền tự nhiên nghĩ đến hai cô gái đang ở trong văn phòng lúc này.
+"Hỏng rồi, mải mê với công việc ở đây, suýt chút nữa thì quên mất hai người họ." Hứa Dịch vỗ đùi, kéo Kambi lại dặn dò vài câu, vội vàng rời khỏi xưởng, trở về văn phòng.
+"Xin lỗi, tôi có việc bận..." Hứa Dịch đẩy cửa văn phòng, định nói lời xin lỗi, nhưng đột nhiên nhìn thấy Akali và Evita đều đang gục đầu trên bàn, tập trung tinh thần nghiên cứu sửa đổi bản vẽ pháp trận trước mặt, liền lập tức dừng lời.
+Mãi đến khi Hứa Dịch đứng ở cửa một lúc lâu, Akali có lẽ hơi mệt, liền duỗi người một cái, sau đó mới phát hiện ra Hứa Dịch.
+"Ơ? Hội trưởng, khi nào thì anh về vậy?" Akali ngạc nhiên hỏi.
+Nghe Akali nói vậy, Evita cũng giật mình, quay đầu nhìn Hứa Dịch.
+Hứa Dịch mỉm cười: "Mới về được một lúc, nhưng thấy hai người đều đang tập trung như vậy nên tôi không muốn làm phiền."
+"Có gì mà làm phiền chứ." Akali giơ nắm tay nhỏ gõ gõ đầu, than thở: "Hội trưởng, những bản vẽ anh đưa cho chúng tôi thực sự rất rắc rối, tôi và Evita đã suy nghĩ rất lâu mà vẫn chưa hoàn thành được cái nào. Anh có thấy chúng tôi quá ngốc, đến những vấn đề này cũng không giải quyết được không?"
+"Sao có thể như vậy được." Hứa Dịch cười ha hả."Nói thật với hai người nhé, những vấn đề này lúc trước tôi cũng phải mất mấy ngày mới giải quyết được, nếu hai người có thể giải quyết hết trong thời gian ngắn như vậy, tin hay không thì tôi sẽ giữ hai người lại cho dù phải trả lương một trăm đồng vàng một tháng?"
+Akali không nhịn được liếc Hứa Dịch một cái: "Anh biết rõ là chúng tôi không làm được, còn cố ý nói mức lương cao như vậy để trêu ngươi chúng tôi."
+Evita lại chú ý đến một việc khác: "Hội trưởng, ý của anh là những bản vẽ này thực ra là những vấn đề mà anh đã giải quyết rồi? Vậy... có thể cho tôi xem phương án giải quyết không?"
+Hứa Dịch lắc đầu: "Điều này e rằng không được, bởi vì phương án giải quyết cuối cùng hiện tại có thể coi là bí mật của Thương hội chúng tôi, không dễ gì cho người khác xem."
+Evita thất vọng ồ một tiếng, cúi đầu xuống.
+"Tất nhiên, nếu hai người chính thức gia nhập Thương hội của chúng tôi, thì những bí mật này đối với hai người cũng không còn là bí mật nữa." Hứa Dịch lại cười nói.
+Akali ủ rũ nói: "Hội trưởng, những bản vẽ anh đưa khó như vậy, bây giờ có lẽ chúng tôi muốn gia nhập Thương hội của anh, anh cũng sẽ không cần chúng tôi nữa đâu nhỉ?"
+"Chưa chắc." Hứa Dịch mỉm cười lắc đầu."Có thể cho tôi xem hướng giải quyết của hai người trước được không?"
+Nhận lấy bản vẽ mà hai người đưa cho, Hứa Dịch nghiêm túc xem một lúc, không khỏi hài lòng gật đầu.
+Mặc dù hai người họ không đưa ra được phương án giải quyết hoàn chỉnh, nhưng từ những suy nghĩ mà họ để lại trên những bản vẽ này, Hứa Dịch hoàn toàn có thể nhìn ra họ quả thực xứng đáng là sinh viên tốt nghiệp của Học viện Hoàng gia Lanpari, hiểu biết rất rõ về pháp trận, hướng suy nghĩ và phương án thử nghiệm giải quyết cũng đã đạt đến trình độ khá cao, thậm chí rất gần với phương án giải quyết cuối cùng mà Hứa Dịch nghiên cứu ra.
+Hơn nữa, từ hướng suy nghĩ của hai người, cũng có thể thấy được tính cách của hai người quả thực có sự khác biệt.
+So sánh ra, suy nghĩ của Akali hoạt bát hơn, cũng phóng khoáng hơn, trong phương án có một số ý tưởng rất táo bạo, thậm chí có thể gọi là kỳ quái.
+Còn Evita thì có phần cứng nhắc hơn một chút, nhưng có thể thấy được cơ bản của cô ấy rất vững chắc, mỗi bước trong hướng giải quyết đều có cơ sở vững chắc, bố cục tổng thể gần như hoàn mỹ.
+Nếu cho Evita đủ thời gian, tin rằng cuối cùng cô ấy sẽ đưa ra được một phương án khả thi.
+Xem xong những bản vẽ này, tâm trạng Hứa Dịch vô cùng vui vẻ.
+Hai người bạn học của Stella này tuy không phải là Pháp sư có thực lực mạnh mẽ gì, nhưng đúng như Stella đã nói, hai người họ đủ khả năng đảm nhiệm công việc hiện tại của Viện nghiên cứu.
+Nếu có họ gia nhập, cộng thêm Stella nữa, Hứa Dịch sẽ có thêm ba trợ thủ đắc lực, chắc chắn sẽ nâng cao đáng kể hiệu quả nghiên cứu pháp trận của anh.
+Nghĩ đến đây, Hứa Dịch đặt những bản vẽ này xuống, nhìn vào ánh mắt mong chờ của hai người, nở một nụ cười rạng rỡ, nói: "Tôi phải nói rằng, hai người đều rất xuất sắc, hoàn toàn phù hợp với yêu cầu công việc của Viện nghiên cứu Pháp thuật Thương hội Tân Phi của chúng tôi. Bây giờ tôi muốn nghiêm túc hỏi hai người một câu. Xin hỏi hai người, có nguyện ý gia nhập Thương hội Tân Phi của chúng tôi không?"

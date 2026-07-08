@@ -1,0 +1,64 @@
+Truyền tải ma lực từ xa và điều chỉnh công suất ma lực
+
+Trong quá trình nghiên cứu chế tạo các loại Máy móc Ma thuật Gia dụng, Hứa Dịch đã sử dụng Pháp trận thay thế cho nguồn điện để vận hành, nhờ đó những Máy móc Ma thuật này có thể mô phỏng hoàn hảo các chức năng của những thiết bị gia dụng trên Trái Đất.
+Nguồn động lực chính là Tinh thể Ma lực, cung cấp ma lực cho Pháp trận.
+Trong hầu hết trường hợp, ý tưởng này không gặp phải trở ngại nào, Tinh thể Ma lực cung cấp ma lực cần thiết cho Pháp trận, sau đó tạo ra Ma pháp tương ứng để tạo ra các chức năng khác nhau.
+Tuy nhiên, khi nghiên cứu chế tạo Đèn Ma thuật, Hứa Dịch đã gặp phải một vấn đề.
+Ban đầu khi Hứa Dịch muốn phát triển Đèn Ma thuật, anh đã tưởng tượng nó giống như những chiếc đèn điện trên Trái Đất, được treo trên trần nhà để chiếu sáng cả căn phòng, nhưng vì Tinh thể Ma lực và Pháp trận phải được kết nối với thiết bị Đèn Ma thuật, nên nếu Đèn Ma thuật được treo trên trần nhà, việc bố trí công tắc sẽ rất khó khăn.
+Hãy thử tưởng tượng, mỗi khi muốn bật Đèn Ma thuật trên trần nhà, bạn phải bắc một chiếc thang để nhấn công tắc ở trên cao, và khi muốn tắt nó cũng phải làm như vậy, thật là một điều phiền phức.
+Sở dĩ sảnh tiệc của Phủ Thành chủ có thể treo nhiều Đèn Ma thuật đặc biệt như vậy trên trần và tường là vì yêu cầu đặc biệt của Thành chủ, hơn nữa Phủ Thành chủ cũng có đủ người hầu để làm những việc phiền phức này.
+Nhưng nếu là một gia đình bình thường, ai sẽ có đủ kiên nhẫn để leo lên leo xuống mỗi ngày chỉ để bật tắt một chiếc Đèn Ma thuật?
+Không còn cách nào khác, những chiếc đèn chùm và đèn tường kỳ dị mà Hứa Dịch tưởng tượng ban đầu cuối cùng chỉ có thể trở thành một chiếc Đèn bàn Ma thuật đơn giản.
+Mặc dù doanh số bán Đèn bàn Ma thuật cực kỳ khả quan, vượt xa mong đợi của Hứa Dịch, nhưng yếu tố quyết định chính là thiết kế ngoại hình tinh xảo của nó, không liên quan gì đến thiết kế thủ công cơ khí mà Hứa Dịch coi trọng nhất.
+Sau đó, Hứa Dịch đã yêu cầu Akali và Evita bắt đầu nghiên cứu về cách thức truyền tải ma lực từ xa từ Tinh thể Ma lực đến Pháp trận.
+Hứa Dịch cho rằng chủ đề này rất phức tạp, và có thể sẽ giống như chủ đề lập trình Pháp trận mà Sanchez đang nghiên cứu, sẽ không có kết quả trong một thời gian dài, nhưng không ngờ rằng chỉ sau vài tháng, họ đã cho anh thấy kết quả nghiên cứu rõ rệt như vậy!
+Nghĩ đến những thay đổi và khả năng mà việc giải quyết vấn đề này có thể mang lại, Hứa Dịch kích động đến mức giọng nói run rẩy, nắm lấy vai Akali và hỏi: "Nói cho ta biết, có thật không? Hai người thật sự đã giải quyết được vấn đề nan giải này rồi sao?"
+"Hội trưởng, ngài làm tôi đau đấy." Akali cau mày, cố gắng gỡ tay Hứa Dịch đang nắm chặt vai mình ra."Không chỉ vậy đâu, ngài xem tiếp đi."
+"Còn gì nữa? Chẳng lẽ còn có phát hiện nào quan trọng hơn cả việc giải quyết vấn đề nan giải này sao?" Hứa Dịch kinh ngạc hỏi.
+"Xem là biết ngay." Akali cười đắc ý với Hứa Dịch, quay đầu hét lớn ra ngoài: "Evita, có thể bắt đầu thí nghiệm thứ hai rồi!"
+Sau đó, Akali chỉ tay lên chiếc đèn chùm Ma thuật do chính tay Evita thiết kế và chế tạo.
+Hứa Dịch khó hiểu ngẩng đầu nhìn chằm chằm vào chiếc đèn chùm Ma thuật, tự nhủ thứ này vừa rồi đã chứng minh cho mình thấy Evita và những người khác đã giải quyết được vấn đề truyền tải ma lực từ xa, chẳng lẽ còn có thể tạo ra trò mới nào nữa sao?
+Ý nghĩ vừa lóe lên trong đầu, Hứa Dịch bỗng phát hiện ánh sáng của chiếc đèn chùm Ma thuật dường như yếu hơn một chút so với ban nãy.
+Nhìn kỹ lại, phát hiện đây không phải là ảo giác.
+Ánh sáng trắng chói mắt phát ra từ đèn chùm Ma thuật dần dần yếu đi dưới ánh mắt của Hứa Dịch, không lâu sau, ánh sáng ban đầu có thể chiếu sáng cả căn phòng, vậy mà trở nên cực kỳ yếu ớt, chỉ có thể phát ra chút ánh sáng le lói trong bóng tối như một con đom đóm.
+Thấy chiếc Đèn Ma thuật sắp tắt hẳn, ánh sáng lại bắt đầu dần sáng lên, không lâu sau đã trở lại độ sáng ban đầu.
+Thấy ánh sáng lại bắt đầu yếu đi, Hứa Dịch bỗng hét lớn: "Dừng lại!"
+Sự thay đổi độ sáng của Đèn Ma thuật ngay lập tức dừng lại, Hứa Dịch suy nghĩ một chút, rồi lại hét lớn: "Evita, thử cho nó sáng hơn một chút xem."
+Evita không biết đang trốn ở đâu bên ngoài bèn đáp lại một tiếng trong trẻo, ánh sáng của Đèn Ma thuật quả nhiên lại sáng hơn một chút.
+Ngẩng đầu nhìn chiếc đèn chùm Ma thuật trên trần nhà một lúc, Hứa Dịch cúi đầu nhìn chằm chằm Akali và hỏi: "Akali, ngoài việc giải quyết vấn đề truyền tải ma lực từ xa, các cô còn giải quyết được cả vấn đề điều chỉnh công suất ma lực truyền vào sao?"
+Nụ cười trên mặt Akali càng thêm đắc ý, cười híp mắt nói: "Hội trưởng, ngài đoán xem?"
+"Trả lời ta!" Hứa Dịch bỗng gầm lên.
+Tất cả mọi người đều giật mình, Akali càng hoảng sợ hơn, đưa tay ôm ngực, ngạc nhiên nhìn Hứa Dịch: "Hội trưởng, ngài... ngài sao vậy? Đúng vậy, chúng tôi đã giải quyết được vấn đề điều chỉnh công suất ma lực truyền vào, sao vậy? Chẳng lẽ ngài không vui sao?"
+Hứa Dịch nhìn chằm chằm Akali, khiến Akali sởn gai ốc, thậm chí còn lùi lại một bước, nhưng một lúc sau, anh bỗng phá lên cười ha hả, sải bước đến trước mặt Akali, trước ánh mắt kinh ngạc của mọi người, ôm chầm lấy Akali.
+"Vui chứ! Ta vui quá đi mất! Ha ha, tốt quá! Tốt quá! Giải quyết được hai vấn đề này, lý tưởng của ta thật sự có thể thực hiện rồi!" Hứa Dịch kích động đến mức nói năng lộn xộn, vừa lớn tiếng giải tỏa, vừa vỗ mạnh vào lưng Akali."Akali, ta thật sự rất cảm ơn cô! Cô quả nhiên là một Cỗ máy Ma thuật sư xuất sắc, ta nhất định phải thưởng cho cô thật hậu hĩnh!"
+Nói xong, Hứa Dịch buông Akali đang cứng đờ người ra, quay người, ôm chầm lấy Bella đang đứng ngây người bên cạnh, cũng vỗ mạnh vào lưng cô nàng vài cái, khen ngợi vài câu, sau đó quay sang những người khác.
+Đi một vòng như vậy, Hứa Dịch thậm chí còn không bỏ qua Shuchi, người luôn tỏ thái độ lạnh nhạt với anh, ôm tất cả mọi người một cách nhiệt tình.
+Tuy nhiên, sau khi ôm người cuối cùng là Cecilia, nhìn thấy Evita vừa bước vào, Hứa Dịch vừa định xông tới thì bị Evita giơ tay ngăn lại.
+"Hội trưởng, xin ngài bình tĩnh lại, hãy nghĩ đến cảm xúc của Stella." Evita bình tĩnh nói.
+Nghe thấy ba chữ "Stella", Hứa Dịch sững người, lập tức như bị dội một gáo nước lạnh từ đầu xuống chân, lập tức lấy lại bình tĩnh.
+"A... phải rồi, là ta quá kích động, xin lỗi." Hứa Dịch cười gượng gạo với Evita, quay đầu lại xin lỗi Akali, Bella, Cecilia và Claire.
+Còn về hai chàng trai, đương nhiên là bị loại trừ.
+Mặc dù bốn cô gái đều đỏ mặt, nhưng rõ ràng là không để bụng lắm.
+Bella thậm chí còn dang hai tay về phía Hứa Dịch và cười nói: "Hội trưởng, đến đây, chúng ta ôm thêm cái nữa, tôi thấy được ngài ôm rất thoải mái."
+Claire bèn liếc cô nàng: "Thôi đi, đừng có mê trai nữa, Hội trưởng có Stella rồi, sẽ không để ý đến cô đâu."
+Bella cười nói: "Tôi chỉ muốn được Hội trưởng ôm thôi mà, không có ý gì khác."
+Hứa Dịch lắc đầu bật cười: "Thôi nào, đừng trêu tôi nữa. Vừa rồi là tôi hơi quá khích, kết quả là hơi thất thố."
+"Hội trưởng, tại sao giải quyết được hai vấn đề này, ngài lại vui như vậy?" Bella tò mò hỏi."Trước đó chúng ta đã nghiên cứu thành công Máy làm bánh mì Ma thuật, bán được rất nhiều, cũng không thấy ngài như vậy."
+"Đúng vậy, trong ấn tượng của tôi, ngài luôn rất điềm tĩnh, chưa bao giờ thất thố như vậy, hôm nay là thế nào vậy? Tôi thấy hai vấn đề này cũng không phải là vấn đề gì quá to tát." Claire cũng nói.
+"Đó là vì các cô chưa hiểu được ý nghĩa to lớn của việc giải quyết hai vấn đề này." Hứa Dịch mỉm cười."Nói như vậy đi, một khi hai vấn đề cơ bản và quan trọng nhất này được giải quyết, toàn bộ Công nghiệp Ma thuật trên Lục địa Saiens sẽ thay đổi. Và một khi nghiên cứu sâu hơn về vấn đề này, ta dám đảm bảo rằng các cô sẽ thấy cuộc sống của tất cả mọi người sẽ thay đổi long trời lở đất!"
+"Có khoa trương như vậy không?" Akali, người đã đỏ mặt im lặng từ nãy đến giờ sau khi bị Hứa Dịch ôm, lúc này mới trở lại bình thường, ngạc nhiên hỏi."Hội trưởng, ngài có phải là đang phóng đại quá rồi không?"
+"Có phóng đại hay không, sau này các cô sẽ biết."
+Hứa Dịch biết rằng việc khiến họ hiểu được cảnh tượng mà mình mô tả là điều không thể, bởi vì suy cho cùng họ không giống như anh, xuyên không từ Trái Đất đến đây, đã từng sống trong xã hội hiện đại hóa công nghiệp.
+Vì vậy, anh không giải thích thêm nữa, mà trầm ngâm một lúc, cười vỗ tay và nói lớn: "Được rồi, vì Viện Nghiên cứu Ma thuật đã đạt được bước đột phá lớn trong nghiên cứu lần này, với tư cách là Hội trưởng, ta thay mặt Thương hội trao tặng Viện Nghiên cứu Ma thuật một phần thưởng đặc biệt. Còn về số tiền thưởng..."
+Tất cả mọi người, bao gồm cả Evita và Cecilia, đều vểnh tai lên nghe.
+Họ không hiểu ý nghĩa to lớn của việc giải quyết hai vấn đề này, nhưng họ đương nhiên hiểu được phần thưởng.
+Nhìn từ sự phấn khích của Hứa Dịch, số tiền thưởng đặc biệt lần này chắc chắn sẽ không thấp.
+Ánh mắt Hứa Dịch lướt qua khuôn mặt đầy mong đợi của mọi người, cố ý úp mở, dừng một chút, rồi mới lại cao giọng nói tiếp: "Năm nghìn đồng vàng!"
+Vừa dứt lời, căn phòng lập tức chìm vào im lặng, chỉ nghe thấy tiếng hít thở dồn dập.
+Một lúc sau, Bella mới nuốt nước miếng, khó khăn hỏi: "Hội... Hội trưởng, ngài... không lừa chúng tôi chứ?"
+"Ta lừa các cô làm gì?" Hứa Dịch cười nói:
+"Vậy... ngài thật sự định thưởng cho chúng tôi năm nghìn đồng vàng một lần sao?" Claire không chắc chắn hỏi.
+"Đương nhiên, từ khi nào mà ta nói mà không giữ lời?"
+Cecilia há miệng, nhưng cuối cùng lại không hỏi.
+Akali thì reo lên một tiếng, chạy đến bên cạnh Hứa Dịch, ôm chầm lấy cánh tay trái của anh, lắc mạnh, phấn khích nói: "Tôi biết ngay là Hội trưởng tốt nhất mà! Ha ha, tốt quá tốt quá! Tổng cộng năm nghìn đồng vàng, cho dù chia đều, mỗi người cũng được mấy trăm đồng vàng. Tôi muốn dùng số tiền này mua cho mình thật nhiều quần áo mới, còn muốn mua..."
+Nhìn Akali đang vô cùng phấn khích, Hứa Dịch lắc đầu, cẩn thận rút tay ra, vừa định lên tiếng thì Shuchi đột nhiên lạnh lùng nói: "Tôi không cần. Hai nghiên cứu này tôi đều không tham gia, tiền này không có phần của tôi."
