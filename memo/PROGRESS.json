@@ -1,0 +1,12 @@
+{
+  "note": "Chương dịch N (epub mới, bắt đầu 387) = chapters_zh\\{N+5:D4}.txt. Epub cũ dừng ở Chương 386 = zh 0391.",
+  "offset_zh_minus_vi": 5,
+  "first_new_chapter_vi": 387,
+  "first_new_chapter_zh_file": "0392",
+  "last_zh_file": "1280",
+  "last_done_vi": 386,
+  "translated": [],
+  "failed": [],
+  "glossary_pending": [],
+  "output_epub": "Ma Phap Cong Nghiep De Quoc_v2.epub"
+}
