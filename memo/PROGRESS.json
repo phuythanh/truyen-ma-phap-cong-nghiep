@@ -4,13 +4,14 @@
   "first_new_chapter_vi": 387,
   "first_new_chapter_zh_file": "0392",
   "last_zh_file": "1280",
-  "last_done_vi": 389,
-  "translated": [387, 388, 389],
+  "last_done_vi": 399,
+  "translated": [387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399],
   "failed": [],
   "glossary_pending": [],
   "review_notes": [
-    "387-389: đã đồng bộ thuật ngữ (Vương nữ, hệ Phong, Liên minh TM Ireland, Kovacs, Freeman, Hãng xe ngựa Filson) ngày 2026-07-08. Chờ user duyệt văn phong trước khi chạy đại trà."
+    "387-389: đã đồng bộ thuật ngữ (Vương nữ, hệ Phong, Liên minh TM Ireland, Kovacs, Freeman, Hãng xe ngựa Filson) ngày 2026-07-08. Chờ user duyệt văn phong trước khi chạy đại trà.",
+    "390-399 (Haiku 4.5, 2026-07-09): 2 agent x 5 chương. Đã vá chữ Trung sót (Kanbi/xuyên việt/ngự phong) + chuẩn hóa Avita->Evita, A Ka Li->Akali theo GLOSSARY. Bổ sung 10 tên mới vào GLOSSARY. LƯU Ý: văn Haiku ch393-394 hơi sượng/lủng củng vài đoạn — nếu user thấy không đạt thì cân nhắc chuyển Sonnet."
   ],
-  "next_action": "User duyệt 3 chương thử → chạy đại trà từ chương 390 (zh 0395), batch 5-10 chương song song/đợt, cập nhật ROLLING_SUMMARY mỗi 10 chương",
+  "next_action": "Chạy tiếp từ chương 400 (zh 0405), batch 5 chương/agent, cập nhật ROLLING_SUMMARY mỗi đợt",
   "output_epub": "Ma Phap Cong Nghiep De Quoc_v2.epub"
 }

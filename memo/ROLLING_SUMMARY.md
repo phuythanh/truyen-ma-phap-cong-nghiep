@@ -1,16 +1,19 @@
 # ROLLING SUMMARY — cập nhật sau mỗi batch dịch
-*Cập nhật đến hết Chương 389 (= zh 0394). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+*Cập nhật đến hết Chương 399 (= zh 0404). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
 
-## Chương vừa dịch (387–389)
-Hứa Dịch né khéo câu hỏi của Bá tước Stark về Hoàng tử Aerick (không tỏ thái độ — bất kính là đại kỵ). Sau đó anh đưa Hội trưởng Pompeii (Hãng xe ngựa Filson) đi xem khu biệt thự thương mại "Nước Biếc Trời Xanh" của Thương hội Amli — dấu hiệu một tầng lớp trung lưu mới hình thành ở Bontar (công nhân lành nghề, quản lý, pháp sư hạ cấp có lương cao). Hé lộ: chính Hứa Dịch ngầm "nuôi" Liên minh Thương mại Ireland (Kovacs, Freeman) làm đối trọng thị trường.
-Tại Thung lũng Rainfall, Hứa Dịch cho Cruz và Pompeii xem chạy thử **xe máy ma lực** đời đầu (động cơ ma lực hệ Phong, lực kéo ~6 ngựa, 35 km/h không tải, chở 1 tấn vẫn >30 km/h) — cả hai choáng, Pompeii lập tức đòi mua thay đội xe ngựa, đề nghị Hứa Dịch ra giá. Hứa Dịch vẽ đường cho Filson chuyển thành thương hội vận tải **logistics** chuyên nghiệp, và nhờ Vương nữ Cervini trình Nghị viện Vương quốc quy định tài xế phải có **bằng lái** do Tân Phi cấp (chuẩn mực do mình đặt = quyền lực ngành).
-Cảnh phụ ch.389: thị dân thất nghiệp Mercado ra bến xe Filson đi Khu công nghiệp Sancton tìm việc (dân Bontar phấn khởi vì Stark sắp rời nhiệm, thương hội đang quay lại) — chương kết bằng cliffhanger: đám đông sững người nhìn chiếc xe buýt vừa tới (nhiều khả năng là xe buýt ma lực mới thay xe ngựa).
+## Chương vừa dịch (390–399)
+- **390–392 (Xe/Taxi ma lực):** Hứa Dịch giới thiệu dòng xe khách ma lực loại trung + xe taxi. Mercado tìm cơ hội mua taxi ma lực → được đưa tới Pompeii (Hãng xe ngựa Filson). Hứa Dịch họp ba Chủ tịch thương hội lớn bàn việc bán máy móc ma lực nhưng giữ thái độ dè dặt, giải thích tại sao chưa công khai bán rộng rãi (kiểm soát công nghệ + tiêu chuẩn).
+- **393–394 (Gián điệp công nghệ):** Phát hiện công nghệ khớp nối pháp trận trục lực (đã nộp bằng sáng chế, không hề chuyển giao) lại xuất hiện trên máy quạt ma lực của **Thương hội Ma lực An Khoa** → lộ có nội thần rò rỉ. Kennard xác nhận, Hứa Dịch nghi ngờ nội thần tên **Rem**. Avita mang tới **mô hình tàu bay ma thuật** (dùng pháp trận ngự phong + kỹ thuật cộng hưởng cùng tần số của A Ka Li để điều khiển từ xa).
+- **395–396 (Viện nghiên cứu & nhà máy Elf):** Hứa Dịch phê duyệt dự án phi thuyền ma thuật của Avita/Evita, cảnh báo về bảo mật trong Viện nghiên cứu, giao xây nhà máy tinh luyện tinh thể ma lực. Chỉ bảo **Amroid** (Elf, quản lý nhà máy Nightsong) nâng hiệu suất; gọi Heinze hỗ trợ cải tiến quản lý.
+- **397–399 (Kế vị & Thành chủ):** **Stella có thai** — Hứa Dịch, Yanis, Alucia tranh luận việc Stella có nên tiếp tục làm việc. Quốc vương cho **Aerick** và **Vương nữ Cervini** thử sức làm Thành chủ để chọn người thừa kế: Cervini nhận chức **Thành chủ Bontar** (thay Stark), Aerick nhận **Thành chủ Roleng**. Hoàng tử **Mihm** bị bỏ qua trong lặng lẽ.
 
-## Trạng thái nối tiếp cho chương 390 (= zh 0395)
-- Pompeii đang chờ báo giá xe máy ma lực; thương vụ logistics Filson ↔ Tân Phi đang mở.
-- Đề xuất "bằng lái" đã gửi Vương nữ Cervini → Nghị viện Vương quốc, chưa có kết quả.
-- Mạch cũ vẫn treo: Leslie cạn lương thảo ở Dãy núi Murto chờ Hứa Dịch cứu; Bontar sắp có Thành chủ mới; gián điệp Allen/Anko đang chạy ngầm; sách "Ma Lực Tiêu Chuẩn Hóa" sắp xuất bản.
-- Xưng hô lưu ý: Cruz & Pompeii ↔ Hứa Dịch: "ngài/anh – tôi", họ gọi nhau "Hội trưởng X".
+## Trạng thái nối tiếp cho chương 400 (= zh 0405)
+- Điều tra nội thần Rem (rò rỉ công nghệ pháp trận trục lực cho Thương hội Ma lực An Khoa) đang mở.
+- Dự án tàu bay ma thuật / phi thuyền của Avita mới khởi động; nhà máy tinh luyện tinh thể ma lực sắp xây.
+- Cervini vừa nhậm chức Thành chủ Bontar, Bontar sôi động trở lại; Aerick sang Roleng.
+- Stella mang thai — mạch gia đình/kế thừa của Hứa Dịch mở ra.
+- Mạch cũ còn treo: Leslie cạn lương thảo ở Dãy núi Murto; sách "Ma Lực Tiêu Chuẩn Hóa" sắp xuất bản; thương vụ logistics Filson ↔ Tân Phi.
+- Xưng hô: Cruz & Pompeii ↔ Hứa Dịch: "ngài/anh – tôi", gọi nhau "Hội trưởng X".
 
-## Quy tắc mới chốt (đã vào GLOSSARY)
-公主 = Vương nữ (không phải Công chúa); 风系 = hệ Phong; 爱尔兰联合商会 = Liên minh Thương mại Ireland; 费里曼 = Freeman; 考瓦奇 = Kovacs; 菲尔逊车马行 = Hãng xe ngựa Filson.
+## Quy tắc/tên mới (đã vào GLOSSARY)
+Lanko (兰科, CT Thương hội Salank); Vincent (文森特, CT Thương hội Armani); Thương hội Salank (萨兰克商会); thành Krammya (克拉玛依城); Thương hội Ma lực An Khoa (安科魔力商会, đối thủ); Kỹ thuật pháp trận cộng hưởng cùng tần số (魔法阵同频共振技术); Kanbi (坎比); Amroid (阿姆络德, Elf); Delier (德丽尔, Elf); Mihm (米法姆, Hoàng tử). Lưu ý nhất quán: dùng **Avita** hay **Evita**? — hai agent viết khác nhau, cần chốt (tạm dùng theo epub cũ).
