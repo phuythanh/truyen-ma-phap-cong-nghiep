@@ -35,5 +35,8 @@ Dòng đầu mỗi file: "Chương {N}: {tiêu đề dịch}", dòng trống, th
 5. git commit đợt đó.
 6. Mỗi ~100 chương: build Ma Phap Cong Nghiep De Quoc_v2.epub.
 
-## Model
-Điều phối: Sonnet/Opus. Dịch: giao subagent Sonnet 5 (chất lượng) hoặc Haiku 4.5 (rẻ) — quyết theo ngân sách. Subagent chạy phiên riêng, context sạch, rẻ hơn dịch trong phiên chính.
+## Model (CHỐT)
+- Điều phối (phiên chính): Sonnet 5.
+- Dịch (subagent): **Haiku 4.5** = `claude-haiku-4-5` — rẻ nhất, rẻ hơn Sonnet ~3 lần (~$0.10-0.15/chương). Truyền model: "haiku" khi spawn Agent.
+- ĐỢT THỬ ĐẦU: dịch 5 chương (390-394) bằng Haiku → so chất lượng với 3 chương Sonnet (387-389). Nếu Haiku đạt → chạy hết bộ bằng Haiku (~$100 hạn mức). Nếu văn Haiku sượng → mới cân nhắc Sonnet.
+- Subagent chạy phiên riêng, context sạch, rẻ hơn dịch trong phiên chính nhiều.
