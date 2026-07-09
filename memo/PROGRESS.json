@@ -6,7 +6,8 @@
   "last_zh_file": "1280",
   "last_done_vi": 699,
   "translated_ranges": "387-699 (lien tuc)",
-  "epub_built": "Ma Phap - Chuong 387-699.epub (STANDALONE, chi 313 chuong moi 387-699, C1-C313). Build bang scratchpad/build_epub_new.ps1 (chinh $last de build lai). UUID rieng + tieu de rieng de app doc khong coi trung epub cu. Da bo ban gop _v2.",
+  "epub_built": "Ma Phap - Chuong 760-1072.epub (STANDALONE, 313 chuong moi). Build bang scratchpad/build_epub_new.ps1.",
+  "epub_numbering_CRITICAL": "Epub cu TACH moi chuong thanh (1/2)(2/2) -> danh so HIEN THI 1..759 (KHONG phai 1..386). Chuong dich moi (ban 0387..0699) khi len epub phai danh so hien thi TIEP TU 760: display = 760 + (fileNum - 387). Vay 0387->Chuong 760, 0699->Chuong 1072. TUYET DOI khong dat 387-699 (trung so epub cu). File .md van giu 'Chuong 387' noi bo; chi doi so luc build epub.",
   "failed": [],
   "glossary_pending": [],
   "review_notes": [
