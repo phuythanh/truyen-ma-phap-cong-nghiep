@@ -6,7 +6,7 @@
   "last_zh_file": "1280",
   "last_done_vi": 699,
   "translated_ranges": "387-699 (lien tuc)",
-  "epub_built": "Ma Phap Cong Nghiep De Quoc_v2.epub (Chuong 387-699 = file noi bo C760-C1072), build lai bang scratchpad/build_epub.ps1",
+  "epub_built": "Ma Phap - Chuong 387-699.epub (STANDALONE, chi 313 chuong moi 387-699, C1-C313). Build bang scratchpad/build_epub_new.ps1 (chinh $last de build lai). UUID rieng + tieu de rieng de app doc khong coi trung epub cu. Da bo ban gop _v2.",
   "failed": [],
   "glossary_pending": [],
   "review_notes": [
