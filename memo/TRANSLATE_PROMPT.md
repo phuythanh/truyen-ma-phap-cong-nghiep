@@ -29,6 +29,7 @@ Dòng đầu mỗi file: "Chương {N}: {tiêu đề dịch}", dòng trống, th
 
 ## Sau mỗi đợt (orchestrator làm, KHÔNG phải agent)
 1. Script check độ dài out vs src (out nên 1.2-1.6× src bytes) + đủ số chương.
+   - **Lưu ý:** agent lâu lâu bị lặp đoạn văn (dịch trùng 1 đoạn 2 lần) — ratio/số đoạn có thể vẫn "đẹp" nếu đoạn lặp bù cho đoạn thiếu ở chỗ khác, nên KHÔNG chỉ tin ratio. Nên quét thêm trùng lặp: so 2 câu đầu của các đoạn liên tiếp trong cùng file, hoặc diff số đoạn out vs src theo từng vị trí (không chỉ tổng số).
 2. Script đối chiếu biến thể tên riêng giữa các chương mới vs full_vi.txt → sửa đồng loạt (xem scratchpad consistency.ps1 / fix_terms.ps1 mẫu).
 3. Bổ sung tên mới vào GLOSSARY.tsv; cập nhật ROLLING_SUMMARY.md (tóm tắt ~10 chương gần nhất).
 4. Cập nhật PROGRESS.json (last_done_vi, translated[]).
