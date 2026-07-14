@@ -4,8 +4,8 @@
   "first_new_chapter_vi": 387,
   "first_new_chapter_zh_file": "0392",
   "last_zh_file": "1280",
-  "last_done_vi": 699,
-  "translated_ranges": "387-699 (lien tuc)",
+  "last_done_vi": 709,
+  "translated_ranges": "387-709 (lien tuc)",
   "epub_built": "Ma Phap - Chuong 387-699.epub (STANDALONE, 1 epub MOI DOC LAP, 313 chuong, hien thi dung so that Chuong 387-699). Build bang scratchpad/build_epub_new.ps1 - lay nguyen tieu de tu file .md, KHONG remap so. Chinh $last de build tiep.",
   "epub_note": "User CHOT (2026-07-09): epub ban dich moi la 1 quyen MOI DOC LAP, danh so dung chuong that cua truyen (387,388,...), KHONG can ne/ke gi epub cu. (Epub cu tach 1/2-2/2 hien thi den 759 - chi la thong tin, khong anh huong epub moi).",
   "failed": [],
@@ -17,8 +17,9 @@
     "BÀI HỌC: KHÔNG dùng PowerShell .Replace() để thay ký tự CJK lẻ trên chuỗi có dấu cách -> gây hỏng dấu cách hàng loạt. Nếu chương lỗi thì DỊCH LẠI bằng Sonnet, đừng vá bằng script.",
     "CHẤT LƯỢNG: Haiku 4.5 dịch 50 chương thì ~11 chương (22%) lỗi phải làm lại -> tỉ lệ hỏng cao. Cân nhắc đổi hẳn sang Sonnet cho các đợt sau (đắt hơn ~3x nhưng gần như không phải QA/dịch lại)."
   ],
-  "next_action": "Chạy tiếp từ chương 700 (zh 0705). DÙNG SONNET qua Workflow (50 agent x 5 = 250 chương/mẻ chạy ngon, 0 lỗi). QA gate PowerShell sau mỗi mẻ: CJK + ratio + space% + so doan. Build lai epub bang scratchpad/build_epub.ps1 (chinh $last).",
+  "next_action": "Chay tiep tu chuong 710 (zh 0715). DUNG SONNET qua Agent 2 agent x 5 (hoac Workflow neu mo dot lon). QA gate sau moi met: CJK + ratio + space% + so doan. Build lai epub bang scratchpad/build_epub_new.ps1 (chinh $last).",
   "batch_400_449_note": "Haiku: 11/50 chuong loi phai lam lai.",
   "batch_450_699_note": "2026-07-09: 250 chuong Sonnet qua Workflow, 7.42M token, 0 loi qua QA gate (250/250 pass). +293 ten GLOSSARY. Con vai bien the ten le chua sync trong text (polish sau).",
+  "batch_700_709_note": "2 agent Sonnet x 5 chuong (khong qua Workflow), 0 loi qua QA gate (10/10 pass: CJK=0, ratio 1.35-1.49, space% ~16, so doan khop tuyet doi). +7 ten GLOSSARY (Dorom, Doan hai tac Than Chet, Franck Debor, Brownia, Laudesak, Thuong hoi Macarin). Chua build lai epub (con o 313 chuong, 387-699).",
   "output_epub": "Ma Phap Cong Nghiep De Quoc_v2.epub"
 }
