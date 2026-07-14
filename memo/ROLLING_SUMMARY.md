@@ -1,5 +1,5 @@
 # ROLLING SUMMARY — cập nhật sau mỗi batch dịch
-*Cập nhật đến hết Chương 764 (= zh 0769). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+*Cập nhật đến hết Chương 769 (= zh 0774). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
 
 ## Mạch chính đợt 450–699 (tóm lược cấp cao)
 - **Kinh tế/công nghiệp:** Tân Phi tiếp tục bành trướng — máy móc ma lực gia dụng, xe máy/xe hơi ma lực (thêm hệ thống giảm xóc), **tàu ma lực** (đường thủy) đang nghiên cứu; mở rộng sang các thành mới (Cerwell, Laimat, Anweimar...). Cạnh tranh & hợp tác với hàng loạt thương hội (Walmart/Kolma Lundes, Mobil/Dwayne Selop, Rockefeller/Skander Orwell, Porter, Melda/Ladis Sampson, Chimera phát hành ngân phiếu vàng). Tài chính do Sebastian (giám đốc tài chính) lo.
@@ -72,7 +72,16 @@
 - **Bá tước Rivel chất vấn về vũ khí sao chép của Sack (762):** Tại giải đua xe Bontar, Rivel chất vấn tin tình báo Sack đã sao chép nỏ liên hoàn ma pháp + đang nghiên cứu súng phóng hỏa tiễn ma pháp. Hứa Dịch phản ứng cứng rắn, khẳng định Tân Phi độc lập với Lanpari, khiến Rivel sợ hãi xin lỗi, ngỏ ý hợp tác xây xưởng máy công cụ ma lực mới ở Bontar.
 - **Tuần San Xe Ma Lực ra mắt + Lisanya làm gương mặt đại diện (763-764):** Nhật báo Bontar ra "Tuần San Xe Ma Lực" gây sốt, hé lộ xe ma lực mới đạt 150km/h (nội bộ tới 170km/h). Trưởng lão Lisanya chủ động đề xuất ghi hình thử xe bằng pháp trận ảo ảnh để tuyên truyền hòa hợp Elf-loài người — Hứa Dịch nảy ý biến bà thành gương mặt đại diện quảng cáo mới (thay vị trí bỏ trống từ khi Stella lui ẩn).
 
-## Trạng thái nối tiếp cho chương 765 (= zh 0770)
+## Đợt 765–769 (tóm lược)
+- **Russell mua tàu hộ vệ + hé lộ thỏa thuận "tiến vào Đế quốc" (765-766):** Phó Tham mưu trưởng Hải quân Kendra Russell quay lại thị trấn Tân Nguyệt lần hai, kinh ngạc trước sự phát triển vượt bậc (đường phố, Máy chiếu Ảnh ảo Ma lực, thang máy ma lực) khiến kinh đô Wimbledon trở nên lạc hậu. Sau đàm phán căng thẳng, Russell chính thức đại diện Hải quân Kendra mua tàu hộ vệ Tân Phi (mặc cả từ 2 triệu vàng xuống, vẫn cách xa mức 500 nghìn Kendra muốn), đổi lại Hakain/Kendra hứa giúp Tân Phi "thuận lợi tiến vào Đế quốc" — nội dung cụ thể CHƯA hé lộ, cần theo dõi.
+- **Quạt/Điều hòa Ma lực thế hệ mới tiết kiệm năng lượng (767):** Hứa Dịch giải thích với Stella động cơ kép: tầm nhìn xa (tránh cạn kiệt tinh thể ma lực dài hạn) và thực tế (năng lực sản xuất tinh thể ma lực đậm đặc cao sắp không theo kịp nhu cầu thị trường trong 3 năm tới).
+- **Lisanya quay quảng cáo + Stella mang thai lần hai (768):** Trưởng lão Lisanya cùng Yanis tham gia quay quảng cáo xe hơi ma lực mới. Stella bất ngờ báo tin mang thai LẦN HAI (thai kỳ tháng thứ ba) sau 5 năm im ắng kể từ khi sinh Freya, Hứa Dịch cực kỳ vui mừng; Stella thúc giục Hứa Dịch đến với Betty và Carol (2 thị nữ Cervini ban tặng) vì sợ họ bị bỏ mặc.
+- **Lát cắt xã hội biên giới Delac-Falke (769):** Quán rượu nhỏ ở biên giới Công quốc Delac – Vương quốc Falke cho thấy Máy móc Ma thuật gia dụng Tân Phi đã phổ biến sâu rộng, thay đổi đời sống dân thường (công nhân kỹ thuật nhà máy liên doanh Tân Phi như **Rocky** thu nhập tăng vọt, chê hàng nhái **hiệu Sornes**). Một vị khách bí ẩn từ Vương quốc Falke (còn lạc hậu, chưa có xe hơi ma lực) tò mò dò hỏi kỹ công nghệ + mô hình nhân lực Tân Phi — nghi là gián điệp/thương nhân dò xét, cần theo dõi.
+
+## Trạng thái nối tiếp cho chương 770 (= zh 0775)
+- **Thỏa thuận Kendra giúp Tân Phi "tiến vào Đế quốc"** (ch.765-766) — nội dung cụ thể CHƯA hé lộ, cần theo dõi sát diễn biến tiếp theo.
+- **Stella mang thai lần hai** (ch.768, tháng thứ ba) — cần theo dõi.
+- **Khách bí ẩn từ Vương quốc Falke dò hỏi công nghệ Tân Phi** (ch.769) — nghi gián điệp/thương nhân, cần theo dõi.
 - **Vương quốc Crusk đã bị Tân Phi xóa sổ hoàn toàn** (ch.757-759) — chấn động quân bộ Vương quốc Sack, Ivo Joao kiến nghị nâng Tân Phi lên mức ưu tiên tình báo cao nhất; Sack thừa nhận đã âm thầm "gieo hạt giống" nhắm vào Tân Phi từ trước — âm mưu ngầm chưa phát tác, cần theo dõi sát.
 - **Bí mật lớn nhất của Hứa Dịch** (ký ức về sự bình đẳng trên Trái Đất, thừa nhận với Cruz ở ch.755) — nguồn gốc thật của việc "giải phóng" nô lệ (thực chất đưa đi đâu không rõ, ch.750-751) — vẫn là ẩn số lớn, cần theo dõi.
 - **Gần 2 vạn nô lệ biến mất qua cảng Hemi** (ch.750-751) đổi lấy công nghệ luyện thép — số phận thật chưa lộ diện, dư luận đồn Hứa Dịch là "thánh nhân".
