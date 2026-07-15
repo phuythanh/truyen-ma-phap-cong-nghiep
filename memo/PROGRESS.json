@@ -6,7 +6,7 @@
   "last_zh_file": "1280",
   "last_done_vi": 792,
   "translated_ranges": "387-792 (lien tuc)",
-  "epub_built": "Ma Phap - Chuong 387-699.epub (STANDALONE, 1 epub MOI DOC LAP, 313 chuong, hien thi dung so that Chuong 387-699). Build bang scratchpad/build_epub_new.ps1 - lay nguyen tieu de tu file .md, KHONG remap so. Chinh $last de build tiep.",
+  "epub_built": "Ma Phap - Chuong 387-792.epub (STANDALONE, 1 epub MOI DOC LAP, 406 chuong, hien thi dung so that Chuong 387-792). Build bang scratchpad/build_epub_full.ps1 (viet lai 2026-07-15, script cu build_epub_new.ps1 da mat vi nam trong session-scratchpad Temp) - lay nguyen tieu de tu file .md, KHONG remap so, dung ZipFile .NET (mimetype stored dau file). Sua $first/$last trong script de build tiep. File cu 'Ma Phap - Chuong 387-699.epub' (313 chuong) van con trong thu muc, co the xoa vi da bi thay the.",
   "epub_note": "User CHOT (2026-07-09): epub ban dich moi la 1 quyen MOI DOC LAP, danh so dung chuong that cua truyen (387,388,...), KHONG can ne/ke gi epub cu. (Epub cu tach 1/2-2/2 hien thi den 759 - chi la thong tin, khong anh huong epub moi).",
   "failed": [],
   "glossary_pending": [],
