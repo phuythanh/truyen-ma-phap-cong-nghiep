@@ -1,12 +1,12 @@
-# Build full standalone EPUB from chapters_out/NNNN.md (387..792)
+﻿# Build full standalone EPUB from chapters_out/NNNN.md (387..792)
 # Reuses assets (stylesheet.css, cover.png, cover.xhtml) from existing epub in project root.
 
 $root = "C:\truyen\maphap"
 $outDir = Join-Path $root "chapters_out"
 $work = Join-Path $root "scratchpad\epub_build"
 $first = 387
-$last = 954
-$title = "Ma Pháp Công Nghiệp Đế Quốc — Chương $first-$last (bản dịch tiếp)"
+$last = 972
+$title = "Ma Phap Cong Nghiep De Quoc - Chuong $first-$last"
 $outEpub = Join-Path $root "Ma Phap - Chuong $first-$last.epub"
 
 # Nguon asset (cover.png, stylesheet.css, cover.xhtml): lay tu 1 epub "Ma Phap - Chuong *.epub" da build truoc do
@@ -170,8 +170,10 @@ $stream.Write($bytes, 0, $bytes.Length)
 $stream.Close()
 
 $filesToAdd = Get-ChildItem -Path $work -Recurse -File | Where-Object { $_.Name -ne "mimetype" }
+$workFull = (Resolve-Path $work).Path.TrimEnd('\')
 foreach ($f in $filesToAdd) {
-    $relPath = [IO.Path]::GetRelativePath($work, $f.FullName) -replace '\\', '/'
+    # Compatible with Windows PowerShell 5.1 (no Path.GetRelativePath)
+    $relPath = $f.FullName.Substring($workFull.Length).TrimStart('\').Replace('\', '/')
     [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile($zip, $f.FullName, $relPath, [System.IO.Compression.CompressionLevel]::Optimal) | Out-Null
 }
 $zip.Dispose()
