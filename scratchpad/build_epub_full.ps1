@@ -5,7 +5,7 @@ $root = "C:\truyen\maphap"
 $outDir = Join-Path $root "chapters_out"
 $work = Join-Path $root "scratchpad\epub_build"
 $first = 387
-$last = 972
+$last = 978
 $title = "Ma Phap Cong Nghiep De Quoc - Chuong $first-$last"
 $outEpub = Join-Path $root "Ma Phap - Chuong $first-$last.epub"
 
