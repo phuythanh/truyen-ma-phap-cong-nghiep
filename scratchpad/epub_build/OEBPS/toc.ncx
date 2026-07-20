@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:71124e23-e52c-4fef-b838-118947029084"/>
+    <meta name="dtb:uid" content="urn:uuid:042705ec-87cb-421e-8633-c093bb0ebaa1"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1071</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1076</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -4118,6 +4118,36 @@
         <text>Chương 1071: Sao con người lại mạnh đến thế?</text>
       </navLabel>
       <content src="Text/C685.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-686" playOrder="686">
+      <navLabel>
+        <text>Chương 1072: Thay bằng nhân loại thống trị sẽ thú vị hơn</text>
+      </navLabel>
+      <content src="Text/C686.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-687" playOrder="687">
+      <navLabel>
+        <text>Chương 1073: Áp lực tài chính</text>
+      </navLabel>
+      <content src="Text/C687.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-688" playOrder="688">
+      <navLabel>
+        <text>Chương 1074: Hướng về phía Nam</text>
+      </navLabel>
+      <content src="Text/C688.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-689" playOrder="689">
+      <navLabel>
+        <text>Chương 1075: Mở rộng đội hộ vệ</text>
+      </navLabel>
+      <content src="Text/C689.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-690" playOrder="690">
+      <navLabel>
+        <text>Chương 1076: Vấn đề nguồn binh</text>
+      </navLabel>
+      <content src="Text/C690.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
