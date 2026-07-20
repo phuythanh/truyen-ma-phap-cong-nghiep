@@ -1,11 +1,20 @@
-﻿# Build full standalone EPUB from chapters_out/NNNN.md (387..792)
+# Build full standalone EPUB from chapters_out/NNNN.md (387..792)
 # Reuses assets (stylesheet.css, cover.png, cover.xhtml) from existing epub in project root.
 
-$root = "C:\truyen\maphap"
+$scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
+$root = Split-Path -Parent $scriptDir
 $outDir = Join-Path $root "chapters_out"
 $work = Join-Path $root "scratchpad\epub_build"
 $first = 387
-$last = 998
+
+$progressFile = Join-Path $root "memo\PROGRESS.json"
+if (Test-Path $progressFile) {
+    $progress = Get-Content -Raw -Encoding UTF8 $progressFile | ConvertFrom-Json
+    $last = $progress.last_done_vi
+} else {
+    $last = 1015
+}
+
 $title = "Ma Phap Cong Nghiep De Quoc - Chuong $first-$last"
 $outEpub = Join-Path $root "Ma Phap - Chuong $first-$last.epub"
 
