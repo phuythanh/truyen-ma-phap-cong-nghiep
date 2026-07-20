@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:042705ec-87cb-421e-8633-c093bb0ebaa1"/>
+    <meta name="dtb:uid" content="urn:uuid:6ac44c01-38d1-4e59-a523-668df485340c"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1076</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1091</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -4148,6 +4148,96 @@
         <text>Chương 1076: Vấn đề nguồn binh</text>
       </navLabel>
       <content src="Text/C690.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-691" playOrder="691">
+      <navLabel>
+        <text>Chương 1077: Thảm án mỏ quặng</text>
+      </navLabel>
+      <content src="Text/C691.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-692" playOrder="692">
+      <navLabel>
+        <text>Chương 1078: Ai cho họ lá gan lớn như thế?</text>
+      </navLabel>
+      <content src="Text/C692.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-693" playOrder="693">
+      <navLabel>
+        <text>Chương 1079: Đối đầu</text>
+      </navLabel>
+      <content src="Text/C693.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-694" playOrder="694">
+      <navLabel>
+        <text>Chương 1080: Biến cố bất ngờ</text>
+      </navLabel>
+      <content src="Text/C694.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-695" playOrder="695">
+      <navLabel>
+        <text>Chương 1081: Trốn chạy</text>
+      </navLabel>
+      <content src="Text/C695.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-696" playOrder="696">
+      <navLabel>
+        <text>Chương 1082: Sự chất vấn của Nguyên soái</text>
+      </navLabel>
+      <content src="Text/C696.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-697" playOrder="697">
+      <navLabel>
+        <text>Chương 1083: Ma đạo sư đích thân xuất thủ</text>
+      </navLabel>
+      <content src="Text/C697.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-698" playOrder="698">
+      <navLabel>
+        <text>Chương 1084: Một Ma đạo sư còn chưa đủ</text>
+      </navLabel>
+      <content src="Text/C698.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-699" playOrder="699">
+      <navLabel>
+        <text>Chương 1085: Sao có thể chết ở nơi này!</text>
+      </navLabel>
+      <content src="Text/C699.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-700" playOrder="700">
+      <navLabel>
+        <text>Chương 1086: Căn bản không giết được tôi đúng không?</text>
+      </navLabel>
+      <content src="Text/C700.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-701" playOrder="701">
+      <navLabel>
+        <text>Chương 1087: Phong tỏa</text>
+      </navLabel>
+      <content src="Text/C701.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-702" playOrder="702">
+      <navLabel>
+        <text>Chương 1088: Trở lại lồng giam</text>
+      </navLabel>
+      <content src="Text/C702.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-703" playOrder="703">
+      <navLabel>
+        <text>Chương 1089: Pháp trận lĩnh vực cấm ma</text>
+      </navLabel>
+      <content src="Text/C703.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-704" playOrder="704">
+      <navLabel>
+        <text>Chương 1090: Ai đê tiện hơn?</text>
+      </navLabel>
+      <content src="Text/C704.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-705" playOrder="705">
+      <navLabel>
+        <text>Chương 1091: Vẫn phải nói lời tạm biệt</text>
+      </navLabel>
+      <content src="Text/C705.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
