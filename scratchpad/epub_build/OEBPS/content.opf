@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1043</dc:title>
+    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1071</dc:title>
     <dc:language>vi</dc:language>
-    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:5db15b48-2886-4f8d-898c-b1f3d6890222</dc:identifier>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:71124e23-e52c-4fef-b838-118947029084</dc:identifier>
     <dc:creator>Ban dich tiep (Trung-Viet)</dc:creator>
     <meta name="cover" content="cover-image"/>
   </metadata>
@@ -669,6 +669,34 @@
     <item id="C655" href="Text/C655.xhtml" media-type="application/xhtml+xml"/>
     <item id="C656" href="Text/C656.xhtml" media-type="application/xhtml+xml"/>
     <item id="C657" href="Text/C657.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C658" href="Text/C658.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C659" href="Text/C659.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C660" href="Text/C660.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C661" href="Text/C661.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C662" href="Text/C662.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C663" href="Text/C663.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C664" href="Text/C664.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C665" href="Text/C665.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C666" href="Text/C666.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C667" href="Text/C667.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C668" href="Text/C668.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C669" href="Text/C669.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C670" href="Text/C670.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C671" href="Text/C671.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C672" href="Text/C672.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C673" href="Text/C673.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C674" href="Text/C674.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C675" href="Text/C675.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C676" href="Text/C676.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C677" href="Text/C677.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C678" href="Text/C678.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C679" href="Text/C679.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C680" href="Text/C680.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C681" href="Text/C681.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C682" href="Text/C682.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C683" href="Text/C683.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C684" href="Text/C684.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C685" href="Text/C685.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover"/>
@@ -1329,5 +1357,33 @@
     <itemref idref="C655"/>
     <itemref idref="C656"/>
     <itemref idref="C657"/>
+    <itemref idref="C658"/>
+    <itemref idref="C659"/>
+    <itemref idref="C660"/>
+    <itemref idref="C661"/>
+    <itemref idref="C662"/>
+    <itemref idref="C663"/>
+    <itemref idref="C664"/>
+    <itemref idref="C665"/>
+    <itemref idref="C666"/>
+    <itemref idref="C667"/>
+    <itemref idref="C668"/>
+    <itemref idref="C669"/>
+    <itemref idref="C670"/>
+    <itemref idref="C671"/>
+    <itemref idref="C672"/>
+    <itemref idref="C673"/>
+    <itemref idref="C674"/>
+    <itemref idref="C675"/>
+    <itemref idref="C676"/>
+    <itemref idref="C677"/>
+    <itemref idref="C678"/>
+    <itemref idref="C679"/>
+    <itemref idref="C680"/>
+    <itemref idref="C681"/>
+    <itemref idref="C682"/>
+    <itemref idref="C683"/>
+    <itemref idref="C684"/>
+    <itemref idref="C685"/>
   </spine>
 </package>

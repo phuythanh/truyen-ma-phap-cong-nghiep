@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:5db15b48-2886-4f8d-898c-b1f3d6890222"/>
+    <meta name="dtb:uid" content="urn:uuid:71124e23-e52c-4fef-b838-118947029084"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1043</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1071</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -3950,6 +3950,174 @@
         <text>Chương 1043: Hoạt động giải trí</text>
       </navLabel>
       <content src="Text/C657.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-658" playOrder="658">
+      <navLabel>
+        <text>Chương 1044: Khai phá lục địa mới</text>
+      </navLabel>
+      <content src="Text/C658.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-659" playOrder="659">
+      <navLabel>
+        <text>Chương 1045: Làm ăn với tộc rồng</text>
+      </navLabel>
+      <content src="Text/C659.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-660" playOrder="660">
+      <navLabel>
+        <text>Chương 1046: Khát vọng không gian sinh tồn</text>
+      </navLabel>
+      <content src="Text/C660.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-661" playOrder="661">
+      <navLabel>
+        <text>Chương 1047: Tất cả vì nghiên cứu</text>
+      </navLabel>
+      <content src="Text/C661.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-662" playOrder="662">
+      <navLabel>
+        <text>Chương 1048: Truyền thuyết được xác nhận</text>
+      </navLabel>
+      <content src="Text/C662.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-663" playOrder="663">
+      <navLabel>
+        <text>Chương 1049: Thế giới hoàn toàn mới</text>
+      </navLabel>
+      <content src="Text/C663.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-664" playOrder="664">
+      <navLabel>
+        <text>Chương 1050: Năm năm đệm</text>
+      </navLabel>
+      <content src="Text/C664.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-665" playOrder="665">
+      <navLabel>
+        <text>Chương 1051: Chi phí tăng cao</text>
+      </navLabel>
+      <content src="Text/C665.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-666" playOrder="666">
+      <navLabel>
+        <text>Chương 1052: Đại lục hỗn loạn</text>
+      </navLabel>
+      <content src="Text/C666.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-667" playOrder="667">
+      <navLabel>
+        <text>Chương 1053: Đừng đụng vào Thương hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C667.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-668" playOrder="668">
+      <navLabel>
+        <text>Chương 1054: Đặt chân lên Đại Lục Mới</text>
+      </navLabel>
+      <content src="Text/C668.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-669" playOrder="669">
+      <navLabel>
+        <text>Chương 1055: Bạn từ thuở ấu thơ</text>
+      </navLabel>
+      <content src="Text/C669.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-670" playOrder="670">
+      <navLabel>
+        <text>Chương 1056: Tháp tín hiệu cao không</text>
+      </navLabel>
+      <content src="Text/C670.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-671" playOrder="671">
+      <navLabel>
+        <text>Chương 1057: Xử lý đồng bộ ma pháp đa luồng</text>
+      </navLabel>
+      <content src="Text/C671.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-672" playOrder="672">
+      <navLabel>
+        <text>Chương 1058: Ta muốn làm Hội trưởng</text>
+      </navLabel>
+      <content src="Text/C672.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-673" playOrder="673">
+      <navLabel>
+        <text>Chương 1059: Thực tập</text>
+      </navLabel>
+      <content src="Text/C673.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-674" playOrder="674">
+      <navLabel>
+        <text>Chương 1060: Kennard rời chức</text>
+      </navLabel>
+      <content src="Text/C674.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-675" playOrder="675">
+      <navLabel>
+        <text>Chương 1061: Thương hội Chimera manh nha hành động</text>
+      </navLabel>
+      <content src="Text/C675.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-676" playOrder="676">
+      <navLabel>
+        <text>Chương 1062: Đồng hương tộc Elf</text>
+      </navLabel>
+      <content src="Text/C676.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-677" playOrder="677">
+      <navLabel>
+        <text>Chương 1063: Khách đến từ đại lục mới</text>
+      </navLabel>
+      <content src="Text/C677.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-678" playOrder="678">
+      <navLabel>
+        <text>Chương 1064: Vén màn bí ẩn đại lục mới</text>
+      </navLabel>
+      <content src="Text/C678.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-679" playOrder="679">
+      <navLabel>
+        <text>Chương 1065: Goblin không giảng đạo lý</text>
+      </navLabel>
+      <content src="Text/C679.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-680" playOrder="680">
+      <navLabel>
+        <text>Chương 1066: Tranh đoạt tài nguyên khoáng sản</text>
+      </navLabel>
+      <content src="Text/C680.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-681" playOrder="681">
+      <navLabel>
+        <text>Chương 1067: Đừng xen vào đây</text>
+      </navLabel>
+      <content src="Text/C681.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-682" playOrder="682">
+      <navLabel>
+        <text>Chương 1068: Tranh giành khách hàng</text>
+      </navLabel>
+      <content src="Text/C682.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-683" playOrder="683">
+      <navLabel>
+        <text>Chương 1069: Hắc Long lại đến</text>
+      </navLabel>
+      <content src="Text/C683.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-684" playOrder="684">
+      <navLabel>
+        <text>Chương 1070: Đôi bên không giúp nhau</text>
+      </navLabel>
+      <content src="Text/C684.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-685" playOrder="685">
+      <navLabel>
+        <text>Chương 1071: Sao con người lại mạnh đến thế?</text>
+      </navLabel>
+      <content src="Text/C685.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
