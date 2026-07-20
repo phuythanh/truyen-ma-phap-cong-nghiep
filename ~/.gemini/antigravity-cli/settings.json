@@ -9,7 +9,9 @@
       "command(cd *)",
       "command(ls *)",
       "command(mkdir *)",
-      "unsandboxed(*)"
+      "unsandboxed(*)",
+      "git(*)",
+      "command(ssh *)"
     ]
   }
 }
