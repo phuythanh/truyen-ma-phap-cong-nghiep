@@ -37,6 +37,8 @@ def main():
         p for p in glob.glob(os.path.join(ROOT, "Ma Phap - Chuong *.epub"))
         if os.path.abspath(p) != os.path.abspath(out_epub)
     ]
+    if not candidates and os.path.exists(out_epub):
+        candidates = [out_epub]
     if not candidates:
         sys.exit("Khong tim thay epub tham chieu 'Ma Phap - Chuong *.epub' nao trong repo de lay asset (cover.png/css).")
     ref_epub = candidates[0]

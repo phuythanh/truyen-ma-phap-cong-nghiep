@@ -1,5 +1,3 @@
-[System.Text.Encoding]::RegisterProvider([System.Text.CodePagesEncodingProvider]::Instance)
-
 param(
     [Parameter(Mandatory=$true)]
     [int]$Start,
@@ -9,6 +7,8 @@ param(
 
     [string]$OutCsv = "$PSScriptRoot\qa_output.csv"
 )
+
+[System.Text.Encoding]::RegisterProvider([System.Text.CodePagesEncodingProvider]::Instance)
 
 $root = Split-Path -Parent $PSScriptRoot
 $outDir = Join-Path $root "chapters_out"
