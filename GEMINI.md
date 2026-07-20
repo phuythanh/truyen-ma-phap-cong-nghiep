@@ -22,7 +22,7 @@ Tài liệu này hướng dẫn Gemini CLI (và các LLM khác như Claude) các
 Trước khi thực hiện bất kỳ hoạt động dịch thuật hay bổ sung thông tin nào, hãy đọc kỹ các file cấu hình tại thư mục `memo\` (nằm ở thư mục gốc của project):
 
 1. **`memo\PROGRESS.json`**: Lưu trạng thái tiến độ hiện tại (`last_done_vi`).
-   - *Trạng thái hiện tại:* Đã hoàn thành dịch đến Chương **1015** (file nguồn `1020.txt`). Chương dịch tiếp theo là **1016** (file nguồn `1021.txt`).
+   - *Trạng thái hiện tại:* Đã hoàn thành dịch đến Chương **1038** (file nguồn `1043.txt`). Chương dịch tiếp theo là **1039** (file nguồn `1044.txt`).
 2. **`memo\STYLE_GUIDE.md`**: Quy tắc văn phong, xưng hô, giọng điệu đặc trưng của bản dịch gốc.
    - Nhân vật chính (Hứa Dịch) xưng **"tôi"**, văn kể gọi là **"anh"**.
    - Tên nhân vật gốc Trung dùng âm **Hán Việt** (许亦 = Hứa Dịch).
@@ -53,7 +53,7 @@ invoke_subagent(
     Subagents=[{
         "TypeName": "self",
         "Role": "Translator",
-        "Prompt": "Dịch tiếp 5 chương từ Chương 1016 đến 1020. Đọc file nguồn tương ứng chapters_zh/1021.txt đến 1025.txt. Tuân thủ tuyệt đối memo/STYLE_GUIDE.md và memo/GLOSSARY.tsv..."
+        "Prompt": "Dịch tiếp 5 chương từ Chương 1039 đến 1043. Đọc file nguồn tương ứng chapters_zh/1044.txt đến 1048.txt. Tuân thủ tuyệt đối memo/STYLE_GUIDE.md và memo/GLOSSARY.tsv..."
     }]
 )
 ```
@@ -68,8 +68,8 @@ Sau khi dịch xong, hãy chạy script QA tự động bằng PowerShell để 
 
 **Lệnh chạy QA bằng PowerShell (Gemini CLI):**
 ```powershell
-# Chạy QA cho range chương vừa dịch (ví dụ từ 1016 đến 1020)
-powershell.exe -NoProfile -Command ".\scratchpad\qa_chapters.ps1 -Start 1016 -End 1020"
+# Chạy QA cho range chương vừa dịch (ví dụ từ 1039 đến 1043)
+powershell.exe -NoProfile -Command ".\scratchpad\qa_chapters.ps1 -Start 1039 -End 1043"
 ```
 
 Nếu phát hiện bất kỳ lỗi nào (như `FAIL_CJK`, `WARN_PARACOUNT`, `WARN_DUP`), hãy tiến hành sửa chữa trực tiếp hoặc yêu cầu dịch lại chương lỗi đó.
