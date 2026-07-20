@@ -1,0 +1,103 @@
+# GEMINI WORKFLOW — Ma Pháp Công Nghiệp Đế Quốc (魔法工业帝国)
+
+Tài liệu này hướng dẫn Gemini CLI (và các LLM khác như Claude) cách phối hợp, tiếp tục dịch tiếp bộ truyện **Ma Pháp Công Nghiệp Đế Quốc** từ tiếng Trung sang tiếng Việt một cách thống nhất và không bị lệch nhịp.
+
+---
+
+## 📌 THÔNG TIN HỆ THỐNG & ĐƯỜNG DẪN
+
+- **Thư mục nguồn chứa chương tiếng Trung:** `C:\truyen\maphap\chapters_zh\`
+  - Tên file: `{zh_number:D4}.txt` (ví dụ: `0839.txt`)
+- **Thư mục lưu chương tiếng Việt đã dịch:** `C:\truyen\maphap\chapters_out\`
+  - Tên file: `{vi_number:D4}.md` (ví dụ: `0834.md`)
+- **Quy luật ánh xạ (Mapping Offset = 5):**
+  - `Chương dịch N (Vietnamese)` tương ứng với `File nguồn N + 5 (Chinese)`
+  - Công thức: **`Vi_Chapter = Zh_Chapter - 5`** hoặc **`Zh_Chapter = Vi_Chapter + 5`**
+  - Ví dụ: Để dịch **Chương 834**, đọc file nguồn `chapters_zh\0839.txt` và ghi ra `chapters_out\0834.md`.
+
+---
+
+## 📖 BỘ TÀI LIỆU CỐ ĐỊNH (NGUỒN CHÂN LÝ)
+
+Trước khi thực hiện bất kỳ hoạt động dịch thuật hay bổ sung thông tin nào, hãy đọc kỹ các file cấu hình tại thư mục `C:\truyen\maphap\memo\`:
+
+1. **`memo\PROGRESS.json`**: Lưu trạng thái tiến độ hiện tại (`last_done_vi`).
+   - *Trạng thái hiện tại:* Đã hoàn thành dịch đến Chương **833** (file nguồn `0838.txt`). Chương dịch tiếp theo là **834** (file nguồn `0839.txt`).
+2. **`memo\STYLE_GUIDE.md`**: Quy tắc văn phong, xưng hô, giọng điệu đặc trưng của bản dịch gốc.
+   - Nhân vật chính (Hứa Dịch) xưng **"tôi"**, văn kể gọi là **"anh"**.
+   - Tên nhân vật gốc Trung dùng âm **Hán Việt** (许亦 = Hứa Dịch).
+   - Tên nhân vật/địa danh Tây dùng tên **Latin/Tây** (Stark, Bontar, Senkohel).
+   - Tên thị tộc Elf dịch nghĩa sang **tiếng Anh** (Shadow Moon, Night Song).
+3. **`memo\GLOSSARY.tsv`**: Từ điển tra cứu tên riêng và thuật ngữ để đảm bảo tính nhất quán (Mọi LLM cần tuân thủ triệt để).
+4. **`memo\ROLLING_SUMMARY.md`**: Tóm tắt ngữ cảnh 10 chương gần nhất để tránh mất mạch truyện.
+5. **`memo\STORY_BIBLE.md`**: Bách khoa toàn thư tóm tắt toàn bộ nhân vật, thế lực, cốt truyện và các mạch truyện đang mở.
+
+---
+
+## 🛠️ PIPELINE DỊCH BẰNG GEMINI CLI (CHI TIẾT)
+
+Khi nhận lệnh dịch tiếp, Gemini CLI sẽ hoạt động theo chu trình **Research -> Strategy -> Execution (Plan -> Act -> Validate)**.
+
+### Bước 1: Chuẩn bị Ngữ cảnh
+Đọc các file sau để nạp bộ nhớ đệm hoặc tham chiếu trực tiếp:
+- `memo\STYLE_GUIDE.md`
+- `memo\GLOSSARY.tsv` (Sử dụng các công cụ tìm kiếm hoặc grep để tra cứu nhanh khi gặp từ mới)
+- `memo\ROLLING_SUMMARY.md`
+- File nguồn `chapters_zh\{Zh_Chapter:D4}.txt` (với `Zh_Chapter = Vi_Chapter + 5`)
+
+### Bước 2: Dịch thuật (Gợi ý sử dụng subagent để tiết kiệm token)
+Để giữ context của phiên chính sạch và tiết kiệm token, hãy sử dụng subagent `generalist` để dịch theo cụm/batch (ví dụ 5 chương liên tục):
+```
+invoke_agent(
+    agent_name="generalist",
+    prompt="Dịch tiếp 5 chương từ Chương 834 đến 838. Đọc file nguồn tương ứng chapters_zh/0839.txt đến 0843.txt. Tuân thủ tuyệt đối memo/STYLE_GUIDE.md và memo/GLOSSARY.tsv..."
+)
+```
+
+**Định dạng file đầu ra (`chapters_out\{Vi_Chapter:D4}.md`):**
+- Dòng 1: `Chương {Vi_Chapter}: {Tiêu đề dịch}`
+- Dòng 2: Trống
+- Dòng 3 trở đi: Nội dung dịch (mỗi đoạn văn bản tương ứng một dòng, phân tách bằng 1 dòng trống. **Tuyệt đối khớp 1-1 với các đoạn của chương gốc Trung**).
+
+### Bước 3: Kiểm tra chất lượng (Quality Assurance)
+Sau khi dịch xong, hãy chạy script QA tự động bằng PowerShell để kiểm tra xem file dịch có đạt chuẩn không (không lỗi CJK, khớp đoạn, tỉ lệ từ phù hợp, không lặp đoạn):
+
+**Lệnh chạy QA bằng PowerShell (Gemini CLI):**
+```powershell
+# Chạy QA cho range chương vừa dịch (ví dụ từ 834 đến 838)
+powershell.exe -NoProfile -Command "C:\truyen\maphap\scratchpad\qa_chapters.ps1 -Start 834 -End 838"
+```
+
+Nếu phát hiện bất kỳ lỗi nào (như `FAIL_CJK`, `WARN_PARACOUNT`, `WARN_DUP`), hãy tiến hành sửa chữa trực tiếp hoặc yêu cầu dịch lại chương lỗi đó.
+
+### Bước 4: Cập nhật Tiến độ & Từ điển
+- Cập nhật file `memo\PROGRESS.json` (tăng `last_done_vi` lên chương mới nhất vừa dịch xong).
+- Nếu phát hiện các tên riêng mới xuất hiện, hãy bổ sung vào `memo\GLOSSARY.tsv` kèm phân loại và ghi chú rõ ràng.
+- Cập nhật tóm tắt chương vào `memo\ROLLING_SUMMARY.md` sau mỗi cụm dịch (~10 chương).
+
+---
+
+## 📦 HƯỚNG DẪN DỰNG SÁCH EPUB
+
+Để xuất bản bản dịch mới nhất ra định dạng EPUB nhằm mục đích đọc cá nhân, hãy thực hiện các bước sau:
+
+1. Mở file script `C:\truyen\maphap\scratchpad\build_epub_full.ps1`.
+2. Thay đổi các biến sau để khớp với tiến độ thực tế:
+   ```powershell
+   $first = 387    # Chương đầu tiên của bản dịch mới (mặc định luôn là 387)
+   $last = 838     # Chương cuối cùng vừa dịch xong và muốn gộp vào epub
+   ```
+3. Chạy script để tự động bung tài nguyên, xây dựng file cấu trúc và đóng gói thành file EPUB mới:
+   ```powershell
+   powershell.exe -NoProfile -Command "C:\truyen\maphap\scratchpad\build_epub_full.ps1"
+   ```
+4. File đầu ra sẽ nằm tại thư mục gốc: `C:\truyen\maphap\Ma Phap - Chuong 387-{last}.epub`.
+
+---
+
+## 🔄 PHỐI HỢP LIÊN THÔNG GIỮA CLAUDE VÀ GEMINI CLI
+
+Cả Claude và Gemini CLI đều chia sẻ chung một cơ sở hạ tầng tệp tin và các kịch bản PowerShell tự động trong thư mục làm việc này. Bạn có thể chuyển đổi qua lại bất kỳ lúc nào:
+- **Tiến trình đồng bộ tuyệt đối** thông qua `memo\PROGRESS.json` và thư mục `chapters_out\`.
+- **Dữ liệu từ điển đồng bộ** qua `memo\GLOSSARY.tsv`.
+- Khi bắt đầu một phiên mới ở bất kỳ mô hình nào, chỉ cần yêu cầu LLM đọc file `PROGRESS.json` và `GEMINI.md` để tự động khôi phục ngữ cảnh dịch thuật hoàn chỉnh.
