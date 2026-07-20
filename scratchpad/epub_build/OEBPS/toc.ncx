@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:f3d265ce-ecdf-4de5-9759-469a0a06d3ec"/>
+    <meta name="dtb:uid" content="urn:uuid:30b07fbd-fbc4-4aeb-8d72-2035e077b8cd"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1038</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1041</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -3920,6 +3920,24 @@
         <text>Chương 1038: Có rồng từ phương xa tới</text>
       </navLabel>
       <content src="Text/C652.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-653" playOrder="653">
+      <navLabel>
+        <text>Chương 1039: Con rồng thích xem phim truyền hình</text>
+      </navLabel>
+      <content src="Text/C653.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-654" playOrder="654">
+      <navLabel>
+        <text>Chương 1040: Thị trường khổng lồ hoàn toàn mới</text>
+      </navLabel>
+      <content src="Text/C654.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-655" playOrder="655">
+      <navLabel>
+        <text>Chương 1041: Ma tộc Vực Thẳm</text>
+      </navLabel>
+      <content src="Text/C655.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>

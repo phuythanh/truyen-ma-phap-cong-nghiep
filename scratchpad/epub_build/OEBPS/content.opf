@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1038</dc:title>
+    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1041</dc:title>
     <dc:language>vi</dc:language>
-    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f3d265ce-ecdf-4de5-9759-469a0a06d3ec</dc:identifier>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:30b07fbd-fbc4-4aeb-8d72-2035e077b8cd</dc:identifier>
     <dc:creator>Ban dich tiep (Trung-Viet)</dc:creator>
     <meta name="cover" content="cover-image"/>
   </metadata>
@@ -664,6 +664,9 @@
     <item id="C650" href="Text/C650.xhtml" media-type="application/xhtml+xml"/>
     <item id="C651" href="Text/C651.xhtml" media-type="application/xhtml+xml"/>
     <item id="C652" href="Text/C652.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C653" href="Text/C653.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C654" href="Text/C654.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C655" href="Text/C655.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover"/>
@@ -1319,5 +1322,8 @@
     <itemref idref="C650"/>
     <itemref idref="C651"/>
     <itemref idref="C652"/>
+    <itemref idref="C653"/>
+    <itemref idref="C654"/>
+    <itemref idref="C655"/>
   </spine>
 </package>
