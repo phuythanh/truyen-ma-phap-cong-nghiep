@@ -1,5 +1,5 @@
 # ROLLING SUMMARY — cập nhật sau mỗi batch dịch
-*Cập nhật đến hết Chương 988 (= zh 0993). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+*Cập nhật đến hết Chương 1061 (= zh 1066). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
 
 ## Mạch chính đợt 450–699 (tóm lược cấp cao)
 - **Kinh tế/công nghiệp:** Tân Phi tiếp tục bành trướng — máy móc ma lực gia dụng, xe máy/xe hơi ma lực (thêm hệ thống giảm xóc), **tàu ma lực** (đường thủy) đang nghiên cứu; mở rộng sang các thành mới (Cerwell, Laimat, Anweimar...). Cạnh tranh & hợp tác với hàng loạt thương hội (Walmart/Kolma Lundes, Mobil/Dwayne Selop, Rockefeller/Skander Orwell, Porter, Melda/Ladis Sampson, Chimera phát hành ngân phiếu vàng). Tài chính do Sebastian (giám đốc tài chính) lo.
@@ -206,3 +206,19 @@ Cốt truyện: Nàng rồng Cassandra (Hồng Long) vô cùng yêu thích bộ 
 ## Batch 1042-1043 (2026-07-20, dịch trực tiếp bằng Sonnet)
 QA gate 2/2 pass sạch: CJK=0, ratio bytes 1.43-1.46, số dòng non-empty out/zh khớp tuyệt đối, 0 dòng trùng lặp liên tiếp.
 Cốt truyện: Hứa Dịch ngồi xem phim truyền hình 《Polock vương triều ân cừu ký》 với Cassandra, giải thích rằng anh là đồng biên kịch cho bộ phim 3D hoành tráng này (do Steele đạo diễn, quy mô đỉnh cao nhờ sự phối hợp của quân đội chính quy). Hứa Dịch tặng Cassandra chiếc máy chiếu và trọn bộ phim để cô mang về nhà xem. Cassandra thừa nhận cô bay 10.000km về chỉ vì tò mò muốn xem tiếp phim. Cô khẳng định Ma tộc Vực Thẳm bị tộc Elf đánh đuổi xưa kia thì nay không đáng lo ngại trước sức mạnh loài người (1042). Cassandra cho biết rồng sống độc lập, lười biếng và thiếu trò tiêu khiển nên mới bị phim ảnh cuốn hút. Mùa thu tới, giải đua xe ma lực chặng Tân Phi được tổ chức hoành tráng ngoài thành Tân Phi. Cervini bí mật cải trang cùng Hứa Dịch xem đua xe trên khán đài chính, phàn nàn về sức ép của dư luận báo chí và hỏi Cassandra đang ngồi ở chiếc xe đua nào (1043).
+
+## Batch 1044-1046 (2026-07-20, dịch trực tiếp)
+QA gate 3/3 pass sạch: CJK=0, ratio bytes 1.40-1.45, số dòng non-empty out/zh khớp tuyệt đối, 0 dòng trùng lặp liên tiếp.
+Cốt truyện: Cassandra tham gia giải đua xe ma lực nhưng xếp chót. Hứa Dịch đề xuất mở xưởng sửa chữa/bảo dưỡng tại đảo Hỏa Nham và tặng Cassandra cùng tộc nhân nhiều máy móc (xe hơi ma lực, máy chiếu ảnh ảo) để thăm dò thị trường tộc rồng (1044-1045). Cervini quyết định cùng Hứa Dịch tham gia kế hoạch khai phá lục địa mới Ma Vân. Hứa Dịch sắp xếp bàn giao công việc kinh doanh cho Kennard để chuẩn bị chuyến viễn hành viễn dương (1046).
+
+## Batch 1047-1061 (2026-07-20, dịch bằng agent)
+QA gate 15/15 pass sạch: CJK=0, ratio bytes 1.29-1.47, số dòng non-empty out/zh khớp tuyệt đối, 0 dòng trùng lặp liên tiếp. +3 tên GLOSSARY mới (Leon, Kakalor, Thương hội Máy móc Ma pháp Bình Minh).
+Cốt truyện: Akali phát triển thành công trạm tiếp sóng tín hiệu ma lực cao không trên phi đĩnh, giải quyết bài toán liên lạc 10.000km, trực tiếp kết nối Ma Vân Đại Lục với Saiens. Akali cùng đoàn thám hiểm đặt chân lên Ma Vân Đại Lục, gặp Rồng Đen Leon (bạn thuở ấu thơ của Cassandra) (1047-1050). Russell cùng Hoàng đế Kendra bàn bạc về đại lục mới và quyết định mua tàu ma lực để chuẩn bị viễn chinh. Tân Phi chính thức công bố phát hiện đại lục mới được xác nhận, cả thế giới chấn động (1051-1053). Kruger và Thương hội Tàu Tân Phi tách ra làm ăn độc lập. Toàn đại lục Saiens hỗn loạn, các nước Nozdorm, Wales, Malo, Kendra đều rục rịch mở rộng lãnh thổ và cạnh tranh hải quân. Tân Phi thiết lập căn cứ biên phòng bảo vệ Rulson. Hoàng đế Kendra Debor XVII chấp nhận thất bại quân sự trước đó, chuyển sang hợp tác kinh tế/công nghệ sâu với Tân Phi (1054-1057). Sanchelli đạt đột phá trong xử lý đồng bộ đa luồng pháp trận (tiền thân của máy tính ma pháp). Freya 14 tuổi muốn kế thừa cha làm Hội trưởng, bắt đầu thực tập làm công nhân xưởng sản xuất. Kennard chính thức từ chức sau 14 năm cống hiến, Yanis được chọn làm Tổng giám đốc điều hành thế hệ thứ hai. Thương hội Chimera đề nghị hợp tác xây dựng mạng lưới máy móc ma pháp gia dụng (1058-1061).
+
+## Trạng thái nối tiếp cho chương 1062 (= zh 1067)
+- **Kế hoạch khai phá Ma Vân Đại Lục (đại lục mới):** Toàn thế giới Saiens rục rịch chuẩn bị lực lượng. Các nước đang chạy đua hải quân để tiếp cận đại lục mới.
+- **Yanis đảm nhận vị trí Tổng giám đốc điều hành mới:** Sau khi Kennard từ chức, Yanis lên thay. Freya bắt đầu thực tập công nhân tại xưởng lắp ráp.
+- **Thương hội Máy móc Ma pháp Bình Minh:** Thương hội mới do Kennard thành lập sau khi rời Tân Phi, được gia tộc Ama hậu thuẫn.
+- **Hợp tác với Thương hội Chimera:** Chimera đề nghị hợp tác xây dựng mạng lưới máy móc ma pháp gia dụng trên diện rộng, có giá trị chiến lược rất lớn đối với Tân Phi.
+- **Máy tính ma pháp sơ khai:** Đột phá xử lý đa luồng của Sanchelli hứa hẹn sự ra đời của máy tính ma pháp trong tương lai gần.
+- **Leon (Rồng Đen) và tộc Rồng:** Leon tò mò với sản phẩm của Tân Phi do Cassandra đem về đảo rồng.
