@@ -78,6 +78,7 @@ Nếu phát hiện bất kỳ lỗi nào (như `FAIL_CJK`, `WARN_PARACOUNT`, `WA
 - Cập nhật file `memo\PROGRESS.json` (tăng `last_done_vi` lên chương mới nhất vừa dịch xong).
 - Nếu phát hiện các tên riêng mới xuất hiện, hãy bổ dung vào `memo\GLOSSARY.tsv` kèm phân loại và ghi chú rõ ràng.
 - Cập nhật tóm tắt chương vào `memo\ROLLING_SUMMARY.md` sau mỗi cụm dịch (~10 chương).
+- Commit toàn bộ các thay đổi vào Git, bao gồm: các file dịch mới trong `chapters_out/`, file PROGRESS.json, GLOSSARY.tsv, ROLLING_SUMMARY.md, file EPUB mới, các file cấu trúc EPUB (`scratchpad/epub_build/OEBPS/content.opf`, `scratchpad/epub_build/OEBPS/toc.ncx`) và file kết quả QA (`scratchpad/qa_output.csv`).
 
 ---
 

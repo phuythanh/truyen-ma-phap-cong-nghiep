@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:1b59640a-ca43-4c48-b396-c1998da846d2"/>
+    <meta name="dtb:uid" content="urn:uuid:f3d265ce-ecdf-4de5-9759-469a0a06d3ec"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1030</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1038</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -3831,6 +3831,18 @@
       </navLabel>
       <content src="Text/C637.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-638" playOrder="638">
+      <navLabel>
+        <text>Chương 1024: Thương hội tái cơ cấu</text>
+      </navLabel>
+      <content src="Text/C638.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-639" playOrder="639">
+      <navLabel>
+        <text>Chương 1025: Thiếu nữ ma pháp thiên tài</text>
+      </navLabel>
+      <content src="Text/C639.xhtml"/>
+    </navPoint>
     <navPoint id="navPoint-640" playOrder="640">
       <navLabel>
         <text>Chương 1026: Giáo trình tiểu học tu luyện ma lực</text>
@@ -3860,6 +3872,54 @@
         <text>Chương 1030: Bạo loạn</text>
       </navLabel>
       <content src="Text/C644.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-645" playOrder="645">
+      <navLabel>
+        <text>Chương 1031: Không cần kiêng dè hậu quả</text>
+      </navLabel>
+      <content src="Text/C645.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-646" playOrder="646">
+      <navLabel>
+        <text>Chương 1032: Tự làm nghiên cứu</text>
+      </navLabel>
+      <content src="Text/C646.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-647" playOrder="647">
+      <navLabel>
+        <text>Chương 1033: Luyện ngục trần gian</text>
+      </navLabel>
+      <content src="Text/C647.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-648" playOrder="648">
+      <navLabel>
+        <text>Chương 1034: Vương quốc Delo sắp xui xẻo rồi</text>
+      </navLabel>
+      <content src="Text/C648.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-649" playOrder="649">
+      <navLabel>
+        <text>Chương 1035: Ngang hàng với hai đại đế quốc</text>
+      </navLabel>
+      <content src="Text/C649.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-650" playOrder="650">
+      <navLabel>
+        <text>Chương 1036: Tiêu diệt tộc Delo thì sao?</text>
+      </navLabel>
+      <content src="Text/C650.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-651" playOrder="651">
+      <navLabel>
+        <text>Chương 1037: Lý niệm khác biệt</text>
+      </navLabel>
+      <content src="Text/C651.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-652" playOrder="652">
+      <navLabel>
+        <text>Chương 1038: Có rồng từ phương xa tới</text>
+      </navLabel>
+      <content src="Text/C652.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>

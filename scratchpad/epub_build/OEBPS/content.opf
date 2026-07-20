@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1030</dc:title>
+    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1038</dc:title>
     <dc:language>vi</dc:language>
-    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:1b59640a-ca43-4c48-b396-c1998da846d2</dc:identifier>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f3d265ce-ecdf-4de5-9759-469a0a06d3ec</dc:identifier>
     <dc:creator>Ban dich tiep (Trung-Viet)</dc:creator>
     <meta name="cover" content="cover-image"/>
   </metadata>
@@ -649,11 +649,21 @@
     <item id="C635" href="Text/C635.xhtml" media-type="application/xhtml+xml"/>
     <item id="C636" href="Text/C636.xhtml" media-type="application/xhtml+xml"/>
     <item id="C637" href="Text/C637.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C638" href="Text/C638.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C639" href="Text/C639.xhtml" media-type="application/xhtml+xml"/>
     <item id="C640" href="Text/C640.xhtml" media-type="application/xhtml+xml"/>
     <item id="C641" href="Text/C641.xhtml" media-type="application/xhtml+xml"/>
     <item id="C642" href="Text/C642.xhtml" media-type="application/xhtml+xml"/>
     <item id="C643" href="Text/C643.xhtml" media-type="application/xhtml+xml"/>
     <item id="C644" href="Text/C644.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C645" href="Text/C645.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C646" href="Text/C646.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C647" href="Text/C647.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C648" href="Text/C648.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C649" href="Text/C649.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C650" href="Text/C650.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C651" href="Text/C651.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C652" href="Text/C652.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover"/>
@@ -1294,10 +1304,20 @@
     <itemref idref="C635"/>
     <itemref idref="C636"/>
     <itemref idref="C637"/>
+    <itemref idref="C638"/>
+    <itemref idref="C639"/>
     <itemref idref="C640"/>
     <itemref idref="C641"/>
     <itemref idref="C642"/>
     <itemref idref="C643"/>
     <itemref idref="C644"/>
+    <itemref idref="C645"/>
+    <itemref idref="C646"/>
+    <itemref idref="C647"/>
+    <itemref idref="C648"/>
+    <itemref idref="C649"/>
+    <itemref idref="C650"/>
+    <itemref idref="C651"/>
+    <itemref idref="C652"/>
   </spine>
 </package>
