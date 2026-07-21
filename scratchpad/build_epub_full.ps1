@@ -190,5 +190,8 @@ foreach ($f in $filesToAdd) {
 }
 $zip.Dispose()
 
+# Clean up stale EPUB files
+Get-ChildItem -Path $root -Filter "Ma Phap - Chuong *.epub" | Where-Object { $_.FullName -ne $outEpub } | Remove-Item -Force
+
 Write-Host "EPUB built: $outEpub"
 Write-Host "Size: $((Get-Item $outEpub).Length / 1MB) MB"

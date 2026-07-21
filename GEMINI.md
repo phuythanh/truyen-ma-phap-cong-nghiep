@@ -22,7 +22,7 @@ Tài liệu này hướng dẫn Gemini CLI (và các LLM khác như Claude) các
 Trước khi thực hiện bất kỳ hoạt động dịch thuật hay bổ sung thông tin nào, hãy đọc kỹ các file cấu hình tại thư mục `memo\` (nằm ở thư mục gốc của project):
 
 1. **`memo\PROGRESS.json`**: Lưu trạng thái tiến độ hiện tại (`last_done_vi`).
-   - *Trạng thái hiện tại:* Đã hoàn thành dịch đến Chương **1038** (file nguồn `1043.txt`). Chương dịch tiếp theo là **1039** (file nguồn `1044.txt`).
+   - *Trạng thái hiện tại:* Đã hoàn thành dịch đến Chương **1116** (file nguồn `1121.txt`). Chương dịch tiếp theo là **1117** (file nguồn `1122.txt`).
 2. **`memo\STYLE_GUIDE.md`**: Quy tắc văn phong, xưng hô, giọng điệu đặc trưng của bản dịch gốc.
    - Nhân vật chính (Hứa Dịch) xưng **"tôi"**, văn kể gọi là **"anh"**.
    - Tên nhân vật gốc Trung dùng âm **Hán Việt** (许亦 = Hứa Dịch).
@@ -96,6 +96,7 @@ Nếu phát hiện bất kỳ lỗi nào (như `FAIL_CJK`, `WARN_PARACOUNT`, `WA
    python .\scratchpad\build_epub_full.py
    ```
 4. File đầu ra sẽ nằm tại thư mục gốc của project: `Ma Phap - Chuong 387-{last}.epub`.
+   - *Lưu ý quan trọng:* Script sẽ tự động xóa sạch toàn bộ các file `.epub` xuất cũ ở thư mục gốc, chỉ duy trì 1 file epub mới nhất để tránh lộn xộn trong repository.
 
 ---
 

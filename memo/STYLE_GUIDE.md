@@ -28,9 +28,9 @@ Dịch giả truyện mạng chuyên nghiệp 10 năm kinh nghiệm, chuyên Tru
 - Không thêm ghi chú dịch giả, không bình luận, không tóm tắt — CHỈ bản dịch.
 - Số đo lường giữ hệ mét như gốc (mét, km, tấn); tiền: "đồng vàng", "vạn đồng vàng".
 
-## Xưng hô & đại từ (QUAN TRỌNG — user chốt 2026-07-09)
-- **我 (tôi):** MẶC ĐỊNH dịch **"tôi"** trong mọi hội thoại bình thường (kể cả dân thường bàn chuyện, mua bán, tán gẫu). **CHỈ dùng "tao"** khi nhân vật đang **tức giận / cãi vã / chửi / quát nạt**. Không dùng "tao" tràn lan cho lời nói thường.
-- **你 (ngôi 2):** dịch theo quan hệ — "anh/ông/cậu/ngài/cô…"; **"mày"** chỉ khi tức giận/thô lỗ (đi cặp với "tao"). *(Lưu ý: "mày" trong "nhíu mày / cau mày / lông mày" là nghĩa khác — KHÔNG phải đại từ.)*
+## Xưng hô & đại từ (QUAN TRỌNG — user chốt 2026-07-09, cập nhật 2026-07-21)
+- **我 (tôi):** MẶC ĐỊNH dịch **"tôi"** trong mọi hội thoại bình thường (kể cả dân thường bàn chuyện, mua bán, tán gẫu). **CỰC KỲ HẠN CHẾ** dùng "mày - tao". Chỉ dùng "tao" khi nhân vật thực sự đang **căm phẫn, tức giận tột độ, cãi vã lớn hoặc chửi bới**. Bình thường, dù tức giận nhẹ hay trịch thượng, hãy dịch là "ta" hoặc tìm đại từ thích hợp hơn (như "tôi", "ông", "ta") để giảm thiểu tối đa "mày tao" nhằm giữ văn phong nhã nhặn của truyện.
+- **你 (ngôi 2):** dịch theo quan hệ — "anh/ông/cậu/ngài/cô…"; **"mày"** chỉ khi tức giận/thô lỗ đi cặp với "tao" (nhưng cực kỳ hạn chế). *(Lưu ý: "mày" trong "nhíu mày / cau mày / lông mày" là nghĩa khác — KHÔNG phải đại từ.)*
 - **我们 vs 咱们:** phân biệt rõ:
   - **"chúng tôi"** = số nhiều KHÔNG gồm người nghe (nói về phe/nhóm mình với người ngoài).
   - **"chúng ta"** = số nhiều CÓ gồm người nghe (rủ rê, bàn chung với người đối diện).
