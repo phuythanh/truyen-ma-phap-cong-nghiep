@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:6ac44c01-38d1-4e59-a523-668df485340c"/>
+    <meta name="dtb:uid" content="urn:uuid:5af3f373-c5b7-4b78-be48-1d6f736dda6b"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1091</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1116</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -4238,6 +4238,156 @@
         <text>Chương 1091: Vẫn phải nói lời tạm biệt</text>
       </navLabel>
       <content src="Text/C705.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-706" playOrder="706">
+      <navLabel>
+        <text>Chương 1092: Địch lại cả thế giới</text>
+      </navLabel>
+      <content src="Text/C706.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-707" playOrder="707">
+      <navLabel>
+        <text>Chương 1093: Tiên phong</text>
+      </navLabel>
+      <content src="Text/C707.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-708" playOrder="708">
+      <navLabel>
+        <text>Chương 1094: Khắp nơi khói lửa</text>
+      </navLabel>
+      <content src="Text/C708.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-709" playOrder="709">
+      <navLabel>
+        <text>Chương 1095: Tham chiến</text>
+      </navLabel>
+      <content src="Text/C709.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-710" playOrder="710">
+      <navLabel>
+        <text>Chương 1096: Tân phái và Cựu phái</text>
+      </navLabel>
+      <content src="Text/C710.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-711" playOrder="711">
+      <navLabel>
+        <text>Chương 1097: Đại ma pháp sư cũng chẳng có tác dụng gì</text>
+      </navLabel>
+      <content src="Text/C711.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-712" playOrder="712">
+      <navLabel>
+        <text>Chương 1098: Tướng lĩnh tân phái</text>
+      </navLabel>
+      <content src="Text/C712.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-713" playOrder="713">
+      <navLabel>
+        <text>Chương 1099: Quyết chiến trên thảo nguyên</text>
+      </navLabel>
+      <content src="Text/C713.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-714" playOrder="714">
+      <navLabel>
+        <text>Chương 1100: Những chiếc xe ma lực kiểu dáng kỳ lạ</text>
+      </navLabel>
+      <content src="Text/C714.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-715" playOrder="715">
+      <navLabel>
+        <text>Chương 1101: Chúng ta rút lui thôi</text>
+      </navLabel>
+      <content src="Text/C715.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-716" playOrder="716">
+      <navLabel>
+        <text>Chương 1102: Cảnh báo từ radar ma lực</text>
+      </navLabel>
+      <content src="Text/C716.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-717" playOrder="717">
+      <navLabel>
+        <text>Chương 1103: Cuộc truy đuổi</text>
+      </navLabel>
+      <content src="Text/C717.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-718" playOrder="718">
+      <navLabel>
+        <text>Chương 1104: Phong vân biến ảo</text>
+      </navLabel>
+      <content src="Text/C718.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-719" playOrder="719">
+      <navLabel>
+        <text>Chương 1105: Hệ thống phòng ngự ma lực thành phố</text>
+      </navLabel>
+      <content src="Text/C719.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-720" playOrder="720">
+      <navLabel>
+        <text>Chương 1106: Phải tận dụng triệt để ưu thế công nghệ</text>
+      </navLabel>
+      <content src="Text/C720.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-721" playOrder="721">
+      <navLabel>
+        <text>Chương 1107: Bản thổ bị tập kích</text>
+      </navLabel>
+      <content src="Text/C721.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-722" playOrder="722">
+      <navLabel>
+        <text>Chương 1108: Đập tan truyền thống</text>
+      </navLabel>
+      <content src="Text/C722.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-723" playOrder="723">
+      <navLabel>
+        <text>Chương 1109: Đùa với lửa</text>
+      </navLabel>
+      <content src="Text/C723.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-724" playOrder="724">
+      <navLabel>
+        <text>Chương 1110: Phản ứng năng lượng cao</text>
+      </navLabel>
+      <content src="Text/C724.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-725" playOrder="725">
+      <navLabel>
+        <text>Chương 1111: Những pháp sư chật vật</text>
+      </navLabel>
+      <content src="Text/C725.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-726" playOrder="726">
+      <navLabel>
+        <text>Chương 1112: Cá lớn cắn câu</text>
+      </navLabel>
+      <content src="Text/C726.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-727" playOrder="727">
+      <navLabel>
+        <text>Chương 1113: Đại pháp sư cũng là gánh nặng</text>
+      </navLabel>
+      <content src="Text/C727.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-728" playOrder="728">
+      <navLabel>
+        <text>Chương 1114: Lồng giam ma pháp</text>
+      </navLabel>
+      <content src="Text/C728.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-729" playOrder="729">
+      <navLabel>
+        <text>Chương 1115: Nỗ lực cuối cùng</text>
+      </navLabel>
+      <content src="Text/C729.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-730" playOrder="730">
+      <navLabel>
+        <text>Chương 1116: Mục đích của tôi không phải là giết sạch các người</text>
+      </navLabel>
+      <content src="Text/C730.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
