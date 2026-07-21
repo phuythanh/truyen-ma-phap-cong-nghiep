@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:5af3f373-c5b7-4b78-be48-1d6f736dda6b"/>
+    <meta name="dtb:uid" content="urn:uuid:b7e22a6d-b4a4-4cc6-884f-52ab48b040f8"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1116</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1141</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -4388,6 +4388,156 @@
         <text>Chương 1116: Mục đích của tôi không phải là giết sạch các người</text>
       </navLabel>
       <content src="Text/C730.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-731" playOrder="731">
+      <navLabel>
+        <text>Chương 1117: Nhận thua</text>
+      </navLabel>
+      <content src="Text/C731.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-732" playOrder="732">
+      <navLabel>
+        <text>Chương 1118: Lòng tin</text>
+      </navLabel>
+      <content src="Text/C732.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-733" playOrder="733">
+      <navLabel>
+        <text>Chương 1119: Tốt nhất đừng giao chiến trực diện</text>
+      </navLabel>
+      <content src="Text/C733.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-734" playOrder="734">
+      <navLabel>
+        <text>Chương 1120: Sự phản công của hai đại đế quốc</text>
+      </navLabel>
+      <content src="Text/C734.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-735" playOrder="735">
+      <navLabel>
+        <text>Chương 1121: Nếu như nơi này vĩnh viễn bị chiếm đóng thì tốt rồi</text>
+      </navLabel>
+      <content src="Text/C735.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-736" playOrder="736">
+      <navLabel>
+        <text>Chương 1122: Quân đội Vương quốc Lanpari xa xỉ</text>
+      </navLabel>
+      <content src="Text/C736.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-737" playOrder="737">
+      <navLabel>
+        <text>Chương 1123: Đợt phản công của Vương quốc Lanpari</text>
+      </navLabel>
+      <content src="Text/C737.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-738" playOrder="738">
+      <navLabel>
+        <text>Chương 1124: Không còn vô địch</text>
+      </navLabel>
+      <content src="Text/C738.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-739" playOrder="739">
+      <navLabel>
+        <text>Chương 1125: Phòng tuyến sụp đổ</text>
+      </navLabel>
+      <content src="Text/C739.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-740" playOrder="740">
+      <navLabel>
+        <text>Chương 1126: Thâm hụt tài chính</text>
+      </navLabel>
+      <content src="Text/C740.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-741" playOrder="741">
+      <navLabel>
+        <text>Chương 1127: Trở thành truyền kỳ</text>
+      </navLabel>
+      <content src="Text/C741.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-742" playOrder="742">
+      <navLabel>
+        <text>Chương 1128: Tỉnh thành thất thủ</text>
+      </navLabel>
+      <content src="Text/C742.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-743" playOrder="743">
+      <navLabel>
+        <text>Chương 1129: Chủ động hòa đàm</text>
+      </navLabel>
+      <content src="Text/C743.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-744" playOrder="744">
+      <navLabel>
+        <text>Chương 1130: Thái độ</text>
+      </navLabel>
+      <content src="Text/C744.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-745" playOrder="745">
+      <navLabel>
+        <text>Chương 1131: Bó tay bất lực</text>
+      </navLabel>
+      <content src="Text/C745.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-746" playOrder="746">
+      <navLabel>
+        <text>Chương 1132: Thực ra vẫn là kiếm lời</text>
+      </navLabel>
+      <content src="Text/C746.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-747" playOrder="747">
+      <navLabel>
+        <text>Chương 1133: Đánh chiếm cũng chẳng có lợi gì</text>
+      </navLabel>
+      <content src="Text/C747.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-748" playOrder="748">
+      <navLabel>
+        <text>Chương 1134: Ưu thế và nhược thế của đại lục Ma Vân</text>
+      </navLabel>
+      <content src="Text/C748.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-749" playOrder="749">
+      <navLabel>
+        <text>Chương 1135: Trận chiến cuối cùng (Một)</text>
+      </navLabel>
+      <content src="Text/C749.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-750" playOrder="750">
+      <navLabel>
+        <text>Chương 1136: Trận chiến cuối cùng (Hai)</text>
+      </navLabel>
+      <content src="Text/C750.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-751" playOrder="751">
+      <navLabel>
+        <text>Chương 1137: Trận chiến cuối cùng (3)</text>
+      </navLabel>
+      <content src="Text/C751.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-752" playOrder="752">
+      <navLabel>
+        <text>Chương 1138: Trận chiến cuối cùng (4)</text>
+      </navLabel>
+      <content src="Text/C752.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-753" playOrder="753">
+      <navLabel>
+        <text>Chương 1139: Trận chiến cuối cùng (5)</text>
+      </navLabel>
+      <content src="Text/C753.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-754" playOrder="754">
+      <navLabel>
+        <text>Chương 1140: Đến đây là dừng thôi</text>
+      </navLabel>
+      <content src="Text/C754.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-755" playOrder="755">
+      <navLabel>
+        <text>Chương 1141: Quan điểm khoa học ma pháp</text>
+      </navLabel>
+      <content src="Text/C755.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
