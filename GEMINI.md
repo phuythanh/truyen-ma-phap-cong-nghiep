@@ -34,6 +34,27 @@ Trước khi thực hiện bất kỳ hoạt động dịch thuật hay bổ sun
 
 ---
 
+## ⚠️ NGUYÊN TẮC CỐT LÕI (BẮT BUỘC TUÂN THỦ TUYỆT ĐỐI)
+
+Để ngăn ngừa triệt để các lỗi nghiêm trọng về **sai lệch nhân vật/địa danh** và **lỗi mã hóa font chữ (Mojibake)**, tất cả các tác vụ dịch thuật và xử lý file phải tuân thủ nghiêm ngặt các nguyên tắc sau:
+
+### 1. Đồng bộ và thống nhất Nhân vật/Địa danh (Không dịch lệch tên)
+* **Tra cứu từ điển trước:** Trước khi tiến hành dịch bất kỳ chương nào, bắt buộc phải đọc và tra cứu các tên riêng (nhân vật, địa danh, quốc gia, tổ chức) trong file [memo/GLOSSARY.tsv](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/memo/GLOSSARY.tsv) và [memo/STORY_BIBLE.md](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/memo/STORY_BIBLE.md).
+* **Cấm phiên âm tự phát:** Tuyệt đối không tự ý phiên âm bừa bãi khi từ điển đã có quy ước (ví dụ: `斯坦丁公国` phải dịch nhất quán là `Công quốc Stan` theo glossary, không được tự ý dịch thành `Công quốc Stading/Staging/Standing`).
+* **Bổ sung từ điển kịp thời:** Khi có nhân vật hoặc thuật ngữ mới xuất hiện trong chương nguồn tiếng Trung:
+  * Xác định dịch nghĩa (ví dụ: tên Tây dịch sang Latin như *Stark, Bontar*; tên gốc Trung dịch âm Hán Việt như *Hứa Dịch*).
+  * **Phải ghi nhận ngay** từ mới này vào file [memo/GLOSSARY.tsv](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/memo/GLOSSARY.tsv) kèm phân loại và ghi chú.
+
+### 2. Đảm bảo Encoding và phòng ngừa lỗi font (Tuyệt đối không bị Mojibake)
+* **Thiết lập UTF-8 mặc định:** Mọi thao tác đọc, viết hoặc ghi đè file trong project phải chỉ định rõ encoding **UTF-8** (không dùng bảng mã mặc định của Windows là ANSI/Windows-1252/CP1258).
+* **Cảnh giác khi chạy script tự động (PowerShell/Python):**
+  * Trong **PowerShell (5.1 mặc định)**: Tránh dùng pipe (`|`) hoặc redirect (`>`) trực tiếp từ stdout của các lệnh console (như `git show`) mà không thiết lập encoding, vì PowerShell sẽ tự động giải mã thành rác ký tự ANSI. Luôn dùng các phương thức của hệ thống như `[System.IO.File]::WriteAllLines()` hoặc chỉ định tham số `-Encoding UTF8` rõ ràng.
+  * Trong **Python**: Luôn mở file với tham số `encoding='utf-8'` (ví dụ: `open(file, 'r', encoding='utf-8')`).
+  * Trong **Node.js**: Luôn chỉ định `'utf8'` khi đọc ghi (ví dụ: `fs.writeFileSync(path, content, 'utf8')`).
+* **Bắt buộc chạy QA:** Sau khi dịch xong bất kỳ cụm chương nào, bắt buộc phải chạy script kiểm tra chất lượng [scratchpad/qa_chapters.ps1](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/scratchpad/qa_chapters.ps1). Nếu kết quả trả về có lỗi `FAIL_MOJIBAKE` hoặc `FAIL_CJK`, phải lập tức mở file dịch ra sửa lại và build lại EPUB.
+
+---
+
 ## 🛠️ PIPELINE DỊCH BẰNG GEMINI CLI (CHI TIẾT)
 
 Khi nhận lệnh dịch tiếp, Gemini CLI sẽ hoạt động theo chu trình **Research -> Strategy -> Execution (Plan -> Act -> Validate)**.

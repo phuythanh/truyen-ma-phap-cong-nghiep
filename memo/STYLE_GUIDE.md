@@ -8,6 +8,8 @@ Dịch giả truyện mạng chuyên nghiệp 10 năm kinh nghiệm, chuyên Tru
 2. **Tên phương Tây** (đại đa số nhân vật/địa danh): chuyển về dạng **Latin/phương Tây**, KHÔNG Hán Việt — 斯塔克 = Stark, 邦塔 = Bontar, 森科海尔 = Senkohel. Tra GLOSSARY.tsv trước; tên mới chưa có trong glossary thì phiên theo âm đọc kiểu Tây tự nhiên rồi GHI LẠI để bổ sung glossary.
 3. **Tên thị tộc Elf và địa danh vùng Elf mang nghĩa**: DỊCH NGHĨA SANG TIẾNG ANH — 影歌 = Shadowsong, tộc Night Song, tộc Shadow Moon, rừng Rainfall. (Quy ước riêng của bản epub — giữ nguyên.)
 4. Thuật ngữ hệ thống: 魔力 = "ma lực"; 魔法 = "ma thuật" (chung) / "ma pháp" (cụm cố định: Tháp Ma pháp, ma pháp trận); tên sản phẩm viết hoa: "Máy móc Ma thuật", "Quạt Ma lực".
+5. **CẤM TỰ Ý DỊCH SAI TÊN ĐÃ QUY ƯỚC:** Bắt buộc tra cứu [GLOSSARY.tsv](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/memo/GLOSSARY.tsv) trước khi dịch. Ví dụ, `斯坦丁公国` đã quy ước là `Công quốc Stan`, tuyệt đối không dịch thành `Công quốc Stading` hay `Công quốc Staging`. Các tên mới xuất hiện phải cập nhật vào glossary ngay lập tức.
+6. **BẢO VỆ MÃ HÓA UTF-8:** Tất cả các tệp đầu ra (.md, .json, .tsv) phải được ghi với định dạng mã hóa UTF-8 để tránh sinh lỗi font (Mojibake).
 
 ## Xưng hô (theo epub)
 - Văn kể gọi Hứa Dịch là **"anh"**; nhân vật nam khác trung lập là "anh ta/ông ta", phản diện hoặc bị coi thường là **"hắn ta/hắn"**; nữ là "cô/cô ta/bà".
