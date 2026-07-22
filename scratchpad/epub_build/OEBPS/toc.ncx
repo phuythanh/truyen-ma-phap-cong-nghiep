@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:a57297df-8a6f-4942-8a9c-7fc1d954657e"/>
+    <meta name="dtb:uid" content="urn:uuid:2cd3ec0a-57b2-4ad3-b5e2-024859ba1b05"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1166</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1184</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -4688,6 +4688,114 @@
         <text>Chương 1166: Lòng tự tôn yếu ớt</text>
       </navLabel>
       <content src="Text/C780.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-781" playOrder="781">
+      <navLabel>
+        <text>Chương 1167: Hệ thống giám sát ma lực</text>
+      </navLabel>
+      <content src="Text/C781.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-782" playOrder="782">
+      <navLabel>
+        <text>Chương 1168: Hành hung trên phố</text>
+      </navLabel>
+      <content src="Text/C782.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-783" playOrder="783">
+      <navLabel>
+        <text>Chương 1169: Xin việc</text>
+      </navLabel>
+      <content src="Text/C783.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-784" playOrder="784">
+      <navLabel>
+        <text>Chương 1170: Vẫn muốn tham gia sơ khảo</text>
+      </navLabel>
+      <content src="Text/C784.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-785" playOrder="785">
+      <navLabel>
+        <text>Chương 1171: Đại sư Akali</text>
+      </navLabel>
+      <content src="Text/C785.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-786" playOrder="786">
+      <navLabel>
+        <text>Chương 1172: Công việc xa quê hương</text>
+      </navLabel>
+      <content src="Text/C786.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-787" playOrder="787">
+      <navLabel>
+        <text>Chương 1173: Lựa chọn</text>
+      </navLabel>
+      <content src="Text/C787.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-788" playOrder="788">
+      <navLabel>
+        <text>Chương 1174: Tôi không sai</text>
+      </navLabel>
+      <content src="Text/C788.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-789" playOrder="789">
+      <navLabel>
+        <text>Chương 1175: Hậu cung tộc Elf</text>
+      </navLabel>
+      <content src="Text/C789.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-790" playOrder="790">
+      <navLabel>
+        <text>Chương 1176: Bị gài bẫy</text>
+      </navLabel>
+      <content src="Text/C790.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-791" playOrder="791">
+      <navLabel>
+        <text>Chương 1177: Giao toàn quyền</text>
+      </navLabel>
+      <content src="Text/C791.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-792" playOrder="792">
+      <navLabel>
+        <text>Chương 1178: Công nghệ đen</text>
+      </navLabel>
+      <content src="Text/C792.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-793" playOrder="793">
+      <navLabel>
+        <text>Chương 1179: Đây coi như là cảnh cáo sao?</text>
+      </navLabel>
+      <content src="Text/C793.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-794" playOrder="794">
+      <navLabel>
+        <text>Chương 1180: Cần sức mạnh</text>
+      </navLabel>
+      <content src="Text/C794.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-795" playOrder="795">
+      <navLabel>
+        <text>Chương 1181: Đại khai phá miền Đông</text>
+      </navLabel>
+      <content src="Text/C795.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-796" playOrder="796">
+      <navLabel>
+        <text>Chương 1182: Lại là một cuộc phản loạn</text>
+      </navLabel>
+      <content src="Text/C796.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-797" playOrder="797">
+      <navLabel>
+        <text>Chương 1183: Đại tướng quân Lefalu chết rồi</text>
+      </navLabel>
+      <content src="Text/C797.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-798" playOrder="798">
+      <navLabel>
+        <text>Chương 1184: Có lòng tin đối với Hứa Dịch</text>
+      </navLabel>
+      <content src="Text/C798.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>

@@ -1,5 +1,9 @@
 # ROLLING SUMMARY — cập nhật sau mỗi batch dịch
-*Cập nhật đến hết Chương 1169 (= zh 1174). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+*Cập nhật đến hết Chương 1184 (= zh 1189). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+
+## Đợt 1182–1184 (tóm lược)
+- **Bình định Vương quốc Kulanyi (1182-1183):** Hứa Dịch đến Vương quốc Kulanyi để bắt đầu Kế hoạch Đại Khai Phá miền Đông thì gặp cảnh bạo loạn. Đại tướng quân Lefalu giết Quốc vương Simpson để cướp ngôi. Hứa Dịch đích thân ra tay, đội hộ vệ Tân Phi bắt gọn Lefalu, xử trảm quân phản loạn và đưa một cậu bé 12 tuổi lên ngôi. Nhờ đó Tân Phi hoàn toàn kiểm soát Kulanyi, đẩy nhanh thần tốc tiến độ công nghiệp hóa và bảo vệ môi trường (trồng rừng) tại đây.
+- **Sự kiêng dè của Đế quốc Kendra (1184):** Nhận được báo cáo về cách làm kịch liệt của Hứa Dịch tại Kulanyi, Hoàng đế Alfonso (Debor XVII) của Đế quốc Kendra tỏ ra bất an. Dù Đế quốc Kendra đang phồn vinh nhờ Tân Phi (cải thiện nông nghiệp, thủy lợi, mạng lưới liên lạc ma pháp), Hoàng đế vẫn lo ngại Hứa Dịch sở hữu khả năng thay đổi cục diện lục địa nếu anh ta muốn. Đại công tước Galbut vẫn giữ lòng tin với Hứa Dịch sau 10 năm hành động vì hòa bình và phát triển của anh.
 
 ## Đợt 1167–1169 (tóm lược)
 - **Hệ thống giám sát ma lực (1167-1168):** Sau vụ bắt cóc học sinh, Tiểu Công tước Windsor (tân Tổng đốc miền nam Kendra) đặt hàng Thương hội Tân Nguyệt lắp đặt hệ thống giám sát ma lực (camera) tại thành Doral. Trong ngày thử nghiệm, hệ thống đã giúp bắt quả tang một kẻ hành hung trên phố, chứng minh hiệu quả răn đe tội phạm.
@@ -306,3 +310,7 @@ Cốt truyện: Hứa Dịch dịch chuyển thoát khỏi vòng vây của Nguy
 - **Lập trường của Hứa Dịch về chia sẻ kỹ thuật và quân sự:** Hứa Dịch do dự trước yêu cầu chuyển giao công nghệ vũ khí ma lực cho Leslie (đảo Thiên Đường) để đóng tàu chiến, vì sợ biến đối tác tương lai thành kẻ thù tiềm tàng. Đồng thời anh lo ngại việc lập căn cứ quân sự tại các nước sẽ biến Tân Phi từ thương hội thành mối đe dọa quân sự trực tiếp.
 - **Leon (Rồng đen) và sự hợp tác của Long tộc:** Leon hứa thuyết phục tộc rồng hợp tác nếu Tân Phi tặng vũ khí quân dụng và phi đĩnh.
 - **Tác phẩm mới của Stella:** Bộ phim ảo ảnh "Truyền Thuyết Đế Quốc Lạc Nhật" do Thương hội Tân Nguyệt sản xuất đang gây sốt toàn đại lục.
+
+## Cụm Chương 1173 - 1178
+- **1173 - 1175:** Freya trò chuyện với Akali về việc không muốn kết hôn mà muốn tự tìm con đường riêng để kế thừa Thương hội Tân Phi. Cô gỡ bỏ lớp "da ảo ảnh" ngụy trang, để lộ nhan sắc thật tuyệt mỹ và về nhà cùng đại minh tinh Elf Linoia. Hứa Dịch mắng Freya vì hành động tùy tiện trong vụ giải cứu con tin trước đó, và yêu cầu cô tự đứng ra giải quyết hậu quả với phái đoàn Đế quốc Kendra. Cùng lúc, Linoia cùng Stella và các bộ tộc Elf khác đều thúc ép Hứa Dịch cưới các cô gái Elf, khiến anh đau đầu trước nguy cơ phải mở "Hậu cung Elf".
+- **1176 - 1178:** Freya đại diện cho Hứa Dịch đàm phán với phái đoàn Đế quốc Kendra do Hầu tước Mufala dẫn đầu. Phía Kendra đòi hỏi Tân Phi giao nộp công nghệ mạng lưới liên lạc ma pháp. Freya xử lý sắc sảo bằng cách yêu cầu Kendra thể hiện thành ý trước, đồng thời tham mưu cho Hứa Dịch rằng nên để các nước tự bỏ tiền xây dựng hạ tầng mạng liên lạc (như ở những nơi hẻo lánh), trong khi Tân Phi sẽ thu lợi khổng lồ từ việc vận hành lâu dài, mặc dù điều này đồng nghĩa với việc chia sẻ công nghệ. Hứa Dịch rất hài lòng và giao toàn quyền cho Freya. Trong thời kỳ "Thập kỷ Vàng" của công nghệ ma pháp, Hứa Dịch thu mua một công nghệ y tế "Mê Hoặc Tột Độ" (hệ Hắc ám) gây tranh cãi và liên lạc với Nữ vương Cervini để bàn chuyện quan trọng.
