@@ -73,7 +73,7 @@
 魔力风扇	Quạt Ma lực	sản phẩm	魔法风扇 = Quạt Ma thuật (epub dùng cả hai theo mặt chữ zh)
 魔力机车	xe ô tô ma lực	sản phẩm
 魔力轿车	xe hơi ma lực	sản phẩm
-魔力飞艇	phi đĩnh ma lực	sản phẩm	chưa có trong bản cũ — dịch theo quy tắc
+魔力飞艇	máy bay ma lực	sản phẩm	chưa có trong bản cũ — dịch theo quy tắc
 魔法阵	ma pháp trận / pháp trận	thuật ngữ
 魔法塔	Tháp Ma pháp	thuật ngữ	Tháp Ma pháp Camillo
 研究院	Viện nghiên cứu	tổ chức	Viện nghiên cứu Ma thuật Thương hội Tân Phi
@@ -253,14 +253,14 @@
 比利尔	Biliel	nhân vật (Nam tước Biliel)
 邦塔城魔法机械商业协会	Hiệp hội Thương nghiệp Máy móc Ma thuật thành Bontar	tổ chức
 沃克	Walker	nhân vật (hội trưởng thương hội buôn lậu hàng Tân Phi vào Sack)
-艾玛家族	gia tộc Aima	tổ chức (gia tộc xuất thân của Kennard)
+艾玛家族	gia tộc Emma	tổ chức (gia tộc xuất thân của Kennard)
 斯塔克公爵	Công tước Stark	nhân vật (gia chủ gia tộc Stark, khác Bá tước Stark thành chủ Bontar)
 亚拉多	Arado	nhân vật (Elf, chủ quản nhà máy phân bón Sancton, xuất thân tộc Moon Shadow)
 佩拉尔	Pelar	nhân vật (quý tộc nhỏ, bạn của Nam tước Bilier, chủ chiếc xe hơi ma lực bị Hứa Dịch phá)
 科罗尔村	làng Korol	địa danh (làng trồng cây ăn quả gần thành Bontar)
 比利尔男爵	Nam tước Bilier	nhân vật, quý tộc say rượu gây tai nạn xe với Cervini
 巴萨鲁城	thành Basalu	địa danh, thành phố trung lập trong tranh chấp kế vị
-艾玛侯爵	Hầu tước Elma	nhân vật, cha của Kennard
+艾玛侯爵	Hầu tước Emma	nhân vật, cha của Kennard
 伊尔丹	Ildan	nhân vật, kỹ sư Elf duy nhất của Trung tâm nghiên cứu phát triển máy tiện ma lực
 卡夫	Kaff	nhân vật, kỹ sư con người dưới quyền Kanbi
 沃勒尔狼人部落	bộ lạc Người Sói Voller	chủng tộc/tổ chức, nơi Hội trưởng Cruz đang có mặt
@@ -284,7 +284,7 @@
 萨姆	Sam	nhân vật (thanh niên làng Mesilan, cháu họ Sacchi)
 安杰特商会	Thương hội Anjet	tổ chức (thương hội chuyên sản xuất xe đạp, đối thủ mới của Tân Phi)
 布鲁夫	Brough	nhân vật (Trưởng bộ phận xe đạp, Thương hội Tân Phi)
-魔法飞艇	phi thuyền ma pháp	sản phẩm (khí cụ bay chở 18 người, khác 魔力飞艇 = "phi đĩnh ma lực" đã có trong glossary; dùng gốc 魔法 nên dịch "ma pháp" thay vì "ma lực")
+魔法飞艇	máy bay ma pháp	sản phẩm (khí cụ bay chở 18 người, khác 魔力飞艇 = "máy bay ma lực" đã có trong glossary; dùng gốc 魔法 nên dịch "ma pháp" thay vì "ma lực")
 安杰特	Anjet	tổ chức (thương hội đối thủ, hãng xe đạp; hội trưởng là Verol Anjet)
 巴特鲁	Baturu	nhân vật
 奥玛	Oma	nhân vật
@@ -344,7 +344,7 @@
 尼西城	thành Nixi	địa danh (cảng biển lớn nhất Rulson)
 鲁兰公路	quốc lộ Lulan	địa danh (đường chính xuyên Rulson)
 托尔侯爵	Hầu tước Tor	nhân vật
-艾玛伯爵	Bá tước Ama	nhân vật (cha của Kennard)
+艾玛伯爵	Bá tước Emma	nhân vật (cha của Kennard)
 肯瑞托男爵学院	Học viện Nam tước Kenrito	tổ chức
 温德科·威瑟斯庞	Wendko Witherspoon	nhân vật (Trưởng ty Quản lý Nông nghiệp và Thương mại, Vương quốc Rulson)
 贝里·韦斯利	Bailey Wesley	nhân vật (Hội trưởng Ủy ban Phát triển Công nghiệp Ma pháp, Nghị viện Rulson)
@@ -824,3 +824,125 @@
 可移动75毫米口径魔力火炮	pháo ma lực cỡ nòng 75mm di động	sản phẩm	Vũ khí quân dụng cùng đợt (ch.1011)
 初级魔法护盾装置	thiết bị khiên ma pháp sơ cấp	sản phẩm	Vũ khí quân dụng cùng đợt (ch.1011)
 战略合作伙伴计划	Kế hoạch Đối tác Chiến lược	tổ chức/chính sách	Tân Phi đặt ra 7 năm trước, quy định mở công nghệ quân dụng theo cấp bậc (ch.1011)
+德罗族	tộc Delo	chủng tộc	
+菲普利	Fipley	nhân vật	Vương tử
+本萨克	Bensak	nhân vật	
+卡珊德拉	Cassandra	nhân vật	Rồng
+克雷	Cray	nhân vật	Ma đạo sư
+特纳	Turner	nhân vật	Đại pháp sư
+魔云大陆	Ma Vân Đại Lục	địa danh	Lục địa mới nằm ngoài biển Vô Tận, cách Saiens 10.000km về phía Tây, gần đảo rồng (ch.1039-1040)
+深渊魔族	Ma tộc Vực Thẳm	chủng tộc	Chủng tộc thống trị đại lục Saiens trước tộc Elf, biến mất gần 1 vạn năm trước (ch.1041)
+终结之日	Ngày Chung Kết	thuật ngữ	Ngày tận thế theo truyền thuyết của tộc Elf và loài người về sự quay lại của Ma tộc Vực Thẳm (ch.1041)
+列昂	Leon	nhân vật	Rồng Đen, bạn thuở ấu thơ của Cassandra (Rồng Đỏ), tính cách kiêu ngạo nhưng tò mò với sản phẩm Tân Phi (ch.1055-1056)
+晨曦魔法机械商会	Thương hội Máy móc Ma pháp Bình Minh	tổ chức	Thương hội mới do Kennard thành lập sau khi rời Tân Phi, đứng sau là gia tộc Emma (ch.1060-1061)
+卡卡洛尔	Kakalor	nhân vật	Hội trưởng Thương hội Thông tin Tân Phi (ch.1061)
+索丽尔	Cô Solier	nhân vật	Chủ quản bộ phận ngoại vụ Thương hội Tân Phi (ch.1064)
+萨沙	Sasha	nhân vật	Bộ trưởng Bộ Công nghiệp Ma pháp Vương quốc Sack (ch.1064)
+桑萨斯	Sansas	thị tộc	Tộc Elf ở Ma Vân Đại Lục (ch.1065)
+卡罗姆	Carom	thị tộc	Tộc Gnome ở Ma Vân Đại Lục (ch.1065)
+格莱鲁斯	Glerus	nhân vật	CEO mới của Thương hội Tân Phi sau khi Kennard rời đi (ch.1065)
+奇诺联合会	Liên hội Chino	tổ chức	Hiệp định Tổ chức Liên hợp Tài nguyên Khoáng sản Chino (ch.1066)
+新飞矿业商会	Thương hội Khai khoáng Tân Phi	tổ chức	Thương hội khai khoáng trực thuộc Tân Phi thành lập để đối phó Chino (ch.1066)
+淡水溪谷商会	Thương hội Freshwater Valley	tổ chức	Thương hội tài nguyên khoáng sản lớn nhất Đế quốc Malo (ch.1067)
+谷地矿产统筹协会	Hiệp hội Thống nhất Khoáng sản Thung Lũng	tổ chức	Hiệp hội thống nhất khoáng sản đối lập với Chino, do Freshwater Valley dẫn đầu (ch.1067)
+谷地统筹会	Hội Thống nhất Thung Lũng	tổ chức	Tên gọi tắt của Hiệp hội Thống nhất Khoáng sản Thung Lũng (ch.1067)
+威尔士公国	Công quốc Wales	địa danh	Quốc gia hợp tác với Thương hội Tân Phi thu mua mỏ khoáng sản (ch.1067)
+费曼·安科	Feynman An Khoa	nhân vật	Hội trưởng Thương hội An Khoa của Vương quốc Lanpari (ch.1068)
+萨克奇商会	Thương hội Sakichi	tổ chức	Thương hội ở thành Bontar hợp tác tặng sản phẩm lỗi cho Ma Vân (ch.1068)
+莱温克尔	Levincal	nhân vật	Cục trưởng Cục Quản lý Công nghiệp Ma pháp Vương quốc Lanpari (ch.1068)
+力索普	Lisotop	nhân vật	Hội trưởng Thương hội Khai khoáng Tân Phi, người lùn (ch.1068)
+巴奈特	Barnett	nhân vật	Người phụ trách xây dựng căn cứ của Thương hội Tân Phi tại Ma Vân Đại Lục (ch.1069)
+莱茵哈尔	Reinhard	nhân vật	Đội trưởng Đội hộ vệ Thương hội Tân Phi tại Ma Vân Đại Lục (ch.1070)
+托斯克王子	Vương tử Tosk	nhân vật	Nhân vật trong phim ảo ảnh được Long tộc yêu thích (ch.1070)
+那美国王	Quốc vương Namek	nhân vật	Nhân vật trong phim ảo ảnh (ch.1070)
+格鲁尔	Gruel	nhân vật	Đội trưởng đội vận tải của Thương hội Tân Phi tại Ma Vân Đại Lục (ch.1071)
+乌瑟	Uther	nhân vật	Đội trưởng Uther, phụ trách nhóm hành động bắt giữ hộ vệ Tân Phi (ch.1082-1086)
+齐达尔	Zidal	nhân vật	Bá tước Zidal, quý tộc cùng phe với Uther (ch.1082-1086)
+约拿	Jonah	nhân vật	Đại sư Jonah, Đại pháp sư được mời bắt giữ hộ vệ Tân Phi (ch.1082-1086)
+罗曼	Roman	nhân vật	Công tước Roman, đại diện phía Vương quốc Delo hợp tác bắt giữ hộ vệ Tân Phi (ch.1082-1086)
+纳木错	Namtso	địa danh	Mỏ quặng Namtso, nơi xảy ra xung đột chảy máu giữa Tân Phi và Kendra (ch.1082-1086)
+拉斐尔·埃尔文	Raphael Elwin	nhân vật	Bá tước Raphael Elwin, Bộ trưởng Bộ Quản lý Công nghiệp Ma pháp Đế quốc Kendra (ch.1082)
+奥法利安	Ofalian	nhân vật	Ma đạo sư Ofalian, một trong chín vị Ma đạo sư của Đế quốc Kendra, mạnh nhất (ch.1084-1086)
+拉杜卡	Raduka	nhân vật	Ma đạo sư Raduka, một trong chín vị Ma đạo sư của Đế quốc Kendra, Hỏa Long Ma đạo sư (ch.1083-1086)
+火龙魔导师	Hỏa Long Ma đạo sư	danh xưng	Biệt hiệu của Ma đạo sư Raduka (ch.1083)
+泰格	Tiger	nhân vật	Tiểu đội trưởng tiểu đội ba tộc Người thú của đội hộ vệ (ch.1075)
+卡丽蒙顿	Kalimonton	nhân vật	Quản lý nhân sự của đội hộ vệ Thương hội Tân Phi (ch.1075)
+奥特曼	Altman	nhân vật	Người sói Altman, ứng viên gia nhập đội hộ vệ (ch.1075)
+落日帝国传说	"Truyền Thuyết Đế Quốc Lạc Nhật"	tác phẩm	Phim ảo ảnh do Thương hội Tân Nguyệt sản xuất (ch.1076)
+雷萨斯	Resas	nhân vật	Tiểu đội trưởng tiểu đội 3 đội hộ vệ Tân Phi đồn trú tại Delo (ch.1077-1081)
+弗洛伊德	Floyd	nhân vật	Phó tiểu đội trưởng tiểu đội 3, chiến binh Elf (ch.1077-1081)
+陨星天降	Vẫn Tinh Thiên Giáng	thuật ngữ	Cấm chú ma pháp hệ Hỏa/Thổ (ch.1090)
+枢纽	Mắt trận / Khớp trung tâm	thuật ngữ	Khái niệm điều khiển trung tâm của pháp trận ma pháp (ch.1091)
+安图索尔	Antusol	nhân vật	Bá tước Antusol, tiên phong của Đế quốc Kendra (ch.1093)
+罗曼司·安图索尔	Romance Antusol	nhân vật	Bá tước Antusol, tiên phong của Đế quốc Kendra (ch.1093)
+圣乔安军团	Quân đoàn Saint Joan	tổ chức	Một trong mười quân đoàn tinh nhuệ của Đế quốc Kendra (ch.1096)
+罗蒙·雷格尔	Romon Reger	nhân vật	Quân đoàn trưởng Quân đoàn Saint Joan, phái mới (ch.1096)
+耶鲁	Yale	nhân vật	Đại ma pháp sư Yale của quân Saint Joan (ch.1096)
+雷文	Levin	nhân vật	Hầu tước Levin, đại tướng quân bộ Đế quốc Malo (ch.1094)
+古多尔	Gudor	nhân vật	Hầu tước Gudor, phó thống soái liên quân Malo-Frank (ch.1094)
+兰迪小镇	thị trấn Randi	địa danh	Thị trấn ở biên giới phía Bắc Lanpari, giáp Sack (ch.1094)
+塔盾小镇	thị trấn Tháp Thuẫn	địa danh	Thị trấn ở biên giới phía Bắc Lanpari, giáp Sack (ch.1094)
+耶鲁	Đại ma pháp sư Yale	nhân vật	Đại ma pháp sư hệ Phong của Đế quốc Kendra (ch.1097)
+雷格尔	Bá tước Regel	nhân vật	Tướng lĩnh quân đoàn Saint Joan của Đế quốc Kendra (ch.1097)
+圣乔安军团	Quân đoàn Saint Joan	tổ chức	Quân đoàn viễn chinh số 4 của Đế quốc Kendra xâm lược Rulson (ch.1097)
+因陀罗	Indra	địa danh	Đại bình nguyên / thảo nguyên lớn ở phía bắc Vương quốc Rulson (ch.1098)
+安利斯山脉	dãy núi Anlis	địa danh	Dãy núi nằm ở phía nam đại bình nguyên Indra (ch.1098)
+杰拉尔德	Gerald	nhân vật	Đoàn trưởng Kỵ sĩ đoàn Kim Ưng của Đế quốc Kendra (ch.1098)
+金鹰骑士团	Kỵ sĩ đoàn Kim Ưng	tổ chức	Kỵ sĩ đoàn tinh nhuệ của Đế quốc Kendra (ch.1098)
+赤阳军团	Quân đoàn Xích Dương	tổ chức	Quân đoàn tinh nhuệ có tính cơ động cao của Đế quốc Kendra (ch.1098)
+纳罗罗夫	Narolov	nhân vật	Quân đoàn trưởng quân đoàn Xích Dương của Đế quốc Kendra (ch.1098)
+布朗克	Bronck	nhân vật	Đại đội trưởng đại đội pháo binh số 2 thuộc đội hộ vệ Tân Phi (ch.1098)
+勒布罗	Lebro	nhân vật	Tổ trưởng tổ phi đĩnh trinh sát số 67 thuộc đội hộ vệ Tân Phi (ch.1098)
+坎迪申科	Candyshenko	nhân vật	Nhân viên thông tin trên phi đĩnh trinh sát số 67 của Tân Phi (ch.1098)
+芬里尔	Fenrir	nhân vật	Quân đoàn trưởng quân đoàn phương Bắc của Vương quốc Rulson (ch.1100)
+色文西城	thành Cevinsi	địa danh	Thành phố biên giới, nơi đặt kho hậu cần của quân viễn chinh Kendra (ch.1101)
+鹦鹉号	Parrot	sản phẩm	Phi đĩnh ma lực trinh sát thuộc tổ trinh sát số 67 của Tân Phi (ch.1102 / ch.1098)
+卡莲	Karen	nhân vật	Trợ lý hậu cần trên phi đĩnh ma lực Parrot (ch.1102 / ch.1098)
+美罗城	thành Mero	địa danh	Thành phố quan trọng ở biên giới phía tây nam Đế quốc Kendra, lãnh địa Dempsey (ch.1107-1111)
+迪恩·邓普斯	Dean Dempsey	nhân vật	Bá tước Dean Dempsey, Thành chủ thành Mero, tộc trưởng gia tộc Dempsey (ch.1107-1111)
+邓普斯	Dempsey	nhân vật	Gia tộc Dempsey, cai trị thành Mero hơn 400 năm (ch.1107-1111)
+杜威因·迪纳塔莱	Duwayne Dinatale	nhân vật	Hầu tước Duwayne Dinatale, Tổng chỉ huy quân chi viện Tây Nam của Đế quốc Kendra (ch.1109-1110)
+迪纳塔莱	Dinatale	nhân vật	Hầu tước Dinatale (ch.1109-1110)
+巴布拉尔	Babular	địa danh	Thành Babular, thủ phủ hành tỉnh Tây Nam Đế quốc Kendra, nơi đặt phủ Tổng đốc (ch.1110)
+查尔斯	Charles	nhân vật	Công tước Charles, Tổng đốc hành tỉnh Tây Nam Đế quốc Kendra (ch.1110)
+魔力坦克	xe tăng ma lực	sản phẩm	Loại phương tiện thiết giáp chiến đấu mới của Thương hội Tân Phi (ch.1111)
+禁魔领域	lĩnh vực cấm ma	thuật ngữ	Khu vực làm hỗn loạn ma pháp nguyên tố khiến pháp sư cấp thấp không thể kiểm soát ma pháp (ch.1111)
+美罗城	thành Melo	địa danh	Thành phố lớn gần biên giới phía Tây Nam của Đế quốc Kendra
+迪恩·邓普斯伯爵	Bá tước Dean Dempsey	nhân vật	Lãnh chúa thành Melo
+邓普斯家族	gia tộc Dempsey	thế lực	Gia tộc của Bá tước Dean Dempsey
+巴布拉尔城	thành Babral	địa danh	Thủ phủ Tây Nam Tỉnh của Đế quốc Kendra
+迪纳塔莱侯爵	Hầu tước Dinatale	nhân vật	Chỉ huy quân viện binh Kendra tại Tây Nam Tỉnh
+纽恩斯	Nyuns	nhân vật	Phó đội trưởng đội hộ vệ loài người của Thương hội Tân Phi
+维尔罗德	Wilrod	nhân vật	Đội trưởng tiểu đội hộ vệ Elf của Thương hội Tân Phi
+魔法牢笼	lồng giam ma pháp	thuật ngữ	Lồng giam ma pháp đặc chế do đội hộ vệ Tân Phi triển khai
+禁魔领域	kết giới cấm ma / lĩnh vực cấm ma	thuật ngữ	Trận pháp kết giới chặn ma pháp hoạt động
+诺克莫	Nokemo	nhân vật	Trung úy Nokemo, sĩ quan quân đội Frank (ch.1121)
+马坎	Makan	nhân vật	Binh sĩ quân đội Frank (ch.1121)
+格林维泰	Greenvitae	địa danh	Thành nhỏ / thị trấn Greenvitae thuộc Vương quốc Frank cũ (ch.1121)
+格林	Green	nhân vật	Bá tước Green của Vương quốc Frank cũ (ch.1121)
+格力休斯	Grysius	địa danh	Dãy núi lớn nhất ở phía nam Vương quốc Frank cũ (ch.1122)
+天明山谷	thung lũng Thiên Minh	địa danh	Thung lũng đi qua dãy núi Grysius (ch.1122)
+纳尔甘	Nargan	nhân vật	Ma đạo sư của Đế quốc Malo tử trận tại dãy núi Grysius (ch.1123-1124)
+劳恩斯	Lounes	nhân vật	Chủ quản bộ phận máy móc ma thuật quân dụng của thương hội Tân Phi (ch.1126)
+圣鲁斯城	thành Saint Luce	địa danh	Thành trì nơi đóng quân của tàn quân Malo-Frank (ch.1125)
+斯洛德山谷	thung lũng Sloder	địa danh	Thung lũng ở phía bắc Vương quốc Frank cũ (ch.1125)
+达尔西	Darcy	nhân vật	Bá tước Darcy, Thượng tướng, Thống soái Quân Bắc phạt của Rulson (ch.1136-1137)
+波罗哥尔	Bologor	nhân vật	Tham mưu tổng trưởng của Đế quốc Kendra (ch.1137)
+森里	Senri	nhân vật	Nguyên soái Senri, Thống soái của Đế quốc Malo (ch.1138-1139)
+迪达曼斯	Didamans	nhân vật	Bá tước Didamans, Cục trưởng Cục Ngoại vụ Vương quốc Rulson (ch.1130)
+莫比干	Mobigan	địa danh	Thành Mobigan, thành phố phía nam hành tỉnh Taraman thuộc Đế quốc Kendra (ch.1131)
+拉戈尔	Lagor	nhân vật	Công tước Lagor, Tổng đốc hành tỉnh Taraman thuộc Đế quốc Kendra, tử trận (ch.1131)
+塔伦米尔	Tarenmill	nhân vật	Thượng tướng Bộ quân sự Đế quốc Kendra (ch.1135)
+拉莫斯	Ramos	nhân vật	Nam tước, chỉ huy Kỵ binh đoàn số 1 Quân cận vệ hoàng gia Đế quốc Kendra (ch.1136)
+肖恩斯侯爵	Hầu tước Seans	nhân vật	Bộ trưởng Bộ Ngoại thương Đế quốc Malo (ch.1146)
+温莎王国	Vương quốc Windsor	quốc gia	Quốc gia do Công tước Windsor lập sau khi ly khai khỏi Kendra
+多拉尔	Dolar	địa danh	Vương đô của Vương quốc Windsor (thành Dolar)
+图拉尔自治领	Lãnh địa tự trị Tular	địa danh	Vùng tự trị mới lập từ tỉnh Tular
+贝尔莫	Belmo	nhân vật	Bá tước Belmo, Thành chủ Bontar
+菲利普学院	Học viện Philip	tổ chức	Học viện chuyên ngành công nghiệp ma pháp ở thành Dolar (ch.1158)
+卢锡安	Lucian	nhân vật	Sinh viên tốt nghiệp Học viện Philip (ch.1158)
+莉诺雅	Linoia	nhân vật	Ngôi sao tộc Elf nổi tiếng của Thương hội Tân Nguyệt (ch.1159)
+隆多	Rondo	nhân vật	Pháp sư cấp 3, chủ xưởng gia công động cơ ma lực nhỏ (ch.1160)
+卡曼学院	Học viện Kaman	tổ chức	Học viện nơi sinh viên Kaman theo học (ch.1161)
+坦森	Tansen	nhân vật	Học sinh cùng nhóm bị bắt với Lucian, dũng cảm ngăn chặn kẻ địch (ch.1163-1166)
+哈里斯	Harris	nhân vật	Người đàn ông trung niên trong quân đội, chú của cô gái cứu viện (ch.1165-1166)

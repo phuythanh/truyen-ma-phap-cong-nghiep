@@ -1,11 +1,20 @@
-﻿# Build full standalone EPUB from chapters_out/NNNN.md (387..792)
+# Build full standalone EPUB from chapters_out/NNNN.md (387..792)
 # Reuses assets (stylesheet.css, cover.png, cover.xhtml) from existing epub in project root.
 
-$root = "C:\truyen\maphap"
+$scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
+$root = Split-Path -Parent $scriptDir
 $outDir = Join-Path $root "chapters_out"
 $work = Join-Path $root "scratchpad\epub_build"
 $first = 387
-$last = 998
+
+$progressFile = Join-Path $root "memo\PROGRESS.json"
+if (Test-Path $progressFile) {
+    $progress = Get-Content -Raw -Encoding UTF8 $progressFile | ConvertFrom-Json
+    $last = $progress.last_done_vi
+} else {
+    $last = 1015
+}
+
 $title = "Ma Phap Cong Nghiep De Quoc - Chuong $first-$last"
 $outEpub = Join-Path $root "Ma Phap - Chuong $first-$last.epub"
 
@@ -13,6 +22,9 @@ $outEpub = Join-Path $root "Ma Phap - Chuong $first-$last.epub"
 # (dung cau truc OEBPS/Images,Styles,Text nhu script nay tao ra). Khong dung epub goc cua user (cau truc khac).
 # Khong phu thuoc scratchpad/epub_inspect (thu muc tam, co the khong con o phien sau).
 $refEpub = Get-ChildItem -Path $root -Filter "Ma Phap - Chuong *.epub" | Where-Object { $_.FullName -ne $outEpub } | Select-Object -First 1
+if (-not $refEpub -and (Test-Path $outEpub)) {
+    $refEpub = Get-Item $outEpub
+}
 if (-not $refEpub) { throw "Khong tim thay epub tham chieu 'Ma Phap - Chuong *.epub' nao trong $root de lay asset (cover.png/css)." }
 
 if (Test-Path $work) { Remove-Item -Recurse -Force $work }
@@ -177,6 +189,9 @@ foreach ($f in $filesToAdd) {
     [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile($zip, $f.FullName, $relPath, [System.IO.Compression.CompressionLevel]::Optimal) | Out-Null
 }
 $zip.Dispose()
+
+# Clean up stale EPUB files
+Get-ChildItem -Path $root -Filter "Ma Phap - Chuong *.epub" | Where-Object { $_.FullName -ne $outEpub } | Remove-Item -Force
 
 Write-Host "EPUB built: $outEpub"
 Write-Host "Size: $((Get-Item $outEpub).Length / 1MB) MB"

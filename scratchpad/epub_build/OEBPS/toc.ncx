@@ -1,0 +1,4693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:ed381740-c595-4fa4-a272-e37621a35ec9"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1166</text></docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Chương 387: Tầng lớp trung lưu</text>
+      </navLabel>
+      <content src="Text/C1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Chương 388: Không mạnh thì tôi nghiên cứu nó làm gì</text>
+      </navLabel>
+      <content src="Text/C2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Chương 389: Quyết định mua rồi</text>
+      </navLabel>
+      <content src="Text/C3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Chương 390: Xe khách ma lực loại trung bình</text>
+      </navLabel>
+      <content src="Text/C4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Chương 391: Xe taxi</text>
+      </navLabel>
+      <content src="Text/C5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Chương 392: Tại sao không công khai bán?</text>
+      </navLabel>
+      <content src="Text/C6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Chương 393: Công nghiệp vô tình</text>
+      </navLabel>
+      <content src="Text/C7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Chương 394: Mô hình tàu bay ma thuật</text>
+      </navLabel>
+      <content src="Text/C8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Chương 395: Lấy Ra Dáng Làm Viện Trưởng</text>
+      </navLabel>
+      <content src="Text/C9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Chương 396: Cách Suy Nghĩ Cứng Đầu Của Amroid</text>
+      </navLabel>
+      <content src="Text/C10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Chương 397: Sắp Có Con Rồi!</text>
+      </navLabel>
+      <content src="Text/C11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Chương 398: Vấn Đề Người Thừa Kế</text>
+      </navLabel>
+      <content src="Text/C12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Chương 399: Anh Phải Chịu Trách Nhiệm</text>
+      </navLabel>
+      <content src="Text/C13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Chương 400: Quá Thông Minh</text>
+      </navLabel>
+      <content src="Text/C14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Chương 401: Yêu Cầu Không Hợp Lý</text>
+      </navLabel>
+      <content src="Text/C15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Chương 402: Ẩn Họa Lớn</text>
+      </navLabel>
+      <content src="Text/C16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Chương 403: Hai Điều Này Không Mâu Thuẫn</text>
+      </navLabel>
+      <content src="Text/C17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Chương 404: Muốn Xe F1 Sao?</text>
+      </navLabel>
+      <content src="Text/C18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Chương 405: Kinh doanh hàng hóa</text>
+      </navLabel>
+      <content src="Text/C19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Chương 406: Thái độ đối với đối thủ cạnh tranh</text>
+      </navLabel>
+      <content src="Text/C20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Chương 407: Muốn khai thác được không?</text>
+      </navLabel>
+      <content src="Text/C21.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Chương 408: Nữ quyền chủ nghĩa</text>
+      </navLabel>
+      <content src="Text/C22.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Chương 409: Nên dùng thái độ gì đối với cô ấy?</text>
+      </navLabel>
+      <content src="Text/C23.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Chương 410: Mở rộng</text>
+      </navLabel>
+      <content src="Text/C24.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Chương 411: Đêm hỗn loạn</text>
+      </navLabel>
+      <content src="Text/C25.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Chương 412: Cơ sở nông nghiệp mới</text>
+      </navLabel>
+      <content src="Text/C26.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Chương 413: Hội Trưởng Hứa Tùy Hứng</text>
+      </navLabel>
+      <content src="Text/C27.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Chương 414: Máy móc ma lực tự động</text>
+      </navLabel>
+      <content src="Text/C28.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Chương 415: Khách từ thành phố</text>
+      </navLabel>
+      <content src="Text/C29.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Chương 416: Công việc có danh dự</text>
+      </navLabel>
+      <content src="Text/C30.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Chương 417: Khảo sát</text>
+      </navLabel>
+      <content src="Text/C31.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Chương 418: Hệ thống điều khiển từ xa tập trung cho gia đình</text>
+      </navLabel>
+      <content src="Text/C32.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Chương 419: Những cô gái chú ý đến Hứa Dịch</text>
+      </navLabel>
+      <content src="Text/C33.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Chương 420: Nhắm tới nước ngoài</text>
+      </navLabel>
+      <content src="Text/C34.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Chương 421: Nguồn tài chính quan trọng nhất</text>
+      </navLabel>
+      <content src="Text/C35.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Chương 422: Bữa tiệc của Hoàng tử Điện hạ</text>
+      </navLabel>
+      <content src="Text/C36.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Chương 423: Kiểm tra kỹ năng nghề</text>
+      </navLabel>
+      <content src="Text/C37.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Chương 424: Trả góp</text>
+      </navLabel>
+      <content src="Text/C38.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Chương 425: Điều kiện để thu hút các pháp sư</text>
+      </navLabel>
+      <content src="Text/C39.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Chương 426: Tăng lương cho Hội trưởng</text>
+      </navLabel>
+      <content src="Text/C40.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Chương 427: Đừng hòng nhảy việc</text>
+      </navLabel>
+      <content src="Text/C41.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Chương 428: Nhật ký của Ma đạo sư Sorne</text>
+      </navLabel>
+      <content src="Text/C42.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Chương 429: Đưa ra bằng chứng</text>
+      </navLabel>
+      <content src="Text/C43.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Chương 430: Kỳ hạn một năm</text>
+      </navLabel>
+      <content src="Text/C44.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Chương 431: Tôi không quay về!</text>
+      </navLabel>
+      <content src="Text/C45.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Chương 432: Muốn bán không?</text>
+      </navLabel>
+      <content src="Text/C46.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Chương 433: Giao dịch nửa đêm</text>
+      </navLabel>
+      <content src="Text/C47.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Chương 434: Phí bảo vệ Bằng sáng chế Ma pháp</text>
+      </navLabel>
+      <content src="Text/C48.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Chương 435: Xin thêm vài năm nữa</text>
+      </navLabel>
+      <content src="Text/C49.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Chương 436: Tuân thủ tiêu chuẩn của chúng ta</text>
+      </navLabel>
+      <content src="Text/C50.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Chương 437: Ngược lại lại lỗ</text>
+      </navLabel>
+      <content src="Text/C51.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Chương 438: Vì Những Người Dân Quê Hương</text>
+      </navLabel>
+      <content src="Text/C52.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Chương 439: Ankelu đã hạ quyết tâm</text>
+      </navLabel>
+      <content src="Text/C53.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Chương 440: Vương quốc Sack cũng có máy ném đá ma lực rồi</text>
+      </navLabel>
+      <content src="Text/C54.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Chương 441: Người được Stella cử để canh phòng</text>
+      </navLabel>
+      <content src="Text/C55.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Chương 442: Sự khinh miệt</text>
+      </navLabel>
+      <content src="Text/C56.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Chương 443: Không đi theo con đường cao cấp nữa</text>
+      </navLabel>
+      <content src="Text/C57.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Chương 444: Lôi cuốn của mức lương cao</text>
+      </navLabel>
+      <content src="Text/C58.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Chương 445: Người Luôn Nói Sai Lời — Bukaroles</text>
+      </navLabel>
+      <content src="Text/C59.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Chương 446: Tài Nguyên Hiếm Quý — Đất Hiếm</text>
+      </navLabel>
+      <content src="Text/C60.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Chương 447: Hệ Thống Giảm Xóc Xe Máy Ma Lực</text>
+      </navLabel>
+      <content src="Text/C61.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Chương 448: Nâng Cấp Mạng Giao Thông Công Lộ</text>
+      </navLabel>
+      <content src="Text/C62.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Chương 449: Cô Muốn Phản Bội Hoàng tử Điện hạ Sao?</text>
+      </navLabel>
+      <content src="Text/C63.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Chương 450: Bắt buộc phải đưa ra lựa chọn</text>
+      </navLabel>
+      <content src="Text/C64.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Chương 451: Mũi tên ma pháp Hỏa Diễm</text>
+      </navLabel>
+      <content src="Text/C65.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Chương 452: Tôi vẫn còn quá ngây thơ</text>
+      </navLabel>
+      <content src="Text/C66.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Chương 453: Chuyển biến thái độ</text>
+      </navLabel>
+      <content src="Text/C67.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Chương 454: Tòa thành nhỏ còn tồi tàn hơn cả thành Bontar</text>
+      </navLabel>
+      <content src="Text/C68.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Chương 455: Xin ở lại thêm một ngày</text>
+      </navLabel>
+      <content src="Text/C69.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Chương 456: Suối nước nóng</text>
+      </navLabel>
+      <content src="Text/C70.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Chương 457: Nỗi lo của Hứa Dịch</text>
+      </navLabel>
+      <content src="Text/C71.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Chương 458: Ba đạo mệnh lệnh</text>
+      </navLabel>
+      <content src="Text/C72.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Chương 459: Tường thành bê tông cốt thép</text>
+      </navLabel>
+      <content src="Text/C73.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Chương 460: Đòi lợi ích</text>
+      </navLabel>
+      <content src="Text/C74.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Chương 461: Ý nghĩa của việc hầu hạ ngài</text>
+      </navLabel>
+      <content src="Text/C75.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Chương 462: Bất thường trong thư phòng</text>
+      </navLabel>
+      <content src="Text/C76.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>Chương 463: Tinh thể ma lực mềm nhũn</text>
+      </navLabel>
+      <content src="Text/C77.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Chương 464: Ý nguyện của các thương hội thành Cerwell</text>
+      </navLabel>
+      <content src="Text/C78.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Chương 465: Công nghệ cốt lõi không thể chuyển nhượng</text>
+      </navLabel>
+      <content src="Text/C79.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>Chương 466: Hai cô gái giống nhau đến lạ</text>
+      </navLabel>
+      <content src="Text/C80.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>Chương 467: Chính sách phúc lợi</text>
+      </navLabel>
+      <content src="Text/C81.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>Chương 468: Nhất định phải trở thành Nữ vương bệ hạ</text>
+      </navLabel>
+      <content src="Text/C82.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>Chương 469: Tụ tập gây rối</text>
+      </navLabel>
+      <content src="Text/C83.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>Chương 470: Luận văn của Vương nữ Điện hạ</text>
+      </navLabel>
+      <content src="Text/C84.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>Chương 471: Nhìn Hoàng tử Điện hạ đi vào chỗ chết?</text>
+      </navLabel>
+      <content src="Text/C85.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>Chương 472: Lựa chọn tổn thất</text>
+      </navLabel>
+      <content src="Text/C86.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>Chương 473: Cho họ nếm chút vị ngọt</text>
+      </navLabel>
+      <content src="Text/C87.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>Chương 474: Xe máy ma lực chỉ chở được một người</text>
+      </navLabel>
+      <content src="Text/C88.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>Chương 475: Thành phố nghèo và thành phố giàu</text>
+      </navLabel>
+      <content src="Text/C89.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>Chương 476: Cái tên trong lịch sử</text>
+      </navLabel>
+      <content src="Text/C90.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-91" playOrder="91">
+      <navLabel>
+        <text>Chương 477: Đến định cư tại thành Bontar</text>
+      </navLabel>
+      <content src="Text/C91.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>Chương 478: Đặt trước</text>
+      </navLabel>
+      <content src="Text/C92.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>Chương 479: Xâm lược thương mại</text>
+      </navLabel>
+      <content src="Text/C93.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>Chương 480: Muốn là phải bất chấp thủ đoạn</text>
+      </navLabel>
+      <content src="Text/C94.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-95" playOrder="95">
+      <navLabel>
+        <text>Chương 481: Quyết tâm của Tử tước Leslie</text>
+      </navLabel>
+      <content src="Text/C95.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>Chương 482: Những cô gái Người thú trở thành minh tinh</text>
+      </navLabel>
+      <content src="Text/C96.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>Chương 483: Giao cho các em tự lựa chọn</text>
+      </navLabel>
+      <content src="Text/C97.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>Chương 484: Hội đồng thẩm định quý tộc</text>
+      </navLabel>
+      <content src="Text/C98.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>Chương 485: Tước đoạt và Ban tặng</text>
+      </navLabel>
+      <content src="Text/C99.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>Chương 486: Buôn lậu hợp pháp</text>
+      </navLabel>
+      <content src="Text/C100.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>Chương 487: Thử nghiệm hành trình tàu thủy ma lực</text>
+      </navLabel>
+      <content src="Text/C101.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-102" playOrder="102">
+      <navLabel>
+        <text>Chương 488: Máy móc Ma lực gia dụng phiên bản đặt riêng</text>
+      </navLabel>
+      <content src="Text/C102.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-103" playOrder="103">
+      <navLabel>
+        <text>Chương 489: Hai người ngây thơ</text>
+      </navLabel>
+      <content src="Text/C103.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-104" playOrder="104">
+      <navLabel>
+        <text>Chương 490: Tắc đường</text>
+      </navLabel>
+      <content src="Text/C104.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-105" playOrder="105">
+      <navLabel>
+        <text>Chương 491: Định cư</text>
+      </navLabel>
+      <content src="Text/C105.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>Chương 492: Ai bảo ta bồi không nổi</text>
+      </navLabel>
+      <content src="Text/C106.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-107" playOrder="107">
+      <navLabel>
+        <text>Chương 493: Hàng hóa bí ẩn</text>
+      </navLabel>
+      <content src="Text/C107.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-108" playOrder="108">
+      <navLabel>
+        <text>Chương 494: Không còn lựa chọn nào khác</text>
+      </navLabel>
+      <content src="Text/C108.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-109" playOrder="109">
+      <navLabel>
+        <text>Chương 495: Giống Như Đang Nâng Niu Một Đứa Trẻ</text>
+      </navLabel>
+      <content src="Text/C109.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>Chương 496: Yếu Tố Bất Định</text>
+      </navLabel>
+      <content src="Text/C110.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-111" playOrder="111">
+      <navLabel>
+        <text>Chương 497: Nhà Mới</text>
+      </navLabel>
+      <content src="Text/C111.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-112" playOrder="112">
+      <navLabel>
+        <text>Chương 498: Dân Số Không Bằng Nhân Lực</text>
+      </navLabel>
+      <content src="Text/C112.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-113" playOrder="113">
+      <navLabel>
+        <text>Chương 499: Mở Rộng Quy Mô</text>
+      </navLabel>
+      <content src="Text/C113.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-114" playOrder="114">
+      <navLabel>
+        <text>Chương 500: Thoát khỏi tiêu chuẩn</text>
+      </navLabel>
+      <content src="Text/C114.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-115" playOrder="115">
+      <navLabel>
+        <text>Chương 501: Đánh cho phục là được</text>
+      </navLabel>
+      <content src="Text/C115.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-116" playOrder="116">
+      <navLabel>
+        <text>Chương 502: Con gái</text>
+      </navLabel>
+      <content src="Text/C116.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>Chương 503: Triển lãm xe ô tô ma lực</text>
+      </navLabel>
+      <content src="Text/C117.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>Chương 504: Xem thường xe ngựa sao?</text>
+      </navLabel>
+      <content src="Text/C118.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>Chương 505: Bày tỏ lập trường rõ ràng</text>
+      </navLabel>
+      <content src="Text/C119.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-120" playOrder="120">
+      <navLabel>
+        <text>Chương 506: Mất đi khả năng hợp tác</text>
+      </navLabel>
+      <content src="Text/C120.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-121" playOrder="121">
+      <navLabel>
+        <text>Chương 507: Đây là tiếp tay cho địch!</text>
+      </navLabel>
+      <content src="Text/C121.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-122" playOrder="122">
+      <navLabel>
+        <text>Chương 508: Chiến lược bán hàng</text>
+      </navLabel>
+      <content src="Text/C122.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-123" playOrder="123">
+      <navLabel>
+        <text>Chương 509: Chiếc xe hơi ma lực chịu đủ hành hạ</text>
+      </navLabel>
+      <content src="Text/C123.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>Chương 510: Dọn dẹp tộc Người thú</text>
+      </navLabel>
+      <content src="Text/C124.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>Chương 511: Ở đây, ngài chính là nữ vương</text>
+      </navLabel>
+      <content src="Text/C125.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-126" playOrder="126">
+      <navLabel>
+        <text>Chương 512: Lái xe say rượu</text>
+      </navLabel>
+      <content src="Text/C126.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-127" playOrder="127">
+      <navLabel>
+        <text>Chương 513: Từ góc độ nào?</text>
+      </navLabel>
+      <content src="Text/C127.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-128" playOrder="128">
+      <navLabel>
+        <text>Chương 514: Vì sao lại làm vậy?</text>
+      </navLabel>
+      <content src="Text/C128.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-129" playOrder="129">
+      <navLabel>
+        <text>Chương 515: Tẩy chay Thương hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C129.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-130" playOrder="130">
+      <navLabel>
+        <text>Chương 516: Cấm thí nghiệm trên cơ thể người</text>
+      </navLabel>
+      <content src="Text/C130.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-131" playOrder="131">
+      <navLabel>
+        <text>Chương 517: Chú ý an toàn</text>
+      </navLabel>
+      <content src="Text/C131.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-132" playOrder="132">
+      <navLabel>
+        <text>Chương 518: Cẩn thận bỏng</text>
+      </navLabel>
+      <content src="Text/C132.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-133" playOrder="133">
+      <navLabel>
+        <text>Chương 519: Em... khóc rồi sao?</text>
+      </navLabel>
+      <content src="Text/C133.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-134" playOrder="134">
+      <navLabel>
+        <text>Chương 520: Chuyển giao vương vị thuận lợi bất thường</text>
+      </navLabel>
+      <content src="Text/C134.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-135" playOrder="135">
+      <navLabel>
+        <text>Chương 521: Thành Bontar phồn vinh bề ngoài</text>
+      </navLabel>
+      <content src="Text/C135.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-136" playOrder="136">
+      <navLabel>
+        <text>Chương 522: Đao đồ tể giương lên</text>
+      </navLabel>
+      <content src="Text/C136.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-137" playOrder="137">
+      <navLabel>
+        <text>Chương 523: Mặt khác của ngài Thành chủ</text>
+      </navLabel>
+      <content src="Text/C137.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-138" playOrder="138">
+      <navLabel>
+        <text>Chương 524: Thương hội Tân Phi sắp đóng cửa rồi!</text>
+      </navLabel>
+      <content src="Text/C138.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-139" playOrder="139">
+      <navLabel>
+        <text>Chương 525: Không làm quý tộc nữa</text>
+      </navLabel>
+      <content src="Text/C139.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-140" playOrder="140">
+      <navLabel>
+        <text>Chương 526: Hợp tác sâu rộng</text>
+      </navLabel>
+      <content src="Text/C140.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-141" playOrder="141">
+      <navLabel>
+        <text>Chương 527: Vệ sĩ riêng tộc Elf</text>
+      </navLabel>
+      <content src="Text/C141.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-142" playOrder="142">
+      <navLabel>
+        <text>Chương 528: Nghiên cứu phát triển công nghệ mới là then chốt</text>
+      </navLabel>
+      <content src="Text/C142.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-143" playOrder="143">
+      <navLabel>
+        <text>Chương 529: Biến chuyển của thành Bontar</text>
+      </navLabel>
+      <content src="Text/C143.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-144" playOrder="144">
+      <navLabel>
+        <text>Chương 530: Đến từ Đảo Karaska</text>
+      </navLabel>
+      <content src="Text/C144.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-145" playOrder="145">
+      <navLabel>
+        <text>Chương 531: Có thêm một Đại pháp sư</text>
+      </navLabel>
+      <content src="Text/C145.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-146" playOrder="146">
+      <navLabel>
+        <text>Chương 532: Hòn đảo có ý nghĩa chiến lược</text>
+      </navLabel>
+      <content src="Text/C146.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-147" playOrder="147">
+      <navLabel>
+        <text>Chương 533: Nhà cách mạng</text>
+      </navLabel>
+      <content src="Text/C147.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-148" playOrder="148">
+      <navLabel>
+        <text>Chương 534: Xe đạp đường trường đa cấp tốc độ</text>
+      </navLabel>
+      <content src="Text/C148.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-149" playOrder="149">
+      <navLabel>
+        <text>Chương 535: Vậy thì đừng hợp tác nữa</text>
+      </navLabel>
+      <content src="Text/C149.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-150" playOrder="150">
+      <navLabel>
+        <text>Chương 536: Cô có hối hận không?</text>
+      </navLabel>
+      <content src="Text/C150.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-151" playOrder="151">
+      <navLabel>
+        <text>Chương 537: Đội vệ binh xa hoa của Thương hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C151.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-152" playOrder="152">
+      <navLabel>
+        <text>Chương 538: Hậu quả</text>
+      </navLabel>
+      <content src="Text/C152.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-153" playOrder="153">
+      <navLabel>
+        <text>Chương 539: Làm quốc vương không phải chuyện vui vẻ gì</text>
+      </navLabel>
+      <content src="Text/C153.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-154" playOrder="154">
+      <navLabel>
+        <text>Chương 540: Dọn đi thôi</text>
+      </navLabel>
+      <content src="Text/C154.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-155" playOrder="155">
+      <navLabel>
+        <text>Chương 541: Người thú thế mà có vũ khí!</text>
+      </navLabel>
+      <content src="Text/C155.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-156" playOrder="156">
+      <navLabel>
+        <text>Chương 542: Hào quang đều bị hai người cướp hết rồi</text>
+      </navLabel>
+      <content src="Text/C156.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-157" playOrder="157">
+      <navLabel>
+        <text>Chương 543: Đổi đất lấy công nghệ</text>
+      </navLabel>
+      <content src="Text/C157.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-158" playOrder="158">
+      <navLabel>
+        <text>Chương 544: Biến thành thương hội nước ngoài rồi</text>
+      </navLabel>
+      <content src="Text/C158.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-159" playOrder="159">
+      <navLabel>
+        <text>Chương 545: Thị trấn Ampliston</text>
+      </navLabel>
+      <content src="Text/C159.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-160" playOrder="160">
+      <navLabel>
+        <text>Chương 546: Công quốc Milano thận trọng dè dặt</text>
+      </navLabel>
+      <content src="Text/C160.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-161" playOrder="161">
+      <navLabel>
+        <text>Chương 547: Dù sao trở thành Đại pháp sư vẫn quan trọng hơn</text>
+      </navLabel>
+      <content src="Text/C161.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-162" playOrder="162">
+      <navLabel>
+        <text>Chương 548: Rút khỏi hệ thống xe buýt thành phố</text>
+      </navLabel>
+      <content src="Text/C162.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-163" playOrder="163">
+      <navLabel>
+        <text>Chương 549: Nạn dân trốn dịch</text>
+      </navLabel>
+      <content src="Text/C163.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-164" playOrder="164">
+      <navLabel>
+        <text>Chương 550: Sắp hết đường sống</text>
+      </navLabel>
+      <content src="Text/C164.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-165" playOrder="165">
+      <navLabel>
+        <text>Chương 551: Làn sóng rời đi</text>
+      </navLabel>
+      <content src="Text/C165.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-166" playOrder="166">
+      <navLabel>
+        <text>Chương 552: Thương hội Cervini</text>
+      </navLabel>
+      <content src="Text/C166.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-167" playOrder="167">
+      <navLabel>
+        <text>Chương 553: Pháp trận cuồng phong biến tốc theo giai đoạn</text>
+      </navLabel>
+      <content src="Text/C167.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-168" playOrder="168">
+      <navLabel>
+        <text>Chương 554: Cho anh một mảnh lãnh địa thì sao?</text>
+      </navLabel>
+      <content src="Text/C168.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-169" playOrder="169">
+      <navLabel>
+        <text>Chương 555: Lãnh địa thực sự của riêng mình</text>
+      </navLabel>
+      <content src="Text/C169.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-170" playOrder="170">
+      <navLabel>
+        <text>Chương 556: Súng phóng rocket ma pháp cá nhân</text>
+      </navLabel>
+      <content src="Text/C170.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-171" playOrder="171">
+      <navLabel>
+        <text>Chương 557: Điện thoại di động trong thế giới ma pháp</text>
+      </navLabel>
+      <content src="Text/C171.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-172" playOrder="172">
+      <navLabel>
+        <text>Chương 558: Kantona tiến thoái lưỡng nan</text>
+      </navLabel>
+      <content src="Text/C172.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-173" playOrder="173">
+      <navLabel>
+        <text>Chương 559: Xung đột đổ máu</text>
+      </navLabel>
+      <content src="Text/C173.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-174" playOrder="174">
+      <navLabel>
+        <text>Chương 560: Làn sóng phản đối</text>
+      </navLabel>
+      <content src="Text/C174.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-175" playOrder="175">
+      <navLabel>
+        <text>Chương 561: Trên mảnh đất này, hắn chính là quốc vương</text>
+      </navLabel>
+      <content src="Text/C175.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-176" playOrder="176">
+      <navLabel>
+        <text>Chương 562: Quốc vương Aerick đã bắt đầu ra tay?</text>
+      </navLabel>
+      <content src="Text/C176.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-177" playOrder="177">
+      <navLabel>
+        <text>Chương 563: Pháo đài thép trên biển</text>
+      </navLabel>
+      <content src="Text/C177.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-178" playOrder="178">
+      <navLabel>
+        <text>Chương 564: Giấc mơ viễn dương</text>
+      </navLabel>
+      <content src="Text/C178.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-179" playOrder="179">
+      <navLabel>
+        <text>Chương 565: Cứng rắn</text>
+      </navLabel>
+      <content src="Text/C179.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-180" playOrder="180">
+      <navLabel>
+        <text>Chương 566: Hai bà lão tộc Elf</text>
+      </navLabel>
+      <content src="Text/C180.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-181" playOrder="181">
+      <navLabel>
+        <text>Chương 567: Một vấn đề nghiêm túc</text>
+      </navLabel>
+      <content src="Text/C181.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-182" playOrder="182">
+      <navLabel>
+        <text>Chương 568: Hôn nhân chính trị</text>
+      </navLabel>
+      <content src="Text/C182.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-183" playOrder="183">
+      <navLabel>
+        <text>Chương 569: Lấy gì để chi trả?</text>
+      </navLabel>
+      <content src="Text/C183.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-184" playOrder="184">
+      <navLabel>
+        <text>Chương 570: Cuộc chiến tiêu chuẩn</text>
+      </navLabel>
+      <content src="Text/C184.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-185" playOrder="185">
+      <navLabel>
+        <text>Chương 571: Ngọn lửa giận</text>
+      </navLabel>
+      <content src="Text/C185.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-186" playOrder="186">
+      <navLabel>
+        <text>Chương 572: Cứu tôi với</text>
+      </navLabel>
+      <content src="Text/C186.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-187" playOrder="187">
+      <navLabel>
+        <text>Chương 573: Nhật ký</text>
+      </navLabel>
+      <content src="Text/C187.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-188" playOrder="188">
+      <navLabel>
+        <text>Chương 574: Thành ý</text>
+      </navLabel>
+      <content src="Text/C188.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-189" playOrder="189">
+      <navLabel>
+        <text>Chương 575: Trận thế hoành tráng thật</text>
+      </navLabel>
+      <content src="Text/C189.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-190" playOrder="190">
+      <navLabel>
+        <text>Chương 576: Đại sứ Đế quốc Kendra</text>
+      </navLabel>
+      <content src="Text/C190.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-191" playOrder="191">
+      <navLabel>
+        <text>Chương 577: Dám động thủ với ta!</text>
+      </navLabel>
+      <content src="Text/C191.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-192" playOrder="192">
+      <navLabel>
+        <text>Chương 578: Quốc vương Bệ hạ Terutz</text>
+      </navLabel>
+      <content src="Text/C192.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-193" playOrder="193">
+      <navLabel>
+        <text>Chương 579: Không cần phải kiêng dè gì nữa</text>
+      </navLabel>
+      <content src="Text/C193.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-194" playOrder="194">
+      <navLabel>
+        <text>Chương 580: Thị trường đã khai phá xong</text>
+      </navLabel>
+      <content src="Text/C194.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-195" playOrder="195">
+      <navLabel>
+        <text>Chương 581: Thân phận pháp sư chỉ là phụ</text>
+      </navLabel>
+      <content src="Text/C195.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-196" playOrder="196">
+      <navLabel>
+        <text>Chương 582: Thị trường không hề kém cạnh</text>
+      </navLabel>
+      <content src="Text/C196.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-197" playOrder="197">
+      <navLabel>
+        <text>Chương 583: Hợp tác vui vẻ</text>
+      </navLabel>
+      <content src="Text/C197.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-198" playOrder="198">
+      <navLabel>
+        <text>Chương 584: Uy nghiêm của quốc vương</text>
+      </navLabel>
+      <content src="Text/C198.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-199" playOrder="199">
+      <navLabel>
+        <text>Chương 585: Phản quốc</text>
+      </navLabel>
+      <content src="Text/C199.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-200" playOrder="200">
+      <navLabel>
+        <text>Chương 586: Cervini đổi tính</text>
+      </navLabel>
+      <content src="Text/C200.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-201" playOrder="201">
+      <navLabel>
+        <text>Chương 587: Tung tích tộc người lùn</text>
+      </navLabel>
+      <content src="Text/C201.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-202" playOrder="202">
+      <navLabel>
+        <text>Chương 588: Ẩn họa chất lượng</text>
+      </navLabel>
+      <content src="Text/C202.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-203" playOrder="203">
+      <navLabel>
+        <text>Chương 589: Tinh thể ma lực nồng độ cao</text>
+      </navLabel>
+      <content src="Text/C203.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-204" playOrder="204">
+      <navLabel>
+        <text>Chương 590: Quốc lộ Silu</text>
+      </navLabel>
+      <content src="Text/C204.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-205" playOrder="205">
+      <navLabel>
+        <text>Chương 591: Trưởng lão Lisanya tinh khôn</text>
+      </navLabel>
+      <content src="Text/C205.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-206" playOrder="206">
+      <navLabel>
+        <text>Chương 592: Thổ lộ tâm sự</text>
+      </navLabel>
+      <content src="Text/C206.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-207" playOrder="207">
+      <navLabel>
+        <text>Chương 593: Ở lại đây sống trọn một đời</text>
+      </navLabel>
+      <content src="Text/C207.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-208" playOrder="208">
+      <navLabel>
+        <text>Chương 594: Tình thế đều chẳng yên bình</text>
+      </navLabel>
+      <content src="Text/C208.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-209" playOrder="209">
+      <navLabel>
+        <text>Chương 595: Lập trường của Công quốc Delac</text>
+      </navLabel>
+      <content src="Text/C209.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-210" playOrder="210">
+      <navLabel>
+        <text>Chương 596: Cướp người từ Vương quốc Lanpari</text>
+      </navLabel>
+      <content src="Text/C210.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-211" playOrder="211">
+      <navLabel>
+        <text>Chương 597: Mua người</text>
+      </navLabel>
+      <content src="Text/C211.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-212" playOrder="212">
+      <navLabel>
+        <text>Chương 598: Nội chiến bùng nổ</text>
+      </navLabel>
+      <content src="Text/C212.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-213" playOrder="213">
+      <navLabel>
+        <text>Chương 599: Không còn là nền tảng</text>
+      </navLabel>
+      <content src="Text/C213.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-214" playOrder="214">
+      <navLabel>
+        <text>Chương 600: Nữ vương Bệ hạ</text>
+      </navLabel>
+      <content src="Text/C214.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-215" playOrder="215">
+      <navLabel>
+        <text>Chương 601: Dã tâm của Bá tước Waylon</text>
+      </navLabel>
+      <content src="Text/C215.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-216" playOrder="216">
+      <navLabel>
+        <text>Chương 602: Trận chiến bảo vệ cầu lớn</text>
+      </navLabel>
+      <content src="Text/C216.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-217" playOrder="217">
+      <navLabel>
+        <text>Chương 603: Như người thân trong nhà</text>
+      </navLabel>
+      <content src="Text/C217.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-218" playOrder="218">
+      <navLabel>
+        <text>Chương 604: Đàm phán đình chiến</text>
+      </navLabel>
+      <content src="Text/C218.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-219" playOrder="219">
+      <navLabel>
+        <text>Chương 605: Chiếc mũ chụp lên đầu Công quốc Stan</text>
+      </navLabel>
+      <content src="Text/C219.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-220" playOrder="220">
+      <navLabel>
+        <text>Chương 606: Thương hội Tân Phi đã trở về</text>
+      </navLabel>
+      <content src="Text/C220.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-221" playOrder="221">
+      <navLabel>
+        <text>Chương 607: Hội chợ bán giá đặc biệt</text>
+      </navLabel>
+      <content src="Text/C221.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-222" playOrder="222">
+      <navLabel>
+        <text>Chương 608: Công nghệ cũng không phải muốn chuyển nhượng là được</text>
+      </navLabel>
+      <content src="Text/C222.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-223" playOrder="223">
+      <navLabel>
+        <text>Chương 609: Máy tiện ma lực tự động điều khiển trước toàn phần</text>
+      </navLabel>
+      <content src="Text/C223.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-224" playOrder="224">
+      <navLabel>
+        <text>Chương 610: Đi hay ở</text>
+      </navLabel>
+      <content src="Text/C224.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-225" playOrder="225">
+      <navLabel>
+        <text>Chương 611: Người thân từ thành Bontar tới</text>
+      </navLabel>
+      <content src="Text/C225.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-226" playOrder="226">
+      <navLabel>
+        <text>Chương 612: Tàu Sải Cánh</text>
+      </navLabel>
+      <content src="Text/C226.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-227" playOrder="227">
+      <navLabel>
+        <text>Chương 613: Sự thay đổi của Đảo Karaska</text>
+      </navLabel>
+      <content src="Text/C227.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-228" playOrder="228">
+      <navLabel>
+        <text>Chương 614: Khống chế vùng biển</text>
+      </navLabel>
+      <content src="Text/C228.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-229" playOrder="229">
+      <navLabel>
+        <text>Chương 615: Cảng Heimi</text>
+      </navLabel>
+      <content src="Text/C229.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-230" playOrder="230">
+      <navLabel>
+        <text>Chương 616: Sự trả thù bình thường</text>
+      </navLabel>
+      <content src="Text/C230.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-231" playOrder="231">
+      <navLabel>
+        <text>Chương 617: Lực lượng phòng vệ đủ mạnh</text>
+      </navLabel>
+      <content src="Text/C231.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-232" playOrder="232">
+      <navLabel>
+        <text>Chương 618: Tư duy theo không kịp phát triển</text>
+      </navLabel>
+      <content src="Text/C232.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-233" playOrder="233">
+      <navLabel>
+        <text>Chương 619: Mang theo thành ý mà đến</text>
+      </navLabel>
+      <content src="Text/C233.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-234" playOrder="234">
+      <navLabel>
+        <text>Chương 620: Lòng có bao lớn</text>
+      </navLabel>
+      <content src="Text/C234.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-235" playOrder="235">
+      <navLabel>
+        <text>Chương 621: Bệ hạ Nữ vương trong kỳ nghỉ</text>
+      </navLabel>
+      <content src="Text/C235.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-236" playOrder="236">
+      <navLabel>
+        <text>Chương 622: Quân đoàn Trấn Tây tặng anh</text>
+      </navLabel>
+      <content src="Text/C236.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-237" playOrder="237">
+      <navLabel>
+        <text>Chương 623: Công trình phòng thủ</text>
+      </navLabel>
+      <content src="Text/C237.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-238" playOrder="238">
+      <navLabel>
+        <text>Chương 624: Thời gian thư giãn của Freya</text>
+      </navLabel>
+      <content src="Text/C238.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-239" playOrder="239">
+      <navLabel>
+        <text>Chương 625: Nhân tố quyết định cục diện</text>
+      </navLabel>
+      <content src="Text/C239.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-240" playOrder="240">
+      <navLabel>
+        <text>Chương 626: Nữ vương Bệ hạ nên kết hôn rồi</text>
+      </navLabel>
+      <content src="Text/C240.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-241" playOrder="241">
+      <navLabel>
+        <text>Chương 627: Sự phán xét của Ragnaros</text>
+      </navLabel>
+      <content src="Text/C241.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-242" playOrder="242">
+      <navLabel>
+        <text>Chương 628: Cho ngươi mười phút</text>
+      </navLabel>
+      <content src="Text/C242.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-243" playOrder="243">
+      <navLabel>
+        <text>Chương 629: Là chết, hay là làm việc cho tôi?</text>
+      </navLabel>
+      <content src="Text/C243.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-244" playOrder="244">
+      <navLabel>
+        <text>Chương 630: Làm một quân cờ hữu dụng</text>
+      </navLabel>
+      <content src="Text/C244.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-245" playOrder="245">
+      <navLabel>
+        <text>Chương 631: Ma văn gia trì</text>
+      </navLabel>
+      <content src="Text/C245.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-246" playOrder="246">
+      <navLabel>
+        <text>Chương 632: Trước sau cũng phải chọn một người</text>
+      </navLabel>
+      <content src="Text/C246.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-247" playOrder="247">
+      <navLabel>
+        <text>Chương 633: Muốn làm thì làm Quốc vương</text>
+      </navLabel>
+      <content src="Text/C247.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-248" playOrder="248">
+      <navLabel>
+        <text>Chương 634: Bạn đời tộc Elf</text>
+      </navLabel>
+      <content src="Text/C248.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-249" playOrder="249">
+      <navLabel>
+        <text>Chương 635: Chế độ cào bằng là không được</text>
+      </navLabel>
+      <content src="Text/C249.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-250" playOrder="250">
+      <navLabel>
+        <text>Chương 636: Trận đấu đẳng cấp cao nhất</text>
+      </navLabel>
+      <content src="Text/C250.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-251" playOrder="251">
+      <navLabel>
+        <text>Chương 637: Khách sạn Amli</text>
+      </navLabel>
+      <content src="Text/C251.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-252" playOrder="252">
+      <navLabel>
+        <text>Chương 638: Đáng giá năm trăm vạn đồng vàng?</text>
+      </navLabel>
+      <content src="Text/C252.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-253" playOrder="253">
+      <navLabel>
+        <text>Chương 639: Hình ảnh thương hiệu quốc gia</text>
+      </navLabel>
+      <content src="Text/C253.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-254" playOrder="254">
+      <navLabel>
+        <text>Chương 640: Đại pháp sư còn không bằng kẻ đạp xe đạp?</text>
+      </navLabel>
+      <content src="Text/C254.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-255" playOrder="255">
+      <navLabel>
+        <text>Chương 641: Không thể một bước lên trời</text>
+      </navLabel>
+      <content src="Text/C255.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-256" playOrder="256">
+      <navLabel>
+        <text>Chương 642: Sắp được gặp mẹ rồi</text>
+      </navLabel>
+      <content src="Text/C256.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-257" playOrder="257">
+      <navLabel>
+        <text>Chương 643: Thành phố suối nước nóng</text>
+      </navLabel>
+      <content src="Text/C257.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-258" playOrder="258">
+      <navLabel>
+        <text>Chương 644: Nắm giữ năng lượng</text>
+      </navLabel>
+      <content src="Text/C258.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-259" playOrder="259">
+      <navLabel>
+        <text>Chương 645: Anh có hứng thú lên xe tôi không?</text>
+      </navLabel>
+      <content src="Text/C259.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-260" playOrder="260">
+      <navLabel>
+        <text>Chương 646: Sản xuất hàng loạt mới là mấu chốt</text>
+      </navLabel>
+      <content src="Text/C260.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-261" playOrder="261">
+      <navLabel>
+        <text>Chương 647: Trong hai điều hại, chọn điều nhẹ hơn</text>
+      </navLabel>
+      <content src="Text/C261.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-262" playOrder="262">
+      <navLabel>
+        <text>Chương 648: Các dị tộc của Vương quốc Rulson</text>
+      </navLabel>
+      <content src="Text/C262.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-263" playOrder="263">
+      <navLabel>
+        <text>Chương 649: Thương hội sở hữu nhiều pháp sư nhất</text>
+      </navLabel>
+      <content src="Text/C263.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-264" playOrder="264">
+      <navLabel>
+        <text>Chương 650: Ma đạo sư Camillo</text>
+      </navLabel>
+      <content src="Text/C264.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-265" playOrder="265">
+      <navLabel>
+        <text>Chương 651: Nợ máu phải trả bằng máu</text>
+      </navLabel>
+      <content src="Text/C265.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-266" playOrder="266">
+      <navLabel>
+        <text>Chương 652: Bất lực</text>
+      </navLabel>
+      <content src="Text/C266.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-267" playOrder="267">
+      <navLabel>
+        <text>Chương 653: Hứa Dịch lạc quan</text>
+      </navLabel>
+      <content src="Text/C267.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-268" playOrder="268">
+      <navLabel>
+        <text>Chương 654: Cục diện đã định</text>
+      </navLabel>
+      <content src="Text/C268.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-269" playOrder="269">
+      <navLabel>
+        <text>Chương 655: Tiến vào Đế quốc Kendra</text>
+      </navLabel>
+      <content src="Text/C269.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-270" playOrder="270">
+      <navLabel>
+        <text>Chương 656: Cấp cứu khẩn cấp</text>
+      </navLabel>
+      <content src="Text/C270.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-271" playOrder="271">
+      <navLabel>
+        <text>Chương 657: Đèn đỏ dừng, đèn xanh đi</text>
+      </navLabel>
+      <content src="Text/C271.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-272" playOrder="272">
+      <navLabel>
+        <text>Chương 658: Dùng con đường nối thông tới Đế quốc Kendra</text>
+      </navLabel>
+      <content src="Text/C272.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-273" playOrder="273">
+      <navLabel>
+        <text>Chương 659: Giải trừ thân phận nô lệ</text>
+      </navLabel>
+      <content src="Text/C273.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-274" playOrder="274">
+      <navLabel>
+        <text>Chương 660: Ra khơi</text>
+      </navLabel>
+      <content src="Text/C274.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-275" playOrder="275">
+      <navLabel>
+        <text>Chương 661: Khao khát của Vương quốc Rulson</text>
+      </navLabel>
+      <content src="Text/C275.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-276" playOrder="276">
+      <navLabel>
+        <text>Chương 662: Thân thế của Theresa</text>
+      </navLabel>
+      <content src="Text/C276.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-277" playOrder="277">
+      <navLabel>
+        <text>Chương 663: Đại pháp sư hiếu thắng và trưởng lão tộc Elf</text>
+      </navLabel>
+      <content src="Text/C277.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-278" playOrder="278">
+      <navLabel>
+        <text>Chương 664: Chẳng có gì cần chuẩn bị</text>
+      </navLabel>
+      <content src="Text/C278.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-279" playOrder="279">
+      <navLabel>
+        <text>Chương 665: Mạng lưới truyền tải ma lực</text>
+      </navLabel>
+      <content src="Text/C279.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-280" playOrder="280">
+      <navLabel>
+        <text>Chương 666: Chìa tay xin tiền</text>
+      </navLabel>
+      <content src="Text/C280.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-281" playOrder="281">
+      <navLabel>
+        <text>Chương 667: Bước đầu tiên của tự chủ độc lập</text>
+      </navLabel>
+      <content src="Text/C281.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-282" playOrder="282">
+      <navLabel>
+        <text>Chương 668: Nữ vương Bệ hạ nhờ tôi nhắn với anh</text>
+      </navLabel>
+      <content src="Text/C282.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-283" playOrder="283">
+      <navLabel>
+        <text>Chương 669: Khó tìm chỗ đậu xe</text>
+      </navLabel>
+      <content src="Text/C283.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-284" playOrder="284">
+      <navLabel>
+        <text>Chương 670: Chọn các anh vì công nghệ</text>
+      </navLabel>
+      <content src="Text/C284.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-285" playOrder="285">
+      <navLabel>
+        <text>Chương 671: Giá như tất cả đều là người bình thường</text>
+      </navLabel>
+      <content src="Text/C285.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-286" playOrder="286">
+      <navLabel>
+        <text>Chương 672: Giấc mộng cũng để lại dấu vết</text>
+      </navLabel>
+      <content src="Text/C286.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-287" playOrder="287">
+      <navLabel>
+        <text>Chương 673: Quay người rời đi</text>
+      </navLabel>
+      <content src="Text/C287.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-288" playOrder="288">
+      <navLabel>
+        <text>Chương 674: Hải trình chưa từng biết</text>
+      </navLabel>
+      <content src="Text/C288.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-289" playOrder="289">
+      <navLabel>
+        <text>Chương 675: Đoàn hải tặc Lôi Minh</text>
+      </navLabel>
+      <content src="Text/C289.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-290" playOrder="290">
+      <navLabel>
+        <text>Chương 676: Vấn đề gì có thể giải quyết bằng tiền thì không phải là vấn đề</text>
+      </navLabel>
+      <content src="Text/C290.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-291" playOrder="291">
+      <navLabel>
+        <text>Chương 677: Thám sát bộ tộc Aisara</text>
+      </navLabel>
+      <content src="Text/C291.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-292" playOrder="292">
+      <navLabel>
+        <text>Chương 678: Sứ giả Vương Đình</text>
+      </navLabel>
+      <content src="Text/C292.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-293" playOrder="293">
+      <navLabel>
+        <text>Chương 679: Gnome</text>
+      </navLabel>
+      <content src="Text/C293.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-294" playOrder="294">
+      <navLabel>
+        <text>Chương 680: Gnome đều là thiên tài ma thuật</text>
+      </navLabel>
+      <content src="Text/C294.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-295" playOrder="295">
+      <navLabel>
+        <text>Chương 681: Khát khao tột độ đối với khoáng sản</text>
+      </navLabel>
+      <content src="Text/C295.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-296" playOrder="296">
+      <navLabel>
+        <text>Chương 682: Còn gây chấn động hơn cả lần trước</text>
+      </navLabel>
+      <content src="Text/C296.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-297" playOrder="297">
+      <navLabel>
+        <text>Chương 683: Đình công</text>
+      </navLabel>
+      <content src="Text/C297.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-298" playOrder="298">
+      <navLabel>
+        <text>Chương 684: Sau đợt sa thải quy mô lớn</text>
+      </navLabel>
+      <content src="Text/C298.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-299" playOrder="299">
+      <navLabel>
+        <text>Chương 685: Công đoàn công nhân</text>
+      </navLabel>
+      <content src="Text/C299.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-300" playOrder="300">
+      <navLabel>
+        <text>Chương 686: Công nghệ ma năng của tộc Gnome</text>
+      </navLabel>
+      <content src="Text/C300.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-301" playOrder="301">
+      <navLabel>
+        <text>Chương 687: Giới hạn</text>
+      </navLabel>
+      <content src="Text/C301.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-302" playOrder="302">
+      <navLabel>
+        <text>Chương 688: Thương hội Tân Phi lợi hại</text>
+      </navLabel>
+      <content src="Text/C302.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-303" playOrder="303">
+      <navLabel>
+        <text>Chương 689: Đoàn xe của vị đại sứ</text>
+      </navLabel>
+      <content src="Text/C303.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-304" playOrder="304">
+      <navLabel>
+        <text>Chương 690: Kiểu gì cũng không tránh được Thương hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C304.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-305" playOrder="305">
+      <navLabel>
+        <text>Chương 691: Thật sự muốn làm hải tặc sao?</text>
+      </navLabel>
+      <content src="Text/C305.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-306" playOrder="306">
+      <navLabel>
+        <text>Chương 692: Quốc lực</text>
+      </navLabel>
+      <content src="Text/C306.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-307" playOrder="307">
+      <navLabel>
+        <text>Chương 693: Khu mậu dịch tự do</text>
+      </navLabel>
+      <content src="Text/C307.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-308" playOrder="308">
+      <navLabel>
+        <text>Chương 694: Cháu sẽ không cô đơn</text>
+      </navLabel>
+      <content src="Text/C308.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-309" playOrder="309">
+      <navLabel>
+        <text>Chương 695: Thành Wimbledon cũ kỹ</text>
+      </navLabel>
+      <content src="Text/C309.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-310" playOrder="310">
+      <navLabel>
+        <text>Chương 696: Kế hoạch đường bộ điên rồ</text>
+      </navLabel>
+      <content src="Text/C310.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-311" playOrder="311">
+      <navLabel>
+        <text>Chương 697: Cho tôi xi măng</text>
+      </navLabel>
+      <content src="Text/C311.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-312" playOrder="312">
+      <navLabel>
+        <text>Chương 698: Chưa biết tin tức thật giả</text>
+      </navLabel>
+      <content src="Text/C312.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-313" playOrder="313">
+      <navLabel>
+        <text>Chương 699: Máy móc Ma thuật chết tiệt</text>
+      </navLabel>
+      <content src="Text/C313.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-314" playOrder="314">
+      <navLabel>
+        <text>Chương 700: Báo cáo công tác thường niên</text>
+      </navLabel>
+      <content src="Text/C314.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-315" playOrder="315">
+      <navLabel>
+        <text>Chương 701: Tăng ngân sách</text>
+      </navLabel>
+      <content src="Text/C315.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-316" playOrder="316">
+      <navLabel>
+        <text>Chương 702: Khai phá hải đảo</text>
+      </navLabel>
+      <content src="Text/C316.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-317" playOrder="317">
+      <navLabel>
+        <text>Chương 703: Tôi là kẻ sẽ trở thành Vua Hải Tặc</text>
+      </navLabel>
+      <content src="Text/C317.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-318" playOrder="318">
+      <navLabel>
+        <text>Chương 704: Các giải đấu</text>
+      </navLabel>
+      <content src="Text/C318.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-319" playOrder="319">
+      <navLabel>
+        <text>Chương 705: Đi Theo Lộ Tuyến Cao Cấp</text>
+      </navLabel>
+      <content src="Text/C319.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-320" playOrder="320">
+      <navLabel>
+        <text>Chương 706: Sóng Lớn Đãi Cát</text>
+      </navLabel>
+      <content src="Text/C320.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-321" playOrder="321">
+      <navLabel>
+        <text>Chương 707: Pháp Trận Ảo Ảnh</text>
+      </navLabel>
+      <content src="Text/C321.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-322" playOrder="322">
+      <navLabel>
+        <text>Chương 708: Những Viễn Cảnh Về Tương Lai</text>
+      </navLabel>
+      <content src="Text/C322.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-323" playOrder="323">
+      <navLabel>
+        <text>Chương 709: Những Công Nhân Xa Xứ</text>
+      </navLabel>
+      <content src="Text/C323.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-324" playOrder="324">
+      <navLabel>
+        <text>Chương 710: Cướp người</text>
+      </navLabel>
+      <content src="Text/C324.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-325" playOrder="325">
+      <navLabel>
+        <text>Chương 711: Quý nhân</text>
+      </navLabel>
+      <content src="Text/C325.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-326" playOrder="326">
+      <navLabel>
+        <text>Chương 712: Khoảng cách thân phận</text>
+      </navLabel>
+      <content src="Text/C326.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-327" playOrder="327">
+      <navLabel>
+        <text>Chương 713: Chờ người đến đón tôi</text>
+      </navLabel>
+      <content src="Text/C327.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-328" playOrder="328">
+      <navLabel>
+        <text>Chương 714: Hệ thống định vị ma lực tầm xa</text>
+      </navLabel>
+      <content src="Text/C328.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-329" playOrder="329">
+      <navLabel>
+        <text>Chương 715: Cuộc sống buồn tẻ trên biển</text>
+      </navLabel>
+      <content src="Text/C329.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-330" playOrder="330">
+      <navLabel>
+        <text>Chương 716: Chạy trốn cũng không đàng hoàng</text>
+      </navLabel>
+      <content src="Text/C330.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-331" playOrder="331">
+      <navLabel>
+        <text>Chương 717: Khai thông toàn bộ vùng biển phía Nam</text>
+      </navLabel>
+      <content src="Text/C331.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-332" playOrder="332">
+      <navLabel>
+        <text>Chương 718: Đi thế nào, về thế nào</text>
+      </navLabel>
+      <content src="Text/C332.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-333" playOrder="333">
+      <navLabel>
+        <text>Chương 719: Chào mừng đến với Nozdrom</text>
+      </navLabel>
+      <content src="Text/C333.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-334" playOrder="334">
+      <navLabel>
+        <text>Chương 720: Cứ xây một cảng trước đã</text>
+      </navLabel>
+      <content src="Text/C334.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-335" playOrder="335">
+      <navLabel>
+        <text>Chương 721: Sự hợp tác vượt hơn năm nghìn km</text>
+      </navLabel>
+      <content src="Text/C335.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-336" playOrder="336">
+      <navLabel>
+        <text>Chương 722: Công cuộc cải tạo thị chính thành Bontar</text>
+      </navLabel>
+      <content src="Text/C336.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-337" playOrder="337">
+      <navLabel>
+        <text>Chương 723: Nữ vương Bệ hạ... mang thai rồi?</text>
+      </navLabel>
+      <content src="Text/C337.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-338" playOrder="338">
+      <navLabel>
+        <text>Chương 724: Chuyện đó không liên quan gì tới tôi</text>
+      </navLabel>
+      <content src="Text/C338.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-339" playOrder="339">
+      <navLabel>
+        <text>Chương 725: Cuộc sống thường ngày của Đoàn ca vũ Tân Nguyệt</text>
+      </navLabel>
+      <content src="Text/C339.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-340" playOrder="340">
+      <navLabel>
+        <text>Chương 726: Phương thức giải trí mới</text>
+      </navLabel>
+      <content src="Text/C340.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-341" playOrder="341">
+      <navLabel>
+        <text>Chương 727: Thị trấn tộc Elf</text>
+      </navLabel>
+      <content src="Text/C341.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-342" playOrder="342">
+      <navLabel>
+        <text>Chương 728: Khu Điện ảnh Giải trí</text>
+      </navLabel>
+      <content src="Text/C342.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-343" playOrder="343">
+      <navLabel>
+        <text>Chương 729: Vương quốc trên biển</text>
+      </navLabel>
+      <content src="Text/C343.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-344" playOrder="344">
+      <navLabel>
+        <text>Chương 730: Điều chỉnh kế hoạch</text>
+      </navLabel>
+      <content src="Text/C344.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-345" playOrder="345">
+      <navLabel>
+        <text>Chương 731: Không quan trọng</text>
+      </navLabel>
+      <content src="Text/C345.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-346" playOrder="346">
+      <navLabel>
+        <text>Chương 732: Tháp tín hiệu</text>
+      </navLabel>
+      <content src="Text/C346.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-347" playOrder="347">
+      <navLabel>
+        <text>Chương 733: Gã nhà quê từ Đế quốc Kendra</text>
+      </navLabel>
+      <content src="Text/C347.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-348" playOrder="348">
+      <navLabel>
+        <text>Chương 734: Tìm hiểu ngọn ngành</text>
+      </navLabel>
+      <content src="Text/C348.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-349" playOrder="349">
+      <navLabel>
+        <text>Chương 735: Lấy danh nghĩa ngài để xây đường</text>
+      </navLabel>
+      <content src="Text/C349.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-350" playOrder="350">
+      <navLabel>
+        <text>Chương 736: Hoàng tử Franck cũng muốn đến?</text>
+      </navLabel>
+      <content src="Text/C350.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-351" playOrder="351">
+      <navLabel>
+        <text>Chương 737: Đại diện</text>
+      </navLabel>
+      <content src="Text/C351.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-352" playOrder="352">
+      <navLabel>
+        <text>Chương 738: Ngươi không có tư cách bàn hợp tác</text>
+      </navLabel>
+      <content src="Text/C352.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-353" playOrder="353">
+      <navLabel>
+        <text>Chương 739: Tuyên án tử hình</text>
+      </navLabel>
+      <content src="Text/C353.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-354" playOrder="354">
+      <navLabel>
+        <text>Chương 740: Chỉ Là Một Khúc Chen Nhỏ</text>
+      </navLabel>
+      <content src="Text/C354.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-355" playOrder="355">
+      <navLabel>
+        <text>Chương 741: Quần Anh Hội Tụ</text>
+      </navLabel>
+      <content src="Text/C355.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-356" playOrder="356">
+      <navLabel>
+        <text>Chương 742: Giao Việc Đàng Hoàng Cho Cậu</text>
+      </navLabel>
+      <content src="Text/C356.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-357" playOrder="357">
+      <navLabel>
+        <text>Chương 743: Sự Báo Đáp Của Leslie</text>
+      </navLabel>
+      <content src="Text/C357.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-358" playOrder="358">
+      <navLabel>
+        <text>Chương 744: Thái Độ Đối Với Nô Lệ</text>
+      </navLabel>
+      <content src="Text/C358.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-359" playOrder="359">
+      <navLabel>
+        <text>Chương 745: Cùng nhau đánh hải tặc thôi</text>
+      </navLabel>
+      <content src="Text/C359.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-360" playOrder="360">
+      <navLabel>
+        <text>Chương 746: Vì sao phải xóa bỏ chế độ nô lệ?</text>
+      </navLabel>
+      <content src="Text/C360.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-361" playOrder="361">
+      <navLabel>
+        <text>Chương 747: Trách nhiệm phải gánh vác</text>
+      </navLabel>
+      <content src="Text/C361.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-362" playOrder="362">
+      <navLabel>
+        <text>Chương 748: Mồi nhử</text>
+      </navLabel>
+      <content src="Text/C362.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-363" playOrder="363">
+      <navLabel>
+        <text>Chương 749: Mua tàu</text>
+      </navLabel>
+      <content src="Text/C363.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-364" playOrder="364">
+      <navLabel>
+        <text>Chương 750: Dùng người để đổi</text>
+      </navLabel>
+      <content src="Text/C364.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-365" playOrder="365">
+      <navLabel>
+        <text>Chương 751: Thương hội mạnh nhất</text>
+      </navLabel>
+      <content src="Text/C365.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-366" playOrder="366">
+      <navLabel>
+        <text>Chương 752: Hải quân đế quốc nghèo lắm</text>
+      </navLabel>
+      <content src="Text/C366.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-367" playOrder="367">
+      <navLabel>
+        <text>Chương 753: Mua một chiếc xe đi</text>
+      </navLabel>
+      <content src="Text/C367.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-368" playOrder="368">
+      <navLabel>
+        <text>Chương 754: Không chỉ có xe hơi ma lực</text>
+      </navLabel>
+      <content src="Text/C368.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-369" playOrder="369">
+      <navLabel>
+        <text>Chương 755: Anh là kẻ giả dối</text>
+      </navLabel>
+      <content src="Text/C369.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-370" playOrder="370">
+      <navLabel>
+        <text>Chương 756: Không có tinh thần mạo hiểm</text>
+      </navLabel>
+      <content src="Text/C370.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-371" playOrder="371">
+      <navLabel>
+        <text>Chương 757: Phản ứng dữ dội</text>
+      </navLabel>
+      <content src="Text/C371.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-372" playOrder="372">
+      <navLabel>
+        <text>Chương 758: Vương quốc Crusk bất lực chống cự</text>
+      </navLabel>
+      <content src="Text/C372.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-373" playOrder="373">
+      <navLabel>
+        <text>Chương 759: Chiến quả kinh người</text>
+      </navLabel>
+      <content src="Text/C373.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-374" playOrder="374">
+      <navLabel>
+        <text>Chương 760: Đã Ở Khắp Mọi Nơi Từ Lâu</text>
+      </navLabel>
+      <content src="Text/C374.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-375" playOrder="375">
+      <navLabel>
+        <text>Chương 761: Tất Cả Vì Lương Thực</text>
+      </navLabel>
+      <content src="Text/C375.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-376" playOrder="376">
+      <navLabel>
+        <text>Chương 762: Vẫn Chưa Chuẩn Bị Sẵn Sàng</text>
+      </navLabel>
+      <content src="Text/C376.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-377" playOrder="377">
+      <navLabel>
+        <text>Chương 763: Thái Độ Của Bá Tước Rivel</text>
+      </navLabel>
+      <content src="Text/C377.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-378" playOrder="378">
+      <navLabel>
+        <text>Chương 764: Đi Quay Một Đoạn Quảng Cáo Nào</text>
+      </navLabel>
+      <content src="Text/C378.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-379" playOrder="379">
+      <navLabel>
+        <text>Chương 765: Một thế giới khác</text>
+      </navLabel>
+      <content src="Text/C379.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-380" playOrder="380">
+      <navLabel>
+        <text>Chương 766: Khoảng cách giá cả khổng lồ</text>
+      </navLabel>
+      <content src="Text/C380.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-381" playOrder="381">
+      <navLabel>
+        <text>Chương 767: Tiết kiệm năng lượng</text>
+      </navLabel>
+      <content src="Text/C381.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-382" playOrder="382">
+      <navLabel>
+        <text>Chương 768: Đứa con thứ hai</text>
+      </navLabel>
+      <content src="Text/C382.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-383" playOrder="383">
+      <navLabel>
+        <text>Chương 769: Cảm ơn Thương hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C383.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-384" playOrder="384">
+      <navLabel>
+        <text>Chương 770: Seymour Bướng Bỉnh</text>
+      </navLabel>
+      <content src="Text/C384.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-385" playOrder="385">
+      <navLabel>
+        <text>Chương 771: Tân Thành Feloise</text>
+      </navLabel>
+      <content src="Text/C385.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-386" playOrder="386">
+      <navLabel>
+        <text>Chương 772: Liên Quan Gì Đến Cô?</text>
+      </navLabel>
+      <content src="Text/C386.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-387" playOrder="387">
+      <navLabel>
+        <text>Chương 773: Sự Phản Đối Khó Hiểu</text>
+      </navLabel>
+      <content src="Text/C387.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-388" playOrder="388">
+      <navLabel>
+        <text>Chương 774: Hội Trưởng Đại Nhân Sợ Vợ</text>
+      </navLabel>
+      <content src="Text/C388.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-389" playOrder="389">
+      <navLabel>
+        <text>Chương 775: Bóng tối trong lòng</text>
+      </navLabel>
+      <content src="Text/C389.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-390" playOrder="390">
+      <navLabel>
+        <text>Chương 776: Dễ bắt nạt?</text>
+      </navLabel>
+      <content src="Text/C390.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-391" playOrder="391">
+      <navLabel>
+        <text>Chương 777: Thật sự vì cả công quốc?</text>
+      </navLabel>
+      <content src="Text/C391.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-392" playOrder="392">
+      <navLabel>
+        <text>Chương 778: Công quốc Stan biến động lớn</text>
+      </navLabel>
+      <content src="Text/C392.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-393" playOrder="393">
+      <navLabel>
+        <text>Chương 779: Có khách từ phương xa tới</text>
+      </navLabel>
+      <content src="Text/C393.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-394" playOrder="394">
+      <navLabel>
+        <text>Chương 780: Gây Tai Nạn Rồi Bỏ Trốn</text>
+      </navLabel>
+      <content src="Text/C394.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-395" playOrder="395">
+      <navLabel>
+        <text>Chương 781: Quyết Đoán Của Hứa Dịch</text>
+      </navLabel>
+      <content src="Text/C395.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-396" playOrder="396">
+      <navLabel>
+        <text>Chương 782: Hai Người Đàn Ông Kỳ Lạ</text>
+      </navLabel>
+      <content src="Text/C396.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-397" playOrder="397">
+      <navLabel>
+        <text>Chương 783: Tình Yêu Là Ích Kỷ</text>
+      </navLabel>
+      <content src="Text/C397.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-398" playOrder="398">
+      <navLabel>
+        <text>Chương 784: Mở Cảng</text>
+      </navLabel>
+      <content src="Text/C398.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-399" playOrder="399">
+      <navLabel>
+        <text>Chương 785: Cùng lúc rời đi</text>
+      </navLabel>
+      <content src="Text/C399.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-400" playOrder="400">
+      <navLabel>
+        <text>Chương 786: Chúng ta cần một chuyên gia</text>
+      </navLabel>
+      <content src="Text/C400.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-401" playOrder="401">
+      <navLabel>
+        <text>Chương 787: Lễ trao sách</text>
+      </navLabel>
+      <content src="Text/C401.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-402" playOrder="402">
+      <navLabel>
+        <text>Chương 788: Cảnh cáo cuối cùng</text>
+      </navLabel>
+      <content src="Text/C402.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-403" playOrder="403">
+      <navLabel>
+        <text>Chương 789: Chúng ta cần tình báo</text>
+      </navLabel>
+      <content src="Text/C403.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-404" playOrder="404">
+      <navLabel>
+        <text>Chương 790: Sự thay đổi của Hứa Dịch</text>
+      </navLabel>
+      <content src="Text/C404.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-405" playOrder="405">
+      <navLabel>
+        <text>Chương 791: Tình yêu đích thực</text>
+      </navLabel>
+      <content src="Text/C405.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-406" playOrder="406">
+      <navLabel>
+        <text>Chương 792: Muốn ngày nào cũng được trò chuyện</text>
+      </navLabel>
+      <content src="Text/C406.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-407" playOrder="407">
+      <navLabel>
+        <text>Chương 793: Ba dự án hợp tác</text>
+      </navLabel>
+      <content src="Text/C407.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-408" playOrder="408">
+      <navLabel>
+        <text>Chương 794: Thương hội lâu đời và thương hội mới nổi</text>
+      </navLabel>
+      <content src="Text/C408.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-409" playOrder="409">
+      <navLabel>
+        <text>Chương 795: Con đường biển vàng</text>
+      </navLabel>
+      <content src="Text/C409.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-410" playOrder="410">
+      <navLabel>
+        <text>Chương 796: Em có muốn về không?</text>
+      </navLabel>
+      <content src="Text/C410.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-411" playOrder="411">
+      <navLabel>
+        <text>Chương 797: Chủ động khống chế</text>
+      </navLabel>
+      <content src="Text/C411.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-412" playOrder="412">
+      <navLabel>
+        <text>Chương 798: Vấn đề bảo dưỡng</text>
+      </navLabel>
+      <content src="Text/C412.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-413" playOrder="413">
+      <navLabel>
+        <text>Chương 799: Hứa Dịch bụng đen</text>
+      </navLabel>
+      <content src="Text/C413.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-414" playOrder="414">
+      <navLabel>
+        <text>Chương 800: Thương hội Lavender</text>
+      </navLabel>
+      <content src="Text/C414.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-415" playOrder="415">
+      <navLabel>
+        <text>Chương 801: Vấn đề thân phận</text>
+      </navLabel>
+      <content src="Text/C415.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-416" playOrder="416">
+      <navLabel>
+        <text>Chương 802: Thổ dân</text>
+      </navLabel>
+      <content src="Text/C416.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-417" playOrder="417">
+      <navLabel>
+        <text>Chương 803: Quyền kiểm soát không phận</text>
+      </navLabel>
+      <content src="Text/C417.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-418" playOrder="418">
+      <navLabel>
+        <text>Chương 804: Trưởng lão Wendini đầu óc kinh doanh cực kỳ nhạy bén</text>
+      </navLabel>
+      <content src="Text/C418.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-419" playOrder="419">
+      <navLabel>
+        <text>Chương 805: Thêm kỹ xảo</text>
+      </navLabel>
+      <content src="Text/C419.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-420" playOrder="420">
+      <navLabel>
+        <text>Chương 806: Đã xảy ra một chuyện lớn</text>
+      </navLabel>
+      <content src="Text/C420.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-421" playOrder="421">
+      <navLabel>
+        <text>Chương 807: Lý do khai chiến</text>
+      </navLabel>
+      <content src="Text/C421.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-422" playOrder="422">
+      <navLabel>
+        <text>Chương 808: Một phi vụ giao dịch lớn</text>
+      </navLabel>
+      <content src="Text/C422.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-423" playOrder="423">
+      <navLabel>
+        <text>Chương 809: Không phận</text>
+      </navLabel>
+      <content src="Text/C423.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-424" playOrder="424">
+      <navLabel>
+        <text>Chương 810: Bắt cá hai tay</text>
+      </navLabel>
+      <content src="Text/C424.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-425" playOrder="425">
+      <navLabel>
+        <text>Chương 811: Dạo phố</text>
+      </navLabel>
+      <content src="Text/C425.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-426" playOrder="426">
+      <navLabel>
+        <text>Chương 812: Đình chiến</text>
+      </navLabel>
+      <content src="Text/C426.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-427" playOrder="427">
+      <navLabel>
+        <text>Chương 813: Lấp Đầy Khoảng Trống</text>
+      </navLabel>
+      <content src="Text/C427.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-428" playOrder="428">
+      <navLabel>
+        <text>Chương 814: Vốn Liếng Để Ngạo Mạn</text>
+      </navLabel>
+      <content src="Text/C428.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-429" playOrder="429">
+      <navLabel>
+        <text>Chương 815: Giống Như Bontar Ngày Trước</text>
+      </navLabel>
+      <content src="Text/C429.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-430" playOrder="430">
+      <navLabel>
+        <text>Chương 816: Ngang hàng với Evita</text>
+      </navLabel>
+      <content src="Text/C430.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-431" playOrder="431">
+      <navLabel>
+        <text>Chương 817: Đừng đua xe trên đường lộ</text>
+      </navLabel>
+      <content src="Text/C431.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-432" playOrder="432">
+      <navLabel>
+        <text>Chương 818: Gặp gỡ tình cờ</text>
+      </navLabel>
+      <content src="Text/C432.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-433" playOrder="433">
+      <navLabel>
+        <text>Chương 819: Vì sao tổng bộ cử người tới</text>
+      </navLabel>
+      <content src="Text/C433.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-434" playOrder="434">
+      <navLabel>
+        <text>Chương 820: Thương hội hợp tác chỉ định</text>
+      </navLabel>
+      <content src="Text/C434.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-435" playOrder="435">
+      <navLabel>
+        <text>Chương 821: Nỗi lo của Hầu tước Southgate</text>
+      </navLabel>
+      <content src="Text/C435.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-436" playOrder="436">
+      <navLabel>
+        <text>Chương 822: Phương án này ngốc quá</text>
+      </navLabel>
+      <content src="Text/C436.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-437" playOrder="437">
+      <navLabel>
+        <text>Chương 823: Bước chân tiến vào đại lục</text>
+      </navLabel>
+      <content src="Text/C437.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-438" playOrder="438">
+      <navLabel>
+        <text>Chương 824: Đoàn xe mắc kẹt</text>
+      </navLabel>
+      <content src="Text/C438.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-439" playOrder="439">
+      <navLabel>
+        <text>Chương 825: Người kế thừa xuất sắc</text>
+      </navLabel>
+      <content src="Text/C439.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-440" playOrder="440">
+      <navLabel>
+        <text>Chương 826: Vô vàn bất tiện trong đế quốc</text>
+      </navLabel>
+      <content src="Text/C440.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-441" playOrder="441">
+      <navLabel>
+        <text>Chương 827: Quyền quản lý nhân công</text>
+      </navLabel>
+      <content src="Text/C441.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-442" playOrder="442">
+      <navLabel>
+        <text>Chương 828: Vấn đề nhân lực</text>
+      </navLabel>
+      <content src="Text/C442.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-443" playOrder="443">
+      <navLabel>
+        <text>Chương 829: Sân bãi rộng hơn</text>
+      </navLabel>
+      <content src="Text/C443.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-444" playOrder="444">
+      <navLabel>
+        <text>Chương 830: Học viện Công nghiệp Ma pháp</text>
+      </navLabel>
+      <content src="Text/C444.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-445" playOrder="445">
+      <navLabel>
+        <text>Chương 831: Lại Muốn Hiệp Hội Phối Hợp?</text>
+      </navLabel>
+      <content src="Text/C445.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-446" playOrder="446">
+      <navLabel>
+        <text>Chương 832: Không Cần Pháp Trận Băng Sương</text>
+      </navLabel>
+      <content src="Text/C446.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-447" playOrder="447">
+      <navLabel>
+        <text>Chương 833: Nâng Cấp Ngành Nông Nghiệp</text>
+      </navLabel>
+      <content src="Text/C447.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-448" playOrder="448">
+      <navLabel>
+        <text>Chương 834: Dân số</text>
+      </navLabel>
+      <content src="Text/C448.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-449" playOrder="449">
+      <navLabel>
+        <text>Chương 835: Đã cảm nhận được nguy cơ chưa?</text>
+      </navLabel>
+      <content src="Text/C449.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-450" playOrder="450">
+      <navLabel>
+        <text>Chương 836: Không có thời gian chơi cùng bọn họ</text>
+      </navLabel>
+      <content src="Text/C450.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-451" playOrder="451">
+      <navLabel>
+        <text>Chương 837: Công trường dưới nắng gắt</text>
+      </navLabel>
+      <content src="Text/C451.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-452" playOrder="452">
+      <navLabel>
+        <text>Chương 838: Ngài đã được phê chuẩn chưa?</text>
+      </navLabel>
+      <content src="Text/C452.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-453" playOrder="453">
+      <navLabel>
+        <text>Chương 839: Ai Cần Nấy Lấy</text>
+      </navLabel>
+      <content src="Text/C453.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-454" playOrder="454">
+      <navLabel>
+        <text>Chương 840: Mạo Hiểm</text>
+      </navLabel>
+      <content src="Text/C454.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-455" playOrder="455">
+      <navLabel>
+        <text>Chương 841: Cho Chúng Tôi Một Tư Cách Chứng Nhận</text>
+      </navLabel>
+      <content src="Text/C455.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-456" playOrder="456">
+      <navLabel>
+        <text>Chương 842: Thương Hội Chimera Thái Độ Lạnh Nhạt</text>
+      </navLabel>
+      <content src="Text/C456.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-457" playOrder="457">
+      <navLabel>
+        <text>Chương 843: Thâu Tóm</text>
+      </navLabel>
+      <content src="Text/C457.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-458" playOrder="458">
+      <navLabel>
+        <text>Chương 844: Ấn tượng xấu</text>
+      </navLabel>
+      <content src="Text/C458.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-459" playOrder="459">
+      <navLabel>
+        <text>Chương 845: Saiens Ân Cừu Ký</text>
+      </navLabel>
+      <content src="Text/C459.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-460" playOrder="460">
+      <navLabel>
+        <text>Chương 846: Akali bị bắt rồi!</text>
+      </navLabel>
+      <content src="Text/C460.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-461" playOrder="461">
+      <navLabel>
+        <text>Chương 847: Phu nhân Công tước Windsor</text>
+      </navLabel>
+      <content src="Text/C461.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-462" playOrder="462">
+      <navLabel>
+        <text>Chương 848: Đàm phán</text>
+      </navLabel>
+      <content src="Text/C462.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-463" playOrder="463">
+      <navLabel>
+        <text>Chương 849: Đàm phán đổ vỡ</text>
+      </navLabel>
+      <content src="Text/C463.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-464" playOrder="464">
+      <navLabel>
+        <text>Chương 850: Đột kích</text>
+      </navLabel>
+      <content src="Text/C464.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-465" playOrder="465">
+      <navLabel>
+        <text>Chương 851: Phi đĩnh Ma lực VS Đại pháp sư</text>
+      </navLabel>
+      <content src="Text/C465.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-466" playOrder="466">
+      <navLabel>
+        <text>Chương 852: Cuộc giải cứu nhẹ nhàng</text>
+      </navLabel>
+      <content src="Text/C466.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-467" playOrder="467">
+      <navLabel>
+        <text>Chương 853: Gan to thật đấy!</text>
+      </navLabel>
+      <content src="Text/C467.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-468" playOrder="468">
+      <navLabel>
+        <text>Chương 854: Biến chuyển của Thương hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C468.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-469" playOrder="469">
+      <navLabel>
+        <text>Chương 855: Nuốt trọn Thương hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C469.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-470" playOrder="470">
+      <navLabel>
+        <text>Chương 856: Cuộc thu hoạch cơ giới đầu tiên của Đế quốc Malo</text>
+      </navLabel>
+      <content src="Text/C470.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-471" playOrder="471">
+      <navLabel>
+        <text>Chương 857: Đế quốc Kendra kiêu ngạo</text>
+      </navLabel>
+      <content src="Text/C471.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-472" playOrder="472">
+      <navLabel>
+        <text>Chương 858: Xâm nhập Công quốc Stan</text>
+      </navLabel>
+      <content src="Text/C472.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-473" playOrder="473">
+      <navLabel>
+        <text>Chương 859: Ai quyết định vận mệnh</text>
+      </navLabel>
+      <content src="Text/C473.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-474" playOrder="474">
+      <navLabel>
+        <text>Chương 860: Đây chính là thực lực của chúng tôi</text>
+      </navLabel>
+      <content src="Text/C474.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-475" playOrder="475">
+      <navLabel>
+        <text>Chương 861: Tranh mua phân bón</text>
+      </navLabel>
+      <content src="Text/C475.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-476" playOrder="476">
+      <navLabel>
+        <text>Chương 862: Trận chiến trên đường biên giới</text>
+      </navLabel>
+      <content src="Text/C476.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-477" playOrder="477">
+      <navLabel>
+        <text>Chương 863: Bồi thường</text>
+      </navLabel>
+      <content src="Text/C477.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-478" playOrder="478">
+      <navLabel>
+        <text>Chương 864: Cho Vương quốc Rulson một bài học</text>
+      </navLabel>
+      <content src="Text/C478.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-479" playOrder="479">
+      <navLabel>
+        <text>Chương 865: Vương quốc Rulson chắc chắn sẽ thua?</text>
+      </navLabel>
+      <content src="Text/C479.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-480" playOrder="480">
+      <navLabel>
+        <text>Chương 866: Dựng Uy</text>
+      </navLabel>
+      <content src="Text/C480.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-481" playOrder="481">
+      <navLabel>
+        <text>Chương 867: Tôi Không Liên Quan Gì Đến Thương Hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C481.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-482" playOrder="482">
+      <navLabel>
+        <text>Chương 868: Cuộc Gọi Đường Dài Quốc Tế</text>
+      </navLabel>
+      <content src="Text/C482.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-483" playOrder="483">
+      <navLabel>
+        <text>Chương 869: Nhân Tố Quyết Định Thắng Bại Chiến Tranh</text>
+      </navLabel>
+      <content src="Text/C483.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-484" playOrder="484">
+      <navLabel>
+        <text>Chương 870: Phải Làm Sao Mới Được Coi Trọng</text>
+      </navLabel>
+      <content src="Text/C484.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-485" playOrder="485">
+      <navLabel>
+        <text>Chương 871: Đầu tư phải chấp nhận rủi ro</text>
+      </navLabel>
+      <content src="Text/C485.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-486" playOrder="486">
+      <navLabel>
+        <text>Chương 872: Khủng hoảng uy tín của đế quốc</text>
+      </navLabel>
+      <content src="Text/C486.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-487" playOrder="487">
+      <navLabel>
+        <text>Chương 873: Vì sao lại thua?</text>
+      </navLabel>
+      <content src="Text/C487.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-488" playOrder="488">
+      <navLabel>
+        <text>Chương 874: Thái độ thay đổi</text>
+      </navLabel>
+      <content src="Text/C488.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-489" playOrder="489">
+      <navLabel>
+        <text>Chương 875: Tạo dựng danh tiếng</text>
+      </navLabel>
+      <content src="Text/C489.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-490" playOrder="490">
+      <navLabel>
+        <text>Chương 876: Lạm Dụng Chức Quyền Vì Việc Tư</text>
+      </navLabel>
+      <content src="Text/C490.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-491" playOrder="491">
+      <navLabel>
+        <text>Chương 877: Stella - Bậc Thầy Quảng Cáo</text>
+      </navLabel>
+      <content src="Text/C491.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-492" playOrder="492">
+      <navLabel>
+        <text>Chương 878: Ngài có biết bằng sáng chế không?</text>
+      </navLabel>
+      <content src="Text/C492.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-493" playOrder="493">
+      <navLabel>
+        <text>Chương 879: Chúng tôi tới đây để mua thương hội</text>
+      </navLabel>
+      <content src="Text/C493.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-494" playOrder="494">
+      <navLabel>
+        <text>Chương 880: Trả tiền sảng khoái</text>
+      </navLabel>
+      <content src="Text/C494.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-495" playOrder="495">
+      <navLabel>
+        <text>Chương 881: Đế quốc Kendra phản ứng nhanh nhạy</text>
+      </navLabel>
+      <content src="Text/C495.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-496" playOrder="496">
+      <navLabel>
+        <text>Chương 882: Các người có muốn phấn đấu thêm một lần nữa không?</text>
+      </navLabel>
+      <content src="Text/C496.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-497" playOrder="497">
+      <navLabel>
+        <text>Chương 883: Bên Trọng Bên Khinh</text>
+      </navLabel>
+      <content src="Text/C497.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-498" playOrder="498">
+      <navLabel>
+        <text>Chương 884: Bằng Sáng Chế Mất Hiệu Lực</text>
+      </navLabel>
+      <content src="Text/C498.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-499" playOrder="499">
+      <navLabel>
+        <text>Chương 885: Giới Hạn Của Sự Trơ Trẽn</text>
+      </navLabel>
+      <content src="Text/C499.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-500" playOrder="500">
+      <navLabel>
+        <text>Chương 886: Mùa Xuân Đế Quốc Malo</text>
+      </navLabel>
+      <content src="Text/C500.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-501" playOrder="501">
+      <navLabel>
+        <text>Chương 887: Chúng Tôi Cần Xe Việt Dã</text>
+      </navLabel>
+      <content src="Text/C501.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-502" playOrder="502">
+      <navLabel>
+        <text>Chương 888: Khởi động căn cứ</text>
+      </navLabel>
+      <content src="Text/C502.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-503" playOrder="503">
+      <navLabel>
+        <text>Chương 889: Lời chào giữa các Ma đạo sư</text>
+      </navLabel>
+      <content src="Text/C503.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-504" playOrder="504">
+      <navLabel>
+        <text>Chương 890: Còn muốn có thêm một Ma đạo sư</text>
+      </navLabel>
+      <content src="Text/C504.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-505" playOrder="505">
+      <navLabel>
+        <text>Chương 891: Đảo Thiên Đường</text>
+      </navLabel>
+      <content src="Text/C505.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-506" playOrder="506">
+      <navLabel>
+        <text>Chương 892: Yết kiến Quốc vương Bệ hạ</text>
+      </navLabel>
+      <content src="Text/C506.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-507" playOrder="507">
+      <navLabel>
+        <text>Chương 893: Cảnh cáo của hai đại đế quốc</text>
+      </navLabel>
+      <content src="Text/C507.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-508" playOrder="508">
+      <navLabel>
+        <text>Chương 894: Đế quốc Kendra lạc hậu</text>
+      </navLabel>
+      <content src="Text/C508.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-509" playOrder="509">
+      <navLabel>
+        <text>Chương 895: Năng về thăm nhà</text>
+      </navLabel>
+      <content src="Text/C509.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-510" playOrder="510">
+      <navLabel>
+        <text>Chương 896: Bộ quần áo không thể tin nổi</text>
+      </navLabel>
+      <content src="Text/C510.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-511" playOrder="511">
+      <navLabel>
+        <text>Chương 897: Nguồn gốc không minh bạch</text>
+      </navLabel>
+      <content src="Text/C511.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-512" playOrder="512">
+      <navLabel>
+        <text>Chương 898: Đưa ra lựa chọn</text>
+      </navLabel>
+      <content src="Text/C512.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-513" playOrder="513">
+      <navLabel>
+        <text>Chương 899: Tổn thất nặng nề</text>
+      </navLabel>
+      <content src="Text/C513.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-514" playOrder="514">
+      <navLabel>
+        <text>Chương 900: Kết Đoàn Cùng Đi</text>
+      </navLabel>
+      <content src="Text/C514.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-515" playOrder="515">
+      <navLabel>
+        <text>Chương 901: Tiến Về Vùng Biển Phía Bắc</text>
+      </navLabel>
+      <content src="Text/C515.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-516" playOrder="516">
+      <navLabel>
+        <text>Chương 902: Bản Vẽ Chiến Hạm Tộc Elf</text>
+      </navLabel>
+      <content src="Text/C516.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-517" playOrder="517">
+      <navLabel>
+        <text>Chương 903: Đây Là Con Của Tôi</text>
+      </navLabel>
+      <content src="Text/C517.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-518" playOrder="518">
+      <navLabel>
+        <text>Chương 904: Sính Lễ</text>
+      </navLabel>
+      <content src="Text/C518.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-519" playOrder="519">
+      <navLabel>
+        <text>Chương 905: Sự khác biệt giữa hai thị tộc Elf</text>
+      </navLabel>
+      <content src="Text/C519.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-520" playOrder="520">
+      <navLabel>
+        <text>Chương 906: Quạt Ma lực đời cũ cũng có đầu ra</text>
+      </navLabel>
+      <content src="Text/C520.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-521" playOrder="521">
+      <navLabel>
+        <text>Chương 907: Tổng đốc hành tỉnh Tây Nam</text>
+      </navLabel>
+      <content src="Text/C521.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-522" playOrder="522">
+      <navLabel>
+        <text>Chương 908: Nhái hàng đâu có dễ</text>
+      </navLabel>
+      <content src="Text/C522.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-523" playOrder="523">
+      <navLabel>
+        <text>Chương 909: Phương hướng phát triển của Thương hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C523.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-524" playOrder="524">
+      <navLabel>
+        <text>Chương 910: Thương hội và vương quốc khai chiến?</text>
+      </navLabel>
+      <content src="Text/C524.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-525" playOrder="525">
+      <navLabel>
+        <text>Chương 911: Khoảng cách kinh người</text>
+      </navLabel>
+      <content src="Text/C525.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-526" playOrder="526">
+      <navLabel>
+        <text>Chương 912: Khai mở tuyến đường bộ</text>
+      </navLabel>
+      <content src="Text/C526.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-527" playOrder="527">
+      <navLabel>
+        <text>Chương 913: Thu thập tài nguyên</text>
+      </navLabel>
+      <content src="Text/C527.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-528" playOrder="528">
+      <navLabel>
+        <text>Chương 914: Cục diện Vương quốc Rulson rất tồi tệ</text>
+      </navLabel>
+      <content src="Text/C528.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-529" playOrder="529">
+      <navLabel>
+        <text>Chương 915: Viện trợ</text>
+      </navLabel>
+      <content src="Text/C529.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-530" playOrder="530">
+      <navLabel>
+        <text>Chương 916: Lên tàu khám xét</text>
+      </navLabel>
+      <content src="Text/C530.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-531" playOrder="531">
+      <navLabel>
+        <text>Chương 917: Phản kích hay rút lui</text>
+      </navLabel>
+      <content src="Text/C531.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-532" playOrder="532">
+      <navLabel>
+        <text>Chương 918: Ý nghĩa tồn tại của Hải quân Đế quốc</text>
+      </navLabel>
+      <content src="Text/C532.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-533" playOrder="533">
+      <navLabel>
+        <text>Chương 919: Nghỉ hưu</text>
+      </navLabel>
+      <content src="Text/C533.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-534" playOrder="534">
+      <navLabel>
+        <text>Chương 920: Mục tiêu mới</text>
+      </navLabel>
+      <content src="Text/C534.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-535" playOrder="535">
+      <navLabel>
+        <text>Chương 921: Cảng băng phương Bắc</text>
+      </navLabel>
+      <content src="Text/C535.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-536" playOrder="536">
+      <navLabel>
+        <text>Chương 922: Cuộc điều động vật tư hùng mạnh</text>
+      </navLabel>
+      <content src="Text/C536.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-537" playOrder="537">
+      <navLabel>
+        <text>Chương 923: Vương quốc Rulson đang hồi sinh</text>
+      </navLabel>
+      <content src="Text/C537.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-538" playOrder="538">
+      <navLabel>
+        <text>Chương 924: Thái độ mập mờ</text>
+      </navLabel>
+      <content src="Text/C538.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-539" playOrder="539">
+      <navLabel>
+        <text>Chương 925: "Tịch thu" năm chiến hạm hộ vệ</text>
+      </navLabel>
+      <content src="Text/C539.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-540" playOrder="540">
+      <navLabel>
+        <text>Chương 926: Tương phản rõ rệt</text>
+      </navLabel>
+      <content src="Text/C540.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-541" playOrder="541">
+      <navLabel>
+        <text>Chương 927: Tự tạo ra ít nô lệ</text>
+      </navLabel>
+      <content src="Text/C541.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-542" playOrder="542">
+      <navLabel>
+        <text>Chương 928: Công viên chủ đề tộc Elf</text>
+      </navLabel>
+      <content src="Text/C542.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-543" playOrder="543">
+      <navLabel>
+        <text>Chương 929: Ghi chép</text>
+      </navLabel>
+      <content src="Text/C543.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-544" playOrder="544">
+      <navLabel>
+        <text>Chương 930: Thuận theo nhu cầu phát triển</text>
+      </navLabel>
+      <content src="Text/C544.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-545" playOrder="545">
+      <navLabel>
+        <text>Chương 931: Không nghiêm trọng như các người nghĩ</text>
+      </navLabel>
+      <content src="Text/C545.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-546" playOrder="546">
+      <navLabel>
+        <text>Chương 932: Tư cách cung cấp bảo hộ bằng sáng chế</text>
+      </navLabel>
+      <content src="Text/C546.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-547" playOrder="547">
+      <navLabel>
+        <text>Chương 933: Lấy tiền mà không làm việc</text>
+      </navLabel>
+      <content src="Text/C547.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-548" playOrder="548">
+      <navLabel>
+        <text>Chương 934: Lời thỉnh giáo từ một Ma đạo sư</text>
+      </navLabel>
+      <content src="Text/C548.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-549" playOrder="549">
+      <navLabel>
+        <text>Chương 935: Có muốn cùng tham gia không?</text>
+      </navLabel>
+      <content src="Text/C549.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-550" playOrder="550">
+      <navLabel>
+        <text>Chương 936: Phá vỡ thế độc quyền của Thương hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C550.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-551" playOrder="551">
+      <navLabel>
+        <text>Chương 937: Không muốn làm ăn sao?</text>
+      </navLabel>
+      <content src="Text/C551.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-552" playOrder="552">
+      <navLabel>
+        <text>Chương 938: Củ cà rốt sau cây gậy</text>
+      </navLabel>
+      <content src="Text/C552.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-553" playOrder="553">
+      <navLabel>
+        <text>Chương 939: Hộ tống, bảo vệ tuyến hải trình</text>
+      </navLabel>
+      <content src="Text/C553.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-554" playOrder="554">
+      <navLabel>
+        <text>Chương 940: Vị Công Tước Cố Chấp</text>
+      </navLabel>
+      <content src="Text/C554.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-555" playOrder="555">
+      <navLabel>
+        <text>Chương 941: Trồng Trọt Sao Bằng Đi Làm Thuê</text>
+      </navLabel>
+      <content src="Text/C555.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-556" playOrder="556">
+      <navLabel>
+        <text>Chương 942: Hai Khối Nam Châm Khổng Lồ</text>
+      </navLabel>
+      <content src="Text/C556.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-557" playOrder="557">
+      <navLabel>
+        <text>Chương 943: Kế Hoạch Lâu Dài</text>
+      </navLabel>
+      <content src="Text/C557.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-558" playOrder="558">
+      <navLabel>
+        <text>Chương 944: Trước Tiên Cứ Thở Phào Đã</text>
+      </navLabel>
+      <content src="Text/C558.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-559" playOrder="559">
+      <navLabel>
+        <text>Chương 945: Cuộc Chào Hàng Nhọc Nhằn</text>
+      </navLabel>
+      <content src="Text/C559.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-560" playOrder="560">
+      <navLabel>
+        <text>Chương 946: Tuyên Chiến</text>
+      </navLabel>
+      <content src="Text/C560.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-561" playOrder="561">
+      <navLabel>
+        <text>Chương 947: Cuộc Chiến Tranh Hiện Đại Đầu Tiên</text>
+      </navLabel>
+      <content src="Text/C561.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-562" playOrder="562">
+      <navLabel>
+        <text>Chương 948: Lính Kỳ Cựu Cũng Biết Căng Thẳng</text>
+      </navLabel>
+      <content src="Text/C562.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-563" playOrder="563">
+      <navLabel>
+        <text>Chương 949: Kẻ Địch Khiến Người Ta Đau Đầu</text>
+      </navLabel>
+      <content src="Text/C563.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-564" playOrder="564">
+      <navLabel>
+        <text>Chương 950: Cuộc sống quân ngũ thoải mái</text>
+      </navLabel>
+      <content src="Text/C564.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-565" playOrder="565">
+      <navLabel>
+        <text>Chương 951: Khoảng cách hậu cần</text>
+      </navLabel>
+      <content src="Text/C565.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-566" playOrder="566">
+      <navLabel>
+        <text>Chương 952: Chủ động cầu hòa</text>
+      </navLabel>
+      <content src="Text/C566.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-567" playOrder="567">
+      <navLabel>
+        <text>Chương 953: Mỗi bên lấy điều mình cần</text>
+      </navLabel>
+      <content src="Text/C567.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-568" playOrder="568">
+      <navLabel>
+        <text>Chương 954: Buổi tụ họp của các đại sứ</text>
+      </navLabel>
+      <content src="Text/C568.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-569" playOrder="569">
+      <navLabel>
+        <text>Chương 955: Đạn Pháo Cũng Phải Trả Tiền?</text>
+      </navLabel>
+      <content src="Text/C569.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-570" playOrder="570">
+      <navLabel>
+        <text>Chương 956: Dạy Người Câu Cá</text>
+      </navLabel>
+      <content src="Text/C570.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-571" playOrder="571">
+      <navLabel>
+        <text>Chương 957: Tôi Chờ Không Nổi</text>
+      </navLabel>
+      <content src="Text/C571.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-572" playOrder="572">
+      <navLabel>
+        <text>Chương 958: Hợp Tác Chiến Lược</text>
+      </navLabel>
+      <content src="Text/C572.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-573" playOrder="573">
+      <navLabel>
+        <text>Chương 959: Những Nhân Viên Của Thương Hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C573.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-574" playOrder="574">
+      <navLabel>
+        <text>Chương 960: Không còn do họ quản nữa</text>
+      </navLabel>
+      <content src="Text/C574.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-575" playOrder="575">
+      <navLabel>
+        <text>Chương 961: Hiệp hội Liên hợp Bảo đảm Sinh tồn và Việc làm Pháp sư</text>
+      </navLabel>
+      <content src="Text/C575.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-576" playOrder="576">
+      <navLabel>
+        <text>Chương 962: Chỉ là chuyện nhỏ thôi</text>
+      </navLabel>
+      <content src="Text/C576.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-577" playOrder="577">
+      <navLabel>
+        <text>Chương 963: Ai sẽ thay đổi trước</text>
+      </navLabel>
+      <content src="Text/C577.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-578" playOrder="578">
+      <navLabel>
+        <text>Chương 964: Hai vị Công tước Tổng đốc</text>
+      </navLabel>
+      <content src="Text/C578.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-579" playOrder="579">
+      <navLabel>
+        <text>Chương 965: Lan rộng</text>
+      </navLabel>
+      <content src="Text/C579.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-580" playOrder="580">
+      <navLabel>
+        <text>Chương 966: Vivian u sầu</text>
+      </navLabel>
+      <content src="Text/C580.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-581" playOrder="581">
+      <navLabel>
+        <text>Chương 967: Tuần báo tin tức</text>
+      </navLabel>
+      <content src="Text/C581.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-582" playOrder="582">
+      <navLabel>
+        <text>Chương 968: Thương hội Tân Phi ở khắp mọi nơi</text>
+      </navLabel>
+      <content src="Text/C582.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-583" playOrder="583">
+      <navLabel>
+        <text>Chương 969: Công phẫn và tư thù</text>
+      </navLabel>
+      <content src="Text/C583.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-584" playOrder="584">
+      <navLabel>
+        <text>Chương 970: Cấp Bậc Công Nghiệp Ma Pháp Nghiêm Ngặt</text>
+      </navLabel>
+      <content src="Text/C584.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-585" playOrder="585">
+      <navLabel>
+        <text>Chương 971: Công Quốc Venice Không Yên Phận</text>
+      </navLabel>
+      <content src="Text/C585.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-586" playOrder="586">
+      <navLabel>
+        <text>Chương 972: Bị Tập Kích Trên Biển</text>
+      </navLabel>
+      <content src="Text/C586.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-587" playOrder="587">
+      <navLabel>
+        <text>Chương 973: Lửa Giận</text>
+      </navLabel>
+      <content src="Text/C587.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-588" playOrder="588">
+      <navLabel>
+        <text>Chương 974: Thái Độ Đối Với Thổ Phỉ</text>
+      </navLabel>
+      <content src="Text/C588.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-589" playOrder="589">
+      <navLabel>
+        <text>Chương 975: Xâm Lược Đế Quốc Kendra?</text>
+      </navLabel>
+      <content src="Text/C589.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-590" playOrder="590">
+      <navLabel>
+        <text>Chương 976: Tiêu Diệt Thổ Phỉ</text>
+      </navLabel>
+      <content src="Text/C590.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-591" playOrder="591">
+      <navLabel>
+        <text>Chương 977: Không Cách Nào Ứng Phó</text>
+      </navLabel>
+      <content src="Text/C591.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-592" playOrder="592">
+      <navLabel>
+        <text>Chương 978: Ép tôi nổi giận</text>
+      </navLabel>
+      <content src="Text/C592.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-593" playOrder="593">
+      <navLabel>
+        <text>Chương 979: Hải chiến</text>
+      </navLabel>
+      <content src="Text/C593.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-594" playOrder="594">
+      <navLabel>
+        <text>Chương 980: Hội trưởng đại nhân rất giận</text>
+      </navLabel>
+      <content src="Text/C594.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-595" playOrder="595">
+      <navLabel>
+        <text>Chương 981: Một bọn điên</text>
+      </navLabel>
+      <content src="Text/C595.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-596" playOrder="596">
+      <navLabel>
+        <text>Chương 982: Thao túng lòng dân</text>
+      </navLabel>
+      <content src="Text/C596.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-597" playOrder="597">
+      <navLabel>
+        <text>Chương 983: Khai chiến</text>
+      </navLabel>
+      <content src="Text/C597.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-598" playOrder="598">
+      <navLabel>
+        <text>Chương 984: Đội hộ vệ đối đầu các Đại pháp sư</text>
+      </navLabel>
+      <content src="Text/C598.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-599" playOrder="599">
+      <navLabel>
+        <text>Chương 985: Mô-đun Phân tích Dữ liệu hóa Ma pháp</text>
+      </navLabel>
+      <content src="Text/C599.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-600" playOrder="600">
+      <navLabel>
+        <text>Chương 986: Thương hội Tân Phi đáng sợ</text>
+      </navLabel>
+      <content src="Text/C600.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-601" playOrder="601">
+      <navLabel>
+        <text>Chương 987: Nghiên cứu ma pháp nghiêm ngặt và khoa học</text>
+      </navLabel>
+      <content src="Text/C601.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-602" playOrder="602">
+      <navLabel>
+        <text>Chương 988: Để người thường cũng biết ma pháp</text>
+      </navLabel>
+      <content src="Text/C602.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-603" playOrder="603">
+      <navLabel>
+        <text>Chương 989: Làn sóng tuyển pháp sư</text>
+      </navLabel>
+      <content src="Text/C603.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-604" playOrder="604">
+      <navLabel>
+        <text>Chương 990: Vấn đề đãi ngộ lương bổng</text>
+      </navLabel>
+      <content src="Text/C604.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-605" playOrder="605">
+      <navLabel>
+        <text>Chương 991: Kẻ địch là Ma đạo sư</text>
+      </navLabel>
+      <content src="Text/C605.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-606" playOrder="606">
+      <navLabel>
+        <text>Chương 992: Đấu tay đôi từng cặp</text>
+      </navLabel>
+      <content src="Text/C606.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-607" playOrder="607">
+      <navLabel>
+        <text>Chương 993: Cấm chú ma thuật của Hứa Dịch</text>
+      </navLabel>
+      <content src="Text/C607.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-608" playOrder="608">
+      <navLabel>
+        <text>Chương 994: Phong tỏa không gian ma lực hỗn loạn</text>
+      </navLabel>
+      <content src="Text/C608.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-609" playOrder="609">
+      <navLabel>
+        <text>Chương 995: Sự vùng vẫy cuối cùng của Ma đạo sư</text>
+      </navLabel>
+      <content src="Text/C609.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-610" playOrder="610">
+      <navLabel>
+        <text>Chương 996: Thế giới này không còn thuộc về pháp sư</text>
+      </navLabel>
+      <content src="Text/C610.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-611" playOrder="611">
+      <navLabel>
+        <text>Chương 997: Đế quốc sơ sinh</text>
+      </navLabel>
+      <content src="Text/C611.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-612" playOrder="612">
+      <navLabel>
+        <text>Chương 998: Anh rể</text>
+      </navLabel>
+      <content src="Text/C612.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-613" playOrder="613">
+      <navLabel>
+        <text>Chương 999: Tầm quan trọng của việc biết chữ</text>
+      </navLabel>
+      <content src="Text/C613.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-614" playOrder="614">
+      <navLabel>
+        <text>Chương 1000: Bộ Xúc tiến Cơ sở Hạ tầng</text>
+      </navLabel>
+      <content src="Text/C614.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-615" playOrder="615">
+      <navLabel>
+        <text>Chương 1001: Cậu đùa anh đấy à?</text>
+      </navLabel>
+      <content src="Text/C615.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-616" playOrder="616">
+      <navLabel>
+        <text>Chương 1002: Chuyến xe tiện đường</text>
+      </navLabel>
+      <content src="Text/C616.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-617" playOrder="617">
+      <navLabel>
+        <text>Chương 1003: Vị khách yếu ớt</text>
+      </navLabel>
+      <content src="Text/C617.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-618" playOrder="618">
+      <navLabel>
+        <text>Chương 1004: Thiết bị khiên ma pháp phòng hộ cá nhân</text>
+      </navLabel>
+      <content src="Text/C618.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-619" playOrder="619">
+      <navLabel>
+        <text>Chương 1005: Ngoan ngoãn chịu bắt</text>
+      </navLabel>
+      <content src="Text/C619.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-620" playOrder="620">
+      <navLabel>
+        <text>Chương 1006: Cô đáng giá hơn</text>
+      </navLabel>
+      <content src="Text/C620.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-621" playOrder="621">
+      <navLabel>
+        <text>Chương 1007: Được cứu dễ dàng</text>
+      </navLabel>
+      <content src="Text/C621.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-622" playOrder="622">
+      <navLabel>
+        <text>Chương 1008: Diễn đàn Công nghiệp Ma pháp Đại lục Saiens</text>
+      </navLabel>
+      <content src="Text/C622.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-623" playOrder="623">
+      <navLabel>
+        <text>Chương 1009: Tuyên án tử hình</text>
+      </navLabel>
+      <content src="Text/C623.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-624" playOrder="624">
+      <navLabel>
+        <text>Chương 1010: Buổi tụ họp thương mại thành công nhất</text>
+      </navLabel>
+      <content src="Text/C624.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-625" playOrder="625">
+      <navLabel>
+        <text>Chương 1011: Ma đạo sư gia nhập</text>
+      </navLabel>
+      <content src="Text/C625.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-626" playOrder="626">
+      <navLabel>
+        <text>Chương 1012: Lợi và Hại</text>
+      </navLabel>
+      <content src="Text/C626.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-627" playOrder="627">
+      <navLabel>
+        <text>Chương 1013: Mở Ra Thời Đại Đại Hàng Hải</text>
+      </navLabel>
+      <content src="Text/C627.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-628" playOrder="628">
+      <navLabel>
+        <text>Chương 1014: Tổng Bộ Hiệp Hội Pháp Sư Không Nhịn Nổi</text>
+      </navLabel>
+      <content src="Text/C628.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-629" playOrder="629">
+      <navLabel>
+        <text>Chương 1015: Quyền Chủ Đạo Tuyệt Đối</text>
+      </navLabel>
+      <content src="Text/C629.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-630" playOrder="630">
+      <navLabel>
+        <text>Chương 1016: Đối tác có thành ý</text>
+      </navLabel>
+      <content src="Text/C630.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-631" playOrder="631">
+      <navLabel>
+        <text>Chương 1017: Giá trị thực sự</text>
+      </navLabel>
+      <content src="Text/C631.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-632" playOrder="632">
+      <navLabel>
+        <text>Chương 1018: Ủy ban Cơ sở hạ tầng Kendra</text>
+      </navLabel>
+      <content src="Text/C632.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-633" playOrder="633">
+      <navLabel>
+        <text>Chương 1019: Vấn đề chăm sóc sức khỏe</text>
+      </navLabel>
+      <content src="Text/C633.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-634" playOrder="634">
+      <navLabel>
+        <text>Chương 1020: Tới đánh cuộc một ván</text>
+      </navLabel>
+      <content src="Text/C634.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-635" playOrder="635">
+      <navLabel>
+        <text>Chương 1021: Sản xuất đội lốt thương hiệu</text>
+      </navLabel>
+      <content src="Text/C635.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-636" playOrder="636">
+      <navLabel>
+        <text>Chương 1022: Phủ sóng thông tin</text>
+      </navLabel>
+      <content src="Text/C636.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-637" playOrder="637">
+      <navLabel>
+        <text>Chương 1023: Thương hội siêu hạng</text>
+      </navLabel>
+      <content src="Text/C637.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-638" playOrder="638">
+      <navLabel>
+        <text>Chương 1024: Thương hội tái cơ cấu</text>
+      </navLabel>
+      <content src="Text/C638.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-639" playOrder="639">
+      <navLabel>
+        <text>Chương 1025: Thiếu nữ ma pháp thiên tài</text>
+      </navLabel>
+      <content src="Text/C639.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-640" playOrder="640">
+      <navLabel>
+        <text>Chương 1026: Giáo trình tiểu học tu luyện ma lực</text>
+      </navLabel>
+      <content src="Text/C640.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-641" playOrder="641">
+      <navLabel>
+        <text>Chương 1027: Con muốn học ma pháp!</text>
+      </navLabel>
+      <content src="Text/C641.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-642" playOrder="642">
+      <navLabel>
+        <text>Chương 1028: Không cần căng thẳng như vậy</text>
+      </navLabel>
+      <content src="Text/C642.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-643" playOrder="643">
+      <navLabel>
+        <text>Chương 1029: Ba chuyện</text>
+      </navLabel>
+      <content src="Text/C643.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-644" playOrder="644">
+      <navLabel>
+        <text>Chương 1030: Bạo loạn</text>
+      </navLabel>
+      <content src="Text/C644.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-645" playOrder="645">
+      <navLabel>
+        <text>Chương 1031: Không cần kiêng dè hậu quả</text>
+      </navLabel>
+      <content src="Text/C645.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-646" playOrder="646">
+      <navLabel>
+        <text>Chương 1032: Tự làm nghiên cứu</text>
+      </navLabel>
+      <content src="Text/C646.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-647" playOrder="647">
+      <navLabel>
+        <text>Chương 1033: Luyện ngục trần gian</text>
+      </navLabel>
+      <content src="Text/C647.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-648" playOrder="648">
+      <navLabel>
+        <text>Chương 1034: Vương quốc Delo sắp xui xẻo rồi</text>
+      </navLabel>
+      <content src="Text/C648.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-649" playOrder="649">
+      <navLabel>
+        <text>Chương 1035: Ngang hàng với hai đại đế quốc</text>
+      </navLabel>
+      <content src="Text/C649.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-650" playOrder="650">
+      <navLabel>
+        <text>Chương 1036: Tiêu diệt tộc Delo thì sao?</text>
+      </navLabel>
+      <content src="Text/C650.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-651" playOrder="651">
+      <navLabel>
+        <text>Chương 1037: Lý niệm khác biệt</text>
+      </navLabel>
+      <content src="Text/C651.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-652" playOrder="652">
+      <navLabel>
+        <text>Chương 1038: Có rồng từ phương xa tới</text>
+      </navLabel>
+      <content src="Text/C652.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-653" playOrder="653">
+      <navLabel>
+        <text>Chương 1039: Con rồng thích xem phim truyền hình</text>
+      </navLabel>
+      <content src="Text/C653.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-654" playOrder="654">
+      <navLabel>
+        <text>Chương 1040: Thị trường khổng lồ hoàn toàn mới</text>
+      </navLabel>
+      <content src="Text/C654.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-655" playOrder="655">
+      <navLabel>
+        <text>Chương 1041: Ma tộc Vực Thẳm</text>
+      </navLabel>
+      <content src="Text/C655.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-656" playOrder="656">
+      <navLabel>
+        <text>Chương 1042: Quay lại thì đã sao?</text>
+      </navLabel>
+      <content src="Text/C656.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-657" playOrder="657">
+      <navLabel>
+        <text>Chương 1043: Hoạt động giải trí</text>
+      </navLabel>
+      <content src="Text/C657.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-658" playOrder="658">
+      <navLabel>
+        <text>Chương 1044: Khai phá lục địa mới</text>
+      </navLabel>
+      <content src="Text/C658.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-659" playOrder="659">
+      <navLabel>
+        <text>Chương 1045: Làm ăn với tộc rồng</text>
+      </navLabel>
+      <content src="Text/C659.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-660" playOrder="660">
+      <navLabel>
+        <text>Chương 1046: Khát vọng không gian sinh tồn</text>
+      </navLabel>
+      <content src="Text/C660.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-661" playOrder="661">
+      <navLabel>
+        <text>Chương 1047: Tất cả vì nghiên cứu</text>
+      </navLabel>
+      <content src="Text/C661.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-662" playOrder="662">
+      <navLabel>
+        <text>Chương 1048: Truyền thuyết được xác nhận</text>
+      </navLabel>
+      <content src="Text/C662.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-663" playOrder="663">
+      <navLabel>
+        <text>Chương 1049: Thế giới hoàn toàn mới</text>
+      </navLabel>
+      <content src="Text/C663.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-664" playOrder="664">
+      <navLabel>
+        <text>Chương 1050: Năm năm đệm</text>
+      </navLabel>
+      <content src="Text/C664.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-665" playOrder="665">
+      <navLabel>
+        <text>Chương 1051: Chi phí tăng cao</text>
+      </navLabel>
+      <content src="Text/C665.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-666" playOrder="666">
+      <navLabel>
+        <text>Chương 1052: Đại lục hỗn loạn</text>
+      </navLabel>
+      <content src="Text/C666.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-667" playOrder="667">
+      <navLabel>
+        <text>Chương 1053: Đừng đụng vào Thương hội Tân Phi</text>
+      </navLabel>
+      <content src="Text/C667.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-668" playOrder="668">
+      <navLabel>
+        <text>Chương 1054: Đặt chân lên Đại Lục Mới</text>
+      </navLabel>
+      <content src="Text/C668.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-669" playOrder="669">
+      <navLabel>
+        <text>Chương 1055: Bạn từ thuở ấu thơ</text>
+      </navLabel>
+      <content src="Text/C669.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-670" playOrder="670">
+      <navLabel>
+        <text>Chương 1056: Tháp tín hiệu cao không</text>
+      </navLabel>
+      <content src="Text/C670.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-671" playOrder="671">
+      <navLabel>
+        <text>Chương 1057: Xử lý đồng bộ ma pháp đa luồng</text>
+      </navLabel>
+      <content src="Text/C671.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-672" playOrder="672">
+      <navLabel>
+        <text>Chương 1058: Ta muốn làm Hội trưởng</text>
+      </navLabel>
+      <content src="Text/C672.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-673" playOrder="673">
+      <navLabel>
+        <text>Chương 1059: Thực tập</text>
+      </navLabel>
+      <content src="Text/C673.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-674" playOrder="674">
+      <navLabel>
+        <text>Chương 1060: Kennard rời chức</text>
+      </navLabel>
+      <content src="Text/C674.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-675" playOrder="675">
+      <navLabel>
+        <text>Chương 1061: Thương hội Chimera manh nha hành động</text>
+      </navLabel>
+      <content src="Text/C675.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-676" playOrder="676">
+      <navLabel>
+        <text>Chương 1062: Đồng hương tộc Elf</text>
+      </navLabel>
+      <content src="Text/C676.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-677" playOrder="677">
+      <navLabel>
+        <text>Chương 1063: Khách đến từ đại lục mới</text>
+      </navLabel>
+      <content src="Text/C677.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-678" playOrder="678">
+      <navLabel>
+        <text>Chương 1064: Vén màn bí ẩn đại lục mới</text>
+      </navLabel>
+      <content src="Text/C678.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-679" playOrder="679">
+      <navLabel>
+        <text>Chương 1065: Goblin không giảng đạo lý</text>
+      </navLabel>
+      <content src="Text/C679.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-680" playOrder="680">
+      <navLabel>
+        <text>Chương 1066: Tranh đoạt tài nguyên khoáng sản</text>
+      </navLabel>
+      <content src="Text/C680.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-681" playOrder="681">
+      <navLabel>
+        <text>Chương 1067: Đừng xen vào đây</text>
+      </navLabel>
+      <content src="Text/C681.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-682" playOrder="682">
+      <navLabel>
+        <text>Chương 1068: Tranh giành khách hàng</text>
+      </navLabel>
+      <content src="Text/C682.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-683" playOrder="683">
+      <navLabel>
+        <text>Chương 1069: Hắc Long lại đến</text>
+      </navLabel>
+      <content src="Text/C683.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-684" playOrder="684">
+      <navLabel>
+        <text>Chương 1070: Đôi bên không giúp nhau</text>
+      </navLabel>
+      <content src="Text/C684.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-685" playOrder="685">
+      <navLabel>
+        <text>Chương 1071: Sao con người lại mạnh đến thế?</text>
+      </navLabel>
+      <content src="Text/C685.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-686" playOrder="686">
+      <navLabel>
+        <text>Chương 1072: Thay bằng nhân loại thống trị sẽ thú vị hơn</text>
+      </navLabel>
+      <content src="Text/C686.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-687" playOrder="687">
+      <navLabel>
+        <text>Chương 1073: Áp lực tài chính</text>
+      </navLabel>
+      <content src="Text/C687.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-688" playOrder="688">
+      <navLabel>
+        <text>Chương 1074: Hướng về phía Nam</text>
+      </navLabel>
+      <content src="Text/C688.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-689" playOrder="689">
+      <navLabel>
+        <text>Chương 1075: Mở rộng đội hộ vệ</text>
+      </navLabel>
+      <content src="Text/C689.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-690" playOrder="690">
+      <navLabel>
+        <text>Chương 1076: Vấn đề nguồn binh</text>
+      </navLabel>
+      <content src="Text/C690.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-691" playOrder="691">
+      <navLabel>
+        <text>Chương 1077: Thảm án mỏ quặng</text>
+      </navLabel>
+      <content src="Text/C691.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-692" playOrder="692">
+      <navLabel>
+        <text>Chương 1078: Ai cho họ lá gan lớn như thế?</text>
+      </navLabel>
+      <content src="Text/C692.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-693" playOrder="693">
+      <navLabel>
+        <text>Chương 1079: Đối đầu</text>
+      </navLabel>
+      <content src="Text/C693.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-694" playOrder="694">
+      <navLabel>
+        <text>Chương 1080: Biến cố bất ngờ</text>
+      </navLabel>
+      <content src="Text/C694.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-695" playOrder="695">
+      <navLabel>
+        <text>Chương 1081: Trốn chạy</text>
+      </navLabel>
+      <content src="Text/C695.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-696" playOrder="696">
+      <navLabel>
+        <text>Chương 1082: Sự chất vấn của Nguyên soái</text>
+      </navLabel>
+      <content src="Text/C696.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-697" playOrder="697">
+      <navLabel>
+        <text>Chương 1083: Ma đạo sư đích thân xuất thủ</text>
+      </navLabel>
+      <content src="Text/C697.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-698" playOrder="698">
+      <navLabel>
+        <text>Chương 1084: Một Ma đạo sư còn chưa đủ</text>
+      </navLabel>
+      <content src="Text/C698.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-699" playOrder="699">
+      <navLabel>
+        <text>Chương 1085: Sao có thể chết ở nơi này!</text>
+      </navLabel>
+      <content src="Text/C699.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-700" playOrder="700">
+      <navLabel>
+        <text>Chương 1086: Căn bản không giết được tôi đúng không?</text>
+      </navLabel>
+      <content src="Text/C700.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-701" playOrder="701">
+      <navLabel>
+        <text>Chương 1087: Phong tỏa</text>
+      </navLabel>
+      <content src="Text/C701.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-702" playOrder="702">
+      <navLabel>
+        <text>Chương 1088: Trở lại lồng giam</text>
+      </navLabel>
+      <content src="Text/C702.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-703" playOrder="703">
+      <navLabel>
+        <text>Chương 1089: Pháp trận lĩnh vực cấm ma</text>
+      </navLabel>
+      <content src="Text/C703.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-704" playOrder="704">
+      <navLabel>
+        <text>Chương 1090: Ai đê tiện hơn?</text>
+      </navLabel>
+      <content src="Text/C704.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-705" playOrder="705">
+      <navLabel>
+        <text>Chương 1091: Vẫn phải nói lời tạm biệt</text>
+      </navLabel>
+      <content src="Text/C705.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-706" playOrder="706">
+      <navLabel>
+        <text>Chương 1092: Địch lại cả thế giới</text>
+      </navLabel>
+      <content src="Text/C706.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-707" playOrder="707">
+      <navLabel>
+        <text>Chương 1093: Tiên phong</text>
+      </navLabel>
+      <content src="Text/C707.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-708" playOrder="708">
+      <navLabel>
+        <text>Chương 1094: Khắp nơi khói lửa</text>
+      </navLabel>
+      <content src="Text/C708.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-709" playOrder="709">
+      <navLabel>
+        <text>Chương 1095: Tham chiến</text>
+      </navLabel>
+      <content src="Text/C709.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-710" playOrder="710">
+      <navLabel>
+        <text>Chương 1096: Tân phái và Cựu phái</text>
+      </navLabel>
+      <content src="Text/C710.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-711" playOrder="711">
+      <navLabel>
+        <text>Chương 1097: Đại ma pháp sư cũng chẳng có tác dụng gì</text>
+      </navLabel>
+      <content src="Text/C711.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-712" playOrder="712">
+      <navLabel>
+        <text>Chương 1098: Tướng lĩnh tân phái</text>
+      </navLabel>
+      <content src="Text/C712.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-713" playOrder="713">
+      <navLabel>
+        <text>Chương 1099: Quyết chiến trên thảo nguyên</text>
+      </navLabel>
+      <content src="Text/C713.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-714" playOrder="714">
+      <navLabel>
+        <text>Chương 1100: Những chiếc xe ma lực kiểu dáng kỳ lạ</text>
+      </navLabel>
+      <content src="Text/C714.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-715" playOrder="715">
+      <navLabel>
+        <text>Chương 1101: Chúng ta rút lui thôi</text>
+      </navLabel>
+      <content src="Text/C715.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-716" playOrder="716">
+      <navLabel>
+        <text>Chương 1102: Cảnh báo từ radar ma lực</text>
+      </navLabel>
+      <content src="Text/C716.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-717" playOrder="717">
+      <navLabel>
+        <text>Chương 1103: Cuộc truy đuổi</text>
+      </navLabel>
+      <content src="Text/C717.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-718" playOrder="718">
+      <navLabel>
+        <text>Chương 1104: Phong vân biến ảo</text>
+      </navLabel>
+      <content src="Text/C718.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-719" playOrder="719">
+      <navLabel>
+        <text>Chương 1105: Hệ thống phòng ngự ma lực thành phố</text>
+      </navLabel>
+      <content src="Text/C719.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-720" playOrder="720">
+      <navLabel>
+        <text>Chương 1106: Phải tận dụng triệt để ưu thế công nghệ</text>
+      </navLabel>
+      <content src="Text/C720.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-721" playOrder="721">
+      <navLabel>
+        <text>Chương 1107: Bản thổ bị tập kích</text>
+      </navLabel>
+      <content src="Text/C721.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-722" playOrder="722">
+      <navLabel>
+        <text>Chương 1108: Đập tan truyền thống</text>
+      </navLabel>
+      <content src="Text/C722.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-723" playOrder="723">
+      <navLabel>
+        <text>Chương 1109: Đùa với lửa</text>
+      </navLabel>
+      <content src="Text/C723.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-724" playOrder="724">
+      <navLabel>
+        <text>Chương 1110: Phản ứng năng lượng cao</text>
+      </navLabel>
+      <content src="Text/C724.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-725" playOrder="725">
+      <navLabel>
+        <text>Chương 1111: Những pháp sư chật vật</text>
+      </navLabel>
+      <content src="Text/C725.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-726" playOrder="726">
+      <navLabel>
+        <text>Chương 1112: Cá lớn cắn câu</text>
+      </navLabel>
+      <content src="Text/C726.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-727" playOrder="727">
+      <navLabel>
+        <text>Chương 1113: Đại pháp sư cũng là gánh nặng</text>
+      </navLabel>
+      <content src="Text/C727.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-728" playOrder="728">
+      <navLabel>
+        <text>Chương 1114: Lồng giam ma pháp</text>
+      </navLabel>
+      <content src="Text/C728.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-729" playOrder="729">
+      <navLabel>
+        <text>Chương 1115: Nỗ lực cuối cùng</text>
+      </navLabel>
+      <content src="Text/C729.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-730" playOrder="730">
+      <navLabel>
+        <text>Chương 1116: Mục đích của tôi không phải là giết sạch các người</text>
+      </navLabel>
+      <content src="Text/C730.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-731" playOrder="731">
+      <navLabel>
+        <text>Chương 1117: Nhận thua</text>
+      </navLabel>
+      <content src="Text/C731.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-732" playOrder="732">
+      <navLabel>
+        <text>Chương 1118: Lòng tin</text>
+      </navLabel>
+      <content src="Text/C732.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-733" playOrder="733">
+      <navLabel>
+        <text>Chương 1119: Tốt nhất đừng giao chiến trực diện</text>
+      </navLabel>
+      <content src="Text/C733.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-734" playOrder="734">
+      <navLabel>
+        <text>Chương 1120: Sự phản công của hai đại đế quốc</text>
+      </navLabel>
+      <content src="Text/C734.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-735" playOrder="735">
+      <navLabel>
+        <text>Chương 1121: Nếu như nơi này vĩnh viễn bị chiếm đóng thì tốt rồi</text>
+      </navLabel>
+      <content src="Text/C735.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-736" playOrder="736">
+      <navLabel>
+        <text>Chương 1122: Quân đội Vương quốc Lanpari xa xỉ</text>
+      </navLabel>
+      <content src="Text/C736.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-737" playOrder="737">
+      <navLabel>
+        <text>Chương 1123: Đợt phản công của Vương quốc Lanpari</text>
+      </navLabel>
+      <content src="Text/C737.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-738" playOrder="738">
+      <navLabel>
+        <text>Chương 1124: Không còn vô địch</text>
+      </navLabel>
+      <content src="Text/C738.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-739" playOrder="739">
+      <navLabel>
+        <text>Chương 1125: Phòng tuyến sụp đổ</text>
+      </navLabel>
+      <content src="Text/C739.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-740" playOrder="740">
+      <navLabel>
+        <text>Chương 1126: Thâm hụt tài chính</text>
+      </navLabel>
+      <content src="Text/C740.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-741" playOrder="741">
+      <navLabel>
+        <text>Chương 1127: Trở thành truyền kỳ</text>
+      </navLabel>
+      <content src="Text/C741.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-742" playOrder="742">
+      <navLabel>
+        <text>Chương 1128: Tỉnh thành thất thủ</text>
+      </navLabel>
+      <content src="Text/C742.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-743" playOrder="743">
+      <navLabel>
+        <text>Chương 1129: Chủ động hòa đàm</text>
+      </navLabel>
+      <content src="Text/C743.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-744" playOrder="744">
+      <navLabel>
+        <text>Chương 1130: Thái độ</text>
+      </navLabel>
+      <content src="Text/C744.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-745" playOrder="745">
+      <navLabel>
+        <text>Chương 1131: Bó tay bất lực</text>
+      </navLabel>
+      <content src="Text/C745.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-746" playOrder="746">
+      <navLabel>
+        <text>Chương 1132: Thực ra vẫn là kiếm lời</text>
+      </navLabel>
+      <content src="Text/C746.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-747" playOrder="747">
+      <navLabel>
+        <text>Chương 1133: Đánh chiếm cũng chẳng có lợi gì</text>
+      </navLabel>
+      <content src="Text/C747.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-748" playOrder="748">
+      <navLabel>
+        <text>Chương 1134: Ưu thế và nhược thế của đại lục Ma Vân</text>
+      </navLabel>
+      <content src="Text/C748.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-749" playOrder="749">
+      <navLabel>
+        <text>Chương 1135: Trận chiến cuối cùng (Một)</text>
+      </navLabel>
+      <content src="Text/C749.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-750" playOrder="750">
+      <navLabel>
+        <text>Chương 1136: Trận chiến cuối cùng (Hai)</text>
+      </navLabel>
+      <content src="Text/C750.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-751" playOrder="751">
+      <navLabel>
+        <text>Chương 1137: Trận chiến cuối cùng (3)</text>
+      </navLabel>
+      <content src="Text/C751.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-752" playOrder="752">
+      <navLabel>
+        <text>Chương 1138: Trận chiến cuối cùng (4)</text>
+      </navLabel>
+      <content src="Text/C752.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-753" playOrder="753">
+      <navLabel>
+        <text>Chương 1139: Trận chiến cuối cùng (5)</text>
+      </navLabel>
+      <content src="Text/C753.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-754" playOrder="754">
+      <navLabel>
+        <text>Chương 1140: Đến đây là dừng thôi</text>
+      </navLabel>
+      <content src="Text/C754.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-755" playOrder="755">
+      <navLabel>
+        <text>Chương 1141: Quan điểm khoa học ma pháp</text>
+      </navLabel>
+      <content src="Text/C755.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-756" playOrder="756">
+      <navLabel>
+        <text>Chương 1142: Ma pháp rốt cuộc là gì</text>
+      </navLabel>
+      <content src="Text/C756.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-757" playOrder="757">
+      <navLabel>
+        <text>Chương 1143: Nắm đấm</text>
+      </navLabel>
+      <content src="Text/C757.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-758" playOrder="758">
+      <navLabel>
+        <text>Chương 1144: Hồi kết của chiến tranh</text>
+      </navLabel>
+      <content src="Text/C758.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-759" playOrder="759">
+      <navLabel>
+        <text>Chương 1145: Muốn nhiều thứ hơn</text>
+      </navLabel>
+      <content src="Text/C759.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-760" playOrder="760">
+      <navLabel>
+        <text>Chương 1146: Thích thì mua, không mua thì biến</text>
+      </navLabel>
+      <content src="Text/C760.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-761" playOrder="761">
+      <navLabel>
+        <text>Chương 1147: Công ước Hòa bình Pháp sư</text>
+      </navLabel>
+      <content src="Text/C761.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-762" playOrder="762">
+      <navLabel>
+        <text>Chương 1148: Ổn định Cục diện</text>
+      </navLabel>
+      <content src="Text/C762.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-763" playOrder="763">
+      <navLabel>
+        <text>Chương 1149: Kế hoạch Xa vời</text>
+      </navLabel>
+      <content src="Text/C763.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-764" playOrder="764">
+      <navLabel>
+        <text>Chương 1150: Những Con người Bận rộn</text>
+      </navLabel>
+      <content src="Text/C764.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-765" playOrder="765">
+      <navLabel>
+        <text>Chương 1151: Siêu sao Hàng đầu</text>
+      </navLabel>
+      <content src="Text/C765.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-766" playOrder="766">
+      <navLabel>
+        <text>Chương 1152: Giải quyết hỗn loạn</text>
+      </navLabel>
+      <content src="Text/C766.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-767" playOrder="767">
+      <navLabel>
+        <text>Chương 1153: Hoài niệm</text>
+      </navLabel>
+      <content src="Text/C767.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-768" playOrder="768">
+      <navLabel>
+        <text>Chương 1154: Một trong những chủ đề</text>
+      </navLabel>
+      <content src="Text/C768.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-769" playOrder="769">
+      <navLabel>
+        <text>Chương 1155: Tôi đang khinh thường các người</text>
+      </navLabel>
+      <content src="Text/C769.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-770" playOrder="770">
+      <navLabel>
+        <text>Chương 1156: Mưu cầu cao hơn</text>
+      </navLabel>
+      <content src="Text/C770.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-771" playOrder="771">
+      <navLabel>
+        <text>Chương 1157: Mục tiêu là biển sao trời</text>
+      </navLabel>
+      <content src="Text/C771.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-772" playOrder="772">
+      <navLabel>
+        <text>Chương 1158: Tôi không cam lòng</text>
+      </navLabel>
+      <content src="Text/C772.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-773" playOrder="773">
+      <navLabel>
+        <text>Chương 1159: Tin tức</text>
+      </navLabel>
+      <content src="Text/C773.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-774" playOrder="774">
+      <navLabel>
+        <text>Chương 1160: Làm thuê ngắn hạn</text>
+      </navLabel>
+      <content src="Text/C774.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-775" playOrder="775">
+      <navLabel>
+        <text>Chương 1161: Đây là bắt cóc</text>
+      </navLabel>
+      <content src="Text/C775.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-776" playOrder="776">
+      <navLabel>
+        <text>Chương 1162: Từ nay không thấy ánh mặt trời?</text>
+      </navLabel>
+      <content src="Text/C776.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-777" playOrder="777">
+      <navLabel>
+        <text>Chương 1163: Cô gái kỳ lạ</text>
+      </navLabel>
+      <content src="Text/C777.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-778" playOrder="778">
+      <navLabel>
+        <text>Chương 1164: Cùng tôi xông lên</text>
+      </navLabel>
+      <content src="Text/C778.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-779" playOrder="779">
+      <navLabel>
+        <text>Chương 1165: Tại sao đùa giỡn chúng tôi?</text>
+      </navLabel>
+      <content src="Text/C779.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-780" playOrder="780">
+      <navLabel>
+        <text>Chương 1166: Lòng tự tôn yếu ớt</text>
+      </navLabel>
+      <content src="Text/C780.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

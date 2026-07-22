@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "command(python *)",
+      "command(py *)",
+      "command(powershell *)",
+      "command(pwsh *)",
+      "command(bala *)",
+      "command(cd *)",
+      "command(ls *)",
+      "command(mkdir *)",
+      "unsandboxed(*)",
+      "git(*)",
+      "command(ssh *)"
+    ]
+  }
+}
