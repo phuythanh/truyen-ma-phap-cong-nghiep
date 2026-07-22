@@ -38,9 +38,9 @@ Antigravity CLI là giao diện dòng lệnh giúp bạn giao tiếp và ra lệ
 
 ## 📥 II. CLONE DỰ ÁN DỊCH THUẬT
 
-1. Di chuyển tới thư mục làm việc của bạn (Ví dụ: `E:\work\truyen`):
+1. Di chuyển tới thư mục làm việc trên máy tính của bạn (Ví dụ: tạo thư mục `C:\work` hoặc `D:\truyen` tùy chọn và truy cập vào đó):
    ```powershell
-   cd E:\work\truyen
+   cd D:\truyen
    ```
 2. Clone repository này về máy của bạn:
    * Nếu dùng HTTPS:
@@ -58,7 +58,7 @@ Antigravity CLI là giao diện dòng lệnh giúp bạn giao tiếp và ra lệ
 
 ---
 
-## 🚀 III. BẮT ĐẦU DỊCH TRUYỆN MỚI (VÍ DỤ: "HUYỀN GIÁM TIÊN TỘC")
+## 🚀 III. BẮT ĐẦU DỊCH TRUYỆN MỚI (VÍ DỤ MINH HỌA: "HUYỀN GIÁM TIÊN TỘC")
 
 Để dịch một bộ truyện mới từ nhánh mẫu `template`, hãy làm theo đúng quy trình sau:
 
@@ -73,7 +73,7 @@ Antigravity CLI là giao diện dòng lệnh giúp bạn giao tiếp và ra lệ
    ```
 
 ### Bước 2: Thiết lập cấu hình Truyện trong `memo/PROGRESS.json`
-Mở tệp [memo/PROGRESS.json](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/memo/PROGRESS.json) bằng phần mềm chỉnh sửa văn bản bất kỳ (như Notepad, VS Code) và thay đổi thông tin:
+Mở tệp [memo/PROGRESS.json](memo/PROGRESS.json) bằng phần mềm chỉnh sửa văn bản bất kỳ (như Notepad, VS Code) và thay đổi thông tin của truyện mới:
 ```json
 {
   "book_title": "Huyền Giám Tiên Tộc",
@@ -81,14 +81,14 @@ Mở tệp [memo/PROGRESS.json](file:///E:/work/truyen/truyen-ma-phap-cong-nghie
   "offset_zh_minus_vi": 0,
   "first_new_chapter_vi": 1,
   "last_done_vi": 0,
-  "note": "Truyện tiên hiệp gia tộc tu tiên. Map chương 1-1.",
-  "next_action": "Bắt đầu dịch chương 1"
+  "note": "Truyện tiên hiệp gia tộc tu tiên của tác giả Quý Việt Nhân. Bắt đầu dịch từ chương 1.",
+  "next_action": "Cho raw tieng Trung vao chapters_zh va bat dau dich"
 }
 ```
 *Lưu ý: `offset_zh_minus_vi` là chênh lệch số chương giữa file tiếng Trung và chương tiếng Việt. Nếu khớp 1-1 thì để là `0`.*
 
 ### Bước 3: Định hình văn phong dịch trong `memo/STYLE_GUIDE.md`
-Mở tệp [memo/STYLE_GUIDE.md](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/memo/STYLE_GUIDE.md) để cấu hình văn phong cho phù hợp với truyện tiên hiệp cổ phong:
+Mở tệp [memo/STYLE_GUIDE.md](memo/STYLE_GUIDE.md) để cấu hình văn phong cho phù hợp với truyện mới (Ví dụ với truyện tiên hiệp cổ phong):
 * **Tên nhân vật/bí tịch:** Dịch âm Hán Việt hoàn toàn (Lục Giang Tiên, Lục Vọng Tông, Lục Trường Hy, thái âm thổ nạp pháp...).
 * **Xưng hô đặc trưng:**
   * Con cháu gọi Lục Giang Tiên là: **"Lão tổ"**, xưng **"tôn nhi"** hoặc **"con/cháu"**.
@@ -96,20 +96,27 @@ Mở tệp [memo/STYLE_GUIDE.md](file:///E:/work/truyen/truyen-ma-phap-cong-nghi
   * Phu thê: **"phu quân - thiếp thân"** hoặc **"chàng - thiếp"**.
   * Người ngoài/kẻ thù: **"ta - ngươi"** / **"lão phu"** / **"vãn bối"** tùy địa vị.
 
-### Bước 4: Chuẩn bị file raw tiếng Trung
-1. Đặt các tệp raw tiếng Trung dạng văn bản thuần túy (`.txt`) vào thư mục [chapters_zh/](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/chapters_zh).
-2. Đặt tên file theo định dạng 4 chữ số: `0001.txt`, `0002.txt`, `0003.txt`, `0004.txt`, `0005.txt`... (Mã hóa file phải là **UTF-8**).
+### Bước 4: Chuẩn bị file raw tiếng Trung và chia nhỏ chương
+Để chuẩn bị raw tiếng Trung, bạn có thể tự tải offline file `.txt` full của truyện:
+1. **Tìm nguồn tải raw offline:** Truy cập các trang web chia sẻ ebook TXT miễn phí của Trung Quốc như `ixdzs8.com`, `txt80.com`, `zxcs.me` và tìm kiếm từ khóa `玄鉴仙族` (hoặc tên phụ của truyện là `家族修仙：开局成为镇族法器`). Tải file `.zip` chứa file `.txt` full về máy.
+2. **Giải nén:** Giải nén để lấy file raw `.txt` lớn (Ví dụ đặt tên là `huyen_giam_full.txt`).
+3. **Copy vào repo:** Đặt file `huyen_giam_full.txt` vào thư mục gốc của repository.
+4. **Chạy script chia nhỏ chương tự động:** Chạy lệnh sau trong PowerShell để tự động cắt nhỏ file txt lớn thành các chương đơn lẻ lưu vào thư mục `chapters_zh/` (được đặt tên `0001.txt`, `0002.txt`...):
+   ```powershell
+   python .\scratchpad\split_chapters.py huyen_giam_full.txt
+   ```
+   *(Nếu máy của bạn chưa cấu hình python trong PATH, hãy sử dụng đường dẫn đầy đủ của bộ cài Python để chạy).*
 
 ### Bước 5: Ra lệnh cho AI thực hiện dịch thuật
 Mở **Antigravity CLI** bằng cách gõ `agy` trong thư mục dự án và gửi yêu cầu cực kỳ ngắn gọn:
 > **"Dịch cho tao từ chương 1 đến chương 5."**
 
-Hệ thống AI sẽ tự động đọc tệp chỉ dẫn [GEMINI.md](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/GEMINI.md) và chạy quy trình khép kín:
+Hệ thống AI sẽ tự động đọc tệp chỉ dẫn [GEMINI.md](GEMINI.md) và chạy quy trình khép kín:
 1. **Dịch thuật:** Gọi các subagent dịch song song 5 chương trên (tiết kiệm token và chi phí).
 2. **Đầu ra:** Ghi bản dịch vào `chapters_out/0001.md` đến `0005.md` dạng Markdown chuẩn hóa.
 3. **Chạy QA:** Chạy script PowerShell `qa_chapters.ps1` kiểm tra rác ký tự CJK, lỗi Mojibake, và trùng lặp đoạn văn.
 4. **Build EPUB:** Tự động tạo file sách điện tử `Huyen Giam Tien Toc - Chuong 1-5.epub` ở thư mục gốc để nạp vào điện thoại đọc ngay.
-5. **Cập nhật:** Tự ghi nhận các từ mới vào `GLOSSARY.tsv` và ghi tóm tắt vào `ROLLING_SUMMARY.md`.
+5. **Cập nhật:** Tự ghi nhận các từ mới vào [GLOSSARY.tsv](memo/GLOSSARY.tsv) và ghi tóm tắt vào [ROLLING_SUMMARY.md](memo/ROLLING_SUMMARY.md).
 
 ### Bước 6: Lưu trữ tiến độ lên Git
 Sau khi AI chạy xong, bạn chỉ cần gõ các lệnh sau trong PowerShell để lưu trữ tiến độ lên Github:
@@ -119,4 +126,4 @@ git commit -m "Dịch xong chương 1-5 Huyền Giám Tiên Tộc"
 git push origin huyen-giam-tien-toc
 ```
 
-Từ đợt tiếp theo, bạn chỉ việc nạp tiếp raw tiếng Trung vào `chapters_zh` và ra lệnh: *"Dịch tiếp từ chương 6 đến 15"* là xong!
+Từ đợt tiếp theo, bạn chỉ việc tải tiếp các chương raw tiếng Trung mới nhất và bỏ vào `chapters_zh`, sau đó vào `agy` ra lệnh: *"Dịch tiếp từ chương 6 đến 15"* là xong!
