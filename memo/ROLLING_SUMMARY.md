@@ -5,6 +5,14 @@
 - **Bình định Vương quốc Kulanyi (1182-1183):** Hứa Dịch đến Vương quốc Kulanyi để bắt đầu Kế hoạch Đại Khai Phá miền Đông thì gặp cảnh bạo loạn. Đại tướng quân Lefalu giết Quốc vương Simpson để cướp ngôi. Hứa Dịch đích thân ra tay, đội hộ vệ Tân Phi bắt gọn Lefalu, xử trảm quân phản loạn và đưa một cậu bé 12 tuổi lên ngôi. Nhờ đó Tân Phi hoàn toàn kiểm soát Kulanyi, đẩy nhanh thần tốc tiến độ công nghiệp hóa và bảo vệ môi trường (trồng rừng) tại đây.
 - **Sự kiêng dè của Đế quốc Kendra (1184):** Nhận được báo cáo về cách làm kịch liệt của Hứa Dịch tại Kulanyi, Hoàng đế Alfonso (Debor XVII) của Đế quốc Kendra tỏ ra bất an. Dù Đế quốc Kendra đang phồn vinh nhờ Tân Phi (cải thiện nông nghiệp, thủy lợi, mạng lưới liên lạc ma pháp), Hoàng đế vẫn lo ngại Hứa Dịch sở hữu khả năng thay đổi cục diện lục địa nếu anh ta muốn. Đại công tước Galbut vẫn giữ lòng tin với Hứa Dịch sau 10 năm hành động vì hòa bình và phát triển của anh.
 
+## Đợt 1179–1181 (tóm lược)
+- **Liên lạc với Lanpari (1179-1180):** Hứa Dịch liên lạc với Lanpari để bàn về việc mở rộng mạng lưới tháp tín hiệu ma lực, nhưng Nữ vương Cervini cố ý lánh mặt, để Vương thái tử Raymond đại diện tiếp chuyện. Hứa Dịch nhận ra Cervini đang e ngại tầm ảnh hưởng quá lớn của Tân Phi đối với vương quốc.
+- **Chuẩn bị Kế hoạch miền Đông (1181):** Hứa Dịch quyết định đẩy mạnh Kế hoạch Đại Khai Phá miền Đông. Anh bàn bạc với Akali và Freya về việc cử đội hộ vệ tháp tùng đoàn thương nhân đi khảo sát thực tế khu vực phía đông lục địa.
+
+## Đợt 1173–1178 (tóm lược)
+- **Lựa chọn của Freya (1173-1175):** Freya sắp bước sang tuổi 24, đến thời điểm thực hiện giao ước kế thừa vị trí Hội trưởng từ Hứa Dịch. Cô cùng Akali thảo luận về tương lai của mình. Khi trở về nhà, cô gặp lại minh tinh tộc Elf Linoia và cha mẹ. Linoia bày tỏ muốn gả cho Hứa Dịch bất chấp khoảng cách tuổi tác (98 tuổi so với Hứa Dịch gần 60), tạo nên bầu không khí vui vẻ và ấm áp trong gia đình.
+- **Thế cục Kendra và hợp tác (1176-1178):** Tiểu Công tước Windsor đón tiếp Freya và đoàn đại biểu đàm phán thương mại. Sau khi thảo luận về tình hình giám sát ma lực tại Kendra, Windsor và quan chức quân đội Kendra lo ngại về ưu thế tuyệt đối của Tân Phi nhưng buộc phải chấp nhận hợp tác để duy trì sự ổn định.
+
 ## Đợt 1170–1172 (tóm lược)
 - **Tuyển dụng tại Tân Phi (1170-1172):** Lucian tới thành Tân Phi ứng tuyển và choáng ngợp trước sự phồn hoa, hiện đại nơi đây. Cậu gặp người phỏng vấn Holly và Harris, đồng thời có cơ hội gặp lại cô gái bí ẩn (Linoya). Cậu thể hiện kiến thức học thuật xuất sắc và từ chối các đặc quyền để đi lên bằng thực lực, thu hút sự chú ý của quản lý Tân Phi.
 
