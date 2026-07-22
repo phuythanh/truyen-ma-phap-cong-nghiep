@@ -4,14 +4,15 @@
 
 ---
 
-## 📌 ĐỢT DỊCH GẦN NHẤT: CHƯƠNG [START] – CHƯƠNG [END]
+## 📌 ĐỢT DỊCH GẦN NHẤT: CHƯƠNG 1 – CHƯƠNG 1
 - **Tóm tắt diễn biến:**
-  - *Ví dụ:* Nhân vật chính bắt đầu chuyến hành trình mới đến vùng đất X...
-  - *Ví dụ:* Xung đột giữa hai thế lực A và B nổ ra do mâu thuẫn...
+  - **Chương 1**: Lục Giang Tiên là nhân viên văn phòng hiện đại đột tử do làm việc quá sức, linh hồn xuyên không và nhập vào một chiếc gương đồng xanh xám bị nứt. Y rơi xuống lòng sông Mi Xích và bắt đầu tu luyện bằng cách hấp thụ ánh trăng (nguyệt hoa). Y phát triển được luồng khí lưu luân chuyển và cảm ứng được bán kính 1 mét quanh thân gương. Y quyết định âm thầm tu luyện và giấu kỹ linh trí để đề phòng tu sĩ bên ngoài phát hiện tiêu diệt.
 - **Các nhân vật mới xuất hiện:**
-  - *Ví dụ:* Tên nhân vật (phiên âm/Latin) - Vai trò/Mô tả ngắn.
+  - Lục Giang Tiên (陆江仙): Nhân vật chính, linh hồn hiện đại xuyên vào gương đồng xanh xám.
 - **Các địa danh/thuật ngữ mới:**
-  - *Ví dụ:* Tên địa danh - Mô tả.
+  - Sông Mi Xích (眉尺河): Dòng sông nhỏ nơi gương đồng rơi xuống.
+  - Nguyệt hoa (月华): Ánh trăng, năng lượng giúp gương đồng tu luyện.
+  - Thái Âm Thổ Nạp Luyện Khí Quyết (太阴吐纳练气诀) & Nguyệt Hoa Kỷ Yếu Bí Chỉ (月华纪要秘旨): Các cái tên xuất hiện trong giấc mơ khởi đầu của Lục Giang Tiên.
 
 ---
 

@@ -5,12 +5,12 @@
 ---
 
 ## 🌍 1. TỔNG QUAN THẾ GIỚI & BỐI CẢNH
-- **Tên thế giới/Lục địa:** ...
-- **Bối cảnh chung:** (Ví dụ: Huyền huyễn cổ đại, Đô thị ma pháp, dị giới công nghiệp...)
+- **Tên thế giới/Lục địa:** Lục địa tu chân.
+- **Bối cảnh chung:** Tiên hiệp cổ đại, tu tiên gia tộc (Vọng Nguyệt Lý thị), không hệ thống, không thánh mẫu, tập trung vào quá trình quật khởi đầy gian truân của gia tộc.
 - **Quy luật vận hành/Hệ thống sức mạnh:**
-  - *Ví dụ:* Các cấp bậc tu luyện (Pháp sư, Võ giả, Linh sư...)
-  - *Ví dụ:* Tiền tệ (Đồng vàng, linh thạch, bạc...)
-  - *Ví dụ:* Các tài nguyên đặc thù (Tinh thể ma lực, ma thạch, thảo dược...)
+  - *Cấp bậc tu luyện:* Thai Tức (胎息) -> Luyện Khí (练气) -> Trúc Cơ (筑基) -> Tử Phủ (紫府) -> ...
+  - *Tiền tệ:* Linh thạch, bạc...
+  - *Tài nguyên:* Nguyệt hoa (tu luyện khí linh gương đồng), ngọc thạch, dược thảo, phù chủng...
 
 ---
 
@@ -18,9 +18,9 @@
 
 | Tên Nhân Vật | Vai Trò / Thân Phận | Trạng Thái Hiện Tại | Ghi Chú Phong Cách Xưng Hô |
 |---|---|---|---|
-| **[Nhân vật chính]** | Nhân vật chính | Đang ở... | Xưng "tôi/ta", văn kể gọi "anh/y/hắn" |
-| **[Nhân vật phụ 1]** | Đối tác / Bạn bè | ... | Xưng... |
-| **[Nhân vật phụ 2]** | Đối thủ / Phản diện | ... | Xưng... |
+| **Lục Giang Tiên** (陆江仙) | Nhân vật chính / Khí linh gương đồng | Đang nằm dưới đáy sông Mi Xích hấp thụ nguyệt hoa | Xưng "ta/tôi", văn kể gọi "y/hắn" |
+| **Lý Thông Nhai** (李通崖) | Đích thứ tử đời thứ 9 của Lý gia | Chưa xuất hiện ở Chương 1 | Xưng "ta/ngươi", văn kể gọi "y/hắn" |
+| **Lý Hạng Bình** (李项平) | Tam tử của Lý gia | Chưa xuất hiện ở Chương 1 | Xưng "ta/ngươi", văn kể gọi "y/hắn" |
 
 ---
 
