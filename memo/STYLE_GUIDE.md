@@ -1,51 +1,51 @@
-# STYLE GUIDE — Ma Pháp Công Nghiệp Đế Quốc (dịch tiếp theo văn phong epub)
+# HƯỚNG DẪN VĂN PHONG DỊCH (STYLE GUIDE TEMPLATE)
 
-## Vai
-Dịch giả truyện mạng chuyên nghiệp 10 năm kinh nghiệm, chuyên Trung→Việt thể loại huyền huyễn/kinh doanh-công nghiệp. Dịch trọn vẹn, trung thành với bản gốc, văn mượt tự nhiên như bản epub có sẵn.
+*Tài liệu này định hình phong cách dịch thuật cho truyện mới. Khi bắt đầu truyện mới, hãy chỉnh sửa tài liệu này để phù hợp với văn phong của truyện đó. Dưới đây là khung mẫu và các bài học kinh nghiệm.*
 
-## Quy tắc tên riêng (QUAN TRỌNG NHẤT)
-1. **Tên nhân vật gốc Trung** (nhân vật chính xuyên không): phiên âm **Hán Việt** — 许亦 = Hứa Dịch.
-2. **Tên phương Tây** (đại đa số nhân vật/địa danh): chuyển về dạng **Latin/phương Tây**, KHÔNG Hán Việt — 斯塔克 = Stark, 邦塔 = Bontar, 森科海尔 = Senkohel. Tra GLOSSARY.tsv trước; tên mới chưa có trong glossary thì phiên theo âm đọc kiểu Tây tự nhiên rồi GHI LẠI để bổ sung glossary.
-3. **Tên thị tộc Elf và địa danh vùng Elf mang nghĩa**: DỊCH NGHĨA SANG TIẾNG ANH — 影歌 = Shadowsong, tộc Night Song, tộc Shadow Moon, rừng Rainfall. (Quy ước riêng của bản epub — giữ nguyên.)
-4. Thuật ngữ hệ thống: 魔力 = "ma lực"; 魔法 = "ma thuật" (chung) / "ma pháp" (cụm cố định: Tháp Ma pháp, ma pháp trận); tên sản phẩm viết hoa: "Máy móc Ma thuật", "Quạt Ma lực".
-5. **CẤM TỰ Ý DỊCH SAI TÊN ĐÃ QUY ƯỚC:** Bắt buộc tra cứu [GLOSSARY.tsv](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/memo/GLOSSARY.tsv) trước khi dịch. Ví dụ, `斯坦丁公国` đã quy ước là `Công quốc Stan`, tuyệt đối không dịch thành `Công quốc Stading` hay `Công quốc Staging`. Các tên mới xuất hiện phải cập nhật vào glossary ngay lập tức.
-6. **BẢO VỆ MÃ HÓA UTF-8:** Tất cả các tệp đầu ra (.md, .json, .tsv) phải được ghi với định dạng mã hóa UTF-8 để tránh sinh lỗi font (Mojibake).
+---
 
-## Xưng hô (theo epub)
-- Văn kể gọi Hứa Dịch là **"anh"**; nhân vật nam khác trung lập là "anh ta/ông ta", phản diện hoặc bị coi thường là **"hắn ta/hắn"**; nữ là "cô/cô ta/bà".
-- Hứa Dịch ↔ nhân viên/đối tác: "tôi – cô/anh/ông". Nhân viên gọi Hứa Dịch: **"Hội trưởng"**, xưng "tôi".
-- Quý tộc/vua chúa: gọi "ngài", "Bệ hạ", "Điện hạ"; Hứa Dịch với Bá tước Stark: "tôi – ngài" (Thành chủ đại nhân → "Thành chủ").
-- Nhân vật ngang hàng thân mật: "anh – tôi". KHÔNG dùng "ta – ngươi" trừ nhân vật cổ xưa/trịch thượng rõ rệt.
-- Vợ chồng/người yêu: "anh – em".
+## 📌 1. VAI TRÒ & GIỌNG VĂN CHUNG
+- **Vai trò:** Dịch giả truyện mạng chuyên nghiệp, chuyên dịch Trung → Việt các thể loại (Huyền huyễn, Đô thị, Võ hiệp, Khoa học ma pháp, Công nghiệp, v.v.).
+- **Tiêu chuẩn:** Văn phong mượt mà, thuần Việt, trung thành với bản gốc, không dịch word-by-word kiểu Convert thô, nhưng cũng không phóng tác quá đà.
+- **Tính nhất quán:** Giữ nguyên cấu trúc câu thoại và văn tả tự nhiên, tránh lạm dụng từ Hán Việt quá nặng nề trong những bối cảnh hiện đại/kinh doanh/kỹ thuật.
 
-## Giọng văn
-- Câu văn hiện đại, rõ ràng, ít Hán Việt nặng; thuật ngữ kỹ thuật/kinh doanh dịch thẳng (dây chuyền sản xuất, hợp đồng, bằng sáng chế, cổ phần, thị trường).
-- Thoại tự nhiên kiểu văn nói: "chẳng làm được trò trống gì", "thay lòng đổi dạ", "anh bạn nhỏ". Dùng thành ngữ Việt tương đương khi zh dùng thành ngữ ("giang sơn dễ đổi, bản tính khó dời").
-- Giữ nhịp câu gốc: câu ngắn giữ ngắn; không gộp/tách đoạn; MỖI ĐOẠN zh = một đoạn vi tương ứng.
-- Suy nghĩ nội tâm viết thành câu trần thuật hoặc câu hỏi tu từ, không ngoặc kép.
-- Âm thanh/cảm thán: "Hừ", "Ha ha", "Ầm", "Xoẹt" — Việt hóa.
+---
 
-## Format
-- Dòng đầu output: tiêu đề chương dạng `Chương {N}: {tiêu đề dịch}` (N = số chương bản dịch, script cung cấp).
-- Không thêm ghi chú dịch giả, không bình luận, không tóm tắt — CHỈ bản dịch.
-- Số đo lường giữ hệ mét như gốc (mét, km, tấn); tiền: "đồng vàng", "vạn đồng vàng".
+## 👥 2. ĐẠI TỪ XƯNG HÔ (QUY TẮC MẪU - CẦN CẤU HÌNH CHO TRUYỆN MỚI)
+*Hãy điền quy tắc xưng hô cụ thể cho các nhân vật chính ở đây khi dịch truyện mới:*
 
-## Xưng hô & đại từ (QUAN TRỌNG — user chốt 2026-07-09, cập nhật 2026-07-21)
-- **我 (tôi):** MẶC ĐỊNH dịch **"tôi"** trong mọi hội thoại bình thường (kể cả dân thường bàn chuyện, mua bán, tán gẫu). **CỰC KỲ HẠN CHẾ** dùng "mày - tao". Chỉ dùng "tao" khi nhân vật thực sự đang **căm phẫn, tức giận tột độ, cãi vã lớn hoặc chửi bới**. Bình thường, dù tức giận nhẹ hay trịch thượng, hãy dịch là "ta" hoặc tìm đại từ thích hợp hơn (như "tôi", "ông", "ta") để giảm thiểu tối đa "mày tao" nhằm giữ văn phong nhã nhặn của truyện.
-- **你 (ngôi 2):** dịch theo quan hệ — "anh/ông/cậu/ngài/cô…"; **"mày"** chỉ khi tức giận/thô lỗ đi cặp với "tao" (nhưng cực kỳ hạn chế). *(Lưu ý: "mày" trong "nhíu mày / cau mày / lông mày" là nghĩa khác — KHÔNG phải đại từ.)*
-- **我们 vs 咱们:** phân biệt rõ:
-  - **"chúng tôi"** = số nhiều KHÔNG gồm người nghe (nói về phe/nhóm mình với người ngoài).
-  - **"chúng ta"** = số nhiều CÓ gồm người nghe (rủ rê, bàn chung với người đối diện).
-  - **咱们** hầu như luôn = **"chúng ta"** (gồm người nghe). 我们 tùy ngữ cảnh. Chọn đúng theo việc người nghe có nằm trong nhóm hay không.
-- Hứa Dịch (nhân vật chính): xưng **"tôi"**; nhân viên gọi anh là **"Hội trưởng"**; văn kể gọi **"anh"**.
+- **Nhân vật chính (tên):**
+  - Xưng hô trong hội thoại: Mặc định xưng **"tôi"** (hoặc **"ta"** tùy bối cảnh cổ đại/hiện đại).
+  - Văn kể (ngôi thứ ba) gọi nhân vật chính là: **"anh"** / **"y"** / **"hắn"** (tùy giới tính và tính cách).
+- **Quy tắc đại từ chung (Bài học rút ra từ các dự án trước):**
+  - **Hạn chế dùng "mày - tao":** Chỉ dùng khi nhân vật thực sự căm phẫn, tức giận tột độ, cãi vã lớn hoặc chửi bới. Bình thường, dù trịch thượng hay tức giận nhẹ, hãy dịch là "ta - ngươi", "tôi", "ông/bà" để giữ văn phong nhã nhặn.
+  - **Phân biệt "chúng tôi" vs "chúng ta" (Cực kỳ quan trọng):**
+    - **"Chúng tôi" (Chúng tôi/Chúng ta không gồm người nghe):** Nói về nhóm của mình với người ngoài.
+    - **"Chúng ta" (Chúng tôi/Chúng ta có gồm người nghe):** Rủ rê, bàn luận chung có bao gồm người đối diện.
+    - Chú ý dịch đúng từ `我们` (chúng tôi/chúng ta) và `咱们` (chúng ta).
 
-## Tượng thanh / thán từ
-- 啧啧 (chép miệng, thán phục/chê) → **"chậc chậc"** (KHÔNG để "tsk tsk").
-- Việt hóa tượng thanh tự nhiên: 砰 → "Rầm", 哦/嗯 → "Ồ/Ừm"…
+---
 
-## Ví dụ chuẩn (trích epub)
-ZH: 正是六月初的初夏时分，邦塔城和原世界的北京城一样，已经有了明显的暑气。
-VI: Đúng vào đầu hạ đầu tháng sáu, thành phố Bontar nóng như đổ lửa, chẳng khác gì Bắc Kinh ở thế giới cũ.
+## 🗺️ 3. PHÂN LOẠI TÊN RIÊNG & THUẬT NGỮ (TRANSLATION RULES)
+- **Tên nhân vật gốc Trung:** Dùng âm **Hán Việt** (Ví dụ: `许亦` = `Hứa Dịch`).
+- **Tên phương Tây / Latin (Nếu có):** Chuyển về dạng **chữ Latin/Tây gốc**, KHÔNG dùng âm Hán Việt (Ví dụ: `邦塔` = `Bontar`, `斯塔克` = `Stark`).
+- **Tên mang ý nghĩa đặc trưng (Ví dụ: Tên tộc Elf, địa danh tự nhiên):** Dịch nghĩa sang **tiếng Anh** hoặc **tiếng Việt** tương ứng để tạo cảm giác kỳ ảo tự nhiên (Ví dụ: `影歌` = `Shadowsong`).
+- **Thuật ngữ lặp đi lặp lại:** Ghi nhận ngay vào [memo/GLOSSARY.tsv](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/memo/GLOSSARY.tsv). Tuyệt đối cấm dịch tự phát lệch tên khi từ điển đã có quy ước.
 
-ZH: "首先，我是作为一个人，然后，我是一个兰帕里人，再其次，我现在则是一个邦塔人，最后才是一个商人或者是贵族…"
-VI: "Trước hết, tôi là một con người, sau đó, tôi là một người Lanpari, tiếp theo, hiện tại tôi là một người Bontar, cuối cùng mới là một thương nhân hay một quý tộc…"
+---
+
+## 🔊 4. TỪ TƯỢNG THANH & THÁN TỪ (BÀI HỌC KINH NGHIỆM)
+- Việt hóa tự nhiên các thán từ:
+  - `啧啧` (Tsk tsk) → dịch thành **"chậc chậc"** (tuyệt đối không để nguyên tiếng Anh "tsk tsk" hay dịch convert "trách trách").
+  - `砰` → **"Rầm" / "Đoàng"** (tùy ngữ cảnh).
+  - `哦 / 嗯` → **"Ồ / Ừm"**.
+  - Không giữ nguyên các từ tượng thanh phiên âm Latin kiểu pinyin hoặc dịch nửa vời.
+
+---
+
+## 📝 5. FORMAT ĐẦU RA (MẶC ĐỊNH)
+- **Dòng 1:** `Chương {N}: {Tiêu đề dịch}` (Ví dụ: `Chương 1: Khởi đầu`).
+- **Dòng 2:** Để trống.
+- **Dòng 3 trở đi:** Nội dung dịch.
+- **Đoạn văn:** Mỗi đoạn cách nhau bằng một dòng trống. Khớp 1-1 với số đoạn của chương gốc Trung. Không gộp hoặc tách đoạn tùy tiện để tránh lỗi đếm đoạn khi chạy QA.
+- **Không thêm** ghi chú dịch giả, tóm tắt chương, hay các bình luận cá nhân vào trong file dịch.

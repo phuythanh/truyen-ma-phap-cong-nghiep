@@ -23,25 +23,24 @@ def escape_xml(s):
 
 
 def main():
-    first = int(sys.argv[1]) if len(sys.argv) > 1 else 387
+    with open(os.path.join(ROOT, "memo", "PROGRESS.json"), encoding="utf-8") as f:
+        prog = json.load(f)
+        first = prog.get("first_new_chapter_vi", 387)
+        last = prog.get("last_done_vi", 1015)
+        book_title = prog.get("book_title", "Ma Phap Cong Nghiep De Quoc")
+        file_prefix = prog.get("book_file_prefix", "Ma Phap")
+
+    if len(sys.argv) > 1:
+        first = int(sys.argv[1])
     if len(sys.argv) > 2:
         last = int(sys.argv[2])
-    else:
-        with open(os.path.join(ROOT, "memo", "PROGRESS.json"), encoding="utf-8") as f:
-            last = json.load(f)["last_done_vi"]
 
-    title = f"Ma Phap Cong Nghiep De Quoc - Chuong {first}-{last}"
-    out_epub = os.path.join(ROOT, f"Ma Phap - Chuong {first}-{last}.epub")
+    title = f"{book_title} - Chuong {first}-{last}"
+    out_epub = os.path.join(ROOT, f"{file_prefix} - Chuong {first}-{last}.epub")
 
-    candidates = [
-        p for p in glob.glob(os.path.join(ROOT, "Ma Phap - Chuong *.epub"))
-        if os.path.abspath(p) != os.path.abspath(out_epub)
-    ]
-    if not candidates and os.path.exists(out_epub):
-        candidates = [out_epub]
-    if not candidates:
-        sys.exit("Khong tim thay epub tham chieu 'Ma Phap - Chuong *.epub' nao trong repo de lay asset (cover.png/css).")
-    ref_epub = candidates[0]
+    asset_dir = os.path.join(ROOT, "scratchpad", "epub_assets")
+    if not os.path.exists(asset_dir):
+        sys.exit(f"Khong tim thay thu muc epub_assets tai: {asset_dir}")
 
     if os.path.exists(WORK):
         import shutil
@@ -51,10 +50,10 @@ def main():
     os.makedirs(os.path.join(WORK, "OEBPS", "Images"), exist_ok=True)
     os.makedirs(os.path.join(WORK, "OEBPS", "Styles"), exist_ok=True)
 
-    with zipfile.ZipFile(ref_epub) as rz:
-        rz.extract("OEBPS/Images/cover.png", WORK)
-        rz.extract("OEBPS/Styles/stylesheet.css", WORK)
-        rz.extract("OEBPS/Text/cover.xhtml", WORK)
+    import shutil
+    shutil.copy(os.path.join(asset_dir, "OEBPS", "Images", "cover.png"), os.path.join(WORK, "OEBPS", "Images", "cover.png"))
+    shutil.copy(os.path.join(asset_dir, "OEBPS", "Styles", "stylesheet.css"), os.path.join(WORK, "OEBPS", "Styles", "stylesheet.css"))
+    shutil.copy(os.path.join(asset_dir, "OEBPS", "Text", "cover.xhtml"), os.path.join(WORK, "OEBPS", "Text", "cover.xhtml"))
 
     with open(os.path.join(WORK, "mimetype"), "w", encoding="utf-8", newline="") as f:
         f.write("application/epub+zip")
@@ -176,8 +175,8 @@ def main():
                 rel = os.path.relpath(full, WORK).replace(os.sep, "/")
                 zf.write(full, rel, compress_type=zipfile.ZIP_DEFLATED)
 
-    # Don't let stale "Ma Phap - Chuong 387-*.epub" snapshots pile up in the repo.
-    for stale in glob.glob(os.path.join(ROOT, "Ma Phap - Chuong 387-*.epub")):
+    # Don't let stale EPUB snapshots pile up in the repo.
+    for stale in glob.glob(os.path.join(ROOT, f"{file_prefix} - Chuong *.epub")):
         if os.path.abspath(stale) != os.path.abspath(out_epub):
             os.remove(stale)
 

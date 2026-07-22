@@ -5,27 +5,26 @@ $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $root = Split-Path -Parent $scriptDir
 $outDir = Join-Path $root "chapters_out"
 $work = Join-Path $root "scratchpad\epub_build"
-$first = 387
-
 $progressFile = Join-Path $root "memo\PROGRESS.json"
 if (Test-Path $progressFile) {
     $progress = Get-Content -Raw -Encoding UTF8 $progressFile | ConvertFrom-Json
+    $first = $progress.first_new_chapter_vi
     $last = $progress.last_done_vi
+    $bookTitle = $progress.book_title
+    $filePrefix = $progress.book_file_prefix
 } else {
+    $first = 387
     $last = 1015
+    $bookTitle = "Ma Phap Cong Nghiep De Quoc"
+    $filePrefix = "Ma Phap"
 }
 
-$title = "Ma Phap Cong Nghiep De Quoc - Chuong $first-$last"
-$outEpub = Join-Path $root "Ma Phap - Chuong $first-$last.epub"
+$title = "$bookTitle - Chuong $first-$last"
+$outEpub = Join-Path $root "$filePrefix - Chuong $first-$last.epub"
 
-# Nguon asset (cover.png, stylesheet.css, cover.xhtml): lay tu 1 epub "Ma Phap - Chuong *.epub" da build truoc do
-# (dung cau truc OEBPS/Images,Styles,Text nhu script nay tao ra). Khong dung epub goc cua user (cau truc khac).
-# Khong phu thuoc scratchpad/epub_inspect (thu muc tam, co the khong con o phien sau).
-$refEpub = Get-ChildItem -Path $root -Filter "Ma Phap - Chuong *.epub" | Where-Object { $_.FullName -ne $outEpub } | Select-Object -First 1
-if (-not $refEpub -and (Test-Path $outEpub)) {
-    $refEpub = Get-Item $outEpub
-}
-if (-not $refEpub) { throw "Khong tim thay epub tham chieu 'Ma Phap - Chuong *.epub' nao trong $root de lay asset (cover.png/css)." }
+# Nguon asset (cover.png, stylesheet.css, cover.xhtml): lay tu thu muc assets cua template
+$assetDir = Join-Path $scriptDir "epub_assets"
+if (-not (Test-Path $assetDir)) { throw "Khong tim thay thu muc epub_assets tai $assetDir" }
 
 if (Test-Path $work) { Remove-Item -Recurse -Force $work }
 New-Item -ItemType Directory -Force -Path "$work\META-INF" | Out-Null
@@ -33,18 +32,9 @@ New-Item -ItemType Directory -Force -Path "$work\OEBPS\Text" | Out-Null
 New-Item -ItemType Directory -Force -Path "$work\OEBPS\Images" | Out-Null
 New-Item -ItemType Directory -Force -Path "$work\OEBPS\Styles" | Out-Null
 
-Add-Type -AssemblyName System.IO.Compression
-Add-Type -AssemblyName System.IO.Compression.FileSystem
-$refZip = [System.IO.Compression.ZipFile]::OpenRead($refEpub.FullName)
-foreach ($pair in @(
-    @{ entry = "OEBPS/Images/cover.png"; dest = "$work\OEBPS\Images\cover.png" },
-    @{ entry = "OEBPS/Styles/stylesheet.css"; dest = "$work\OEBPS\Styles\stylesheet.css" },
-    @{ entry = "OEBPS/Text/cover.xhtml"; dest = "$work\OEBPS\Text\cover.xhtml" }
-)) {
-    $e = $refZip.GetEntry($pair.entry)
-    [System.IO.Compression.ZipFileExtensions]::ExtractToFile($e, $pair.dest, $true)
-}
-$refZip.Dispose()
+Copy-Item -Path "$assetDir\OEBPS\Images\cover.png" -Destination "$work\OEBPS\Images\cover.png" -Force
+Copy-Item -Path "$assetDir\OEBPS\Styles\stylesheet.css" -Destination "$work\OEBPS\Styles\stylesheet.css" -Force
+Copy-Item -Path "$assetDir\OEBPS\Text\cover.xhtml" -Destination "$work\OEBPS\Text\cover.xhtml" -Force
 
 # mimetype (no BOM, no trailing newline)
 [System.IO.File]::WriteAllText("$work\mimetype", "application/epub+zip", (New-Object System.Text.UTF8Encoding($false)))
@@ -191,7 +181,7 @@ foreach ($f in $filesToAdd) {
 $zip.Dispose()
 
 # Clean up stale EPUB files
-Get-ChildItem -Path $root -Filter "Ma Phap - Chuong *.epub" | Where-Object { $_.FullName -ne $outEpub } | Remove-Item -Force
+Get-ChildItem -Path $root -Filter "$filePrefix - Chuong *.epub" | Where-Object { $_.FullName -ne $outEpub } | Remove-Item -Force
 
 Write-Host "EPUB built: $outEpub"
 Write-Host "Size: $((Get-Item $outEpub).Length / 1MB) MB"

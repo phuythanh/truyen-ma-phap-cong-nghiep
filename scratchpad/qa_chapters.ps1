@@ -16,9 +16,18 @@ $zhDir = Join-Path $root "chapters_zh"
 
 Write-Host "Running QA check on chapters $Start to $End..." -ForegroundColor Cyan
 
+$offset = 0
+$progressFile = Join-Path $root "memo\PROGRESS.json"
+if (Test-Path $progressFile) {
+    $progress = Get-Content -Raw -Encoding UTF8 $progressFile | ConvertFrom-Json
+    if ($progress.offset_zh_minus_vi -ne $null) {
+        $offset = $progress.offset_zh_minus_vi
+    }
+}
+
 $results = @()
 for ($vi = $Start; $vi -le $End; $vi++) {
-    $zh = $vi + 5
+    $zh = $vi + $offset
     $outFile = Join-Path $outDir ("{0:D4}.md" -f $vi)
     $zhFile = Join-Path $zhDir ("{0:D4}.txt" -f $zh)
 
