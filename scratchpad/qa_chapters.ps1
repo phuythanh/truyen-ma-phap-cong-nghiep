@@ -69,8 +69,25 @@ for ($vi = $Start; $vi -le $End; $vi++) {
         }
     }
 
+    # Mojibake check using Unicode escape characters to prevent console encoding issues
+    $hasMojibake = $false
+    $mojibakePatterns = @(
+        "$([char]198)$([char]176)", # Æ°
+        "$([char]198)$([char]161)", # Æ¡
+        "$([char]225)$([char]186)", # áº
+        "$([char]225)$([char]187)", # á»
+        "$([char]195)$([char]185)"  # Ã¹
+    )
+    foreach ($pat in $mojibakePatterns) {
+        if ($outText.Contains($pat)) {
+            $hasMojibake = $true
+            break
+        }
+    }
+
     $status = "OK"
     if ($cjkCount -gt 0) { $status = "FAIL_CJK" }
+    elseif ($hasMojibake) { $status = "FAIL_MOJIBAKE" }
     elseif ($ratio -lt 1.0 -or $ratio -gt 2.0) { $status = "FAIL_RATIO" }
     elseif ($spacePct -lt 9) { $status = "FAIL_SPACE" }
     elseif ($badBytes -gt 0) { $status = "FAIL_BADBYTE" }
