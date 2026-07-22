@@ -1,5 +1,9 @@
 # ROLLING SUMMARY — cập nhật sau mỗi batch dịch
-*Cập nhật đến hết Chương 1166 (= zh 1171). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+*Cập nhật đến hết Chương 1169 (= zh 1174). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+
+## Đợt 1167–1169 (tóm lược)
+- **Hệ thống giám sát ma lực (1167-1168):** Sau vụ bắt cóc học sinh, Tiểu Công tước Windsor (tân Tổng đốc miền nam Kendra) đặt hàng Thương hội Tân Nguyệt lắp đặt hệ thống giám sát ma lực (camera) tại thành Doral. Trong ngày thử nghiệm, hệ thống đã giúp bắt quả tang một kẻ hành hung trên phố, chứng minh hiệu quả răn đe tội phạm.
+- **Xin việc tại Tân Phi (1169):** Hệ thống giám sát ma lực trở thành xu hướng, mang lại đơn hàng hơn 2 triệu đồng vàng cho Tân Nguyệt. Trong khi đó, Lucian đến thành Tân Phi ứng tuyển vào Viện nghiên cứu Ma thuật Tân Phi. Cậu sửng sốt với sự hiện đại của thành phố và lấy ra tín vật do cô gái bí ẩn hôm trước tặng, khiến nhân viên báo danh không hiểu chuyện gì.
 
 ## Đợt 1162–1166 (tóm lược)
 - **Học thuật và tư duy thay đổi (1162-1164):** Hứa Dịch trao đổi với các học giả như Rosasius và Tansen về ý đồ thực sự của việc công bố kiến thức vũ trụ và hành tinh hình cầu. Giới học thuật và pháp sư đại lục bắt đầu chuyển từ nghiên cứu ma pháp chiến đấu thuần tùy sang ứng dụng công nghiệp và khoa học ma pháp.
