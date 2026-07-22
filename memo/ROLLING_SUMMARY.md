@@ -1,5 +1,26 @@
-# ROLLING SUMMARY — cập nhật sau mỗi batch dịch
-*Cập nhật đến hết Chương 1141 (= zh 1146). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+﻿# ROLLING SUMMARY — cập nhật sau mỗi batch dịch
+*Cập nhật đến hết Chương 1166 (= zh 1171). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+
+## Đợt 1162–1166 (tóm lược)
+- **Học thuật và tư duy thay đổi (1162-1164):** Hứa Dịch trao đổi với các học giả như Rosasius và Tansen về ý đồ thực sự của việc công bố kiến thức vũ trụ và hành tinh hình cầu. Giới học thuật và pháp sư đại lục bắt đầu chuyển từ nghiên cứu ma pháp chiến đấu thuần tùy sang ứng dụng công nghiệp và khoa học ma pháp.
+- **Tiên phong viễn dương (1165-1166):** Hạm đội viễn dương viễn chinh của Tân Phi bắt đầu lên đường khám phá thế giới mới, mang theo hy vọng và kiến thức khoa học ma pháp.
+
+## Đợt 1157–1161 (tóm lược)
+- **Đào tạo nhân lực (1157-1158):** Hứa Dịch thúc đẩy việc phát triển nhân lực bằng cách thành lập các Học viện Kaman và Học viện Philip để đào tạo pháp sư ứng dụng. Lucian và Linoia bắt đầu nổi tiếng trong giới nghiên cứu.
+- **Giá trị cốt lõi của Tân Phi (1159-1161):** Hứa Dịch phân tích và giải thích sâu hơn về mục tiêu nâng cao văn minh nhân loại của Tân Phi, hướng tới nâng cao chất lượng cuộc sống thay vì chiến tranh phá hoại.
+
+## Đợt 1152–1156 (tóm lược)
+- **Họp báo kỷ niệm 23 năm (1152-1154):** Hứa Dịch tổ chức họp báo cá nhân tại thành Bontar kỷ niệm 23 năm thành lập Tân Phi, ôn lại kỷ niệm cũ với Heinze.
+- **Khoa học ma pháp và Vũ trụ học (1155-1156):** Tại buổi họp báo, anh tuyên bố thẳng thừng sự khinh thường đối với ma pháp truyền thống lỗi thời, đưa ra lý thuyết "khoa học ma pháp", công bố hạm đội viễn dương vòng quanh thế giới và tiết lộ sự thật về Trái Đất hình cầu cùng hệ Mặt Trời.
+
+## Đợt 1147–1151 (tóm lược)
+- **Từ chối đàm phán Frank (1147-1148):** Hứa Dịch từ chối đàm phán trực tiếp với đại biểu Frank (Desante) vì các yêu sách ngây thơ và ích kỷ của họ.
+- **Hợp tác dị chủng tộc (1149-1151):** Tân Phi tăng cường hợp tác với các tộc Gnome, Elf ở đại lục Ma Vân để phát triển cơ sở hạ tầng và nguồn nhân lực mới.
+
+## Đợt 1142–1146 (tóm lược)
+- **Đại thắng quân sự quyết định (1142-1144):** Trận chung kết giữa liên quân hai đế quốc Malo - Kendra (45 vạn quân) với liên quân Rulson - Tân Phi (5 vạn quân). Pháo ma lực tầm xa, máy bay ma lực dội bom và xe tăng ma lực của Tân Phi nghiền nát hoàn toàn liên quân đối thủ.
+- **Ký kết hòa bình (1145-1146):** 3 Ma đạo sư của Kendra bất lực tháo chạy. Liên quân hai đế quốc thảm bại toàn diện, buộc phải ký kết hiệp ước hòa bình và bồi thường chiến phí khổng lồ, công nhận sự độc lập của các hành tỉnh.
+
 
 ## Đợt 1137–1141 (tóm lược)
 - **Đại thắng quân đội hai đại đế quốc (1137-1138):** Trong trận hội chiến quyết định tại bình nguyên Saila, liên quân Rulson - Tân Phi phòng thủ trước cuộc tiến công của 45 vạn quân liên hợp Kendra và Malo. Kỵ binh hạng nặng và kỵ binh nhẹ tinh nhuệ của hai đại đế quốc bị pháo ma lực và xe tăng ma lực tiêu diệt hoàn toàn. Hỏa lực áp đảo của xe tăng ma lực khiến 3 vạn kỵ binh nhẹ của Malo gửi tới chi viện hoàn toàn tan rã.

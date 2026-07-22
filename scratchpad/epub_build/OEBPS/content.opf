@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1141</dc:title>
+    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1166</dc:title>
     <dc:language>vi</dc:language>
-    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:009cdf62-f7cd-4fd9-9830-d83364147c17</dc:identifier>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:ed381740-c595-4fa4-a272-e37621a35ec9</dc:identifier>
     <dc:creator>Ban dich tiep (Trung-Viet)</dc:creator>
     <meta name="cover" content="cover-image"/>
   </metadata>
@@ -767,6 +767,31 @@
     <item id="C753" href="Text/C753.xhtml" media-type="application/xhtml+xml"/>
     <item id="C754" href="Text/C754.xhtml" media-type="application/xhtml+xml"/>
     <item id="C755" href="Text/C755.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C756" href="Text/C756.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C757" href="Text/C757.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C758" href="Text/C758.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C759" href="Text/C759.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C760" href="Text/C760.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C761" href="Text/C761.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C762" href="Text/C762.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C763" href="Text/C763.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C764" href="Text/C764.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C765" href="Text/C765.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C766" href="Text/C766.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C767" href="Text/C767.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C768" href="Text/C768.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C769" href="Text/C769.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C770" href="Text/C770.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C771" href="Text/C771.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C772" href="Text/C772.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C773" href="Text/C773.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C774" href="Text/C774.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C775" href="Text/C775.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C776" href="Text/C776.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C777" href="Text/C777.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C778" href="Text/C778.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C779" href="Text/C779.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C780" href="Text/C780.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover"/>
@@ -1525,5 +1550,30 @@
     <itemref idref="C753"/>
     <itemref idref="C754"/>
     <itemref idref="C755"/>
+    <itemref idref="C756"/>
+    <itemref idref="C757"/>
+    <itemref idref="C758"/>
+    <itemref idref="C759"/>
+    <itemref idref="C760"/>
+    <itemref idref="C761"/>
+    <itemref idref="C762"/>
+    <itemref idref="C763"/>
+    <itemref idref="C764"/>
+    <itemref idref="C765"/>
+    <itemref idref="C766"/>
+    <itemref idref="C767"/>
+    <itemref idref="C768"/>
+    <itemref idref="C769"/>
+    <itemref idref="C770"/>
+    <itemref idref="C771"/>
+    <itemref idref="C772"/>
+    <itemref idref="C773"/>
+    <itemref idref="C774"/>
+    <itemref idref="C775"/>
+    <itemref idref="C776"/>
+    <itemref idref="C777"/>
+    <itemref idref="C778"/>
+    <itemref idref="C779"/>
+    <itemref idref="C780"/>
   </spine>
 </package>

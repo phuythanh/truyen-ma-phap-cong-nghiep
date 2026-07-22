@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:009cdf62-f7cd-4fd9-9830-d83364147c17"/>
+    <meta name="dtb:uid" content="urn:uuid:ed381740-c595-4fa4-a272-e37621a35ec9"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1141</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1166</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -4538,6 +4538,156 @@
         <text>Chương 1141: Quan điểm khoa học ma pháp</text>
       </navLabel>
       <content src="Text/C755.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-756" playOrder="756">
+      <navLabel>
+        <text>Chương 1142: Ma pháp rốt cuộc là gì</text>
+      </navLabel>
+      <content src="Text/C756.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-757" playOrder="757">
+      <navLabel>
+        <text>Chương 1143: Nắm đấm</text>
+      </navLabel>
+      <content src="Text/C757.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-758" playOrder="758">
+      <navLabel>
+        <text>Chương 1144: Hồi kết của chiến tranh</text>
+      </navLabel>
+      <content src="Text/C758.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-759" playOrder="759">
+      <navLabel>
+        <text>Chương 1145: Muốn nhiều thứ hơn</text>
+      </navLabel>
+      <content src="Text/C759.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-760" playOrder="760">
+      <navLabel>
+        <text>Chương 1146: Thích thì mua, không mua thì biến</text>
+      </navLabel>
+      <content src="Text/C760.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-761" playOrder="761">
+      <navLabel>
+        <text>Chương 1147: Công ước Hòa bình Pháp sư</text>
+      </navLabel>
+      <content src="Text/C761.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-762" playOrder="762">
+      <navLabel>
+        <text>Chương 1148: Ổn định Cục diện</text>
+      </navLabel>
+      <content src="Text/C762.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-763" playOrder="763">
+      <navLabel>
+        <text>Chương 1149: Kế hoạch Xa vời</text>
+      </navLabel>
+      <content src="Text/C763.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-764" playOrder="764">
+      <navLabel>
+        <text>Chương 1150: Những Con người Bận rộn</text>
+      </navLabel>
+      <content src="Text/C764.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-765" playOrder="765">
+      <navLabel>
+        <text>Chương 1151: Siêu sao Hàng đầu</text>
+      </navLabel>
+      <content src="Text/C765.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-766" playOrder="766">
+      <navLabel>
+        <text>Chương 1152: Giải quyết hỗn loạn</text>
+      </navLabel>
+      <content src="Text/C766.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-767" playOrder="767">
+      <navLabel>
+        <text>Chương 1153: Hoài niệm</text>
+      </navLabel>
+      <content src="Text/C767.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-768" playOrder="768">
+      <navLabel>
+        <text>Chương 1154: Một trong những chủ đề</text>
+      </navLabel>
+      <content src="Text/C768.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-769" playOrder="769">
+      <navLabel>
+        <text>Chương 1155: Tôi đang khinh thường các người</text>
+      </navLabel>
+      <content src="Text/C769.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-770" playOrder="770">
+      <navLabel>
+        <text>Chương 1156: Mưu cầu cao hơn</text>
+      </navLabel>
+      <content src="Text/C770.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-771" playOrder="771">
+      <navLabel>
+        <text>Chương 1157: Mục tiêu là biển sao trời</text>
+      </navLabel>
+      <content src="Text/C771.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-772" playOrder="772">
+      <navLabel>
+        <text>Chương 1158: Tôi không cam lòng</text>
+      </navLabel>
+      <content src="Text/C772.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-773" playOrder="773">
+      <navLabel>
+        <text>Chương 1159: Tin tức</text>
+      </navLabel>
+      <content src="Text/C773.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-774" playOrder="774">
+      <navLabel>
+        <text>Chương 1160: Làm thuê ngắn hạn</text>
+      </navLabel>
+      <content src="Text/C774.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-775" playOrder="775">
+      <navLabel>
+        <text>Chương 1161: Đây là bắt cóc</text>
+      </navLabel>
+      <content src="Text/C775.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-776" playOrder="776">
+      <navLabel>
+        <text>Chương 1162: Từ nay không thấy ánh mặt trời?</text>
+      </navLabel>
+      <content src="Text/C776.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-777" playOrder="777">
+      <navLabel>
+        <text>Chương 1163: Cô gái kỳ lạ</text>
+      </navLabel>
+      <content src="Text/C777.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-778" playOrder="778">
+      <navLabel>
+        <text>Chương 1164: Cùng tôi xông lên</text>
+      </navLabel>
+      <content src="Text/C778.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-779" playOrder="779">
+      <navLabel>
+        <text>Chương 1165: Tại sao đùa giỡn chúng tôi?</text>
+      </navLabel>
+      <content src="Text/C779.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-780" playOrder="780">
+      <navLabel>
+        <text>Chương 1166: Lòng tự tôn yếu ớt</text>
+      </navLabel>
+      <content src="Text/C780.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
