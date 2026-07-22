@@ -243,20 +243,22 @@ async function downloadChapters(startNum, endNum) {
         const pRegex = /<p>([\s\S]*?)<\/p>/gi;
         let pMatch;
         while ((pMatch = pRegex.exec(rawContent)) !== null) {
-          let text = pMatch[1].replace(/<[^>]+>/g, '').trim();
+          let pTextHtml = pMatch[1].replace(/<br\s*\/?>/gi, '\n');
+          let text = pTextHtml.replace(/<[^>]+>/g, '').trim();
           // Clean up HTML entities
           text = text.replace(/&nbsp;/g, ' ')
                      .replace(/&lt;/g, '<')
                      .replace(/&gt;/g, '>')
                      .replace(/&amp;/g, '&');
           if (text) {
-            paragraphs.push(text);
+            const lines = text.split('\n').map(t => t.trim()).filter(t => t.length > 0);
+            paragraphs.push(...lines);
           }
         }
 
         // Fallback if no <p> tags but raw text is present
         if (paragraphs.length === 0) {
-          const cleanedText = rawContent.replace(/<[^>]+>/g, '\n');
+          const cleanedText = rawContent.replace(/<br\s*\/?>/gi, '\n').replace(/<[^>]+>/g, '\n');
           paragraphs = cleanedText.split('\n')
                                   .map(t => t.trim())
                                   .filter(t => t.length > 0);
