@@ -123,15 +123,21 @@ Mở tệp [memo/STYLE_GUIDE.md](memo/STYLE_GUIDE.md) để cấu hình văn pho
 1. **Tìm nguồn tải raw offline:** Truy cập các trang web chia sẻ ebook TXT miễn phí của Trung Quốc như `ixdzs8.com`, `txt80.com`, `zxcs.me` và tìm kiếm từ khóa `玄鉴仙族` (hoặc tên phụ của truyện là `家族修仙：开局成为镇族法器`). Tải file `.zip` chứa file `.txt` full về máy.
 2. **Giải nén:** Giải nén để lấy file raw `.txt` lớn (Ví dụ đặt tên là `huyen_giam_full.txt`).
 3. **Copy vào repo:** Đặt file `huyen_giam_full.txt` vào thư mục gốc của repository.
-4. **Chạy script chia nhỏ chương tự động:** Chạy lệnh sau trong PowerShell để tự động cắt nhỏ file txt lớn thành các chương đơn lẻ lưu vào thư mục `chapters_zh/` (được đặt tên `0001.txt`, `0002.txt`...):
-   ```powershell
-   python .\scratchpad\split_chapters.py huyen_giam_full.txt
-   ```
-   *(Nếu máy của bạn chưa cấu hình python trong PATH, hãy sử dụng đường dẫn đầy đủ của bộ cài Python để chạy).*
+4. **Chạy script chia nhỏ chương tự động:** 
+   * **Cách 1 (Sử dụng PowerShell - Khuyên dùng, không cần cài Python/Node.js):**
+     ```powershell
+     powershell.exe -NoProfile -Command ".\scratchpad\split_chapters.ps1 -InputFile huyen_giam_full.txt"
+     ```
+   * **Cách 2 (Sử dụng Python - Nếu máy bạn đã có sẵn Python):**
+     ```powershell
+     python .\scratchpad\split_chapters.py huyen_giam_full.txt
+     ```
 
 ### Bước 5: Ra lệnh cho AI thực hiện dịch thuật
-Mở **Antigravity CLI** bằng cách gõ `agy` trong thư mục dự án và gửi yêu cầu cực kỳ ngắn gọn:
-> **"Dịch cho tao từ chương 1 đến chương 5."**
+Mở **Antigravity CLI** bằng cách gõ `agy` trong thư mục dự án và gửi yêu cầu dịch.
+> [!IMPORTANT]
+> **Bắt buộc phải giao tiếp bằng tiếng Việt trong agy CLI** (Ví dụ: *"Dịch cho tao từ chương 1 đến chương 5"*). Khi bạn giao tiếp bằng tiếng Việt, AI sẽ tự động kích hoạt chế độ dịch thuật Trung - Việt và phản hồi báo cáo kết quả hoàn toàn bằng tiếng Việt.
+
 
 Hệ thống AI sẽ tự động đọc tệp chỉ dẫn [GEMINI.md](GEMINI.md) và chạy quy trình khép kín:
 1. **Dịch thuật:** Gọi các subagent dịch song song 5 chương trên (tiết kiệm token và chi phí).
