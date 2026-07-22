@@ -1,11 +1,5 @@
 # 📖 HỆ THỐNG DỊCH THUẬT TỰ ĐỘNG BẰNG AI (ANTIGRAVITY CLI)
 
-> [!IMPORTANT]
-> * Nhánh **`master`** này chứa bản dịch hoàn chỉnh của bộ truyện **Ma Pháp Công Nghiệp Đế Quốc** (đã dịch hoàn chỉnh bằng AI chất lượng cao đến chương 1184. Các file dịch nằm tại thư mục `chapters_out/` và file sách EPUB hoàn thiện nằm ở thư mục gốc).
-> * Nếu bạn muốn sử dụng dự án này làm mẫu (template) để dịch một bộ truyện mới, vui lòng chuyển sang nhánh **`template`** (`git checkout template`) và làm theo hướng dẫn cài đặt bên dưới.
-
----
-
 Dự án này cung cấp một hệ thống dịch thuật tự động khép kín từ tiếng Trung sang tiếng Việt chất lượng cao dành cho các tác phẩm mạng/truyện chữ, sử dụng **Google Antigravity CLI (agy)** kết hợp các mô hình AI tiên tiến (Gemini, Claude). Hệ thống tích hợp sẵn các công cụ dịch thuật, tự động kiểm tra chất lượng (QA) chống lỗi font, lệch đoạn, và tự động đóng gói sách điện tử **EPUB** chuyên nghiệp.
 
 ---
@@ -68,15 +62,37 @@ Antigravity CLI là giao diện dòng lệnh giúp bạn giao tiếp và ra lệ
 
 Để dịch một bộ truyện mới từ nhánh mẫu `template`, hãy làm theo đúng quy trình sau:
 
-### Bước 1: Tạo nhánh Git mới từ Template
-1. Chuyển sang nhánh mẫu `template`:
-   ```powershell
-   git checkout template
-   ```
-2. Tạo một nhánh mới dành riêng cho bộ truyện của bạn (Ví dụ: `huyen-giam-tien-toc`):
-   ```powershell
-   git checkout -b huyen-giam-tien-toc
-   ```
+### Bước 1: Khởi tạo Repository hoặc tạo nhánh cho Truyện mới
+Vì bạn không thể push trực tiếp lên kho chứa gốc này, hãy chọn một trong hai cách sau để lưu trữ bản dịch của mình:
+
+* **CÁCH A: Fork Repository (Khuyên dùng - để giữ nguyên các nhánh mẫu):**
+  1. Nhấn nút **Fork** ở góc trên bên phải trang GitHub này để sao chép dự án về tài khoản cá nhân của bạn.
+  2. Clone bản fork đó về máy của bạn (thay tên tài khoản của bạn vào link dưới):
+     ```powershell
+     git clone https://github.com/<tai-khoan-cua-ban>/truyen-ma-phap-cong-nghiep.git
+     ```
+  3. Truy cập vào thư mục và chuyển sang nhánh `template` để tạo nhánh truyện mới:
+     ```powershell
+     cd truyen-ma-phap-cong-nghiep
+     git checkout template
+     git checkout -b huyen-giam-tien-toc
+     ```
+
+* **CÁCH B: Tạo một Repository độc lập mới hoàn toàn:**
+  1. Tải zip hoặc clone nhánh `template` của repo này về máy và truy cập vào thư mục.
+  2. Xóa thư mục ẩn `.git` cũ đi để reset lịch sử Git.
+  3. Khởi tạo một Git repository mới của riêng bạn:
+     ```powershell
+     git init
+     git add -A
+     git commit -m "Khởi tạo dự án dịch truyện mới"
+     ```
+  4. Tạo một repo mới trống trên GitHub của bạn, sau đó liên kết và push lên:
+     ```powershell
+     git remote add origin https://github.com/<tai-khoan-cua-ban>/<ten-repo-moi>.git
+     git branch -M main
+     git push -u origin main
+     ```
 
 ### Bước 2: Thiết lập cấu hình Truyện trong `memo/PROGRESS.json`
 Mở tệp [memo/PROGRESS.json](memo/PROGRESS.json) bằng phần mềm chỉnh sửa văn bản bất kỳ (như Notepad, VS Code) và thay đổi thông tin của truyện mới:
