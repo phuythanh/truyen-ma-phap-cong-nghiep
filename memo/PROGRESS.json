@@ -1,9 +1,9 @@
 {
   "book_title": "Huyền Giám Tiên Tộc",
   "book_file_prefix": "HuyenGiam",
-  "offset_zh_minus_vi": 0,
-  "first_new_chapter_vi": 1,
-  "last_done_vi": 1,
-  "note": "Cấu hình cho truyện Huyền Giám Tiên Tộc: dịch bắt đầu từ chương 1, không lệch chương.",
-  "next_action": "Dịch chương 2"
+  "offset_zh_minus_vi": -808,
+  "first_new_chapter_vi": 1634,
+  "last_done_vi": 1634,
+  "note": "Cấu hình dịch tiếp từ chương 1634 tiếng Việt (tương ứng chương 826 tiếng Trung: Giải hoặc). Offset = 826 - 1634 = -808.",
+  "next_action": "Dịch chương 1635"
 }
