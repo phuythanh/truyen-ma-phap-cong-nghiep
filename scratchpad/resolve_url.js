@@ -1,5 +1,5 @@
 async function resolveUrl() {
-  const url = 'https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfz04xgCfID5qVd1UehSlC1hG74dfgqtr_vEJP0wZAA3WUZRbYIFtHD9zCSyoDUnEsU1anWNH9pLV0_1K8g35PY9Fa-5nyZsRd1wrXEqJq5bc__K4NCDhSTgiRYYHb';
+  const url = 'https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0Q9VrQUEAvM10UJBJ9PaT67YGXcCssyhv4rJLuShMhlAb0KyuOMf7uFp0oNOFERHAKt8dg_1lS0sdOjDVpzDM1giyZk3iysvxTOF18HW1FhlwBRRS';
   try {
     const res = await fetch(url, { redirect: 'manual' });
     console.log('Status:', res.status);

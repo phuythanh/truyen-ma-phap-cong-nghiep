@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 async function testFetch() {
-  const url = 'https://m.boquge.com/wapbook/178980_190055216.html';
+  const url = 'https://m.boquge.com/wapbook/178980_189164382.html';
   try {
     console.log(`Fetching ${url}...`);
     const res = await fetch(url, {
