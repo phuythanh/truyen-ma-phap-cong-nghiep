@@ -1,5 +1,9 @@
 # ROLLING SUMMARY — cập nhật sau mỗi batch dịch
-*Cập nhật đến hết Chương 1184 (= zh 1189). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+*Cập nhật đến hết Chương 1189 (= zh 1194). Đưa TOÀN BỘ file này vào ngữ cảnh mỗi request dịch.*
+
+## Đợt 1185–1189 (tóm lược)
+- **Freya đàm phán với Kendra (1185-1187):** Đại công tước Galbut tham gia lễ kỷ niệm của Nhà máy Luyện thép số 1 Wimbledon và gặp Freya. Hai bên đàm phán về việc chuyển giao kỹ thuật mạng lưới liên lạc ma pháp. Trước sự cứng rắn của Galbut đòi quyền kiểm soát tuyệt đối, Freya tung ra thông tin nhạy cảm (bức tranh chân dung Theresa và thung lũng Troll) chứng minh Kendra đang âm thầm tự chế tạo máy móc ma thuật quân dụng vi phạm 《Hiệp ước Hòa bình Lục địa》, khiến Galbut và Askend hoảng hốt.
+- **Sự tích lũy ma pháp và kế hoạch giao thông (1188-1189):** Hứa Dịch trực tiếp giám sát công trình nổ núi làm đường cao tốc xuyên núi ở Kulanyi. Anh nhận ra tốc độ phát triển khoa học ma pháp của lục địa nhanh chóng là nhờ sự tích lũy nghiên cứu ma pháp suốt hàng vạn năm qua của các pháp sư nay được khơi gợi đúng hướng. Djorkaeff dò hỏi mua kỹ thuật chế tạo máy móc ma lực công trình cho Amli, Hứa Dịch đồng ý gặp Cruz. Sau đó Hứa Dịch nhận cuộc gọi từ Freya, cả hai hẹn gặp nhau tại hội nghị nghiên cứu ma pháp ở thành Sosri (thủ đô Vương quốc Ma pháp Mana).
 
 ## Đợt 1182–1184 (tóm lược)
 - **Bình định Vương quốc Kulanyi (1182-1183):** Hứa Dịch đến Vương quốc Kulanyi để bắt đầu Kế hoạch Đại Khai Phá miền Đông thì gặp cảnh bạo loạn. Đại tướng quân Lefalu giết Quốc vương Simpson để cướp ngôi. Hứa Dịch đích thân ra tay, đội hộ vệ Tân Phi bắt gọn Lefalu, xử trảm quân phản loạn và đưa một cậu bé 12 tuổi lên ngôi. Nhờ đó Tân Phi hoàn toàn kiểm soát Kulanyi, đẩy nhanh thần tốc tiến độ công nghiệp hóa và bảo vệ môi trường (trồng rừng) tại đây.

@@ -4,10 +4,10 @@
   "first_new_chapter_vi": 387,
   "first_new_chapter_zh_file": "0392",
   "last_zh_file": "1280",
-  "last_done_vi": 1184,
-  "translated_ranges": "387-1184 (lien tuc)",
-  "epub_built": "Ma Phap - Chuong 387-1184.epub",
-  "epub_note": "Da build lai epub toi 1141.",
+  "last_done_vi": 1189,
+  "translated_ranges": "387-1189 (lien tuc)",
+  "epub_built": "Ma Phap - Chuong 387-1189.epub",
+  "epub_note": "Da build lai epub toi 1189.",
   "failed": [],
   "glossary_pending": [],
   "next_action": "Chay tiep",
@@ -74,5 +74,6 @@
   "batch_1162_1166_note": "2026-07-22: Da dich 5 chuong 1162-1166 (zh 1167-1171). QA gate 5/5 pass sach: CJK=0, ratio 1.42-1.47, 0 doan trung lap. Cot truyen: Lucian va nhom hoc sinh bi bat coc toi mot trang vien co phap tran linh vuc cam ma va xe chien ma luc. Mot co gai ky la dung ma phap He Khong Gian tu do va sung phong ten lua ma luc tieu diet xe chien ma luc de giai cuu ho. Lucian phat hien co gai co tinh de bi bat de nho Harris den dong lo buon nguoi. Lucian sua duoc hop thong thoai duoi anh huong cam ma nho du lieu co gai cung cap. Co gai danh tang Lucian mot tin vat/suat de cu vao Vien nghien cuu Ma phap Tan Phi, nhung Lucian tu choi vi tu ton.",
   "batch_1167_1172_note": "2026-07-22: Da dich 6 chuong 1167-1172 (zh 1172-1177). Cot truyen: Nhom Lucian duoc tha ve Doral. Tieu Cong tuoc Windsor dat hang thiet bi giam sat ma luc tu Tan Nguyet. Lucian den Cang Tan Phi tuyen dung va gap lai co gai tinh linh he khong gian.",
   "batch_1173_1178_note": "2026-07-22: Da dich 6 chuong 1173-1178 (zh 1178-1183). Cot truyen: Freya gap lai Linoia va tro ve gap cha me. Linoia cau hon Hua Dich nhung bi tu choi. Huyen thoai ve cac toc Elf va ke hoach thap tin hieu ma luc.",
-  "batch_1179_1184_note": "2026-07-22: Da dich 6 chuong 1179-1184 (zh 1184-1189). Cot truyen: Nu vuong Cervini tranh mat Hua Dich, Raymond dai dien lien lac. Vuong quoc Kulanyi bao loan do Lefalu khoi xuong, Hua Dich nhanh chong dan ap va thiet lap he thong cong nghiep ma phap chi phoi toan quoc. Kendra (Debor XVII va Galbut) lo ngai ve su thon tinh cua Tan Phi."
+  "batch_1179_1184_note": "2026-07-22: Da dich 6 chuong 1179-1184 (zh 1184-1189). Cot truyen: Nu vuong Cervini tranh mat Hua Dich, Raymond dai dien lien lac. Vuong quoc Kulanyi bao loan do Lefalu khoi xuong, Hua Dich nhanh chong dan ap va thiet lap he thong cong nghiep ma phap chi phoi toan quoc. Kendra (Debor XVII va Galbut) lo ngai ve su thon tinh cua Tan Phi.",
+  "batch_1185_1189_note": "2026-07-22: Da dich 5 chuong 1185-1189 (zh 1190-1194). QA gate 5/5 pass: CJK=0. Cot truyen: Galbut gap Freya tai le ky niem Nha may luyen thep, Freya chia se thong tin nhay cam ve thung lung Troll va Theresa khien ho hoang mang. Hua Dich chi dao du an lam duong xuyen nui Kulanyi, nhan thay cong nghe ma phap dang phat trien dot pha nho tich luy van nam. Djorkaeff do hoi mua cong nghe xe ma luc cong trinh cho Amli, Hua Dich dong y gap Cruz."
 }

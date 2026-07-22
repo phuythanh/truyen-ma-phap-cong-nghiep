@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:63857fd5-3cd3-44ec-bd3e-f0c9a841275b"/>
+    <meta name="dtb:uid" content="urn:uuid:27ab8232-c6c1-4cd2-98f5-c41bd0169f19"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1184</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1189</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -4796,6 +4796,36 @@
         <text>Chương 1184: Có lòng tin đối với Hứa Dịch</text>
       </navLabel>
       <content src="Text/C798.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-799" playOrder="799">
+      <navLabel>
+        <text>Chương 1185: Xây dựng thành phố mới</text>
+      </navLabel>
+      <content src="Text/C799.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-800" playOrder="800">
+      <navLabel>
+        <text>Chương 1186: Người kế nhiệm rốt cuộc là ai</text>
+      </navLabel>
+      <content src="Text/C800.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-801" playOrder="801">
+      <navLabel>
+        <text>Chương 1187: Tranh giành quyền kiểm soát</text>
+      </navLabel>
+      <content src="Text/C801.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-802" playOrder="802">
+      <navLabel>
+        <text>Chương 1188: Sự tích lũy hàng vạn năm</text>
+      </navLabel>
+      <content src="Text/C802.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-803" playOrder="803">
+      <navLabel>
+        <text>Chương 1189: Thương hội Amli cũng xiêu lòng</text>
+      </navLabel>
+      <content src="Text/C803.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
