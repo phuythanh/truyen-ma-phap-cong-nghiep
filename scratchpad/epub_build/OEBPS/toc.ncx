@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:a7ff2f94-63da-4761-aeee-05ab21dc3096"/>
+    <meta name="dtb:uid" content="urn:uuid:6a967c16-a31f-4631-8513-f054300b8fa5"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1219</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1224</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -5006,6 +5006,36 @@
         <text>Chương 1219: Thái độ thực sự</text>
       </navLabel>
       <content src="Text/C833.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-834" playOrder="834">
+      <navLabel>
+        <text>Chương 1220: Có phải anh cố ý không?</text>
+      </navLabel>
+      <content src="Text/C834.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-835" playOrder="835">
+      <navLabel>
+        <text>Chương 1221: Xa cách</text>
+      </navLabel>
+      <content src="Text/C835.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-836" playOrder="836">
+      <navLabel>
+        <text>Chương 1222: Hiệp ước Hạn chế Phổ biến Máy móc Ma thuật Quân dụng</text>
+      </navLabel>
+      <content src="Text/C836.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-837" playOrder="837">
+      <navLabel>
+        <text>Chương 1223: Bàn giao chức Hội trưởng</text>
+      </navLabel>
+      <content src="Text/C837.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-838" playOrder="838">
+      <navLabel>
+        <text>Chương 1224: Quỹ công nghệ</text>
+      </navLabel>
+      <content src="Text/C838.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
