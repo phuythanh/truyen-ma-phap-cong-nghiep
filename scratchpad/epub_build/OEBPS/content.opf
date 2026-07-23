@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1274</dc:title>
+    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1275</dc:title>
     <dc:language>vi</dc:language>
-    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:64f9161a-0647-4381-a579-68544d84045e</dc:identifier>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:2d9ae27d-936b-4148-b515-55157a7dda71</dc:identifier>
     <dc:creator>Ban dich tiep (Trung-Viet)</dc:creator>
     <meta name="cover" content="cover-image"/>
   </metadata>
@@ -900,6 +900,7 @@
     <item id="C886" href="Text/C886.xhtml" media-type="application/xhtml+xml"/>
     <item id="C887" href="Text/C887.xhtml" media-type="application/xhtml+xml"/>
     <item id="C888" href="Text/C888.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C889" href="Text/C889.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover"/>
@@ -1791,5 +1792,6 @@
     <itemref idref="C886"/>
     <itemref idref="C887"/>
     <itemref idref="C888"/>
+    <itemref idref="C889"/>
   </spine>
 </package>
