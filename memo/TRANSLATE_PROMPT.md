@@ -37,7 +37,6 @@ Dòng đầu mỗi file: "Chương {N}: {tiêu đề dịch}", dòng trống, th
 6. Mỗi ~100 chương: build Ma Phap Cong Nghiep De Quoc_v2.epub.
 
 ## Model (CHỐT)
-- Điều phối (phiên chính): Sonnet 5.
-- Dịch (subagent): **Haiku 4.5** = `claude-haiku-4-5` — rẻ nhất, rẻ hơn Sonnet ~3 lần (~$0.10-0.15/chương). Truyền model: "haiku" khi spawn Agent.
-- ĐỢT THỬ ĐẦU: dịch 5 chương (390-394) bằng Haiku → so chất lượng với 3 chương Sonnet (387-389). Nếu Haiku đạt → chạy hết bộ bằng Haiku (~$100 hạn mức). Nếu văn Haiku sượng → mới cân nhắc Sonnet.
-- Subagent chạy phiên riêng, context sạch, rẻ hơn dịch trong phiên chính nhiều.
+- Điều phối (phiên chính): **Gemini 3.5 Flash** (Medium).
+- Dịch (subagent): **Gemini 3.5 Pro** — truyền model: `"pro"` khi gọi `invoke_subagent` để đảm bảo chất lượng dịch thuật tốt nhất cho văn phong truyện.
+- Subagent chỉ làm nhiệm vụ dịch thô, không tự ý chạy QA hay commit. Việc kiểm tra và commit do trình điều phối chính xử lý gom lại làm 1 commit duy nhất cho mỗi đợt.

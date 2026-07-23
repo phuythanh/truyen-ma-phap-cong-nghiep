@@ -69,14 +69,18 @@ Khi nhận lệnh dịch tiếp, Gemini CLI sẽ hoạt động theo chu trình 
 - File nguồn `chapters_zh\{Zh_Chapter:D4}.txt` (với `Zh_Chapter = Vi_Chapter + 5`)
 
 ### Bước 2: Dịch thuật (Gợi ý sử dụng subagent để tiết kiệm token)
-Để giữ context của phiên chính sạch và tiết kiệm token, hãy sử dụng subagent `self` hoặc `research` để dịch theo cụm/batch (ví dụ 5 chương liên tục):
+Để giữ context của phiên chính sạch và tiết kiệm token, hãy sử dụng subagent `self` để dịch theo cụm/batch (ví dụ 5 chương liên tục).
+* **Quy tắc quan trọng về Model:** Trình điều phối (phiên chính) chạy trên model **Gemini 3.5 Flash**, còn các subagent thực hiện dịch thuật phải chỉ định rõ `Model: "pro"` để chạy trên model **Gemini 3.5 Pro**, đảm bảo chất lượng dịch thuật tốt nhất.
+* **Hạn chế quyền hạn của subagent:** Subagent **chỉ có nhiệm vụ dịch** các file nguồn trong `chapters_zh/` và ghi file dịch ra `chapters_out/`. Subagent **tuyệt đối không được** chạy QA, cập nhật `PROGRESS.json`, dựng sách EPUB hay tự động commit lên Git. Việc này thuộc trách nhiệm của trình điều phối (main agent) ở các bước sau để tránh việc tạo ra nhiều commit rác và nhiều lần build trùng lặp.
+
 ```json
 // Mẫu gọi subagent qua tool invoke_subagent:
 invoke_subagent(
     Subagents=[{
         "TypeName": "self",
         "Role": "Translator",
-        "Prompt": "Dịch tiếp 5 chương từ Chương 1039 đến 1043. Đọc file nguồn tương ứng chapters_zh/1044.txt đến 1048.txt. Tuân thủ tuyệt đối memo/STYLE_GUIDE.md và memo/GLOSSARY.tsv..."
+        "Model": "pro",
+        "Prompt": "Dịch tiếp 5 chương từ Chương 1039 đến 1043. Đọc file nguồn tương ứng chapters_zh/1044.txt đến 1048.txt. Tuân thủ tuyệt đối memo/STYLE_GUIDE.md và memo/GLOSSARY.tsv. CHỈ dịch và ghi file đầu ra .md tương ứng, KHÔNG chạy QA, KHÔNG cập nhật tiến độ PROGRESS.json, KHÔNG dựng EPUB, KHÔNG commit Git."
     }]
 )
 ```
@@ -86,8 +90,8 @@ invoke_subagent(
 - Dòng 2: Trống
 - Dòng 3 trở đi: Nội dung dịch (mỗi đoạn văn bản tương ứng một dòng, phân tách bằng 1 dòng trống. **Tuyệt đối khớp 1-1 với các đoạn của chương gốc Trung**).
 
-### Bước 3: Kiểm tra chất lượng (Quality Assurance)
-Sau khi dịch xong, hãy chạy script QA tự động bằng PowerShell để kiểm tra xem file dịch có đạt chuẩn không (không lỗi CJK, khớp đoạn, tỉ lệ từ phù hợp, không lặp đoạn):
+### Bước 3: Kiểm tra chất lượng (Quality Assurance) - Trình điều phối (Main Agent) thực hiện
+Sau khi các subagent hoàn thành dịch và báo cáo kết quả, trình điều phối (Main Agent) tiến hành chạy script QA tự động bằng PowerShell cho toàn bộ dải chương vừa dịch để kiểm tra xem file dịch có đạt chuẩn không (không lỗi CJK, khớp đoạn, tỉ lệ từ phù hợp, không lặp đoạn):
 
 **Lệnh chạy QA bằng PowerShell (Gemini CLI):**
 ```powershell
@@ -97,10 +101,12 @@ powershell.exe -NoProfile -Command ".\scratchpad\qa_chapters.ps1 -Start 1039 -En
 
 Nếu phát hiện bất kỳ lỗi nào (như `FAIL_CJK`, `WARN_PARACOUNT`, `WARN_DUP`), hãy tiến hành sửa chữa trực tiếp hoặc yêu cầu dịch lại chương lỗi đó.
 
-### Bước 4: Cập nhật Tiến độ & Từ điển
-- Cập nhật file `memo\PROGRESS.json` (tăng `last_done_vi` lên chương mới nhất vừa dịch xong).
-- Nếu phát hiện các tên riêng mới xuất hiện, hãy bổ dung vào `memo\GLOSSARY.tsv` kèm phân loại và ghi chú rõ ràng.
+### Bước 4: Cập nhật Tiến độ & Từ điển - Trình điều phối (Main Agent) thực hiện
+Sau khi vượt qua QA, trình điều phối thực hiện các bước sau trong **1 commit duy nhất**:
+- Cập nhật file `memo\PROGRESS.json` (tăng `last_done_vi` lên chương mới nhất vừa dịch xong, cập nhật trường `epub_built` và `epub_note`).
+- Nếu phát hiện các tên riêng mới xuất hiện, hãy bổ sung vào `memo\GLOSSARY.tsv` kèm phân loại và ghi chú rõ ràng.
 - Cập nhật tóm tắt chương vào `memo\ROLLING_SUMMARY.md` sau mỗi cụm dịch (~10 chương).
+- Dựng sách EPUB mới nhất bằng script (xem Hướng dẫn dựng sách EPUB phía dưới).
 - Commit toàn bộ các thay đổi vào Git, bao gồm: các file dịch mới trong `chapters_out/`, file PROGRESS.json, GLOSSARY.tsv, ROLLING_SUMMARY.md, file EPUB mới, các file cấu trúc EPUB (`scratchpad/epub_build/OEBPS/content.opf`, `scratchpad/epub_build/OEBPS/toc.ncx`) và file kết quả QA (`scratchpad/qa_output.csv`).
 
 ---
