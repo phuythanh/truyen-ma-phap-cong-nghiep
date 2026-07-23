@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:357aba96-2648-4dff-9ea3-0787048bd41d"/>
+    <meta name="dtb:uid" content="urn:uuid:64f9161a-0647-4381-a579-68544d84045e"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1254</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1274</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -5216,6 +5216,126 @@
         <text>Chương 1254: Chiến loạn</text>
       </navLabel>
       <content src="Text/C868.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-869" playOrder="869">
+      <navLabel>
+        <text>Chương 1255: Giống như bé gái</text>
+      </navLabel>
+      <content src="Text/C869.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-870" playOrder="870">
+      <navLabel>
+        <text>Chương 1256: Thoái vị</text>
+      </navLabel>
+      <content src="Text/C870.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-871" playOrder="871">
+      <navLabel>
+        <text>Chương 1257: Loạn thành một đoàn</text>
+      </navLabel>
+      <content src="Text/C871.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-872" playOrder="872">
+      <navLabel>
+        <text>Chương 1258: Chuyên gia lưu vong</text>
+      </navLabel>
+      <content src="Text/C872.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-873" playOrder="873">
+      <navLabel>
+        <text>Chương 1259: Lại đi Alice một chuyến thì sao?</text>
+      </navLabel>
+      <content src="Text/C873.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-874" playOrder="874">
+      <navLabel>
+        <text>Chương 1260: Công nhân bạo loạn</text>
+      </navLabel>
+      <content src="Text/C874.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-875" playOrder="875">
+      <navLabel>
+        <text>Chương 1261: Đừng dùng loại chuyện nhỏ này để quấy rầy tôi</text>
+      </navLabel>
+      <content src="Text/C875.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-876" playOrder="876">
+      <navLabel>
+        <text>Chương 1262: Nguy hiểm chưa biết</text>
+      </navLabel>
+      <content src="Text/C876.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-877" playOrder="877">
+      <navLabel>
+        <text>Chương 1263: Chiến loạn là do Thương hội Tân Phi gây ra!</text>
+      </navLabel>
+      <content src="Text/C877.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-878" playOrder="878">
+      <navLabel>
+        <text>Chương 1264: Đế quốc diệt vong</text>
+      </navLabel>
+      <content src="Text/C878.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-879" playOrder="879">
+      <navLabel>
+        <text>Chương 1265: Đã nghĩ kỹ sự sắp xếp sau này chưa?</text>
+      </navLabel>
+      <content src="Text/C879.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-880" playOrder="880">
+      <navLabel>
+        <text>Chương 1266: Hợp chúng quốc Liên bang Kendra</text>
+      </navLabel>
+      <content src="Text/C880.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-881" playOrder="881">
+      <navLabel>
+        <text>Chương 1267: Tái tổ chức chính phủ</text>
+      </navLabel>
+      <content src="Text/C881.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-882" playOrder="882">
+      <navLabel>
+        <text>Chương 1268: Có thể giữ được không?</text>
+      </navLabel>
+      <content src="Text/C882.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-883" playOrder="883">
+      <navLabel>
+        <text>Chương 1269: Khiên và giáo</text>
+      </navLabel>
+      <content src="Text/C883.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-884" playOrder="884">
+      <navLabel>
+        <text>Chương 1270: Trên trời khắp nơi đều là tên lửa ma lực bay tới bay lui?</text>
+      </navLabel>
+      <content src="Text/C884.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-885" playOrder="885">
+      <navLabel>
+        <text>Chương 1271: Mở ra cánh cửa thế giới mới</text>
+      </navLabel>
+      <content src="Text/C885.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-886" playOrder="886">
+      <navLabel>
+        <text>Chương 1272: Kiến quốc</text>
+      </navLabel>
+      <content src="Text/C886.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-887" playOrder="887">
+      <navLabel>
+        <text>Chương 1273: Oanh tạc trại tị nạn</text>
+      </navLabel>
+      <content src="Text/C887.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-888" playOrder="888">
+      <navLabel>
+        <text>Chương 1274: Hòa đàm thất bại</text>
+      </navLabel>
+      <content src="Text/C888.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
