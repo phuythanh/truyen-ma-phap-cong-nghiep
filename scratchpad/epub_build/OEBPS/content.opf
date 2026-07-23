@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1199</dc:title>
+    <dc:title>Ma Phap Cong Nghiep De Quoc - Chuong 387-1214</dc:title>
     <dc:language>vi</dc:language>
-    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:366d90e5-c5c7-498b-87fc-d42baa68cdbf</dc:identifier>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4f0bffdd-bd5d-4688-a02d-025bdf85f0b7</dc:identifier>
     <dc:creator>Ban dich tiep (Trung-Viet)</dc:creator>
     <meta name="cover" content="cover-image"/>
   </metadata>
@@ -825,6 +825,21 @@
     <item id="C811" href="Text/C811.xhtml" media-type="application/xhtml+xml"/>
     <item id="C812" href="Text/C812.xhtml" media-type="application/xhtml+xml"/>
     <item id="C813" href="Text/C813.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C814" href="Text/C814.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C815" href="Text/C815.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C816" href="Text/C816.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C817" href="Text/C817.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C818" href="Text/C818.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C819" href="Text/C819.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C820" href="Text/C820.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C821" href="Text/C821.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C822" href="Text/C822.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C823" href="Text/C823.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C824" href="Text/C824.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C825" href="Text/C825.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C826" href="Text/C826.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C827" href="Text/C827.xhtml" media-type="application/xhtml+xml"/>
+    <item id="C828" href="Text/C828.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover"/>
@@ -1641,5 +1656,20 @@
     <itemref idref="C811"/>
     <itemref idref="C812"/>
     <itemref idref="C813"/>
+    <itemref idref="C814"/>
+    <itemref idref="C815"/>
+    <itemref idref="C816"/>
+    <itemref idref="C817"/>
+    <itemref idref="C818"/>
+    <itemref idref="C819"/>
+    <itemref idref="C820"/>
+    <itemref idref="C821"/>
+    <itemref idref="C822"/>
+    <itemref idref="C823"/>
+    <itemref idref="C824"/>
+    <itemref idref="C825"/>
+    <itemref idref="C826"/>
+    <itemref idref="C827"/>
+    <itemref idref="C828"/>
   </spine>
 </package>

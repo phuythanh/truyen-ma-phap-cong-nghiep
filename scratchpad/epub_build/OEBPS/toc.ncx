@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:366d90e5-c5c7-498b-87fc-d42baa68cdbf"/>
+    <meta name="dtb:uid" content="urn:uuid:4f0bffdd-bd5d-4688-a02d-025bdf85f0b7"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1199</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1214</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -4886,6 +4886,96 @@
         <text>Chương 1199: Năng lượng ma hạch</text>
       </navLabel>
       <content src="Text/C813.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-814" playOrder="814">
+      <navLabel>
+        <text>Chương 1200: Sức mạnh nằm trong tay ai</text>
+      </navLabel>
+      <content src="Text/C814.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-815" playOrder="815">
+      <navLabel>
+        <text>Chương 1201: Mua tàu</text>
+      </navLabel>
+      <content src="Text/C815.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-816" playOrder="816">
+      <navLabel>
+        <text>Chương 1202: Rời khỏi lục địa Saiens</text>
+      </navLabel>
+      <content src="Text/C816.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-817" playOrder="817">
+      <navLabel>
+        <text>Chương 1203: Thí nghiệm trên cao</text>
+      </navLabel>
+      <content src="Text/C817.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-818" playOrder="818">
+      <navLabel>
+        <text>Chương 1204: Phim ảo ảnh về Long tộc</text>
+      </navLabel>
+      <content src="Text/C818.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-819" playOrder="819">
+      <navLabel>
+        <text>Chương 1205: Di tích</text>
+      </navLabel>
+      <content src="Text/C819.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-820" playOrder="820">
+      <navLabel>
+        <text>Chương 1206: Thiết bị tinh vi</text>
+      </navLabel>
+      <content src="Text/C820.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-821" playOrder="821">
+      <navLabel>
+        <text>Chương 1207: Đặt chân lên đại lục Ma Vân</text>
+      </navLabel>
+      <content src="Text/C821.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-822" playOrder="822">
+      <navLabel>
+        <text>Chương 1208: Cày cấy</text>
+      </navLabel>
+      <content src="Text/C822.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-823" playOrder="823">
+      <navLabel>
+        <text>Chương 1209: Loài người bản địa</text>
+      </navLabel>
+      <content src="Text/C823.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-824" playOrder="824">
+      <navLabel>
+        <text>Chương 1210: Goblin cũng được tính là nhân lực</text>
+      </navLabel>
+      <content src="Text/C824.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-825" playOrder="825">
+      <navLabel>
+        <text>Chương 1211: Không có bất kỳ nhận xét nào</text>
+      </navLabel>
+      <content src="Text/C825.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-826" playOrder="826">
+      <navLabel>
+        <text>Chương 1212: Sắp loạn lên rồi</text>
+      </navLabel>
+      <content src="Text/C826.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-827" playOrder="827">
+      <navLabel>
+        <text>Chương 1213: Xưng bá lục địa?</text>
+      </navLabel>
+      <content src="Text/C827.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-828" playOrder="828">
+      <navLabel>
+        <text>Chương 1214: Cuộc gọi xuyên vạn dặm</text>
+      </navLabel>
+      <content src="Text/C828.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
