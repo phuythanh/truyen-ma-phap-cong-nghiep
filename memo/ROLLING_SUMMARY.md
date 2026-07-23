@@ -1,20 +1,22 @@
-# ROLLING SUMMARY — TÓM TẮT TIẾN ĐỘ TRUYỆN
+# ROLLING SUMMARY — TÓM TẮT TIẾN ĐỘ TRUYỆN GẦN NHẤT
 
-*Tài liệu này lưu trữ tóm tắt cốt truyện của 10-20 chương gần nhất để tránh mất mạch truyện và giúp mô hình AI ghi nhớ các diễn biến quan trọng. Hãy cập nhật sau mỗi đợt dịch (~10 chương).*
-
----
-
-## 📌 ĐỢT DỊCH GẦN NHẤT: CHƯƠNG 1 - 2
-- **Tóm tắt diễn biến:**
-  - **Chương 1:** Lục Giang Tiên vốn là một lập trình viên thời hiện đại đột tử, linh hồn xuyên không nhập vào một chiếc gương xám xanh cổ kính nằm dưới đáy sông. Y bắt đầu hấp thụ nguyệt hoa để tu luyện, tích lũy khí lưu trong bản thể gương.
-  - **Chương 2:** Lý Mộc Điền (thôn Lê Kính) lo lắng về việc tiên nhân tranh đấu làm chao đảo núi Đại Lê, sai con trai thứ Lý Hạng Bình ra sông Mi Xích bắt cá. Lý Hạng Bình vô tình mò được chiếc gương xám xanh (Lục Giang Tiên) ở dưới đáy sông. Lục Giang Tiên nhận ra mình không hiểu tiếng nói của dân bản địa (giống phương ngôn Mân Chiết), bèn dùng góc nhìn dò thám để học tiếng thông qua hoạt động tâm lý của Lý Hạng Bình khi bắt cá.
-- **Các nhân vật mới xuất hiện:**
-  - Lý Mộc Điền (李木田): Gia chủ Lý gia, một nông dân khai hoang hơn hai trăm năm tại thôn Lê Kính dưới chân núi Đại Lê.
-  - Lý Hạng Bình (李项平): Con trai của Lý Mộc Điền, tính tình lanh lợi tinh quái, là người nhặt được chiếc gương xám xanh (Lục Giang Tiên).
-  - Lý Diệp Sinh (李叶生): Em họ của Lý Hạng Bình, tính tình ngoan ngoãn, cha bệnh nặng quanh năm.
-- **Các địa danh/thuật ngữ mới:**
-  - Sông Mi Xích (眉尺河): Dòng sông nơi Lý Hạng Bình bắt cá và nhặt được Lục Giang Tiên.
-  - Thôn Lê Kính (黎泾村): Ngôi làng nơi Lý gia cư ngụ.
-  - Núi Đại Lê (大黎山): Dãy núi lớn gần thôn Lê Kính, nơi gần đây các tiên nhân bay lượn tranh đấu dữ dội.
+*Tài liệu này lưu trữ tóm tắt cốt truyện của các chương gần nhất để tránh mất mạch truyện và giúp mô hình AI ghi nhớ diễn biến phục vụ dịch thuật tiếp theo. Cập nhật sau mỗi đợt dịch.*
 
 ---
+
+## 📌 TÓM TẮT BỐI CẢNH CẬP NHẬT: CHƯƠNG 1632 - 1634
+
+### 1. Diễn biến cốt truyện chính:
+- **Lý Hi Minh (Chiêu Cảnh chân nhân)** tu luyện tại động phủ ẩn mật trong địa mạch dưới đáy biển Đông A Vương Hải. Hắn dùng hai năm tinh luyện dược liệu để luyện chế **Thiên Nhất Thổ Tụy Đan** bằng chân hỏa **Tam Hậu Thú Huyền Hỏa**. Lò đan gia bảo **Giang Trung Lư** bị rạn nứt nghiêm trọng do quá tải nhiệt.
+- **Đinh Lan (Tử Yên Môn)** liên lạc gặp mặt và nhờ Lý Hi Minh tinh luyện linh tài bằng **Vô Trượng Thủy Hỏa** (linh hỏa thuộc tính Lam/Lục do Tử Ly chân nhân chế tạo, có tính phá hoại linh cơ mạnh). Nàng cho mượn lò đan cấp Tử Phủ **Bảo Tượng Lư** để thực hiện.
+- Lý Hi Minh khống chế Vô Trượng Thủy Hỏa thuận lợi nhờ thần thông **Cốc Phong Dẫn Hỏa**. Khi thành đan cho bản thân, lò đan cũ **Giang Trung Lư** chính thức vỡ nát, nhưng hắn thu hoạch được **3 viên bảo đan thuộc tính Thái Âm** quý giá (có tác dụng phá quan, tĩnh khí, uẩn dưỡng pháp khu và tăng trưởng tính mệnh). Hắn dùng linh vật Thái Dương **Đài Khuê Hoa** tiêu hủy dị tượng để che giấu thiên cơ.
+- **Bí mật Huyền Nhạc Tông lộ diện:** Đinh Lan quay lại và tiết lộ cho Lý Hi Minh rằng **Trường Hề chân nhân** (đã mất) đã dùng mưu kế đảo lộn thân phận giữa **Khổng Hải Ứng** và **Phú Ân**. Trường Hề thực chất đã dâng Khổng Hải Ứng cho **Nghiệp Cối** để đổi lấy sự tồn vong của Huyền Nhạc tông, trong khi Lý Hi Minh lầm tưởng người chết là Phú Ân.
+- **Cảnh báo về Mệnh Thần Thông:** Đinh Lan cảnh báo Lý Hi Minh rằng các tu sĩ Tử Phủ khi tu thành **Mệnh Thần Thông** (đặc biệt là Thổ Đức) sẽ buông bỏ mọi vướng bận hồng trần, coi gia tộc và tông môn chỉ là công cụ để phi thăng thành tiên. Nàng cũng khuyên hắn cẩn trọng với thần thông Minh Dương **Thiên Hạ Minh** vì lịch sử của nó có tỳ vết lạnh lùng, đen tối.
+
+### 2. Các nhân vật & Pháp bảo xuất hiện gần đây:
+- **Lý Hi Minh (Chiêu Cảnh chân nhân):** Tu sĩ Tử Phủ đầu tiên của Lý gia, đan sư có năng lực khống hỏa cực cao nhờ *Cốc Phong Dẫn Hỏa* và thần thông *Yết Thiên Môn*, *Cản Sơn Phó Hải Hổ*.
+- **Đinh Lan:** Nữ chân nhân của Tử Yên Môn, tu hành công pháp mang thuộc tính Mùa Thu (Kim/Thu đức), có hoa văn vàng thu quanh mắt.
+- **Trường Hề chân nhân:** Cựu thủ lĩnh Huyền Nhạc tông, người thủ đoạn lạnh lùng đã hy sinh đệ tử Khổng Hải Ứng để đàm phán cứu tông môn.
+- **Giang Trung Lư:** Lò đan gia truyền cấp Luyện Khí của Lý gia, đã vỡ nát sau khi hoàn thành đan dược Thái Âm.
+- **Bảo Tượng Lư:** Pháp lô cấp Trúc Cơ/Tử Phủ của Đinh Lan cho mượn để luyện chế linh dược.
+- **Vô Trượng Thủy Hỏa:** Ngọn lửa lam lục mang tính chất tàn phá linh khí mạnh mẽ, dùng đựng trong *Thượng Tương Hồ*.

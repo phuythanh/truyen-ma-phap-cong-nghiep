@@ -140,38 +140,54 @@ async function analyzeEpub() {
 
   const locationKeywords = ['Sơn', 'Giang', 'Hồ', 'Trấn', 'Thành', 'Khảo', 'Đông', 'Tây', 'Nam', 'Bắc', 'Thôn', 'Đường', 'Điện', 'Cốc', 'Mộ', 'Động', 'Quán', 'Môn', 'Phái', 'Tông', 'Khê'];
   const cultivationKeywords = ['Quyết', 'Kinh', 'Phù', 'Khí', 'Công', 'Thuật', 'Đan', 'Chân', 'Pháp', 'Lôi', 'Kiếm', 'Huyền', 'Thần', 'Tế', 'Luyện'];
+  const commonSurnames = ['Lý', 'Lục', 'Trần', 'Vương', 'Trương', 'Đường', 'Tiêu', 'Hứa', 'Phùng', 'Bạch', 'Diệp', 'Tô', 'Triệu', 'Tào', 'Tôn', 'Chu', 'Ngô', 'Thẩm', 'Kim', 'An', 'Tư', 'Úc', 'Trì', 'Giang', 'Thôi', 'Đông', 'Tư Đồ'];
+
+  function hasWholeWord(str, kw) {
+    const words = str.split(/\s+/).map(w => w.toLowerCase());
+    const kwWords = kw.split(/\s+/).map(w => w.toLowerCase());
+    if (kwWords.length === 1) {
+      return words.includes(kwWords[0]);
+    }
+    return str.toLowerCase().includes(kw.toLowerCase());
+  }
 
   for (const [name, count] of sortedEntities) {
-    // Basic heuristic sorting
-    let added = false;
-    
     // Skip if lowercase check
     if (name === name.toLowerCase()) continue;
 
-    // Check keywords
-    for (const kw of locationKeywords) {
-      if (name.includes(kw)) {
-        locations.push({ name, count });
-        added = true;
-        break;
-      }
-    }
-    if (added) continue;
-
-    for (const kw of cultivationKeywords) {
-      if (name.includes(kw)) {
-        cultivationTerms.push({ name, count });
-        added = true;
-        break;
-      }
-    }
-    if (added) continue;
-
-    // Most 3-word capitalized names without special keywords are likely characters (e.g. "Lý Thông Nhai", "Lục Giang Tiên")
-    // Especially if they start with common surnames: Lý, Lục, Trần, Vương, Trương, Đường, Tiêu, Hứa...
-    const commonSurnames = ['Lý', 'Lục', 'Trần', 'Vương', 'Trương', 'Đường', 'Tiêu', 'Hứa', 'Phùng', 'Bạch', 'Diệp', 'Tô', 'Triệu', 'Tào', 'Tôn', 'Chu', 'Ngô', 'Thẩm', 'Kim'];
     const firstWord = name.split(/\s+/)[0];
-    if (commonSurnames.includes(firstWord) || name.split(/\s+/).length === 3) {
+    const nameWordsCount = name.split(/\s+/).length;
+
+    // Check surname first (Characters check)
+    if (commonSurnames.includes(firstWord) || name.startsWith('Tư Đồ')) {
+      characters.push({ name, count });
+      continue;
+    }
+
+    // Check location keywords
+    let isLocation = false;
+    for (const kw of locationKeywords) {
+      if (hasWholeWord(name, kw)) {
+        locations.push({ name, count });
+        isLocation = true;
+        break;
+      }
+    }
+    if (isLocation) continue;
+
+    // Check cultivation keywords
+    let isCultivation = false;
+    for (const kw of cultivationKeywords) {
+      if (hasWholeWord(name, kw)) {
+        cultivationTerms.push({ name, count });
+        isCultivation = true;
+        break;
+      }
+    }
+    if (isCultivation) continue;
+
+    // Fallback: 3 words -> character
+    if (nameWordsCount === 3) {
       characters.push({ name, count });
     } else {
       otherTerms.push({ name, count });
