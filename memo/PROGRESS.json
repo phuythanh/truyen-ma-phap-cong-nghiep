@@ -4,13 +4,14 @@
   "first_new_chapter_vi": 387,
   "first_new_chapter_zh_file": "0392",
   "last_zh_file": "1280",
-  "last_done_vi": 1189,
-  "translated_ranges": "387-1189 (lien tuc)",
-  "epub_built": "Ma Phap - Chuong 387-1189.epub",
-  "epub_note": "Da build lai epub toi 1189.",
+  "last_done_vi": 1199,
+  "translated_ranges": "387-1199 (lien tuc), 1205-1209 (le)",
+  "epub_built": "Ma Phap - Chuong 387-1194.epub",
+  "epub_note": "Da build lai epub toi 1194.",
   "failed": [],
   "glossary_pending": [],
   "next_action": "Chay tiep",
+  "batch_1195_1199_note": "2026-07-23: Da dich 5 chuong 1195-1199 (zh 1200-1204). QA gate 5/5 pass sach: CJK=0. Cot truyen: Tan Phi rut lui toan dien khoi Mana khien quoc gia nay lam vao kho khan. Mana va Ensfalan xay ra tranh chap bien gioi, Mana thua tran do gap cac su co nghiem trong ve hau can va nguyen lieu (bi Elf va nguoi lun cam van). Hiep hoi Phap su/Mana qua Hong Van cau vien Tan Phi nhung Hua Dich tu choi vi muon lay day lam guong. Tan Phi dang hoan thien cong nghe 'dau dan phan hach hat nhan ma phap' o mot thung lung bi mat, chuan bi thu nghiem tren dao hoang. Hua Dich giang giai ve ban chat ma phap va ma hach.",
   "review_notes": [
     "387-389: đã đồng bộ thuật ngữ ngày 2026-07-08.",
     "390-399 (Haiku 4.5): 2 agent x 5. Vá chữ Trung sót, chuẩn hóa Evita/Akali. +10 tên GLOSSARY.",
@@ -20,6 +21,7 @@
     "CANH BAO QA (2026-07-14): agent (ke ca Sonnet) lau lau bi LAP DOAN VAN (dich trung 1 doan 2 lan). Ratio bytes/so doan co the van 'dep' vi doan lap bu cho doan thieu cho khac -> KHONG chi tin ratio tong. Can quet them: so cau dau cac doan lien tiep trong cung file de bat trung lap, xem chi tiet memo/TRANSLATE_PROMPT.md."
   ],
   "output_epub": "Ma Phap Cong Nghiep De Quoc_v2.epub",
+  "batch_1205_1209_note": "2026-07-23: Da dich 5 chuong 1205-1209 (zh 1210-1214). QA gate 5/5 pass sach: CJK=0. Cot truyen: Hua Dich thuyet phuc Akali va Truong lao Wendini di thiet lap nghien cuu sau hon ve cac di tich cua Ma toc Vuc Tham tai dao Khong Gian. Sau do anh sang lam viec tai can cu phia dong Dai luc Ma Van, bat dau trien khai mang luoi duong sat dau tien va to chuc le khai hoang ruong dat de thu hut cac di toc ban dia hop tac. Hua Dich gap go 3 dai bieu cua bo lac nguoi ban dia Hoa Long, trong do co chang trai Gamo thong minh biet tieng pho thong Saiens, va bo nhiem Gamo lam co van dac biet de thuan loi khai pha.",
   "batch_1142_1146_note": "2026-07-22: Da dich 5 chuong 1142-1146 (zh 1147-1151). QA gate 5/5 pass sach: CJK=0. Cot truyen: Hua Dich thuyet trinh ve ban chat ma phap theo huong song va hat cho cac Ma dao su hai nuoc, sau do cho ban thu nghiem phao chum sang phan ra hat ma phap lam dut doi day nui Tangula lam chan dong quan doi. Hai nuoc ky hop dong dinh chien, nuoc Frank, Sack va toc Delo diet vong, Lanpari va Delac cat cu phan chia dat dai mo rong dien tich. Tan Phi bat dau cong khai chuyen nhuong cong nghe che tao may moc ma thuat va may cong cong ma luc kiem hon 260 trieu dong vang.",
   "batch_1147_1151_note": "2026-07-22: Da dich 5 chuong 1147-1151 (zh 1152-1156). QA gate 5/5 pass: CJK=0. Cot truyen: Cong bo Cong uoc Hoa binh Phap su, cam phap su tham gia chien tranh. Tan Phi vien tro may moc ma luc nong nghiep va mo 500 hoc vien ky nang. Kendra cau vien Tan Phi giup thu phuc tinh phia Nam (Windsor dau hang). Hua Dich to chuc hop bao ca nhan tai Bontar gay ra con sot nguoi ham mo.",
   "batch_1152_1156_note": "2026-07-22: Da dich 5 chuong 1152-1156 (zh 1157-1161). QA gate 5/5 pass sach: CJK=0. Cot truyen: Hua Dich to chuc hop bao ca nhan tai Bontar de ky niem 23 nam thanh lap Tan Phi. Anh dung ma phap chieu anh ao va phan phoi thiet bi ma luc de giai quyet on ao cua nguoi dan vi qua dong. Trong buoi hop bao, anh trinh bay quan diem khoa hoc ma phap, khinh thuong ly thuyet ma phap truyen thong loi thoi va cong bo ke hoach dong tau di vong quanh the gioi chung minh trai dat hinh cau.",
@@ -75,5 +77,6 @@
   "batch_1167_1172_note": "2026-07-22: Da dich 6 chuong 1167-1172 (zh 1172-1177). Cot truyen: Nhom Lucian duoc tha ve Doral. Tieu Cong tuoc Windsor dat hang thiet bi giam sat ma luc tu Tan Nguyet. Lucian den Cang Tan Phi tuyen dung va gap lai co gai tinh linh he khong gian.",
   "batch_1173_1178_note": "2026-07-22: Da dich 6 chuong 1173-1178 (zh 1178-1183). Cot truyen: Freya gap lai Linoia va tro ve gap cha me. Linoia cau hon Hua Dich nhung bi tu choi. Huyen thoai ve cac toc Elf va ke hoach thap tin hieu ma luc.",
   "batch_1179_1184_note": "2026-07-22: Da dich 6 chuong 1179-1184 (zh 1184-1189). Cot truyen: Nu vuong Cervini tranh mat Hua Dich, Raymond dai dien lien lac. Vuong quoc Kulanyi bao loan do Lefalu khoi xuong, Hua Dich nhanh chong dan ap va thiet lap he thong cong nghiep ma phap chi phoi toan quoc. Kendra (Debor XVII va Galbut) lo ngai ve su thon tinh cua Tan Phi.",
-  "batch_1185_1189_note": "2026-07-22: Da dich 5 chuong 1185-1189 (zh 1190-1194). QA gate 5/5 pass: CJK=0. Cot truyen: Galbut gap Freya tai le ky niem Nha may luyen thep, Freya chia se thong tin nhay cam ve thung lung Troll va Theresa khien ho hoang mang. Hua Dich chi dao du an lam duong xuyen nui Kulanyi, nhan thay cong nghe ma phap dang phat trien dot pha nho tich luy van nam. Djorkaeff do hoi mua cong nghe xe ma luc cong trinh cho Amli, Hua Dich dong y gap Cruz."
+  "batch_1185_1189_note": "2026-07-22: Da dich 5 chuong 1185-1189 (zh 1190-1194). QA gate 5/5 pass: CJK=0. Cot truyen: Galbut gap Freya tai le ky niem Nha may luyen thep, Freya chia se thong tin nhay cam ve thung lung Troll va Theresa khien ho hoang mang. Hua Dich chi dao du an lam duong xuyen nui Kulanyi, nhan thay cong nghe ma phap dang phat trien dot pha nho tich luy van nam. Djorkaeff do hoi mua cong nghe xe ma luc cong trinh cho Amli, Hua Dich dong y gap Cruz.",
+  "batch_1190_1194_note": "2026-07-23: Da dich 5 chuong 1190-1194 (zh 1195-1199). QA gate 5/5 pass sach: CJK=0. Cot truyen: Hua Dich tham gia Hoi nghi nghien cuu ma phap dai luc lan thu 7 tai Sosri. Forest va Gascoigne de xuat khoi phuc binh dinh cap bac. Hua Dich dong y nhung cho rang danh hieu Ma dao su chi la hu danh, khoa hoc thuc tien moi quan trong. Anh tuyen bo chia se toan bo ket qua nghien cuu cua Tan Phi cho gioi phap su. Khi di thi sat can cu san xuat may moc hang nang o song Maya, Hua Dich phat hien su tri tre va hanh vi pha hoai cong nhan co to chuc cua phia Mana (Vanhorn lam ngo). Hua Dich phan no bo ve, phat ton that voi Mana yeu cau dua ra hiep nghi cu the truoc cuoi nam. Dan chung va phap su Mana bieu tinh quy mo lon doi Tan Phi cut khoi dat nuoc. Phong trao tay chay hang Tan Phi bung no khap noi. Cuoi cung, Tan Phi dot ngot tuyen bo rut lui hoan toan khoi Vuong quoc Mana."
 }

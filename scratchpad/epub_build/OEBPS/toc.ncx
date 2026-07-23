@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:27ab8232-c6c1-4cd2-98f5-c41bd0169f19"/>
+    <meta name="dtb:uid" content="urn:uuid:363b7762-1839-407d-b22a-b73bc1e258a2"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1189</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1199</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -4826,6 +4826,66 @@
         <text>Chương 1189: Thương hội Amli cũng xiêu lòng</text>
       </navLabel>
       <content src="Text/C803.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-804" playOrder="804">
+      <navLabel>
+        <text>Chương 1190: Chủ đề chính</text>
+      </navLabel>
+      <content src="Text/C804.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-805" playOrder="805">
+      <navLabel>
+        <text>Chương 1191: Tranh thủ Ma đạo sư</text>
+      </navLabel>
+      <content src="Text/C805.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-806" playOrder="806">
+      <navLabel>
+        <text>Chương 1192: Thái độ mập mờ của Vương quốc Ma pháp Mana</text>
+      </navLabel>
+      <content src="Text/C806.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-807" playOrder="807">
+      <navLabel>
+        <text>Chương 1193: Cha nản lòng sao?</text>
+      </navLabel>
+      <content src="Text/C807.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-808" playOrder="808">
+      <navLabel>
+        <text>Chương 1194: Diễu hành biểu tình</text>
+      </navLabel>
+      <content src="Text/C808.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-809" playOrder="809">
+      <navLabel>
+        <text>Chương 1195: Rút lui toàn diện</text>
+      </navLabel>
+      <content src="Text/C809.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-810" playOrder="810">
+      <navLabel>
+        <text>Chương 1196: Ích kỷ một chút</text>
+      </navLabel>
+      <content src="Text/C810.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-811" playOrder="811">
+      <navLabel>
+        <text>Chương 1197: Vương quốc Ma pháp Mana trong hỗn loạn</text>
+      </navLabel>
+      <content src="Text/C811.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-812" playOrder="812">
+      <navLabel>
+        <text>Chương 1198: Buông tay</text>
+      </navLabel>
+      <content src="Text/C812.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-813" playOrder="813">
+      <navLabel>
+        <text>Chương 1199: Năng lượng ma hạch</text>
+      </navLabel>
+      <content src="Text/C813.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
