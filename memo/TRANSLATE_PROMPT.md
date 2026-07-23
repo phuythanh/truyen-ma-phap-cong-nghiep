@@ -35,6 +35,6 @@
 
 ---
 
-## 📌 4. CHỌN MODEL DỊCH (RECOMENDED)
-- **Phiên chính điều phối (Orchestrator):** Dùng model Flash hoặc Sonnet tùy hạn mức (Gemini 3.5 Flash hoạt động rất tốt cho vai trò quản lý).
-- **Subagent dịch:** Sử dụng các model giá rẻ nhưng có khả năng suy luận tốt (như Gemini 3.5 Flash hoặc Claude Haiku) để tiết kiệm chi phí dịch đại trà.
+## 📌 4. CHỌN MODEL DỊCH
+- **Phiên chính điều phối (Orchestrator):** Sử dụng model Gemini 3.5 Flash để quản lý quy trình (điều phối subagent, chạy script QA, đồng bộ tiến độ, đóng gói EPUB, và commit Git).
+- **Subagent dịch:** Sử dụng model Gemini 3.5 Pro (lựa chọn `pro` trong invoke_subagent) để thực hiện dịch thuật cốt lõi nhằm đảm bảo chất lượng văn phong cao nhất và tính toàn vẹn của ngữ cảnh.
