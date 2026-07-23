@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:6a967c16-a31f-4631-8513-f054300b8fa5"/>
+    <meta name="dtb:uid" content="urn:uuid:5b0ef9b1-2acb-475e-8269-ac49c56d35a9"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1224</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1249</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -5036,6 +5036,156 @@
         <text>Chương 1224: Quỹ công nghệ</text>
       </navLabel>
       <content src="Text/C838.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-839" playOrder="839">
+      <navLabel>
+        <text>Chương 1225: Dùng Điều hòa Ma lực sẽ mất mạng?</text>
+      </navLabel>
+      <content src="Text/C839.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-840" playOrder="840">
+      <navLabel>
+        <text>Chương 1226: Tân Hội trưởng cũng điên cuồng như vậy</text>
+      </navLabel>
+      <content src="Text/C840.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-841" playOrder="841">
+      <navLabel>
+        <text>Chương 1227: Ứng phó khác nhau</text>
+      </navLabel>
+      <content src="Text/C841.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-842" playOrder="842">
+      <navLabel>
+        <text>Chương 1228: Cho ông một sự lựa chọn</text>
+      </navLabel>
+      <content src="Text/C842.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-843" playOrder="843">
+      <navLabel>
+        <text>Chương 1229: Tiêu chuẩn mới</text>
+      </navLabel>
+      <content src="Text/C843.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-844" playOrder="844">
+      <navLabel>
+        <text>Chương 1230: Đây nhất định là phản loạn!</text>
+      </navLabel>
+      <content src="Text/C844.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-845" playOrder="845">
+      <navLabel>
+        <text>Chương 1231: Hòa giải?</text>
+      </navLabel>
+      <content src="Text/C845.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-846" playOrder="846">
+      <navLabel>
+        <text>Chương 1232: Không có ước mơ thì khác gì con cá muối</text>
+      </navLabel>
+      <content src="Text/C846.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-847" playOrder="847">
+      <navLabel>
+        <text>Chương 1233: Thành quả bùng nổ</text>
+      </navLabel>
+      <content src="Text/C847.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-848" playOrder="848">
+      <navLabel>
+        <text>Chương 1234: Phóng vệ tinh</text>
+      </navLabel>
+      <content src="Text/C848.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-849" playOrder="849">
+      <navLabel>
+        <text>Chương 1235: Tiến vào không gian</text>
+      </navLabel>
+      <content src="Text/C849.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-850" playOrder="850">
+      <navLabel>
+        <text>Chương 1236: Máy tính ma lực</text>
+      </navLabel>
+      <content src="Text/C850.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-851" playOrder="851">
+      <navLabel>
+        <text>Chương 1237: Ma thuật chính là công nghệ hộp đen</text>
+      </navLabel>
+      <content src="Text/C851.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-852" playOrder="852">
+      <navLabel>
+        <text>Chương 1238: Bày tỏ thái độ mà thôi</text>
+      </navLabel>
+      <content src="Text/C852.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-853" playOrder="853">
+      <navLabel>
+        <text>Chương 1239: Đều là con của anh</text>
+      </navLabel>
+      <content src="Text/C853.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-854" playOrder="854">
+      <navLabel>
+        <text>Chương 1240: Thân thể đột phá tầng khí quyển</text>
+      </navLabel>
+      <content src="Text/C854.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-855" playOrder="855">
+      <navLabel>
+        <text>Chương 1241: Để Long tộc làm việc cho mình</text>
+      </navLabel>
+      <content src="Text/C855.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-856" playOrder="856">
+      <navLabel>
+        <text>Chương 1242: Đại lục Saiens bừng bừng sức sống</text>
+      </navLabel>
+      <content src="Text/C856.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-857" playOrder="857">
+      <navLabel>
+        <text>Chương 1243: Đàm phán hòa bình với tộc Gnome</text>
+      </navLabel>
+      <content src="Text/C857.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-858" playOrder="858">
+      <navLabel>
+        <text>Chương 1244: Cần lượng lớn sức lao động</text>
+      </navLabel>
+      <content src="Text/C858.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-859" playOrder="859">
+      <navLabel>
+        <text>Chương 1245: Ma tộc Vực Thẳm sắp trở lại</text>
+      </navLabel>
+      <content src="Text/C859.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-860" playOrder="860">
+      <navLabel>
+        <text>Chương 1246: Trên Mặt Trăng</text>
+      </navLabel>
+      <content src="Text/C860.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-861" playOrder="861">
+      <navLabel>
+        <text>Chương 1247: Long tộc khóc thút thít</text>
+      </navLabel>
+      <content src="Text/C861.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-862" playOrder="862">
+      <navLabel>
+        <text>Chương 1248: Tán ca sự sống</text>
+      </navLabel>
+      <content src="Text/C862.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-863" playOrder="863">
+      <navLabel>
+        <text>Chương 1249: Băng đảng đua xe</text>
+      </navLabel>
+      <content src="Text/C863.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
