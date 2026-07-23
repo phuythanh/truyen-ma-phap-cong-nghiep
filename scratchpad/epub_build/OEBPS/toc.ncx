@@ -2,12 +2,12 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:5b0ef9b1-2acb-475e-8269-ac49c56d35a9"/>
+    <meta name="dtb:uid" content="urn:uuid:357aba96-2648-4dff-9ea3-0787048bd41d"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1249</text></docTitle>
+  <docTitle><text>Ma Phap Cong Nghiep De Quoc - Chuong 387-1254</text></docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
@@ -5186,6 +5186,36 @@
         <text>Chương 1249: Băng đảng đua xe</text>
       </navLabel>
       <content src="Text/C863.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-864" playOrder="864">
+      <navLabel>
+        <text>Chương 1250: Tôi thiếu tiền sao?</text>
+      </navLabel>
+      <content src="Text/C864.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-865" playOrder="865">
+      <navLabel>
+        <text>Chương 1251: Công nhân bạo động</text>
+      </navLabel>
+      <content src="Text/C865.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-866" playOrder="866">
+      <navLabel>
+        <text>Chương 1252: Kế hoạch không gian</text>
+      </navLabel>
+      <content src="Text/C866.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-867" playOrder="867">
+      <navLabel>
+        <text>Chương 1253: Thằng bé là em trai tôi</text>
+      </navLabel>
+      <content src="Text/C867.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-868" playOrder="868">
+      <navLabel>
+        <text>Chương 1254: Chiến loạn</text>
+      </navLabel>
+      <content src="Text/C868.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>

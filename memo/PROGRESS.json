@@ -4,10 +4,10 @@
   "first_new_chapter_vi": 387,
   "first_new_chapter_zh_file": "0392",
   "last_zh_file": "1280",
-  "last_done_vi": 1249,
-  "translated_ranges": "387-1249 (lien tuc)",
-  "epub_built": "Ma Phap - Chuong 387-1249.epub",
-  "epub_note": "Da build lai epub toi 1249.",
+  "last_done_vi": 1254,
+  "translated_ranges": "387-1254 (lien tuc)",
+  "epub_built": "Ma Phap - Chuong 387-1254.epub",
+  "epub_note": "Da build lai epub toi 1254.",
   "failed": [],
   "glossary_pending": [],
   "next_action": "Chay tiep",
@@ -87,5 +87,6 @@
   "batch_1230_1234_note": "2026-07-23: Da dich 5 chuong 1230-1234 (zh 1235-1239). QA gate 5/5 pass sach: CJK=0. Cot truyen: Hua Dich ban thao voi cac lanh dao Kendra (Dai cong tuoc Rostov, Cong tuoc Tim, Nghi truong Infinade) ve viec dieu tra su co dieu hoa tai thi tran Chidanru va tranh chap tai mo quang Baimeng. Dong thoi, Hua Dich he lo du an ten lua day ma luc va ve tinh nhan tao de thiet lap mang luoi truyen thong toan cau moi. Chuyen canh sang Tu tuoc Leslie o phuong nam, anh da chiem linh cac dao va dat ten dai luc moi la Luc dia Levin. Hua Dich cung chuan bi phong ve tinh de do dac va ve ban do Luc dia Ma Van.",
   "batch_1235_1239_note": "2026-07-23: Da dich 5 chuong 1235-1239 (zh 1240-1244). QA gate 5/5 pass sach: CJK=0. Cot truyen: Hua Dich su dung may tinh ma luc the he moi mang ten 'Thien Than' de tinh toan quy dao phong ve tinh. Su co mo Baimeng duoc giai quyet on thoa. Hua Dich gap go Hoang de Klein cua Malo de thao luan ve hop tac khoa hoc cong nghiep. Tram vu tru va du an ve tinh bat dau thu duoc nhung tin hieu hinh anh dau tien tu quy dao.",
   "batch_1240_1244_note": "2026-07-23: Da dich 5 chuong 1240-1244 (zh 1245-1249). QA gate 5/5 pass sach: CJK=0. Cot truyen: Cuoc dam phan giua Tan Phi va cac dai bieu tho dan dai luc Ma Van bao gom Varus (Elf), Mayen Firehammer (Nguoi lun), Covin (Gnome), Mens (Nhan loai) dien ra tai dao Khong Gian. Cac tho dan bay to lo ngai ve su banh truong cua loai nguoi tu dai luc Saiens nhung Hua Dich da thuyet phuc ho bang loi ich kinh te, cong nghe va cam ket ton trong chu quyen.",
-  "batch_1245_1249_note": "2026-07-23: Da dich 5 chuong 1245-1249 (zh 1250-1254). QA gate 5/5 pass sach: CJK=0. Cot truyen: Cassandra quay tro ve tu Mat Trang (ve tinh Ailis) nho kich hoat thanh cong ma phap tran truyen tong co xua cua Ma toc Vuc Tham. Viec nay he lo Ma toc Vuc Tham thuc chat da thuc hien di cu vu tru toan toc sang cac tinh cau khac tu van nam truoc chu khong phai di sang the gioi khac va khong co y dinh quay lai. Tuy nhien, Hua Dich phai hoan viec nghien cuu vi nhan tin Heinze lam trong benh. Hua Dich voi va quay ve Bontar de tien biet Heinze."
+  "batch_1245_1249_note": "2026-07-23: Da dich 5 chuong 1245-1249 (zh 1250-1254). QA gate 5/5 pass sach: CJK=0. Cot truyen: Cassandra quay tro ve tu Mat Trang (ve tinh Ailis) nho kich hoat thanh cong ma phap tran truyen tong co xua cua Ma toc Vuc Tham. Viec nay he lo Ma toc Vuc Tham thuc chat da thuc hien di cu vu tru toan toc sang cac tinh cau khac tu van nam truoc chu khong phai di sang the gioi khac va khong co y dinh quay lai. Tuy nhien, Hua Dich phai hoan viec nghien cuu vi nhan tin Heinze lam trong benh. Hua Dich voi va quay ve Bontar de tien biet Heinze.",
+  "batch_1250_1254_note": "2026-07-23: Da dich 5 chuong 1250-1254 (zh 1255-1259). QA gate 5/5 pass sach: CJK=0. Cot truyen: Tang le Heinze dien ra tai Bontar. Hua Dich gap lai Ria, Ba tuoc Wegan, kham pha them mat trang Alice, Tedas va Cong quoc Rogerdunston."
 }
