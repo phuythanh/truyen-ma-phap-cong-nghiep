@@ -4,7 +4,7 @@
   "git_branch": "huyen-giam-tien-toc",
   "offset_zh_minus_vi": -808,
   "first_new_chapter_vi": 1634,
-  "last_done_vi": 1703,
-  "note": "Cấu hình dịch tiếp từ chương 1634 tiếng Việt (tương ứng chương 826 tiếng Trung: Giải hoặc). Offset = 826 - 1634 = -808.",
-  "next_action": "Dịch chương 1704"
+  "last_done_vi": 1728,
+  "note": "Cấu hình dịch tiếp từ chương 1634 tiếng Việt (tương ứng chương 826 tiếng Trung: Giải hoặc). Offset = 826 - 1634 = -808. Lưu ý: chapters_zh/0914.txt gộp 2 chương do lỗi thu thập dữ liệu (đã dịch tách thành ch.1722 và 1723 tiếng Việt); chapters_zh/0912-0913.txt có tên nhân vật khuyết ký tự trong nguyên văn.",
+  "next_action": "Dịch chương 1729"
 }

@@ -35,3 +35,20 @@
 - **Phí Thanh Nhã:** Nữ nhân tài họ Phí có hảo cảm với Lý gia, được đưa đi tu luyện Thái Dương đạo thống.
 - **Xung Dương Hạt Tinh Bảo Bàn:** Chí bảo giúp tinh luyện và khống chế Minh Dương hỏa quang của Lý Hi Minh.
 - **Lý Giáng Thiên & Lý Chu Vi:** Thế hệ trụ cột Lý thị khẳng định uy danh tại Hoang Dã.
+
+## 📌 TÓM TẮT BỐI CẢNH CẬP NHẬT: CHƯƠNG 1704 - 1728
+
+### 1. Diễn biến cốt truyện chính:
+- **Chiến sự Thang Đao Sơn & Bạch Giang Khê (1704-1716):** Đại chiến bùng nổ tại Thang Đao Sơn giữa liên quân Thái Dương đạo thống/Lý gia và quân Thiết Phất Quốc do Hách Liên Vô Cương, Hách Liên Ngột Mãnh chỉ huy, có sự tham chiến của các Ma Ha Từ Bi Đạo (Già Lư, Đãi Tất, Nô Tư...). Nghiệp Cối (chân nhân Đâu Huyền, Bạch Nghiệp Đô Tiên Đạo) bất ngờ xuất thủ trợ giúp Lý Hi Minh chống lại Hách Liên Vô Cương, dùng thần thông áp chế đối phương. Phí Thanh Dực (tu sĩ Phí gia) bỏ trận đào tẩu tại Tiểu Thất Sơn, sau đó bị bắt, bị Ma tu ăn thịt quá nửa thân thể, cuối cùng bị Lý Chu Vi xử tử vì tội phản bội câu kết Bắc thích — Phí gia bị Thái Dương đạo thống trừng phạt nặng, chỉ có Phí Thanh Nhã và Phí Thanh Y (đã xuất giá) được miễn.
+- **Hậu trường chính trị Nam-Bắc (1709-1713, 1719-1722):** Nghiệp Cối tiết lộ với Lý Hi Minh và Lý Chu Vi về thế lực ẩn giấu đằng sau đạo Hành Chúc (có chân quân ngấm ngầm thao túng cục diện), đồng thời tự bộc lộ dã tâm muốn chứng vị Chân Quân dù thiếu nền tảng đạo thống. Trường Tiêu (tên thật Nhan Kiến Tiêu, đại chân nhân thất tung nhiều năm) tái xuất, cảnh báo nguy cơ xung đột toàn diện với Thái Dương đạo thống nếu Trường Tiêu Môn ra tay.
+- **Tuyến Thuần Nhất Đảo & Đông Hải (1714-1728):** Xuyết Hồng chân nhân (Thuần Nhất Đảo) tham chiến cứu viện Thang Đao Sơn rồi trở về, hội ngộ Trì Bộ Tử (Đại Chân Nhân Thanh Trì) — người vừa lén giết một Liên Mẫn ngoài Đông Hải để bí mật lấy trọng bảo 【Huyền Đam Thái Âm Bạch Nguyệt Quế Chi】 (tức Nguyệt Quế Kim Chi) đổi lấy sự giúp đỡ của Thuần Nhất Đảo trong việc dẫn kiến Bộc Vũ chân nhân ở Bồng Lai. Phù Huyền chân nhân xúc động cực độ khi thấy bảo vật thất truyền này.
+- **Vọng Nguyệt Hồ & gia tộc Lý (1717-1721):** Lý Giáng Thiên, Lý Khuyết Uyển, Lý Giáng Lũng xử lý hậu quả trận Tiểu Thất Sơn, thu dọn tàn cục, an bài binh mã bảo vệ các trận pháp còn lại quanh Vọng Nguyệt Hồ.
+- **Diễn biến khép batch (1724-1728):** Cục diện Nam-Bắc dần ổn định tạm thời sau khi Nghiệp Cối can thiệp; các thế lực (Bột Liệt Vương, Cao gia, Thích tu Nam hạ) tiếp tục sắp đặt quân cờ ở hậu trường, cho thấy xung đột lớn hơn vẫn đang được ủ mưu.
+
+### 2. Các nhân vật & Địa danh/Pháp bảo mới:
+- **Nghiệp Cối:** Chân nhân trẻ Bạch Nghiệp Đô Tiên Đạo, đạo thống Đâu Huyền, có dã tâm chứng Chân Quân, trở thành đồng minh quan trọng cứu Lý Hi Minh tại Thang Đao Sơn.
+- **Hách Liên Vô Cương & Hách Liên Ngột Mãnh:** Trụ cột quân sự nước Thiết Phất, đối thủ chính diện của Lý gia tại Thang Đao Sơn.
+- **Phí Thanh Dực:** Tu sĩ Phí gia phản bội, nguyên nhân khiến Phí gia bị trừng phạt nặng.
+- **Trì Bộ Tử & Huyền Đam Thái Âm Bạch Nguyệt Quế Chi:** Đại Chân Nhân Thanh Trì lấy được trọng bảo thất truyền của Thuần Nhất Đảo bằng thủ đoạn bí mật giết một Liên Mẫn.
+- **Trường Tiêu (Nhan Kiến Tiêu):** Đại chân nhân phương Bắc tái xuất sau nhiều năm mất tích, cảnh báo nguy cơ đại chiến Trường Tiêu Môn với Thái Dương đạo thống.
+- **Lưu ý dữ liệu nguồn:** chapters_zh/0914.txt (tương ứng ch.1722-1723) chứa gộp 2 chương do lỗi thu thập dữ liệu gốc — đã được dịch tách đúng thành 1722.md và 1723.md; chapters_zh/0912.txt-0913.txt có tên nhân vật "李承?" bị khuyết ký tự trong nguyên văn, tạm dịch "Lý Thừa" giữ nguyên phần khuyết.
