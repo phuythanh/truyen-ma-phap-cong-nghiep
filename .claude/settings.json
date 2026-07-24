@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "ask": [
+      "Bash(git push:*)",
+      "Bash(git push)",
+      "PowerShell(git push:*)",
+      "PowerShell(git push)"
+    ],
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Edit",
+      "Write",
+      "MultiEdit",
+      "NotebookEdit",
+      "Bash(git:*)",
+      "Bash(dotnet:*)",
+      "Bash(dotnet ef:*)",
+      "Bash(yarn:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(node:*)",
+      "Bash(cd:*)",
+      "Bash(pwd:*)",
+      "Bash(ls:*)",
+      "Bash(echo:*)",
+      "Bash(grep:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(sed:*)",
+      "Bash(sort:*)",
+      "Bash(wc:*)",
+      "Bash(find:*)",
+      "Bash(awk:*)",
+      "Bash(printf:*)",
+      "Bash(diff:*)",
+      "Bash(pwsh:*)",
+      "PowerShell(git:*)",
+      "PowerShell(dotnet:*)",
+      "PowerShell(dotnet ef:*)",
+      "PowerShell(yarn:*)",
+      "PowerShell(npm:*)",
+      "PowerShell(npx:*)",
+      "PowerShell(node:*)",
+      "PowerShell(Get-Content:*)",
+      "PowerShell(Get-ChildItem:*)",
+      "PowerShell(Select-String:*)",
+      "PowerShell(Select-Xml:*)",
+      "PowerShell(Test-Path:*)",
+      "PowerShell(Write-Output:*)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "bash",
+            "command": "f=$(cat); printf '%s' \"$f\" | grep -qiE '\"file_path\":\"[^\"]*VanBan\\.(Api|UI)[^\"]*\\.(cs|ts|tsx|less)\"' && echo '{\"systemMessage\":\"Code thay doi: nho cap nhat docs/, .claude/CLAUDE.md, docs/changelog.md va tasks/ neu can (xem .claude/commands/docs.md).\"}' || true",
+            "timeout": 15,
+            "statusMessage": "Checking docs sync..."
+          }
+        ]
+      }
+    ]
+  }
+}

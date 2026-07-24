@@ -1,6 +1,7 @@
 {
   "book_title": "Huyền Giám Tiên Tộc",
   "book_file_prefix": "HuyenGiam",
+  "git_branch": "huyen-giam-tien-toc",
   "offset_zh_minus_vi": -808,
   "first_new_chapter_vi": 1634,
   "last_done_vi": 1682,
