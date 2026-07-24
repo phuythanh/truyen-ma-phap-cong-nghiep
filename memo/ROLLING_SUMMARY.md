@@ -21,16 +21,17 @@
 - **Bảo Tượng Lư:** Pháp lô cấp Trúc Cơ/Tử Phủ của Đinh Lan cho mượn để luyện chế linh dược.
 - **Vô Trượng Thủy Hỏa:** Ngọn lửa lam lục mang tính chất tàn phá linh khí mạnh mẽ, dùng đựng trong *Thượng Tương Hồ*.
 
-## 📌 TÓM TẮT BỐI CẢNH CẬP NHẬT: CHƯƠNG 1660 - 1664
+## 📌 TÓM TẮT BỐI CẢNH CẬP NHẬT: CHƯƠNG 1655 - 1679
 
 ### 1. Diễn biến cốt truyện chính:
-- Hòe Hồn Điện có tu sĩ bị sát hại, nghi ngờ do một "ma đồ" mới Trúc Cơ. Bách đạo nhân dẫn quân qua sông đến Hoang dã lục soát.
-- Đô Tiên Đạo bị ma đồ tấn công tổn thất nặng nề, phái Công Tôn Bách Phạm cầu viện Lý gia.
-- Tại Hoang dã, Bách đạo nhân chạm trán Lý Giáng Thiên. Một Quỷ Thi cường đại bất ngờ xuất hiện tấn công Bách đạo nhân.
-- Lý Chu Vi thi triển thần thông, thể hiện sức mạnh vượt trội, chấn nhiếp toàn bộ tu sĩ tại hiện trường. Tiêu Sơ Đình xuất hiện giúp giải tỏa cục diện.
+- **Lục Giang Tiên & Động Thiên (1655-1659):** Lục Giang Tiên hiển hóa động thiên rộng khoảng trăm dặm trong kính, bắt đầu dùng pháp lực uẩn dưỡng mở rộng. Lý Hi Minh chuẩn bị xây dựng Tử Phủ Đại Trận tại đảo mới ở Đông Hải để phòng ngự gia tộc.
+- **Biến động Hoang Dã & Uy thế Lý Chu Vi (1660-1664):** Hòe Hồn Điện truy lùng ma đồ ở Hoang Dã, Đô Tiên Đạo bị ma đồ tấn công tổn thất nặng nề phải cầu viện Lý gia. Tại Hoang Dã, Bách đạo nhân chạm trán Lý Giáng Thiên và bị Quỷ Thi tấn công trọng thương. Lý Chu Vi thi triển thần thông chấn nhiếp quần hùng, cùng Tiêu Sơ Đình ổn định cục diện.
+- **Trì Bộ Tử & Trận chiến Minh Dương (1665-1669):** Trì Bộ Tử tìm kiếm di tích dưới đáy biển sâu (Hỗn Nhất Tiên Bích). Trận chiến kịch tính nổ ra, Lý Hi Minh phối hợp dùng chí bảo 【Xung Dương Hạt Tinh Bảo Bàn】 khống chế và bức lui đối thủ.
+- **Thành lập Đại trận & Bố trí Phí Thanh Nhã (1670-1679):** Trận pháp Tử Phủ bảo hộ đảo được thiết lập thành công dưới sự trợ giúp của Ninh Uyển và Khuê Kỳ, chính thức đặt tên là 【Chiêu Quảng Huyền Tử Linh Trận】. Lý Hi Minh đồng ý đưa Phí Thanh Nhã gia nhập Thái Dương đạo thống để kết giao nhân duyên tương lai, đồng thời giải quyết các lo ngại về gia tộc phù chủng tiên thiên.
 
-### 2. Các nhân vật & Pháp bảo:
-- Bách đạo nhân (Hòe Hồn Điện): Ma tu kiêu ngạo, bị thương nặng bởi Quỷ Thi.
-- Công Tôn Bách Phạm: Tu sĩ Đô Tiên Đạo, bị ma đồ đả thương.
-- Quỷ Thi: Thực thể mạnh mẽ do tu sĩ Tử Phủ điều khiển.
-- Lý Chu Vi: Tiếp tục thể hiện sức chiến đấu kinh người và uy thế của Vọng Nguyệt Hồ.
+### 2. Các nhân vật & Địa danh/Pháp bảo mới:
+- **Chiêu Quảng Huyền Tử Linh Trận:** Đại trận Tử Phủ bảo hộ tân đảo của Lý thị tại Đông Hải.
+- **Ninh Uyển & Khuê Kỳ:** Các đồng đạo trợ giúp Lý Hi Minh xây dựng đại trận.
+- **Phí Thanh Nhã:** Nữ nhân tài họ Phí có hảo cảm với Lý gia, được đưa đi tu luyện Thái Dương đạo thống.
+- **Xung Dương Hạt Tinh Bảo Bàn:** Chí bảo giúp tinh luyện và khống chế Minh Dương hỏa quang của Lý Hi Minh.
+- **Lý Giáng Thiên & Lý Chu Vi:** Thế hệ trụ cột Lý thị khẳng định uy danh tại Hoang Dã.
