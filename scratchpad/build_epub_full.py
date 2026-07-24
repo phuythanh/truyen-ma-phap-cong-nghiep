@@ -77,13 +77,28 @@ def main():
 
     for n in range(first, last + 1):
         idx += 1
-        md_path = os.path.join(OUT_DIR, f"{n:04d}.md")
-        if not os.path.exists(md_path):
+        if n < 387:
+            file_path = os.path.join(ROOT, "chapters_vi", f"{n:04d}.txt")
+            is_vi_folder = True
+        else:
+            file_path = os.path.join(OUT_DIR, f"{n:04d}.md")
+            is_vi_folder = False
+
+        if not os.path.exists(file_path):
             missing.append(n)
             continue
-        with open(md_path, encoding="utf-8") as f:
+        with open(file_path, encoding="utf-8") as f:
             lines = [l.rstrip("\n") for l in f]
-        chap_title = lines[0].strip()
+        
+        if not lines:
+            missing.append(n)
+            continue
+
+        if is_vi_folder:
+            chap_title = f"Chương {n}: {lines[0].strip()}"
+        else:
+            chap_title = lines[0].strip()
+            
         body_lines = [l.strip() for l in lines[1:] if l.strip() != ""]
 
         parts = [
@@ -176,8 +191,8 @@ def main():
                 rel = os.path.relpath(full, WORK).replace(os.sep, "/")
                 zf.write(full, rel, compress_type=zipfile.ZIP_DEFLATED)
 
-    # Don't let stale "Ma Phap - Chuong 387-*.epub" snapshots pile up in the repo.
-    for stale in glob.glob(os.path.join(ROOT, "Ma Phap - Chuong 387-*.epub")):
+    # Don't let stale "Ma Phap - Chuong *.epub" snapshots pile up in the repo.
+    for stale in glob.glob(os.path.join(ROOT, "Ma Phap - Chuong *.epub")):
         if os.path.abspath(stale) != os.path.abspath(out_epub):
             os.remove(stale)
 

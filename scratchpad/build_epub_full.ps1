@@ -1,18 +1,24 @@
-# Build full standalone EPUB from chapters_out/NNNN.md (387..792)
+# Build full standalone EPUB from chapters_out/NNNN.md and chapters_vi/NNNN.txt
 # Reuses assets (stylesheet.css, cover.png, cover.xhtml) from existing epub in project root.
+
+param(
+    [int]$first = 387,
+    [int]$last = 0
+)
 
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $root = Split-Path -Parent $scriptDir
 $outDir = Join-Path $root "chapters_out"
 $work = Join-Path $root "scratchpad\epub_build"
-$first = 387
 
 $progressFile = Join-Path $root "memo\PROGRESS.json"
-if (Test-Path $progressFile) {
-    $progress = Get-Content -Raw -Encoding UTF8 $progressFile | ConvertFrom-Json
-    $last = $progress.last_done_vi
-} else {
-    $last = 1015
+if ($last -eq 0) {
+    if (Test-Path $progressFile) {
+        $progress = Get-Content -Raw -Encoding UTF8 $progressFile | ConvertFrom-Json
+        $last = $progress.last_done_vi
+    } else {
+        $last = 1275
+    }
 }
 
 $title = "Ma Phap Cong Nghiep De Quoc - Chuong $first-$last"
@@ -75,15 +81,36 @@ $idx = 0
 $missing = @()
 for ($n = $first; $n -le $last; $n++) {
     $idx++
-    $mdFile = Join-Path $outDir ("{0:D4}.md" -f $n)
-    if (-not (Test-Path $mdFile)) {
+    if ($n -lt 387) {
+        $filePath = Join-Path $root "chapters_vi\$( '{0:D4}.txt' -f $n )"
+        $isViFolder = $true
+    } else {
+        $filePath = Join-Path $outDir ("{0:D4}.md" -f $n)
+        $isViFolder = $false
+    }
+
+    if (-not (Test-Path $filePath)) {
         $missing += $n
         continue
     }
-    $lines = Get-Content -Encoding UTF8 $mdFile
+    $lines = Get-Content -Encoding UTF8 $filePath
+    if ($lines.Count -eq 0 -or [string]::IsNullOrWhiteSpace($lines[0])) {
+        $missing += $n
+        continue
+    }
     $titleLine = $lines[0].Trim()
-    $chapTitle = $titleLine
-    $bodyLines = $lines[1..($lines.Count - 1)] | Where-Object { $_.Trim() -ne "" }
+    
+    if ($isViFolder) {
+        $chapTitle = "Chương ${n}: $titleLine"
+    } else {
+        $chapTitle = $titleLine
+    }
+    
+    if ($lines.Count -gt 1) {
+        $bodyLines = $lines[1..($lines.Count - 1)] | Where-Object { $_.Trim() -ne "" }
+    } else {
+        $bodyLines = @()
+    }
 
     $sb = New-Object System.Text.StringBuilder
     [void]$sb.Append("<?xml version=`"1.0`" encoding=`"utf-8`"?>`n")
