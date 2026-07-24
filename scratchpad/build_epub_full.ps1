@@ -77,6 +77,7 @@ $manifestItems = New-Object System.Collections.Generic.List[string]
 $spineItems = New-Object System.Collections.Generic.List[string]
 $navPoints = New-Object System.Collections.Generic.List[string]
 
+$chuongText = "$([char]67)$([char]104)$([char]432)$([char]417)ng"
 $idx = 0
 $missing = @()
 for ($n = $first; $n -le $last; $n++) {
@@ -101,7 +102,7 @@ for ($n = $first; $n -le $last; $n++) {
     $titleLine = $lines[0].Trim()
     
     if ($isViFolder) {
-        $chapTitle = "Chương ${n}: $titleLine"
+        $chapTitle = "$chuongText ${n}: $titleLine"
     } else {
         $chapTitle = $titleLine
     }

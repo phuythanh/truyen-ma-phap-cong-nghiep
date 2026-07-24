@@ -2,7 +2,7 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:b4798555-2009-4ecb-a8ca-d3c5faa187f1"/>
+    <meta name="dtb:uid" content="urn:uuid:4c5648c3-4e1f-4142-81be-d10b55ce0298"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -11,2317 +11,2317 @@
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
-        <text>ChÆ°Æ¡ng 1: Đi xin việc</text>
+        <text>Chương 1: Đi xin việc</text>
       </navLabel>
       <content src="Text/C1.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-2" playOrder="2">
       <navLabel>
-        <text>ChÆ°Æ¡ng 2: Giá mà có cái quạt điện</text>
+        <text>Chương 2: Giá mà có cái quạt điện</text>
       </navLabel>
       <content src="Text/C2.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-3" playOrder="3">
       <navLabel>
-        <text>ChÆ°Æ¡ng 3: Quạt ma thuật</text>
+        <text>Chương 3: Quạt ma thuật</text>
       </navLabel>
       <content src="Text/C3.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-4" playOrder="4">
       <navLabel>
-        <text>ChÆ°Æ¡ng 4: Bán hàng</text>
+        <text>Chương 4: Bán hàng</text>
       </navLabel>
       <content src="Text/C4.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
-        <text>ChÆ°Æ¡ng 5: Sản xuất hàng loạt</text>
+        <text>Chương 5: Sản xuất hàng loạt</text>
       </navLabel>
       <content src="Text/C5.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-6" playOrder="6">
       <navLabel>
-        <text>ChÆ°Æ¡ng 6: Cơn sốt mua sắm</text>
+        <text>Chương 6: Cơn sốt mua sắm</text>
       </navLabel>
       <content src="Text/C6.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
-        <text>ChÆ°Æ¡ng 7: Khởi đầu từ con số không</text>
+        <text>Chương 7: Khởi đầu từ con số không</text>
       </navLabel>
       <content src="Text/C7.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-8" playOrder="8">
       <navLabel>
-        <text>ChÆ°Æ¡ng 8: Triệu kiến của Đại Pháp Sư</text>
+        <text>Chương 8: Triệu kiến của Đại Pháp Sư</text>
       </navLabel>
       <content src="Text/C8.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-9" playOrder="9">
       <navLabel>
-        <text>ChÆ°Æ¡ng 9: Mục tiêu vĩ đại</text>
+        <text>Chương 9: Mục tiêu vĩ đại</text>
       </navLabel>
       <content src="Text/C9.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-10" playOrder="10">
       <navLabel>
-        <text>ChÆ°Æ¡ng 10: Thuê đất</text>
+        <text>Chương 10: Thuê đất</text>
       </navLabel>
       <content src="Text/C10.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-11" playOrder="11">
       <navLabel>
-        <text>ChÆ°Æ¡ng 11: Mua một Nô lệ</text>
+        <text>Chương 11: Mua một Nô lệ</text>
       </navLabel>
       <content src="Text/C11.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-12" playOrder="12">
       <navLabel>
-        <text>ChÆ°Æ¡ng 12: Quạt ma thuật có thể điều chỉnh tốc độ</text>
+        <text>Chương 12: Quạt ma thuật có thể điều chỉnh tốc độ</text>
       </navLabel>
       <content src="Text/C12.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-13" playOrder="13">
       <navLabel>
-        <text>ChÆ°Æ¡ng 13: Vấn đề của việc sản xuất hàng loạt</text>
+        <text>Chương 13: Vấn đề của việc sản xuất hàng loạt</text>
       </navLabel>
       <content src="Text/C13.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-14" playOrder="14">
       <navLabel>
-        <text>ChÆ°Æ¡ng 14: Mười vạn chiếc Vít</text>
+        <text>Chương 14: Mười vạn chiếc Vít</text>
       </navLabel>
       <content src="Text/C14.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-15" playOrder="15">
       <navLabel>
-        <text>ChÆ°Æ¡ng 15: Mỗi người một chí hướng</text>
+        <text>Chương 15: Mỗi người một chí hướng</text>
       </navLabel>
       <content src="Text/C15.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-16" playOrder="16">
       <navLabel>
-        <text>ChÆ°Æ¡ng 16: Thương hiệu</text>
+        <text>Chương 16: Thương hiệu</text>
       </navLabel>
       <content src="Text/C16.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-17" playOrder="17">
       <navLabel>
-        <text>ChÆ°Æ¡ng 17: Sửa chữa miễn phí</text>
+        <text>Chương 17: Sửa chữa miễn phí</text>
       </navLabel>
       <content src="Text/C17.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-18" playOrder="18">
       <navLabel>
-        <text>ChÆ°Æ¡ng 18: Bu lông ra đời</text>
+        <text>Chương 18: Bu lông ra đời</text>
       </navLabel>
       <content src="Text/C18.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-19" playOrder="19">
       <navLabel>
-        <text>ChÆ°Æ¡ng 19: Lời mời</text>
+        <text>Chương 19: Lời mời</text>
       </navLabel>
       <content src="Text/C19.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-20" playOrder="20">
       <navLabel>
-        <text>ChÆ°Æ¡ng 20: Vivian</text>
+        <text>Chương 20: Vivian</text>
       </navLabel>
       <content src="Text/C20.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-21" playOrder="21">
       <navLabel>
-        <text>ChÆ°Æ¡ng 21: Phần thưởng bằng tiền mặt</text>
+        <text>Chương 21: Phần thưởng bằng tiền mặt</text>
       </navLabel>
       <content src="Text/C21.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-22" playOrder="22">
       <navLabel>
-        <text>ChÆ°Æ¡ng 22: Khách quý</text>
+        <text>Chương 22: Khách quý</text>
       </navLabel>
       <content src="Text/C22.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-23" playOrder="23">
       <navLabel>
-        <text>ChÆ°Æ¡ng 23: Hợp tác</text>
+        <text>Chương 23: Hợp tác</text>
       </navLabel>
       <content src="Text/C23.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-24" playOrder="24">
       <navLabel>
-        <text>ChÆ°Æ¡ng 24: Đàn ông cũng biết ghen tuông</text>
+        <text>Chương 24: Đàn ông cũng biết ghen tuông</text>
       </navLabel>
       <content src="Text/C24.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-25" playOrder="25">
       <navLabel>
-        <text>ChÆ°Æ¡ng 25: Máy thử nghiệm</text>
+        <text>Chương 25: Máy thử nghiệm</text>
       </navLabel>
       <content src="Text/C25.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-26" playOrder="26">
       <navLabel>
-        <text>ChÆ°Æ¡ng 26: Thép hợp kim</text>
+        <text>Chương 26: Thép hợp kim</text>
       </navLabel>
       <content src="Text/C26.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-27" playOrder="27">
       <navLabel>
-        <text>ChÆ°Æ¡ng 27: Tôi chỉ là một đứa trẻ con</text>
+        <text>Chương 27: Tôi chỉ là một đứa trẻ con</text>
       </navLabel>
       <content src="Text/C27.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-28" playOrder="28">
       <navLabel>
-        <text>ChÆ°Æ¡ng 28: Người đàn ông trung niên</text>
+        <text>Chương 28: Người đàn ông trung niên</text>
       </navLabel>
       <content src="Text/C28.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-29" playOrder="29">
       <navLabel>
-        <text>ChÆ°Æ¡ng 29: Nhu cầu nhân lực</text>
+        <text>Chương 29: Nhu cầu nhân lực</text>
       </navLabel>
       <content src="Text/C29.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-30" playOrder="30">
       <navLabel>
-        <text>ChÆ°Æ¡ng 30: Xưởng trưởng và trợ lý xưởng trưởng</text>
+        <text>Chương 30: Xưởng trưởng và trợ lý xưởng trưởng</text>
       </navLabel>
       <content src="Text/C30.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-31" playOrder="31">
       <navLabel>
-        <text>ChÆ°Æ¡ng 31: Người Đại Diện</text>
+        <text>Chương 31: Người Đại Diện</text>
       </navLabel>
       <content src="Text/C31.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-32" playOrder="32">
       <navLabel>
-        <text>ChÆ°Æ¡ng 32: Lợi thế năng lượng</text>
+        <text>Chương 32: Lợi thế năng lượng</text>
       </navLabel>
       <content src="Text/C32.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-33" playOrder="33">
       <navLabel>
-        <text>ChÆ°Æ¡ng 33: Ý nghĩa của việc nghiên cứu đầu tư</text>
+        <text>Chương 33: Ý nghĩa của việc nghiên cứu đầu tư</text>
       </navLabel>
       <content src="Text/C33.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-34" playOrder="34">
       <navLabel>
-        <text>ChÆ°Æ¡ng 34: Mỹ Nhân Như Họa</text>
+        <text>Chương 34: Mỹ Nhân Như Họa</text>
       </navLabel>
       <content src="Text/C34.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-35" playOrder="35">
       <navLabel>
-        <text>ChÆ°Æ¡ng 35: Bàn về hợp tác</text>
+        <text>Chương 35: Bàn về hợp tác</text>
       </navLabel>
       <content src="Text/C35.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-36" playOrder="36">
       <navLabel>
-        <text>ChÆ°Æ¡ng 36: Thương hội hàng đầu tạo ra tiêu chuẩn</text>
+        <text>Chương 36: Thương hội hàng đầu tạo ra tiêu chuẩn</text>
       </navLabel>
       <content src="Text/C36.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-37" playOrder="37">
       <navLabel>
-        <text>ChÆ°Æ¡ng 37: Định vị sản phẩm trung và cao cấp</text>
+        <text>Chương 37: Định vị sản phẩm trung và cao cấp</text>
       </navLabel>
       <content src="Text/C37.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-38" playOrder="38">
       <navLabel>
-        <text>ChÆ°Æ¡ng 38: Yến tiệc</text>
+        <text>Chương 38: Yến tiệc</text>
       </navLabel>
       <content src="Text/C38.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-39" playOrder="39">
       <navLabel>
-        <text>ChÆ°Æ¡ng 39: Máy móc nông nghiệp</text>
+        <text>Chương 39: Máy móc nông nghiệp</text>
       </navLabel>
       <content src="Text/C39.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-40" playOrder="40">
       <navLabel>
-        <text>ChÆ°Æ¡ng 40: Hội trưởng Hứa Dịch Kỳ Lạ</text>
+        <text>Chương 40: Hội trưởng Hứa Dịch Kỳ Lạ</text>
       </navLabel>
       <content src="Text/C40.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-41" playOrder="41">
       <navLabel>
-        <text>ChÆ°Æ¡ng 41: Bài kiểm tra phỏng vấn</text>
+        <text>Chương 41: Bài kiểm tra phỏng vấn</text>
       </navLabel>
       <content src="Text/C41.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-42" playOrder="42">
       <navLabel>
-        <text>ChÆ°Æ¡ng 42: Hạn chế về nguyên liệu</text>
+        <text>Chương 42: Hạn chế về nguyên liệu</text>
       </navLabel>
       <content src="Text/C42.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-43" playOrder="43">
       <navLabel>
-        <text>ChÆ°Æ¡ng 43: Ngày Lĩnh Lương</text>
+        <text>Chương 43: Ngày Lĩnh Lương</text>
       </navLabel>
       <content src="Text/C43.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-44" playOrder="44">
       <navLabel>
-        <text>ChÆ°Æ¡ng 44: Đổi sang một sản phẩm mới</text>
+        <text>Chương 44: Đổi sang một sản phẩm mới</text>
       </navLabel>
       <content src="Text/C44.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-45" playOrder="45">
       <navLabel>
-        <text>ChÆ°Æ¡ng 45: Nhà nghiên cứu của Viện nghiên cứu</text>
+        <text>Chương 45: Nhà nghiên cứu của Viện nghiên cứu</text>
       </navLabel>
       <content src="Text/C45.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-46" playOrder="46">
       <navLabel>
-        <text>ChÆ°Æ¡ng 46: Sự ra đời của Máy gặt Ma thuật</text>
+        <text>Chương 46: Sự ra đời của Máy gặt Ma thuật</text>
       </navLabel>
       <content src="Text/C46.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-47" playOrder="47">
       <navLabel>
-        <text>ChÆ°Æ¡ng 47: Xưởng sản xuất Máy móc Ma thuật Gia dụng</text>
+        <text>Chương 47: Xưởng sản xuất Máy móc Ma thuật Gia dụng</text>
       </navLabel>
       <content src="Text/C47.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-48" playOrder="48">
       <navLabel>
-        <text>ChÆ°Æ¡ng 48: Nồi cơm Ma thuật</text>
+        <text>Chương 48: Nồi cơm Ma thuật</text>
       </navLabel>
       <content src="Text/C48.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-49" playOrder="49">
       <navLabel>
-        <text>ChÆ°Æ¡ng 49: Lòng người bối rối</text>
+        <text>Chương 49: Lòng người bối rối</text>
       </navLabel>
       <content src="Text/C49.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-50" playOrder="50">
       <navLabel>
-        <text>ChÆ°Æ¡ng 50: Vị Đại Pháp Sư Nghèo Khó</text>
+        <text>Chương 50: Vị Đại Pháp Sư Nghèo Khó</text>
       </navLabel>
       <content src="Text/C50.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-51" playOrder="51">
       <navLabel>
-        <text>ChÆ°Æ¡ng 51: Pháp sư và địa vị của thương nhân</text>
+        <text>Chương 51: Pháp sư và địa vị của thương nhân</text>
       </navLabel>
       <content src="Text/C51.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-52" playOrder="52">
       <navLabel>
-        <text>ChÆ°Æ¡ng 52: Chuyển biến tư duy</text>
+        <text>Chương 52: Chuyển biến tư duy</text>
       </navLabel>
       <content src="Text/C52.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-53" playOrder="53">
       <navLabel>
-        <text>ChÆ°Æ¡ng 53: Tuyển dụng công nhân</text>
+        <text>Chương 53: Tuyển dụng công nhân</text>
       </navLabel>
       <content src="Text/C53.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-54" playOrder="54">
       <navLabel>
-        <text>ChÆ°Æ¡ng 54: Sản phẩm nhái thế hệ thứ hai</text>
+        <text>Chương 54: Sản phẩm nhái thế hệ thứ hai</text>
       </navLabel>
       <content src="Text/C54.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-55" playOrder="55">
       <navLabel>
-        <text>ChÆ°Æ¡ng 55: Chênh lệch chất lượng</text>
+        <text>Chương 55: Chênh lệch chất lượng</text>
       </navLabel>
       <content src="Text/C55.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-56" playOrder="56">
       <navLabel>
-        <text>ChÆ°Æ¡ng 56: Hi vọng</text>
+        <text>Chương 56: Hi vọng</text>
       </navLabel>
       <content src="Text/C56.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-57" playOrder="57">
       <navLabel>
-        <text>ChÆ°Æ¡ng 57: Quảng cáo mới</text>
+        <text>Chương 57: Quảng cáo mới</text>
       </navLabel>
       <content src="Text/C57.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-58" playOrder="58">
       <navLabel>
-        <text>ChÆ°Æ¡ng 58: Cuộc thi ăn</text>
+        <text>Chương 58: Cuộc thi ăn</text>
       </navLabel>
       <content src="Text/C58.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-59" playOrder="59">
       <navLabel>
-        <text>ChÆ°Æ¡ng 59: Giải phóng sức sản xuất</text>
+        <text>Chương 59: Giải phóng sức sản xuất</text>
       </navLabel>
       <content src="Text/C59.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-60" playOrder="60">
       <navLabel>
-        <text>ChÆ°Æ¡ng 60: Máy Cày Ma Thuật</text>
+        <text>Chương 60: Máy Cày Ma Thuật</text>
       </navLabel>
       <content src="Text/C60.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-61" playOrder="61">
       <navLabel>
-        <text>ChÆ°Æ¡ng 61: Paparazzi</text>
+        <text>Chương 61: Paparazzi</text>
       </navLabel>
       <content src="Text/C61.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-62" playOrder="62">
       <navLabel>
-        <text>ChÆ°Æ¡ng 62: Nhật báo Bontar</text>
+        <text>Chương 62: Nhật báo Bontar</text>
       </navLabel>
       <content src="Text/C62.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-63" playOrder="63">
       <navLabel>
-        <text>ChÆ°Æ¡ng 63: Tiệc tối tại Phủ Thành chủ</text>
+        <text>Chương 63: Tiệc tối tại Phủ Thành chủ</text>
       </navLabel>
       <content src="Text/C63.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-64" playOrder="64">
       <navLabel>
-        <text>ChÆ°Æ¡ng 64: Cuộc gặp gỡ</text>
+        <text>Chương 64: Cuộc gặp gỡ</text>
       </navLabel>
       <content src="Text/C64.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-65" playOrder="65">
       <navLabel>
-        <text>ChÆ°Æ¡ng 65: Tài năng của Vivian</text>
+        <text>Chương 65: Tài năng của Vivian</text>
       </navLabel>
       <content src="Text/C65.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-66" playOrder="66">
       <navLabel>
-        <text>ChÆ°Æ¡ng 66: Buổi học đầu tiên</text>
+        <text>Chương 66: Buổi học đầu tiên</text>
       </navLabel>
       <content src="Text/C66.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-67" playOrder="67">
       <navLabel>
-        <text>ChÆ°Æ¡ng 67: Gieo một hạt giống</text>
+        <text>Chương 67: Gieo một hạt giống</text>
       </navLabel>
       <content src="Text/C67.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-68" playOrder="68">
       <navLabel>
-        <text>ChÆ°Æ¡ng 68: Nếu cậu là Đại Ma Đạo Sư</text>
+        <text>Chương 68: Nếu cậu là Đại Ma Đạo Sư</text>
       </navLabel>
       <content src="Text/C68.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-69" playOrder="69">
       <navLabel>
-        <text>ChÆ°Æ¡ng 69: Miễn giảm thuế</text>
+        <text>Chương 69: Miễn giảm thuế</text>
       </navLabel>
       <content src="Text/C69.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-70" playOrder="70">
       <navLabel>
-        <text>ChÆ°Æ¡ng 70: Hợp kim mới</text>
+        <text>Chương 70: Hợp kim mới</text>
       </navLabel>
       <content src="Text/C70.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-71" playOrder="71">
       <navLabel>
-        <text>ChÆ°Æ¡ng 71: Cậu muốn tạo phản sao?</text>
+        <text>Chương 71: Cậu muốn tạo phản sao?</text>
       </navLabel>
       <content src="Text/C71.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-72" playOrder="72">
       <navLabel>
-        <text>ChÆ°Æ¡ng 72: Bộ lạc Angola</text>
+        <text>Chương 72: Bộ lạc Angola</text>
       </navLabel>
       <content src="Text/C72.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-73" playOrder="73">
       <navLabel>
-        <text>ChÆ°Æ¡ng 73: Thăm dò mạch khoáng sản</text>
+        <text>Chương 73: Thăm dò mạch khoáng sản</text>
       </navLabel>
       <content src="Text/C73.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-74" playOrder="74">
       <navLabel>
-        <text>ChÆ°Æ¡ng 74: Nữ Elf</text>
+        <text>Chương 74: Nữ Elf</text>
       </navLabel>
       <content src="Text/C74.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-75" playOrder="75">
       <navLabel>
-        <text>ChÆ°Æ¡ng 75: Thiệp mời của Liên minh Thương mại</text>
+        <text>Chương 75: Thiệp mời của Liên minh Thương mại</text>
       </navLabel>
       <content src="Text/C75.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-76" playOrder="76">
       <navLabel>
-        <text>ChÆ°Æ¡ng 76: Đèn Tinh thể Ma thuật</text>
+        <text>Chương 76: Đèn Tinh thể Ma thuật</text>
       </navLabel>
       <content src="Text/C76.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-77" playOrder="77">
       <navLabel>
-        <text>ChÆ°Æ¡ng 77: Chuyển nhượng nô lệ</text>
+        <text>Chương 77: Chuyển nhượng nô lệ</text>
       </navLabel>
       <content src="Text/C77.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-78" playOrder="78">
       <navLabel>
-        <text>ChÆ°Æ¡ng 78: Yến tiệc</text>
+        <text>Chương 78: Yến tiệc</text>
       </navLabel>
       <content src="Text/C78.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-79" playOrder="79">
       <navLabel>
-        <text>ChÆ°Æ¡ng 79: Chúng ta là bạn bè sao?</text>
+        <text>Chương 79: Chúng ta là bạn bè sao?</text>
       </navLabel>
       <content src="Text/C79.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-80" playOrder="80">
       <navLabel>
-        <text>ChÆ°Æ¡ng 80: Trơ trẽn</text>
+        <text>Chương 80: Trơ trẽn</text>
       </navLabel>
       <content src="Text/C80.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-81" playOrder="81">
       <navLabel>
-        <text>ChÆ°Æ¡ng 81: Hay là em gả cho anh nhé?</text>
+        <text>Chương 81: Hay là em gả cho anh nhé?</text>
       </navLabel>
       <content src="Text/C81.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-82" playOrder="82">
       <navLabel>
-        <text>ChÆ°Æ¡ng 82: Vị khách kỳ lạ</text>
+        <text>Chương 82: Vị khách kỳ lạ</text>
       </navLabel>
       <content src="Text/C82.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-83" playOrder="83">
       <navLabel>
-        <text>ChÆ°Æ¡ng 83: Tham vọng của Hainas</text>
+        <text>Chương 83: Tham vọng của Hainas</text>
       </navLabel>
       <content src="Text/C83.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-84" playOrder="84">
       <navLabel>
-        <text>ChÆ°Æ¡ng 84: Quyết định</text>
+        <text>Chương 84: Quyết định</text>
       </navLabel>
       <content src="Text/C84.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-85" playOrder="85">
       <navLabel>
-        <text>ChÆ°Æ¡ng 85: Cỏ huỳnh quang</text>
+        <text>Chương 85: Cỏ huỳnh quang</text>
       </navLabel>
       <content src="Text/C85.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-86" playOrder="86">
       <navLabel>
-        <text>ChÆ°Æ¡ng 86: Hay là hắn thích đàn ông?</text>
+        <text>Chương 86: Hay là hắn thích đàn ông?</text>
       </navLabel>
       <content src="Text/C86.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-87" playOrder="87">
       <navLabel>
-        <text>ChÆ°Æ¡ng 87: Nỗi đau của Vina</text>
+        <text>Chương 87: Nỗi đau của Vina</text>
       </navLabel>
       <content src="Text/C87.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-88" playOrder="88">
       <navLabel>
-        <text>ChÆ°Æ¡ng 88: Thỏa thuận bảo mật</text>
+        <text>Chương 88: Thỏa thuận bảo mật</text>
       </navLabel>
       <content src="Text/C88.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-89" playOrder="89">
       <navLabel>
-        <text>ChÆ°Æ¡ng 89: Chủ nhân, cứu tôi với!</text>
+        <text>Chương 89: Chủ nhân, cứu tôi với!</text>
       </navLabel>
       <content src="Text/C89.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-90" playOrder="90">
       <navLabel>
-        <text>ChÆ°Æ¡ng 90: Quỹ hỗ trợ học tập</text>
+        <text>Chương 90: Quỹ hỗ trợ học tập</text>
       </navLabel>
       <content src="Text/C90.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-91" playOrder="91">
       <navLabel>
-        <text>ChÆ°Æ¡ng 91: Giá như ta có một lãnh địa</text>
+        <text>Chương 91: Giá như ta có một lãnh địa</text>
       </navLabel>
       <content src="Text/C91.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-92" playOrder="92">
       <navLabel>
-        <text>ChÆ°Æ¡ng 92: Nâng cao hiệu suất</text>
+        <text>Chương 92: Nâng cao hiệu suất</text>
       </navLabel>
       <content src="Text/C92.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-93" playOrder="93">
       <navLabel>
-        <text>ChÆ°Æ¡ng 93: Ngài Tử tước oai phong lẫm liệt</text>
+        <text>Chương 93: Ngài Tử tước oai phong lẫm liệt</text>
       </navLabel>
       <content src="Text/C93.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-94" playOrder="94">
       <navLabel>
-        <text>ChÆ°Æ¡ng 94: Đăng ký</text>
+        <text>Chương 94: Đăng ký</text>
       </navLabel>
       <content src="Text/C94.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-95" playOrder="95">
       <navLabel>
-        <text>ChÆ°Æ¡ng 95: Tuyển dụng</text>
+        <text>Chương 95: Tuyển dụng</text>
       </navLabel>
       <content src="Text/C95.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-96" playOrder="96">
       <navLabel>
-        <text>ChÆ°Æ¡ng 96: Bạn học cũ</text>
+        <text>Chương 96: Bạn học cũ</text>
       </navLabel>
       <content src="Text/C96.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-97" playOrder="97">
       <navLabel>
-        <text>ChÆ°Æ¡ng 97: Cơ quan Nông nghiệp kiêu ngạo</text>
+        <text>Chương 97: Cơ quan Nông nghiệp kiêu ngạo</text>
       </navLabel>
       <content src="Text/C97.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-98" playOrder="98">
       <navLabel>
-        <text>ChÆ°Æ¡ng 98: Pháp trận có thể lập trình</text>
+        <text>Chương 98: Pháp trận có thể lập trình</text>
       </navLabel>
       <content src="Text/C98.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-99" playOrder="99">
       <navLabel>
-        <text>ChÆ°Æ¡ng 99: Cuộc sống của thiếu gia quý tộc cũng chẳng dễ dàng gì</text>
+        <text>Chương 99: Cuộc sống của thiếu gia quý tộc cũng chẳng dễ dàng gì</text>
       </navLabel>
       <content src="Text/C99.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-100" playOrder="100">
       <navLabel>
-        <text>ChÆ°Æ¡ng 100: Cơ quan Nông nghiệp lại phái người đến</text>
+        <text>Chương 100: Cơ quan Nông nghiệp lại phái người đến</text>
       </navLabel>
       <content src="Text/C100.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-101" playOrder="101">
       <navLabel>
-        <text>ChÆ°Æ¡ng 101: Đầu tư</text>
+        <text>Chương 101: Đầu tư</text>
       </navLabel>
       <content src="Text/C101.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-102" playOrder="102">
       <navLabel>
-        <text>ChÆ°Æ¡ng 102: Khảo hạch sơ cấp</text>
+        <text>Chương 102: Khảo hạch sơ cấp</text>
       </navLabel>
       <content src="Text/C102.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-103" playOrder="103">
       <navLabel>
-        <text>ChÆ°Æ¡ng 103: Tôi có thể nhận được lợi ích gì?</text>
+        <text>Chương 103: Tôi có thể nhận được lợi ích gì?</text>
       </navLabel>
       <content src="Text/C103.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-104" playOrder="104">
       <navLabel>
-        <text>ChÆ°Æ¡ng 104: Hay là cho tôi một mảnh đất đi</text>
+        <text>Chương 104: Hay là cho tôi một mảnh đất đi</text>
       </navLabel>
       <content src="Text/C104.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-105" playOrder="105">
       <navLabel>
-        <text>ChÆ°Æ¡ng 105: Luận văn</text>
+        <text>Chương 105: Luận văn</text>
       </navLabel>
       <content src="Text/C105.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-106" playOrder="106">
       <navLabel>
-        <text>ChÆ°Æ¡ng 106: Hành trình đến Vương cung</text>
+        <text>Chương 106: Hành trình đến Vương cung</text>
       </navLabel>
       <content src="Text/C106.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-107" playOrder="107">
       <navLabel>
-        <text>ChÆ°Æ¡ng 107: Chỉ là một quân cờ</text>
+        <text>Chương 107: Chỉ là một quân cờ</text>
       </navLabel>
       <content src="Text/C107.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-108" playOrder="108">
       <navLabel>
-        <text>ChÆ°Æ¡ng 108: Ta có một số thứ rất đáng giá</text>
+        <text>Chương 108: Ta có một số thứ rất đáng giá</text>
       </navLabel>
       <content src="Text/C108.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-109" playOrder="109">
       <navLabel>
-        <text>ChÆ°Æ¡ng 109: Khảo nghiệm Cấp 5</text>
+        <text>Chương 109: Khảo nghiệm Cấp 5</text>
       </navLabel>
       <content src="Text/C109.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-110" playOrder="110">
       <navLabel>
-        <text>ChÆ°Æ¡ng 110: Người Đại Diện</text>
+        <text>Chương 110: Người Đại Diện</text>
       </navLabel>
       <content src="Text/C110.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-111" playOrder="111">
       <navLabel>
-        <text>ChÆ°Æ¡ng 111: Xin Lỗi</text>
+        <text>Chương 111: Xin Lỗi</text>
       </navLabel>
       <content src="Text/C111.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-112" playOrder="112">
       <navLabel>
-        <text>ChÆ°Æ¡ng 112: Thương hội Tân Phi Tạm Bời</text>
+        <text>Chương 112: Thương hội Tân Phi Tạm Bời</text>
       </navLabel>
       <content src="Text/C112.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-113" playOrder="113">
       <navLabel>
-        <text>ChÆ°Æ¡ng 113: Kỹ sư Máy móc Ma thuật Người lùn</text>
+        <text>Chương 113: Kỹ sư Máy móc Ma thuật Người lùn</text>
       </navLabel>
       <content src="Text/C113.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-114" playOrder="114">
       <navLabel>
-        <text>ChÆ°Æ¡ng 114: Bột cỏ huỳnh quang</text>
+        <text>Chương 114: Bột cỏ huỳnh quang</text>
       </navLabel>
       <content src="Text/C114.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-115" playOrder="115">
       <navLabel>
-        <text>ChÆ°Æ¡ng 115: Nhà thiết kế kiểu dáng</text>
+        <text>Chương 115: Nhà thiết kế kiểu dáng</text>
       </navLabel>
       <content src="Text/C115.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-116" playOrder="116">
       <navLabel>
-        <text>ChÆ°Æ¡ng 116: Đạp Phá Thiết Giày Vô Mịch Xứ</text>
+        <text>Chương 116: Đạp Phá Thiết Giày Vô Mịch Xứ</text>
       </navLabel>
       <content src="Text/C116.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-117" playOrder="117">
       <navLabel>
-        <text>ChÆ°Æ¡ng 117: Nghiên cứu phân đoạn</text>
+        <text>Chương 117: Nghiên cứu phân đoạn</text>
       </navLabel>
       <content src="Text/C117.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-118" playOrder="118">
       <navLabel>
-        <text>ChÆ°Æ¡ng 118: Ân cần quá mức</text>
+        <text>Chương 118: Ân cần quá mức</text>
       </navLabel>
       <content src="Text/C118.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-119" playOrder="119">
       <navLabel>
-        <text>ChÆ°Æ¡ng 119: Phung phí</text>
+        <text>Chương 119: Phung phí</text>
       </navLabel>
       <content src="Text/C119.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-120" playOrder="120">
       <navLabel>
-        <text>ChÆ°Æ¡ng 120: Giấy phép lao động</text>
+        <text>Chương 120: Giấy phép lao động</text>
       </navLabel>
       <content src="Text/C120.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-121" playOrder="121">
       <navLabel>
-        <text>ChÆ°Æ¡ng 121: Xi măng</text>
+        <text>Chương 121: Xi măng</text>
       </navLabel>
       <content src="Text/C121.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-122" playOrder="122">
       <navLabel>
-        <text>ChÆ°Æ¡ng 122: Bức tranh quảng cáo thất bại</text>
+        <text>Chương 122: Bức tranh quảng cáo thất bại</text>
       </navLabel>
       <content src="Text/C122.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-123" playOrder="123">
       <navLabel>
-        <text>ChÆ°Æ¡ng 123: Giá trị của Yanis</text>
+        <text>Chương 123: Giá trị của Yanis</text>
       </navLabel>
       <content src="Text/C123.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-124" playOrder="124">
       <navLabel>
-        <text>ChÆ°Æ¡ng 124: Tâm lý đám đông</text>
+        <text>Chương 124: Tâm lý đám đông</text>
       </navLabel>
       <content src="Text/C124.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-125" playOrder="125">
       <navLabel>
-        <text>ChÆ°Æ¡ng 125: Muốn có mỏ quặng sao?</text>
+        <text>Chương 125: Muốn có mỏ quặng sao?</text>
       </navLabel>
       <content src="Text/C125.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-126" playOrder="126">
       <navLabel>
-        <text>ChÆ°Æ¡ng 126: Thực lực của Thương hội Tân Phi</text>
+        <text>Chương 126: Thực lực của Thương hội Tân Phi</text>
       </navLabel>
       <content src="Text/C126.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-127" playOrder="127">
       <navLabel>
-        <text>ChÆ°Æ¡ng 127: Tiền bảo lãnh</text>
+        <text>Chương 127: Tiền bảo lãnh</text>
       </navLabel>
       <content src="Text/C127.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-128" playOrder="128">
       <navLabel>
-        <text>ChÆ°Æ¡ng 128: Buổi đấu giá</text>
+        <text>Chương 128: Buổi đấu giá</text>
       </navLabel>
       <content src="Text/C128.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-129" playOrder="129">
       <navLabel>
-        <text>ChÆ°Æ¡ng 129: Cậu thật sự có tiền sao?</text>
+        <text>Chương 129: Cậu thật sự có tiền sao?</text>
       </navLabel>
       <content src="Text/C129.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-130" playOrder="130">
       <navLabel>
-        <text>ChÆ°Æ¡ng 130: Kẻ điên</text>
+        <text>Chương 130: Kẻ điên</text>
       </navLabel>
       <content src="Text/C130.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-131" playOrder="131">
       <navLabel>
-        <text>ChÆ°Æ¡ng 131: Thưởng cuối năm</text>
+        <text>Chương 131: Thưởng cuối năm</text>
       </navLabel>
       <content src="Text/C131.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-132" playOrder="132">
       <navLabel>
-        <text>ChÆ°Æ¡ng 132: Đến nhà tôi ăn Tết đi</text>
+        <text>Chương 132: Đến nhà tôi ăn Tết đi</text>
       </navLabel>
       <content src="Text/C132.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-133" playOrder="133">
       <navLabel>
-        <text>ChÆ°Æ¡ng 133: Bốn người đồng hành</text>
+        <text>Chương 133: Bốn người đồng hành</text>
       </navLabel>
       <content src="Text/C133.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-134" playOrder="134">
       <navLabel>
-        <text>ChÆ°Æ¡ng 134: Xây dựng bộ lạc mới</text>
+        <text>Chương 134: Xây dựng bộ lạc mới</text>
       </navLabel>
       <content src="Text/C134.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-135" playOrder="135">
       <navLabel>
-        <text>ChÆ°Æ¡ng 135: Bộ tộc Elf</text>
+        <text>Chương 135: Bộ tộc Elf</text>
       </navLabel>
       <content src="Text/C135.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-136" playOrder="136">
       <navLabel>
-        <text>ChÆ°Æ¡ng 136: Nhảy vào hố</text>
+        <text>Chương 136: Nhảy vào hố</text>
       </navLabel>
       <content src="Text/C136.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-137" playOrder="137">
       <navLabel>
-        <text>ChÆ°Æ¡ng 137: Trở thành nô lệ của ta</text>
+        <text>Chương 137: Trở thành nô lệ của ta</text>
       </navLabel>
       <content src="Text/C137.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-138" playOrder="138">
       <navLabel>
-        <text>ChÆ°Æ¡ng 138: Cơ hội cuối cùng</text>
+        <text>Chương 138: Cơ hội cuối cùng</text>
       </navLabel>
       <content src="Text/C138.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-139" playOrder="139">
       <navLabel>
-        <text>ChÆ°Æ¡ng 139: Hai mầm non (Hết quyển 1)</text>
+        <text>Chương 139: Hai mầm non (Hết quyển 1)</text>
       </navLabel>
       <content src="Text/C139.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-140" playOrder="140">
       <navLabel>
-        <text>ChÆ°Æ¡ng 140: Hội Giao Lưu Thương Mại</text>
+        <text>Chương 140: Hội Giao Lưu Thương Mại</text>
       </navLabel>
       <content src="Text/C140.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-141" playOrder="141">
       <navLabel>
-        <text>ChÆ°Æ¡ng 141: Lời mời từ Thành phố Karma</text>
+        <text>Chương 141: Lời mời từ Thành phố Karma</text>
       </navLabel>
       <content src="Text/C141.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-142" playOrder="142">
       <navLabel>
-        <text>ChÆ°Æ¡ng 142: Thương hội nhỏ bé không có tương lai</text>
+        <text>Chương 142: Thương hội nhỏ bé không có tương lai</text>
       </navLabel>
       <content src="Text/C142.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-143" playOrder="143">
       <navLabel>
-        <text>ChÆ°Æ¡ng 143: Vậy thì đưa tôi đi</text>
+        <text>Chương 143: Vậy thì đưa tôi đi</text>
       </navLabel>
       <content src="Text/C143.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-144" playOrder="144">
       <navLabel>
-        <text>ChÆ°Æ¡ng 144: Không cần phải vòng vo tam quốc</text>
+        <text>Chương 144: Không cần phải vòng vo tam quốc</text>
       </navLabel>
       <content src="Text/C144.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-145" playOrder="145">
       <navLabel>
-        <text>ChÆ°Æ¡ng 145: Kế hoạch dài hạn</text>
+        <text>Chương 145: Kế hoạch dài hạn</text>
       </navLabel>
       <content src="Text/C145.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-146" playOrder="146">
       <navLabel>
-        <text>ChÆ°Æ¡ng 146: Hợp tác với tôi</text>
+        <text>Chương 146: Hợp tác với tôi</text>
       </navLabel>
       <content src="Text/C146.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-147" playOrder="147">
       <navLabel>
-        <text>ChÆ°Æ¡ng 147: Buổi họp báo ra mắt sản phẩm</text>
+        <text>Chương 147: Buổi họp báo ra mắt sản phẩm</text>
       </navLabel>
       <content src="Text/C147.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-148" playOrder="148">
       <navLabel>
-        <text>ChÆ°Æ¡ng 148: Nồi Cơm Ma Thuật Tự Động</text>
+        <text>Chương 148: Nồi Cơm Ma Thuật Tự Động</text>
       </navLabel>
       <content src="Text/C148.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-149" playOrder="149">
       <navLabel>
-        <text>ChÆ°Æ¡ng 149: Hãy Trả Giá Đi</text>
+        <text>Chương 149: Hãy Trả Giá Đi</text>
       </navLabel>
       <content src="Text/C149.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-150" playOrder="150">
       <navLabel>
-        <text>ChÆ°Æ¡ng 150: Gia công linh kiện</text>
+        <text>Chương 150: Gia công linh kiện</text>
       </navLabel>
       <content src="Text/C150.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-151" playOrder="151">
       <navLabel>
-        <text>ChÆ°Æ¡ng 151: Sau này sẽ không quay lại nữa</text>
+        <text>Chương 151: Sau này sẽ không quay lại nữa</text>
       </navLabel>
       <content src="Text/C151.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-152" playOrder="152">
       <navLabel>
-        <text>ChÆ°Æ¡ng 152: Vương nữ Điện hạ</text>
+        <text>Chương 152: Vương nữ Điện hạ</text>
       </navLabel>
       <content src="Text/C152.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-153" playOrder="153">
       <navLabel>
-        <text>ChÆ°Æ¡ng 153: Cuối cùng vẫn phải rời đi</text>
+        <text>Chương 153: Cuối cùng vẫn phải rời đi</text>
       </navLabel>
       <content src="Text/C153.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-154" playOrder="154">
       <navLabel>
-        <text>ChÆ°Æ¡ng 154: Lời khuyên của Tử tước Leslie</text>
+        <text>Chương 154: Lời khuyên của Tử tước Leslie</text>
       </navLabel>
       <content src="Text/C154.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-155" playOrder="155">
       <navLabel>
-        <text>ChÆ°Æ¡ng 155: Muốn giàu có thì phải làm đường trước đã</text>
+        <text>Chương 155: Muốn giàu có thì phải làm đường trước đã</text>
       </navLabel>
       <content src="Text/C155.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-156" playOrder="156">
       <navLabel>
-        <text>ChÆ°Æ¡ng 156: Lý do đến ăn ké</text>
+        <text>Chương 156: Lý do đến ăn ké</text>
       </navLabel>
       <content src="Text/C156.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-157" playOrder="157">
       <navLabel>
-        <text>ChÆ°Æ¡ng 157: Chúng ta không thể nào đến được với nhau</text>
+        <text>Chương 157: Chúng ta không thể nào đến được với nhau</text>
       </navLabel>
       <content src="Text/C157.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-158" playOrder="158">
       <navLabel>
-        <text>ChÆ°Æ¡ng 158: Luôn phải ra ngoài gặp người khác chứ</text>
+        <text>Chương 158: Luôn phải ra ngoài gặp người khác chứ</text>
       </navLabel>
       <content src="Text/C158.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-159" playOrder="159">
       <navLabel>
-        <text>ChÆ°Æ¡ng 159: Quân bài tẩy của Thương hội Tân Phi</text>
+        <text>Chương 159: Quân bài tẩy của Thương hội Tân Phi</text>
       </navLabel>
       <content src="Text/C159.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-160" playOrder="160">
       <navLabel>
-        <text>ChÆ°Æ¡ng 160: Vị đại sư bí ẩn</text>
+        <text>Chương 160: Vị đại sư bí ẩn</text>
       </navLabel>
       <content src="Text/C160.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-161" playOrder="161">
       <navLabel>
-        <text>ChÆ°Æ¡ng 161: Cô gái Elf bí ẩn</text>
+        <text>Chương 161: Cô gái Elf bí ẩn</text>
       </navLabel>
       <content src="Text/C161.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-162" playOrder="162">
       <navLabel>
-        <text>ChÆ°Æ¡ng 162: Lời tuyên bố của Yanis</text>
+        <text>Chương 162: Lời tuyên bố của Yanis</text>
       </navLabel>
       <content src="Text/C162.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-163" playOrder="163">
       <navLabel>
-        <text>ChÆ°Æ¡ng 163: Micromet</text>
+        <text>Chương 163: Micromet</text>
       </navLabel>
       <content src="Text/C163.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-164" playOrder="164">
       <navLabel>
-        <text>ChÆ°Æ¡ng 164: Thái độ thực sự của Gia tộc Stark là gì?</text>
+        <text>Chương 164: Thái độ thực sự của Gia tộc Stark là gì?</text>
       </navLabel>
       <content src="Text/C164.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-165" playOrder="165">
       <navLabel>
-        <text>ChÆ°Æ¡ng 165: Cập nhật và thay thế sản phẩm</text>
+        <text>Chương 165: Cập nhật và thay thế sản phẩm</text>
       </navLabel>
       <content src="Text/C165.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-166" playOrder="166">
       <navLabel>
-        <text>ChÆ°Æ¡ng 166: Tăng tiền thuê</text>
+        <text>Chương 166: Tăng tiền thuê</text>
       </navLabel>
       <content src="Text/C166.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-167" playOrder="167">
       <navLabel>
-        <text>ChÆ°Æ¡ng 167: Không thèm chơi với hắn ta nữa</text>
+        <text>Chương 167: Không thèm chơi với hắn ta nữa</text>
       </navLabel>
       <content src="Text/C167.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-168" playOrder="168">
       <navLabel>
-        <text>ChÆ°Æ¡ng 168: Trang viên Sancton</text>
+        <text>Chương 168: Trang viên Sancton</text>
       </navLabel>
       <content src="Text/C168.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-169" playOrder="169">
       <navLabel>
-        <text>ChÆ°Æ¡ng 169: Sản xuất hàng loạt vũ khí và áo giáp</text>
+        <text>Chương 169: Sản xuất hàng loạt vũ khí và áo giáp</text>
       </navLabel>
       <content src="Text/C169.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-170" playOrder="170">
       <navLabel>
-        <text>ChÆ°Æ¡ng 170: Món quà của Yanis</text>
+        <text>Chương 170: Món quà của Yanis</text>
       </navLabel>
       <content src="Text/C170.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-171" playOrder="171">
       <navLabel>
-        <text>ChÆ°Æ¡ng 171: Chiếm lĩnh thị trường</text>
+        <text>Chương 171: Chiếm lĩnh thị trường</text>
       </navLabel>
       <content src="Text/C171.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-172" playOrder="172">
       <navLabel>
-        <text>ChÆ°Æ¡ng 172: Truyền tải ma lực từ xa và điều chỉnh công suất ma lực</text>
+        <text>Chương 172: Truyền tải ma lực từ xa và điều chỉnh công suất ma lực</text>
       </navLabel>
       <content src="Text/C172.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-173" playOrder="173">
       <navLabel>
-        <text>ChÆ°Æ¡ng 173: Evita, Viện trưởng</text>
+        <text>Chương 173: Evita, Viện trưởng</text>
       </navLabel>
       <content src="Text/C173.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-174" playOrder="174">
       <navLabel>
-        <text>ChÆ°Æ¡ng 174: Chủ động quảng bá</text>
+        <text>Chương 174: Chủ động quảng bá</text>
       </navLabel>
       <content src="Text/C174.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-175" playOrder="175">
       <navLabel>
-        <text>ChÆ°Æ¡ng 175: Tôi nói chính là tiêu chuẩn</text>
+        <text>Chương 175: Tôi nói chính là tiêu chuẩn</text>
       </navLabel>
       <content src="Text/C175.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-176" playOrder="176">
       <navLabel>
-        <text>ChÆ°Æ¡ng 176: Đơn hàng lớn hơn</text>
+        <text>Chương 176: Đơn hàng lớn hơn</text>
       </navLabel>
       <content src="Text/C176.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-177" playOrder="177">
       <navLabel>
-        <text>ChÆ°Æ¡ng 177: Kế hoạch hỗ trợ Thương hội nhỏ</text>
+        <text>Chương 177: Kế hoạch hỗ trợ Thương hội nhỏ</text>
       </navLabel>
       <content src="Text/C177.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-178" playOrder="178">
       <navLabel>
-        <text>ChÆ°Æ¡ng 178: Những kẻ đứng sau Rem</text>
+        <text>Chương 178: Những kẻ đứng sau Rem</text>
       </navLabel>
       <content src="Text/C178.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-179" playOrder="179">
       <navLabel>
-        <text>ChÆ°Æ¡ng 179: Tiềm năng của các Thương hội nhỏ</text>
+        <text>Chương 179: Tiềm năng của các Thương hội nhỏ</text>
       </navLabel>
       <content src="Text/C179.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-180" playOrder="180">
       <navLabel>
-        <text>ChÆ°Æ¡ng 180: Xây đường cũng có lợi</text>
+        <text>Chương 180: Xây đường cũng có lợi</text>
       </navLabel>
       <content src="Text/C180.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-181" playOrder="181">
       <navLabel>
-        <text>ChÆ°Æ¡ng 181: Sức mạnh của công nghiệp</text>
+        <text>Chương 181: Sức mạnh của công nghiệp</text>
       </navLabel>
       <content src="Text/C181.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-182" playOrder="182">
       <navLabel>
-        <text>ChÆ°Æ¡ng 182: Hiệu ứng người nổi tiếng</text>
+        <text>Chương 182: Hiệu ứng người nổi tiếng</text>
       </navLabel>
       <content src="Text/C182.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-183" playOrder="183">
       <navLabel>
-        <text>ChÆ°Æ¡ng 183: Con đường sau khi tốt nghiệp</text>
+        <text>Chương 183: Con đường sau khi tốt nghiệp</text>
       </navLabel>
       <content src="Text/C183.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-184" playOrder="184">
       <navLabel>
-        <text>ChÆ°Æ¡ng 184: Thông xe</text>
+        <text>Chương 184: Thông xe</text>
       </navLabel>
       <content src="Text/C184.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-185" playOrder="185">
       <navLabel>
-        <text>ChÆ°Æ¡ng 185: Nạn thiếu hụt lao động</text>
+        <text>Chương 185: Nạn thiếu hụt lao động</text>
       </navLabel>
       <content src="Text/C185.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-186" playOrder="186">
       <navLabel>
-        <text>ChÆ°Æ¡ng 186: Thép là nền tảng của công nghiệp</text>
+        <text>Chương 186: Thép là nền tảng của công nghiệp</text>
       </navLabel>
       <content src="Text/C186.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-187" playOrder="187">
       <navLabel>
-        <text>ChÆ°Æ¡ng 187: Quy hoạch</text>
+        <text>Chương 187: Quy hoạch</text>
       </navLabel>
       <content src="Text/C187.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-188" playOrder="188">
       <navLabel>
-        <text>ChÆ°Æ¡ng 188: Tỷ lệ lỗi siêu cao</text>
+        <text>Chương 188: Tỷ lệ lỗi siêu cao</text>
       </navLabel>
       <content src="Text/C188.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-189" playOrder="189">
       <navLabel>
-        <text>ChÆ°Æ¡ng 189: Tính kỷ luật của Tộc Elf</text>
+        <text>Chương 189: Tính kỷ luật của Tộc Elf</text>
       </navLabel>
       <content src="Text/C189.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-190" playOrder="190">
       <navLabel>
-        <text>ChÆ°Æ¡ng 190: Kem</text>
+        <text>Chương 190: Kem</text>
       </navLabel>
       <content src="Text/C190.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-191" playOrder="191">
       <navLabel>
-        <text>ChÆ°Æ¡ng 191: Công nhân Tộc Elf</text>
+        <text>Chương 191: Công nhân Tộc Elf</text>
       </navLabel>
       <content src="Text/C191.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-192" playOrder="192">
       <navLabel>
-        <text>ChÆ°Æ¡ng 192: Thêm hai thân phận</text>
+        <text>Chương 192: Thêm hai thân phận</text>
       </navLabel>
       <content src="Text/C192.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-193" playOrder="193">
       <navLabel>
-        <text>ChÆ°Æ¡ng 193: Kế hoạch mới của Thành phố Bontar</text>
+        <text>Chương 193: Kế hoạch mới của Thành phố Bontar</text>
       </navLabel>
       <content src="Text/C193.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-194" playOrder="194">
       <navLabel>
-        <text>ChÆ°Æ¡ng 194: Vấn đề giao thông vận tải</text>
+        <text>Chương 194: Vấn đề giao thông vận tải</text>
       </navLabel>
       <content src="Text/C194.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-195" playOrder="195">
       <navLabel>
-        <text>ChÆ°Æ¡ng 195: Lốp xe</text>
+        <text>Chương 195: Lốp xe</text>
       </navLabel>
       <content src="Text/C195.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-196" playOrder="196">
       <navLabel>
-        <text>ChÆ°Æ¡ng 196: Các người có tư cách gì mà kiêu ngạo?</text>
+        <text>Chương 196: Các người có tư cách gì mà kiêu ngạo?</text>
       </navLabel>
       <content src="Text/C196.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-197" playOrder="197">
       <navLabel>
-        <text>ChÆ°Æ¡ng 197: Động cơ</text>
+        <text>Chương 197: Động cơ</text>
       </navLabel>
       <content src="Text/C197.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-198" playOrder="198">
       <navLabel>
-        <text>ChÆ°Æ¡ng 198: Ma pháp trận thu nhỏ</text>
+        <text>Chương 198: Ma pháp trận thu nhỏ</text>
       </navLabel>
       <content src="Text/C198.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-199" playOrder="199">
       <navLabel>
-        <text>ChÆ°Æ¡ng 199: Cháu cũng muốn đi làm</text>
+        <text>Chương 199: Cháu cũng muốn đi làm</text>
       </navLabel>
       <content src="Text/C199.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-200" playOrder="200">
       <navLabel>
-        <text>ChÆ°Æ¡ng 200: Tôi cho phép, bọn họ mới được lấy</text>
+        <text>Chương 200: Tôi cho phép, bọn họ mới được lấy</text>
       </navLabel>
       <content src="Text/C200.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-201" playOrder="201">
       <navLabel>
-        <text>ChÆ°Æ¡ng 201: Thương hội Grett</text>
+        <text>Chương 201: Thương hội Grett</text>
       </navLabel>
       <content src="Text/C201.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-202" playOrder="202">
       <navLabel>
-        <text>ChÆ°Æ¡ng 202: Tên trộm hèn hạ</text>
+        <text>Chương 202: Tên trộm hèn hạ</text>
       </navLabel>
       <content src="Text/C202.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-203" playOrder="203">
       <navLabel>
-        <text>ChÆ°Æ¡ng 203: Chứng cứ</text>
+        <text>Chương 203: Chứng cứ</text>
       </navLabel>
       <content src="Text/C203.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-204" playOrder="204">
       <navLabel>
-        <text>ChÆ°Æ¡ng 204: Cái kết của Rem và Zimiro</text>
+        <text>Chương 204: Cái kết của Rem và Zimiro</text>
       </navLabel>
       <content src="Text/C204.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-205" playOrder="205">
       <navLabel>
-        <text>ChÆ°Æ¡ng 205: Bán kỹ thuật</text>
+        <text>Chương 205: Bán kỹ thuật</text>
       </navLabel>
       <content src="Text/C205.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-206" playOrder="206">
       <navLabel>
-        <text>ChÆ°Æ¡ng 206: Tự tạo ra luật sáng chế</text>
+        <text>Chương 206: Tự tạo ra luật sáng chế</text>
       </navLabel>
       <content src="Text/C206.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-207" playOrder="207">
       <navLabel>
-        <text>ChÆ°Æ¡ng 207: Lốp xe</text>
+        <text>Chương 207: Lốp xe</text>
       </navLabel>
       <content src="Text/C207.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-208" playOrder="208">
       <navLabel>
-        <text>ChÆ°Æ¡ng 208: Hệ thống giao thông công cộng thành phố</text>
+        <text>Chương 208: Hệ thống giao thông công cộng thành phố</text>
       </navLabel>
       <content src="Text/C208.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-209" playOrder="209">
       <navLabel>
-        <text>ChÆ°Æ¡ng 209: Giá của một con ngựa</text>
+        <text>Chương 209: Giá của một con ngựa</text>
       </navLabel>
       <content src="Text/C209.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-210" playOrder="210">
       <navLabel>
-        <text>ChÆ°Æ¡ng 210: Hiệu quả của Tân thành</text>
+        <text>Chương 210: Hiệu quả của Tân thành</text>
       </navLabel>
       <content src="Text/C210.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-211" playOrder="211">
       <navLabel>
-        <text>ChÆ°Æ¡ng 211: Thành phố nhỏ đổi thay</text>
+        <text>Chương 211: Thành phố nhỏ đổi thay</text>
       </navLabel>
       <content src="Text/C211.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-212" playOrder="212">
       <navLabel>
-        <text>ChÆ°Æ¡ng 212: Hắn chỉ là may mắn thôi</text>
+        <text>Chương 212: Hắn chỉ là may mắn thôi</text>
       </navLabel>
       <content src="Text/C212.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-213" playOrder="213">
       <navLabel>
-        <text>ChÆ°Æ¡ng 213: Phong cảnh khác biệt của Thành phố Bontar</text>
+        <text>Chương 213: Phong cảnh khác biệt của Thành phố Bontar</text>
       </navLabel>
       <content src="Text/C213.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-214" playOrder="214">
       <navLabel>
-        <text>ChÆ°Æ¡ng 214: Cái gì cũng liên quan đến hắn sao?</text>
+        <text>Chương 214: Cái gì cũng liên quan đến hắn sao?</text>
       </navLabel>
       <content src="Text/C214.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-215" playOrder="215">
       <navLabel>
-        <text>ChÆ°Æ¡ng 215: Đệ tử của Hainas ư?</text>
+        <text>Chương 215: Đệ tử của Hainas ư?</text>
       </navLabel>
       <content src="Text/C215.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-216" playOrder="216">
       <navLabel>
-        <text>ChÆ°Æ¡ng 216: Công việc của Hứa Dịch</text>
+        <text>Chương 216: Công việc của Hứa Dịch</text>
       </navLabel>
       <content src="Text/C216.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-217" playOrder="217">
       <navLabel>
-        <text>ChÆ°Æ¡ng 217: Thương hội Walmart cao cao tại thượng</text>
+        <text>Chương 217: Thương hội Walmart cao cao tại thượng</text>
       </navLabel>
       <content src="Text/C217.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-218" playOrder="218">
       <navLabel>
-        <text>ChÆ°Æ¡ng 218: Khu mua sắm Máy móc Ma thuật Gia dụng</text>
+        <text>Chương 218: Khu mua sắm Máy móc Ma thuật Gia dụng</text>
       </navLabel>
       <content src="Text/C218.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-219" playOrder="219">
       <navLabel>
-        <text>ChÆ°Æ¡ng 219: Liệu có thể sống đến năm bốn mươi tuổi không?</text>
+        <text>Chương 219: Liệu có thể sống đến năm bốn mươi tuổi không?</text>
       </navLabel>
       <content src="Text/C219.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-220" playOrder="220">
       <navLabel>
-        <text>ChÆ°Æ¡ng 220: Hiệp hội Thương mại Máy móc Ma thuật</text>
+        <text>Chương 220: Hiệp hội Thương mại Máy móc Ma thuật</text>
       </navLabel>
       <content src="Text/C220.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-221" playOrder="221">
       <navLabel>
-        <text>ChÆ°Æ¡ng 221: Nguy cơ của sông Sandy</text>
+        <text>Chương 221: Nguy cơ của sông Sandy</text>
       </navLabel>
       <content src="Text/C221.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-222" playOrder="222">
       <navLabel>
-        <text>ChÆ°Æ¡ng 222: Trị ngọn cần phải trị gốc</text>
+        <text>Chương 222: Trị ngọn cần phải trị gốc</text>
       </navLabel>
       <content src="Text/C222.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-223" playOrder="223">
       <navLabel>
-        <text>ChÆ°Æ¡ng 223: Tôi muốn bay vào vũ trụ</text>
+        <text>Chương 223: Tôi muốn bay vào vũ trụ</text>
       </navLabel>
       <content src="Text/C223.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-224" playOrder="224">
       <navLabel>
-        <text>ChÆ°Æ¡ng 224: Điều chỉnh cấu trúc lương</text>
+        <text>Chương 224: Điều chỉnh cấu trúc lương</text>
       </navLabel>
       <content src="Text/C224.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-225" playOrder="225">
       <navLabel>
-        <text>ChÆ°Æ¡ng 225: Thu nhỏ Pháp trận Bão tố</text>
+        <text>Chương 225: Thu nhỏ Pháp trận Bão tố</text>
       </navLabel>
       <content src="Text/C225.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-226" playOrder="226">
       <navLabel>
-        <text>ChÆ°Æ¡ng 226: Ngươi sẽ đau lòng sao?</text>
+        <text>Chương 226: Ngươi sẽ đau lòng sao?</text>
       </navLabel>
       <content src="Text/C226.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-227" playOrder="227">
       <navLabel>
-        <text>ChÆ°Æ¡ng 227: Thương hội Tân Phi kỳ thực không hề yếu</text>
+        <text>Chương 227: Thương hội Tân Phi kỳ thực không hề yếu</text>
       </navLabel>
       <content src="Text/C227.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-228" playOrder="228">
       <navLabel>
-        <text>ChÆ°Æ¡ng 228: Bộ tộc Night Song tràn đầy “sinh khí”</text>
+        <text>Chương 228: Bộ tộc Night Song tràn đầy “sinh khí”</text>
       </navLabel>
       <content src="Text/C228.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-229" playOrder="229">
       <navLabel>
-        <text>ChÆ°Æ¡ng 229: Xây đường cái đến tận cửa nhà Chủng tộc Người thú</text>
+        <text>Chương 229: Xây đường cái đến tận cửa nhà Chủng tộc Người thú</text>
       </navLabel>
       <content src="Text/C229.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-230" playOrder="230">
       <navLabel>
-        <text>ChÆ°Æ¡ng 230: Mạch khoáng sản kim loại màu</text>
+        <text>Chương 230: Mạch khoáng sản kim loại màu</text>
       </navLabel>
       <content src="Text/C230.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-231" playOrder="231">
       <navLabel>
-        <text>ChÆ°Æ¡ng 231: Đầu tư xây dựng nhà máy trên lãnh địa của Người thú</text>
+        <text>Chương 231: Đầu tư xây dựng nhà máy trên lãnh địa của Người thú</text>
       </navLabel>
       <content src="Text/C231.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-232" playOrder="232">
       <navLabel>
-        <text>ChÆ°Æ¡ng 232: Theo đuổi hiệu quả quảng cáo</text>
+        <text>Chương 232: Theo đuổi hiệu quả quảng cáo</text>
       </navLabel>
       <content src="Text/C232.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-233" playOrder="233">
       <navLabel>
-        <text>ChÆ°Æ¡ng 233: Nỗi lo xa xỉ</text>
+        <text>Chương 233: Nỗi lo xa xỉ</text>
       </navLabel>
       <content src="Text/C233.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-234" playOrder="234">
       <navLabel>
-        <text>ChÆ°Æ¡ng 234: Giao dịch với Bộ Quân sự</text>
+        <text>Chương 234: Giao dịch với Bộ Quân sự</text>
       </navLabel>
       <content src="Text/C234.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-235" playOrder="235">
       <navLabel>
-        <text>ChÆ°Æ¡ng 235: Khu tái định cư Orchid</text>
+        <text>Chương 235: Khu tái định cư Orchid</text>
       </navLabel>
       <content src="Text/C235.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-236" playOrder="236">
       <navLabel>
-        <text>ChÆ°Æ¡ng 236: Xây dựng nhà ở thương mại trên đất của Quý tộc</text>
+        <text>Chương 236: Xây dựng nhà ở thương mại trên đất của Quý tộc</text>
       </navLabel>
       <content src="Text/C236.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-237" playOrder="237">
       <navLabel>
-        <text>ChÆ°Æ¡ng 237: Quy định an toàn và nâng cấp động cơ</text>
+        <text>Chương 237: Quy định an toàn và nâng cấp động cơ</text>
       </navLabel>
       <content src="Text/C237.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-238" playOrder="238">
       <navLabel>
-        <text>ChÆ°Æ¡ng 238: Phúc lợi của các Nghiên cứu viên</text>
+        <text>Chương 238: Phúc lợi của các Nghiên cứu viên</text>
       </navLabel>
       <content src="Text/C238.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-239" playOrder="239">
       <navLabel>
-        <text>ChÆ°Æ¡ng 239: Cửa sổ hướng tới công chúng</text>
+        <text>Chương 239: Cửa sổ hướng tới công chúng</text>
       </navLabel>
       <content src="Text/C239.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-240" playOrder="240">
       <navLabel>
-        <text>ChÆ°Æ¡ng 240: Chiến lược bán hàng &amp;quot;kích thích&amp;quot;</text>
+        <text>Chương 240: Chiến lược bán hàng &amp;quot;kích thích&amp;quot;</text>
       </navLabel>
       <content src="Text/C240.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-241" playOrder="241">
       <navLabel>
-        <text>ChÆ°Æ¡ng 241: Dạo phố</text>
+        <text>Chương 241: Dạo phố</text>
       </navLabel>
       <content src="Text/C241.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-242" playOrder="242">
       <navLabel>
-        <text>ChÆ°Æ¡ng 242: Ảo tưởng tuổi trẻ</text>
+        <text>Chương 242: Ảo tưởng tuổi trẻ</text>
       </navLabel>
       <content src="Text/C242.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-243" playOrder="243">
       <navLabel>
-        <text>ChÆ°Æ¡ng 243: Cục Hậu cần nghèo rớt mồng tơi</text>
+        <text>Chương 243: Cục Hậu cần nghèo rớt mồng tơi</text>
       </navLabel>
       <content src="Text/C243.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-244" playOrder="244">
       <navLabel>
-        <text>ChÆ°Æ¡ng 244: Cướp miếng mồi ngon</text>
+        <text>Chương 244: Cướp miếng mồi ngon</text>
       </navLabel>
       <content src="Text/C244.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-245" playOrder="245">
       <navLabel>
-        <text>ChÆ°Æ¡ng 245: Tôi thích phiêu lưu</text>
+        <text>Chương 245: Tôi thích phiêu lưu</text>
       </navLabel>
       <content src="Text/C245.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-246" playOrder="246">
       <navLabel>
-        <text>ChÆ°Æ¡ng 246: Kỹ thuật của người khác</text>
+        <text>Chương 246: Kỹ thuật của người khác</text>
       </navLabel>
       <content src="Text/C246.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-247" playOrder="247">
       <navLabel>
-        <text>ChÆ°Æ¡ng 247: Hai người ngoại quốc</text>
+        <text>Chương 247: Hai người ngoại quốc</text>
       </navLabel>
       <content src="Text/C247.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-248" playOrder="248">
       <navLabel>
-        <text>ChÆ°Æ¡ng 248: Mua và bán</text>
+        <text>Chương 248: Mua và bán</text>
       </navLabel>
       <content src="Text/C248.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-249" playOrder="249">
       <navLabel>
-        <text>ChÆ°Æ¡ng 249: Cậu biết Ma thuật Cấp cao sao?</text>
+        <text>Chương 249: Cậu biết Ma thuật Cấp cao sao?</text>
       </navLabel>
       <content src="Text/C249.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-250" playOrder="250">
       <navLabel>
-        <text>ChÆ°Æ¡ng 250: Em yêu anh mất rồi</text>
+        <text>Chương 250: Em yêu anh mất rồi</text>
       </navLabel>
       <content src="Text/C250.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-251" playOrder="251">
       <navLabel>
-        <text>ChÆ°Æ¡ng 251: Sự phẫn nộ của Allen</text>
+        <text>Chương 251: Sự phẫn nộ của Allen</text>
       </navLabel>
       <content src="Text/C251.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-252" playOrder="252">
       <navLabel>
-        <text>ChÆ°Æ¡ng 252: Tân hình Ma thuật Hệ Lôi có chút đặc biệt</text>
+        <text>Chương 252: Tân hình Ma thuật Hệ Lôi có chút đặc biệt</text>
       </navLabel>
       <content src="Text/C252.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-253" playOrder="253">
       <navLabel>
-        <text>ChÆ°Æ¡ng 253: Lệ phí bảo hộ Bằng sáng chế Ma pháp</text>
+        <text>Chương 253: Lệ phí bảo hộ Bằng sáng chế Ma pháp</text>
       </navLabel>
       <content src="Text/C253.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-254" playOrder="254">
       <navLabel>
-        <text>ChÆ°Æ¡ng 254: Máy phát điện gió mini</text>
+        <text>Chương 254: Máy phát điện gió mini</text>
       </navLabel>
       <content src="Text/C254.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-255" playOrder="255">
       <navLabel>
-        <text>ChÆ°Æ¡ng 255: Ba tai họa của Thành Anweimar</text>
+        <text>Chương 255: Ba tai họa của Thành Anweimar</text>
       </navLabel>
       <content src="Text/C255.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-256" playOrder="256">
       <navLabel>
-        <text>ChÆ°Æ¡ng 256: Kẻ Đánh Bạc</text>
+        <text>Chương 256: Kẻ Đánh Bạc</text>
       </navLabel>
       <content src="Text/C256.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-257" playOrder="257">
       <navLabel>
-        <text>ChÆ°Æ¡ng 257: Hầu tước Jose</text>
+        <text>Chương 257: Hầu tước Jose</text>
       </navLabel>
       <content src="Text/C257.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-258" playOrder="258">
       <navLabel>
-        <text>ChÆ°Æ¡ng 258: Tranh Đoạt Vương Vị</text>
+        <text>Chương 258: Tranh Đoạt Vương Vị</text>
       </navLabel>
       <content src="Text/C258.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-259" playOrder="259">
       <navLabel>
-        <text>ChÆ°Æ¡ng 259: Đặc khu Kinh tế</text>
+        <text>Chương 259: Đặc khu Kinh tế</text>
       </navLabel>
       <content src="Text/C259.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-260" playOrder="260">
       <navLabel>
-        <text>ChÆ°Æ¡ng 260: Đến tận nhà xin lỗi</text>
+        <text>Chương 260: Đến tận nhà xin lỗi</text>
       </navLabel>
       <content src="Text/C260.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-261" playOrder="261">
       <navLabel>
-        <text>ChÆ°Æ¡ng 261: Công nghệ sản xuất xi măng</text>
+        <text>Chương 261: Công nghệ sản xuất xi măng</text>
       </navLabel>
       <content src="Text/C261.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-262" playOrder="262">
       <navLabel>
-        <text>ChÆ°Æ¡ng 262: Kambi kháng điện</text>
+        <text>Chương 262: Kambi kháng điện</text>
       </navLabel>
       <content src="Text/C262.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-263" playOrder="263">
       <navLabel>
-        <text>ChÆ°Æ¡ng 263: Hay là buông tay?</text>
+        <text>Chương 263: Hay là buông tay?</text>
       </navLabel>
       <content src="Text/C263.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-264" playOrder="264">
       <navLabel>
-        <text>ChÆ°Æ¡ng 264: Xe buýt công cộng là một loại phúc lợi</text>
+        <text>Chương 264: Xe buýt công cộng là một loại phúc lợi</text>
       </navLabel>
       <content src="Text/C264.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-265" playOrder="265">
       <navLabel>
-        <text>ChÆ°Æ¡ng 265: Đào kênh vận chuyển</text>
+        <text>Chương 265: Đào kênh vận chuyển</text>
       </navLabel>
       <content src="Text/C265.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-266" playOrder="266">
       <navLabel>
-        <text>ChÆ°Æ¡ng 266: Tiệc cuối năm</text>
+        <text>Chương 266: Tiệc cuối năm</text>
       </navLabel>
       <content src="Text/C266.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-267" playOrder="267">
       <navLabel>
-        <text>ChÆ°Æ¡ng 267: Các tiểu thư Quý tộc nhiệt tình</text>
+        <text>Chương 267: Các tiểu thư Quý tộc nhiệt tình</text>
       </navLabel>
       <content src="Text/C267.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-268" playOrder="268">
       <navLabel>
-        <text>ChÆ°Æ¡ng 268: Lời mời nửa đêm của Ludy</text>
+        <text>Chương 268: Lời mời nửa đêm của Ludy</text>
       </navLabel>
       <content src="Text/C268.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-269" playOrder="269">
       <navLabel>
-        <text>ChÆ°Æ¡ng 269: Chúng ta kết hôn đi!</text>
+        <text>Chương 269: Chúng ta kết hôn đi!</text>
       </navLabel>
       <content src="Text/C269.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-270" playOrder="270">
       <navLabel>
-        <text>ChÆ°Æ¡ng 270: Xe ma lực</text>
+        <text>Chương 270: Xe ma lực</text>
       </navLabel>
       <content src="Text/C270.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-271" playOrder="271">
       <navLabel>
-        <text>ChÆ°Æ¡ng 271: Dấu hiệu tập kích bất ngờ</text>
+        <text>Chương 271: Dấu hiệu tập kích bất ngờ</text>
       </navLabel>
       <content src="Text/C271.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-272" playOrder="272">
       <navLabel>
-        <text>ChÆ°Æ¡ng 272: Quân đoàn Độc lập Người thú</text>
+        <text>Chương 272: Quân đoàn Độc lập Người thú</text>
       </navLabel>
       <content src="Text/C272.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-273" playOrder="273">
       <navLabel>
-        <text>ChÆ°Æ¡ng 273: Vấn đề thuê nhân công</text>
+        <text>Chương 273: Vấn đề thuê nhân công</text>
       </navLabel>
       <content src="Text/C273.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-274" playOrder="274">
       <navLabel>
-        <text>ChÆ°Æ¡ng 274: Bộ tộc Shadow Moon</text>
+        <text>Chương 274: Bộ tộc Shadow Moon</text>
       </navLabel>
       <content src="Text/C274.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-275" playOrder="275">
       <navLabel>
-        <text>ChÆ°Æ¡ng 275: Ngài nhất định sẽ mang đến thay đổi</text>
+        <text>Chương 275: Ngài nhất định sẽ mang đến thay đổi</text>
       </navLabel>
       <content src="Text/C275.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-276" playOrder="276">
       <navLabel>
-        <text>ChÆ°Æ¡ng 276: Tại sao lại nghèo như vậy?</text>
+        <text>Chương 276: Tại sao lại nghèo như vậy?</text>
       </navLabel>
       <content src="Text/C276.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-277" playOrder="277">
       <navLabel>
-        <text>ChÆ°Æ¡ng 277: Xưởng Sản xuất Hoa quả đóng hộp và Xưởng Chế biến Cao su</text>
+        <text>Chương 277: Xưởng Sản xuất Hoa quả đóng hộp và Xưởng Chế biến Cao su</text>
       </navLabel>
       <content src="Text/C277.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-278" playOrder="278">
       <navLabel>
-        <text>ChÆ°Æ¡ng 278: Tôi chỉ là người đưa thư</text>
+        <text>Chương 278: Tôi chỉ là người đưa thư</text>
       </navLabel>
       <content src="Text/C278.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-279" playOrder="279">
       <navLabel>
-        <text>ChÆ°Æ¡ng 279: Những kẻ tham lam</text>
+        <text>Chương 279: Những kẻ tham lam</text>
       </navLabel>
       <content src="Text/C279.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-280" playOrder="280">
       <navLabel>
-        <text>ChÆ°Æ¡ng 280: Có thật là một đất nước?</text>
+        <text>Chương 280: Có thật là một đất nước?</text>
       </navLabel>
       <content src="Text/C280.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-281" playOrder="281">
       <navLabel>
-        <text>ChÆ°Æ¡ng 281: Tôi cần một người đáng tin cậy</text>
+        <text>Chương 281: Tôi cần một người đáng tin cậy</text>
       </navLabel>
       <content src="Text/C281.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-282" playOrder="282">
       <navLabel>
-        <text>ChÆ°Æ¡ng 282: Quyết định của Bộ tộc Shadow Moon</text>
+        <text>Chương 282: Quyết định của Bộ tộc Shadow Moon</text>
       </navLabel>
       <content src="Text/C282.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-283" playOrder="283">
       <navLabel>
-        <text>ChÆ°Æ¡ng 283: Món quà dành tặng cho Vivian</text>
+        <text>Chương 283: Món quà dành tặng cho Vivian</text>
       </navLabel>
       <content src="Text/C283.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-284" playOrder="284">
       <navLabel>
-        <text>ChÆ°Æ¡ng 284: Quyết định của Hứa Dịch</text>
+        <text>Chương 284: Quyết định của Hứa Dịch</text>
       </navLabel>
       <content src="Text/C284.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-285" playOrder="285">
       <navLabel>
-        <text>ChÆ°Æ¡ng 285: Máy Bắn Đá Ma Lực</text>
+        <text>Chương 285: Máy Bắn Đá Ma Lực</text>
       </navLabel>
       <content src="Text/C285.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-286" playOrder="286">
       <navLabel>
-        <text>ChÆ°Æ¡ng 286: Bộ Quân sự Nghèo Khó</text>
+        <text>Chương 286: Bộ Quân sự Nghèo Khó</text>
       </navLabel>
       <content src="Text/C286.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-287" playOrder="287">
       <navLabel>
-        <text>ChÆ°Æ¡ng 287: Đối Tượng Kết Hôn</text>
+        <text>Chương 287: Đối Tượng Kết Hôn</text>
       </navLabel>
       <content src="Text/C287.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-288" playOrder="288">
       <navLabel>
-        <text>ChÆ°Æ¡ng 288: Nông nghiệp Công nghiệp hoá</text>
+        <text>Chương 288: Nông nghiệp Công nghiệp hoá</text>
       </navLabel>
       <content src="Text/C288.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-289" playOrder="289">
       <navLabel>
-        <text>ChÆ°Æ¡ng 289: Hội trưởng Hứa Biến Đá Thành Vàng</text>
+        <text>Chương 289: Hội trưởng Hứa Biến Đá Thành Vàng</text>
       </navLabel>
       <content src="Text/C289.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-290" playOrder="290">
       <navLabel>
-        <text>ChÆ°Æ¡ng 290: Công Nghệ Cộng Hưởng Pháp Trận</text>
+        <text>Chương 290: Công Nghệ Cộng Hưởng Pháp Trận</text>
       </navLabel>
       <content src="Text/C290.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-291" playOrder="291">
       <navLabel>
-        <text>ChÆ°Æ¡ng 291: Nghĩ nhiều như vậy để làm gì?</text>
+        <text>Chương 291: Nghĩ nhiều như vậy để làm gì?</text>
       </navLabel>
       <content src="Text/C291.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-292" playOrder="292">
       <navLabel>
-        <text>ChÆ°Æ¡ng 292: Cuộc công phá kỹ thuật của tiểu thương hội</text>
+        <text>Chương 292: Cuộc công phá kỹ thuật của tiểu thương hội</text>
       </navLabel>
       <content src="Text/C292.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-293" playOrder="293">
       <navLabel>
-        <text>ChÆ°Æ¡ng 293: Quảng trường thành phố hoàn toàn mới</text>
+        <text>Chương 293: Quảng trường thành phố hoàn toàn mới</text>
       </navLabel>
       <content src="Text/C293.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-294" playOrder="294">
       <navLabel>
-        <text>ChÆ°Æ¡ng 294: Xây dựng hình ảnh thành phố</text>
+        <text>Chương 294: Xây dựng hình ảnh thành phố</text>
       </navLabel>
       <content src="Text/C294.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-295" playOrder="295">
       <navLabel>
-        <text>ChÆ°Æ¡ng 295: Tham vọng của Thành phố Bontar</text>
+        <text>Chương 295: Tham vọng của Thành phố Bontar</text>
       </navLabel>
       <content src="Text/C295.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-296" playOrder="296">
       <navLabel>
-        <text>ChÆ°Æ¡ng 296: Đầu óc anh làm bằng đá à?</text>
+        <text>Chương 296: Đầu óc anh làm bằng đá à?</text>
       </navLabel>
       <content src="Text/C296.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-297" playOrder="297">
       <navLabel>
-        <text>ChÆ°Æ¡ng 297: Chúng tôi cũng muốn thuê Elf</text>
+        <text>Chương 297: Chúng tôi cũng muốn thuê Elf</text>
       </navLabel>
       <content src="Text/C297.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-298" playOrder="298">
       <navLabel>
-        <text>ChÆ°Æ¡ng 298: Người lùn cũng cần sĩ diện</text>
+        <text>Chương 298: Người lùn cũng cần sĩ diện</text>
       </navLabel>
       <content src="Text/C298.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-299" playOrder="299">
       <navLabel>
-        <text>ChÆ°Æ¡ng 299: Con cá cắn câu</text>
+        <text>Chương 299: Con cá cắn câu</text>
       </navLabel>
       <content src="Text/C299.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-300" playOrder="300">
       <navLabel>
-        <text>ChÆ°Æ¡ng 300: Lợi thế của công nhân tộc Người thú</text>
+        <text>Chương 300: Lợi thế của công nhân tộc Người thú</text>
       </navLabel>
       <content src="Text/C300.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-301" playOrder="301">
       <navLabel>
-        <text>ChÆ°Æ¡ng 301: Vị thần mới</text>
+        <text>Chương 301: Vị thần mới</text>
       </navLabel>
       <content src="Text/C301.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-302" playOrder="302">
       <navLabel>
-        <text>ChÆ°Æ¡ng 302: Chiếc xe đạp không liên quan đến Ma pháp</text>
+        <text>Chương 302: Chiếc xe đạp không liên quan đến Ma pháp</text>
       </navLabel>
       <content src="Text/C302.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-303" playOrder="303">
       <navLabel>
-        <text>ChÆ°Æ¡ng 303: Kennard không thể thay thế</text>
+        <text>Chương 303: Kennard không thể thay thế</text>
       </navLabel>
       <content src="Text/C303.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-304" playOrder="304">
       <navLabel>
-        <text>ChÆ°Æ¡ng 304: Tòa tháp Đại Pháp Sư biến mất</text>
+        <text>Chương 304: Tòa tháp Đại Pháp Sư biến mất</text>
       </navLabel>
       <content src="Text/C304.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-305" playOrder="305">
       <navLabel>
-        <text>ChÆ°Æ¡ng 305: Bá tước Satsuma phải rời đi</text>
+        <text>Chương 305: Bá tước Satsuma phải rời đi</text>
       </navLabel>
       <content src="Text/C305.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-306" playOrder="306">
       <navLabel>
-        <text>ChÆ°Æ¡ng 306: Người Đại Diện</text>
+        <text>Chương 306: Người Đại Diện</text>
       </navLabel>
       <content src="Text/C306.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-307" playOrder="307">
       <navLabel>
-        <text>ChÆ°Æ¡ng 307: Lễ cưới</text>
+        <text>Chương 307: Lễ cưới</text>
       </navLabel>
       <content src="Text/C307.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-308" playOrder="308">
       <navLabel>
-        <text>ChÆ°Æ¡ng 308: Rùa rụt cổ</text>
+        <text>Chương 308: Rùa rụt cổ</text>
       </navLabel>
       <content src="Text/C308.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-309" playOrder="309">
       <navLabel>
-        <text>ChÆ°Æ¡ng 309: Tái cấu trúc Thương hội</text>
+        <text>Chương 309: Tái cấu trúc Thương hội</text>
       </navLabel>
       <content src="Text/C309.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-310" playOrder="310">
       <navLabel>
-        <text>ChÆ°Æ¡ng 310: Biểu hiện lập trường</text>
+        <text>Chương 310: Biểu hiện lập trường</text>
       </navLabel>
       <content src="Text/C310.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-311" playOrder="311">
       <navLabel>
-        <text>ChÆ°Æ¡ng 311: Người đại diện cho dị tộc</text>
+        <text>Chương 311: Người đại diện cho dị tộc</text>
       </navLabel>
       <content src="Text/C311.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-312" playOrder="312">
       <navLabel>
-        <text>ChÆ°Æ¡ng 312: Elf cũng muốn mở nhà máy</text>
+        <text>Chương 312: Elf cũng muốn mở nhà máy</text>
       </navLabel>
       <content src="Text/C312.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-313" playOrder="313">
       <navLabel>
-        <text>ChÆ°Æ¡ng 313: Ý nghĩa của việc mở xưởng</text>
+        <text>Chương 313: Ý nghĩa của việc mở xưởng</text>
       </navLabel>
       <content src="Text/C313.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-314" playOrder="314">
       <navLabel>
-        <text>ChÆ°Æ¡ng 314: Việc cuối cùng trước khi rời đi</text>
+        <text>Chương 314: Việc cuối cùng trước khi rời đi</text>
       </navLabel>
       <content src="Text/C314.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-315" playOrder="315">
       <navLabel>
-        <text>ChÆ°Æ¡ng 315: Năm trăm tinh nhuệ</text>
+        <text>Chương 315: Năm trăm tinh nhuệ</text>
       </navLabel>
       <content src="Text/C315.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-316" playOrder="316">
       <navLabel>
-        <text>ChÆ°Æ¡ng 316: Trận pháp tuyến ổn cố ngoại trang</text>
+        <text>Chương 316: Trận pháp tuyến ổn cố ngoại trang</text>
       </navLabel>
       <content src="Text/C316.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-317" playOrder="317">
       <navLabel>
-        <text>ChÆ°Æ¡ng 317: Ý tưởng về mạng lưới ma lực</text>
+        <text>Chương 317: Ý tưởng về mạng lưới ma lực</text>
       </navLabel>
       <content src="Text/C317.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-318" playOrder="318">
       <navLabel>
-        <text>ChÆ°Æ¡ng 318: Di dời toàn bộ</text>
+        <text>Chương 318: Di dời toàn bộ</text>
       </navLabel>
       <content src="Text/C318.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-319" playOrder="319">
       <navLabel>
-        <text>ChÆ°Æ¡ng 319: Yêu cầu của các thương hội nhỏ</text>
+        <text>Chương 319: Yêu cầu của các thương hội nhỏ</text>
       </navLabel>
       <content src="Text/C319.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-320" playOrder="320">
       <navLabel>
-        <text>ChÆ°Æ¡ng 320: Chiếc mũ thật lớn</text>
+        <text>Chương 320: Chiếc mũ thật lớn</text>
       </navLabel>
       <content src="Text/C320.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-321" playOrder="321">
       <navLabel>
-        <text>ChÆ°Æ¡ng 321: Anh chọn thân phận nào?</text>
+        <text>Chương 321: Anh chọn thân phận nào?</text>
       </navLabel>
       <content src="Text/C321.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-322" playOrder="322">
       <navLabel>
-        <text>ChÆ°Æ¡ng 322: Liên minh Thương mại danh tồn thực vong</text>
+        <text>Chương 322: Liên minh Thương mại danh tồn thực vong</text>
       </navLabel>
       <content src="Text/C322.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-323" playOrder="323">
       <navLabel>
-        <text>ChÆ°Æ¡ng 323: Tôi cố ý đấy</text>
+        <text>Chương 323: Tôi cố ý đấy</text>
       </navLabel>
       <content src="Text/C323.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-324" playOrder="324">
       <navLabel>
-        <text>ChÆ°Æ¡ng 324: Quyết định của Freeman</text>
+        <text>Chương 324: Quyết định của Freeman</text>
       </navLabel>
       <content src="Text/C324.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-325" playOrder="325">
       <navLabel>
-        <text>ChÆ°Æ¡ng 325: Lần đầu gặp Yanis, cô ấy rất cao ngạo</text>
+        <text>Chương 325: Lần đầu gặp Yanis, cô ấy rất cao ngạo</text>
       </navLabel>
       <content src="Text/C325.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-326" playOrder="326">
       <navLabel>
-        <text>ChÆ°Æ¡ng 326: Tử tước và lãnh địa</text>
+        <text>Chương 326: Tử tước và lãnh địa</text>
       </navLabel>
       <content src="Text/C326.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-327" playOrder="327">
       <navLabel>
-        <text>ChÆ°Æ¡ng 327: Lưu giữ ngọn lửa (hết quyển 2)</text>
+        <text>Chương 327: Lưu giữ ngọn lửa (hết quyển 2)</text>
       </navLabel>
       <content src="Text/C327.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-328" playOrder="328">
       <navLabel>
-        <text>ChÆ°Æ¡ng 328: Tình hình chiến sự đảo ngược ở biên giới</text>
+        <text>Chương 328: Tình hình chiến sự đảo ngược ở biên giới</text>
       </navLabel>
       <content src="Text/C328.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-329" playOrder="329">
       <navLabel>
-        <text>ChÆ°Æ¡ng 329: Những suy nghĩ khác biệt hai bên sườn núi</text>
+        <text>Chương 329: Những suy nghĩ khác biệt hai bên sườn núi</text>
       </navLabel>
       <content src="Text/C329.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-330" playOrder="330">
       <navLabel>
-        <text>ChÆ°Æ¡ng 330: Vị Bá tước đau đầu</text>
+        <text>Chương 330: Vị Bá tước đau đầu</text>
       </navLabel>
       <content src="Text/C330.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-331" playOrder="331">
       <navLabel>
-        <text>ChÆ°Æ¡ng 331: Diễn kịch cho Thành chủ xem</text>
+        <text>Chương 331: Diễn kịch cho Thành chủ xem</text>
       </navLabel>
       <content src="Text/C331.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-332" playOrder="332">
       <navLabel>
-        <text>ChÆ°Æ¡ng 332: Thành phố Bontar Chìm Trong Bóng Tối</text>
+        <text>Chương 332: Thành phố Bontar Chìm Trong Bóng Tối</text>
       </navLabel>
       <content src="Text/C332.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-333" playOrder="333">
       <navLabel>
-        <text>ChÆ°Æ¡ng 333: Chào mừng đến Vương quốc Rulson đầu tư</text>
+        <text>Chương 333: Chào mừng đến Vương quốc Rulson đầu tư</text>
       </navLabel>
       <content src="Text/C333.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-334" playOrder="334">
       <navLabel>
-        <text>ChÆ°Æ¡ng 334: Trong Mắt Chỉ Có Lãnh Chúa</text>
+        <text>Chương 334: Trong Mắt Chỉ Có Lãnh Chúa</text>
       </navLabel>
       <content src="Text/C334.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-335" playOrder="335">
       <navLabel>
-        <text>ChÆ°Æ¡ng 335: Nguồn cung cấp trang bị dồi dào</text>
+        <text>Chương 335: Nguồn cung cấp trang bị dồi dào</text>
       </navLabel>
       <content src="Text/C335.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-336" playOrder="336">
       <navLabel>
-        <text>ChÆ°Æ¡ng 336: Mũi tên nhựa</text>
+        <text>Chương 336: Mũi tên nhựa</text>
       </navLabel>
       <content src="Text/C336.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-337" playOrder="337">
       <navLabel>
-        <text>ChÆ°Æ¡ng 337: Khái niệm sống mới</text>
+        <text>Chương 337: Khái niệm sống mới</text>
       </navLabel>
       <content src="Text/C337.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-338" playOrder="338">
       <navLabel>
-        <text>ChÆ°Æ¡ng 338: Trải nghiệm cuộc sống mới</text>
+        <text>Chương 338: Trải nghiệm cuộc sống mới</text>
       </navLabel>
       <content src="Text/C338.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-339" playOrder="339">
       <navLabel>
-        <text>ChÆ°Æ¡ng 339: Thương vụ đầu tiên của Delisle</text>
+        <text>Chương 339: Thương vụ đầu tiên của Delisle</text>
       </navLabel>
       <content src="Text/C339.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-340" playOrder="340">
       <navLabel>
-        <text>ChÆ°Æ¡ng 340: Điểm tăng trưởng lợi nhuận mới</text>
+        <text>Chương 340: Điểm tăng trưởng lợi nhuận mới</text>
       </navLabel>
       <content src="Text/C340.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-341" playOrder="341">
       <navLabel>
-        <text>ChÆ°Æ¡ng 341: Đầu tư vào tộc Người thú</text>
+        <text>Chương 341: Đầu tư vào tộc Người thú</text>
       </navLabel>
       <content src="Text/C341.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-342" playOrder="342">
       <navLabel>
-        <text>ChÆ°Æ¡ng 342: Công quốc Delac</text>
+        <text>Chương 342: Công quốc Delac</text>
       </navLabel>
       <content src="Text/C342.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-343" playOrder="343">
       <navLabel>
-        <text>ChÆ°Æ¡ng 343: Yêu cầu của Bá tước Stark</text>
+        <text>Chương 343: Yêu cầu của Bá tước Stark</text>
       </navLabel>
       <content src="Text/C343.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-344" playOrder="344">
       <navLabel>
-        <text>ChÆ°Æ¡ng 344: Mượn trọ</text>
+        <text>Chương 344: Mượn trọ</text>
       </navLabel>
       <content src="Text/C344.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-345" playOrder="345">
       <navLabel>
-        <text>ChÆ°Æ¡ng 345: Bá tước Stark sắp không chịu đựng nổi nữa</text>
+        <text>Chương 345: Bá tước Stark sắp không chịu đựng nổi nữa</text>
       </navLabel>
       <content src="Text/C345.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-346" playOrder="346">
       <navLabel>
-        <text>ChÆ°Æ¡ng 346: Cái gì cũng có thể đem ra trao đổi</text>
+        <text>Chương 346: Cái gì cũng có thể đem ra trao đổi</text>
       </navLabel>
       <content src="Text/C346.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-347" playOrder="347">
       <navLabel>
-        <text>ChÆ°Æ¡ng 347: Xây dựng một Thành phố Bontar khác</text>
+        <text>Chương 347: Xây dựng một Thành phố Bontar khác</text>
       </navLabel>
       <content src="Text/C347.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-348" playOrder="348">
       <navLabel>
-        <text>ChÆ°Æ¡ng 348: Quyết tâm của Caroline</text>
+        <text>Chương 348: Quyết tâm của Caroline</text>
       </navLabel>
       <content src="Text/C348.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-349" playOrder="349">
       <navLabel>
-        <text>ChÆ°Æ¡ng 349: Kế hoạch 5 năm</text>
+        <text>Chương 349: Kế hoạch 5 năm</text>
       </navLabel>
       <content src="Text/C349.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-350" playOrder="350">
       <navLabel>
-        <text>ChÆ°Æ¡ng 350: Giải Đua Xe đạp Đường trường Tân Phi</text>
+        <text>Chương 350: Giải Đua Xe đạp Đường trường Tân Phi</text>
       </navLabel>
       <content src="Text/C350.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-351" playOrder="351">
       <navLabel>
-        <text>ChÆ°Æ¡ng 351: Đổi chỗ gieo trồng</text>
+        <text>Chương 351: Đổi chỗ gieo trồng</text>
       </navLabel>
       <content src="Text/C351.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-352" playOrder="352">
       <navLabel>
-        <text>ChÆ°Æ¡ng 352: Niềm vui của Trưởng lão Alucia</text>
+        <text>Chương 352: Niềm vui của Trưởng lão Alucia</text>
       </navLabel>
       <content src="Text/C352.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-353" playOrder="353">
       <navLabel>
-        <text>ChÆ°Æ¡ng 353: Hành động chung</text>
+        <text>Chương 353: Hành động chung</text>
       </navLabel>
       <content src="Text/C353.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-354" playOrder="354">
       <navLabel>
-        <text>ChÆ°Æ¡ng 354: Đập tan sự phản kháng của Chủng tộc Người thú</text>
+        <text>Chương 354: Đập tan sự phản kháng của Chủng tộc Người thú</text>
       </navLabel>
       <content src="Text/C354.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-355" playOrder="355">
       <navLabel>
-        <text>ChÆ°Æ¡ng 355: Sự áp đảo</text>
+        <text>Chương 355: Sự áp đảo</text>
       </navLabel>
       <content src="Text/C355.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-356" playOrder="356">
       <navLabel>
-        <text>ChÆ°Æ¡ng 356: Đằng sau chiến quả đáng kinh ngạc</text>
+        <text>Chương 356: Đằng sau chiến quả đáng kinh ngạc</text>
       </navLabel>
       <content src="Text/C356.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-357" playOrder="357">
       <navLabel>
-        <text>ChÆ°Æ¡ng 357: Lại đến xin xỏ lợi ích?</text>
+        <text>Chương 357: Lại đến xin xỏ lợi ích?</text>
       </navLabel>
       <content src="Text/C357.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-358" playOrder="358">
       <navLabel>
-        <text>ChÆ°Æ¡ng 358: Di dân</text>
+        <text>Chương 358: Di dân</text>
       </navLabel>
       <content src="Text/C358.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-359" playOrder="359">
       <navLabel>
-        <text>ChÆ°Æ¡ng 359: Ảnh hưởng từ quyền tự do thương mại</text>
+        <text>Chương 359: Ảnh hưởng từ quyền tự do thương mại</text>
       </navLabel>
       <content src="Text/C359.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-360" playOrder="360">
       <navLabel>
-        <text>ChÆ°Æ¡ng 360: Hay là cá cược một phen?</text>
+        <text>Chương 360: Hay là cá cược một phen?</text>
       </navLabel>
       <content src="Text/C360.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-361" playOrder="361">
       <navLabel>
-        <text>ChÆ°Æ¡ng 361: Những điều muốn làm</text>
+        <text>Chương 361: Những điều muốn làm</text>
       </navLabel>
       <content src="Text/C361.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-362" playOrder="362">
       <navLabel>
-        <text>ChÆ°Æ¡ng 362: Cô gái gặp rắc rối</text>
+        <text>Chương 362: Cô gái gặp rắc rối</text>
       </navLabel>
       <content src="Text/C362.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-363" playOrder="363">
       <navLabel>
-        <text>ChÆ°Æ¡ng 363: Chúng tôi muốn thử một chút</text>
+        <text>Chương 363: Chúng tôi muốn thử một chút</text>
       </navLabel>
       <content src="Text/C363.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-364" playOrder="364">
       <navLabel>
-        <text>ChÆ°Æ¡ng 364: So sánh giữa nông dân hai nước</text>
+        <text>Chương 364: So sánh giữa nông dân hai nước</text>
       </navLabel>
       <content src="Text/C364.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-365" playOrder="365">
       <navLabel>
-        <text>ChÆ°Æ¡ng 365: Cảng biển</text>
+        <text>Chương 365: Cảng biển</text>
       </navLabel>
       <content src="Text/C365.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-366" playOrder="366">
       <navLabel>
-        <text>ChÆ°Æ¡ng 366: Chẳng coi họ là công nhân chính thức</text>
+        <text>Chương 366: Chẳng coi họ là công nhân chính thức</text>
       </navLabel>
       <content src="Text/C366.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-367" playOrder="367">
       <navLabel>
-        <text>ChÆ°Æ¡ng 367: Đặc quyền</text>
+        <text>Chương 367: Đặc quyền</text>
       </navLabel>
       <content src="Text/C367.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-368" playOrder="368">
       <navLabel>
-        <text>ChÆ°Æ¡ng 368: Rốt cuộc thì khi nào mới chế tạo xong được?</text>
+        <text>Chương 368: Rốt cuộc thì khi nào mới chế tạo xong được?</text>
       </navLabel>
       <content src="Text/C368.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-369" playOrder="369">
       <navLabel>
-        <text>ChÆ°Æ¡ng 369: Bí mật của Elf</text>
+        <text>Chương 369: Bí mật của Elf</text>
       </navLabel>
       <content src="Text/C369.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-370" playOrder="370">
       <navLabel>
-        <text>ChÆ°Æ¡ng 370: Hiện Tượng Kỳ Lạ</text>
+        <text>Chương 370: Hiện Tượng Kỳ Lạ</text>
       </navLabel>
       <content src="Text/C370.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-371" playOrder="371">
       <navLabel>
-        <text>ChÆ°Æ¡ng 371: Lời tán dương của các Đại Pháp Sư</text>
+        <text>Chương 371: Lời tán dương của các Đại Pháp Sư</text>
       </navLabel>
       <content src="Text/C371.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-372" playOrder="372">
       <navLabel>
-        <text>ChÆ°Æ¡ng 372: Việc công và việc riêng</text>
+        <text>Chương 372: Việc công và việc riêng</text>
       </navLabel>
       <content src="Text/C372.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-373" playOrder="373">
       <navLabel>
-        <text>ChÆ°Æ¡ng 373: Giao dịch</text>
+        <text>Chương 373: Giao dịch</text>
       </navLabel>
       <content src="Text/C373.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-374" playOrder="374">
       <navLabel>
-        <text>ChÆ°Æ¡ng 374: Lễ Rửa Tội Của Nguyệt Thần</text>
+        <text>Chương 374: Lễ Rửa Tội Của Nguyệt Thần</text>
       </navLabel>
       <content src="Text/C374.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-375" playOrder="375">
       <navLabel>
-        <text>ChÆ°Æ¡ng 375: Tôi Cũng Là Pháp Sư</text>
+        <text>Chương 375: Tôi Cũng Là Pháp Sư</text>
       </navLabel>
       <content src="Text/C375.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-376" playOrder="376">
       <navLabel>
-        <text>ChÆ°Æ¡ng 376: Máy thử nghiệm</text>
+        <text>Chương 376: Máy thử nghiệm</text>
       </navLabel>
       <content src="Text/C376.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-377" playOrder="377">
       <navLabel>
-        <text>ChÆ°Æ¡ng 377: Kỹ thuật hàn ma lực</text>
+        <text>Chương 377: Kỹ thuật hàn ma lực</text>
       </navLabel>
       <content src="Text/C377.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-378" playOrder="378">
       <navLabel>
-        <text>ChÆ°Æ¡ng 378: Một Ev</text>
+        <text>Chương 378: Một Ev</text>
       </navLabel>
       <content src="Text/C378.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-379" playOrder="379">
       <navLabel>
-        <text>ChÆ°Æ¡ng 379: Nghi ngờ về lý tưởng</text>
+        <text>Chương 379: Nghi ngờ về lý tưởng</text>
       </navLabel>
       <content src="Text/C379.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-380" playOrder="380">
       <navLabel>
-        <text>ChÆ°Æ¡ng 380: Dự án Kênh đào được khởi động lại</text>
+        <text>Chương 380: Dự án Kênh đào được khởi động lại</text>
       </navLabel>
       <content src="Text/C380.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-381" playOrder="381">
       <navLabel>
-        <text>ChÆ°Æ¡ng 381: Những người đón Tết xa nhà</text>
+        <text>Chương 381: Những người đón Tết xa nhà</text>
       </navLabel>
       <content src="Text/C381.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-382" playOrder="382">
       <navLabel>
-        <text>ChÆ°Æ¡ng 382: Quyết tâm của Tử tước Leslie</text>
+        <text>Chương 382: Quyết tâm của Tử tước Leslie</text>
       </navLabel>
       <content src="Text/C382.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-383" playOrder="383">
       <navLabel>
-        <text>ChÆ°Æ¡ng 383: Phân bón</text>
+        <text>Chương 383: Phân bón</text>
       </navLabel>
       <content src="Text/C383.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-384" playOrder="384">
       <navLabel>
-        <text>ChÆ°Æ¡ng 384: Lại muốn đổi Thành chủ?</text>
+        <text>Chương 384: Lại muốn đổi Thành chủ?</text>
       </navLabel>
       <content src="Text/C384.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-385" playOrder="385">
       <navLabel>
-        <text>ChÆ°Æ¡ng 385: Sao cứ phải trồng trọt?</text>
+        <text>Chương 385: Sao cứ phải trồng trọt?</text>
       </navLabel>
       <content src="Text/C385.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-386" playOrder="386">
       <navLabel>
-        <text>ChÆ°Æ¡ng 386: Rời đi</text>
+        <text>Chương 386: Rời đi</text>
       </navLabel>
       <content src="Text/C386.xhtml"/>
     </navPoint>
