@@ -4,6 +4,10 @@ Tài liệu này là bản tương đương của [GEMINI.md](GEMINI.md) nhưng 
 
 **Truyện hiện tại:** Huyền Giám Tiên Tộc — **branch Git dùng riêng cho truyện này: `huyen-giam-tien-toc`**. Luôn kiểm tra `git branch --show-current` đúng là branch này trước khi dịch/commit/push; đừng push nhầm sang `master` hay branch `template`.
 
+**Kiểm tra Auto Mode trước khi tự chạy toàn bộ pipeline:** "Auto Mode" (chạy tự động, không dừng lại hỏi xác nhận từng bước) là chế độ do user bật khi khởi động phiên (chọn permission mode/chạy `/loop`...) — **agent không tự bật được** chế độ này cho chính mình. Đầu mỗi phiên, kiểm tra xem có system-reminder "Auto Mode Active" hay không:
+- **Có** → được phép tự chạy trọn Bước 1→6 ở mục 3 mà không cần hỏi lại từng bước (kể cả commit/push), miễn vẫn tuân thủ giới hạn retry ở mục 4.
+- **Chưa có** (phiên thường, permission mode mặc định) → vẫn dịch bình thường theo pipeline, nhưng phải xác nhận với user trước các hành động khó đảo ngược/ảnh hưởng shared state (đặc biệt `git push`) trước khi thực hiện, thay vì tự động làm hết như khi có Auto Mode.
+
 ---
 
 ## 📌 1. CẤU TRÚC DỰ ÁN & CẤU HÌNH
@@ -19,7 +23,9 @@ Tài liệu này là bản tương đương của [GEMINI.md](GEMINI.md) nhưng 
   - `TRANSLATE_PROMPT.md` — prompt mẫu cho subagent dịch.
   - `AUTONOMOUS_PLAN.md` — kế hoạch chạy vòng lặp tự động dài hạn (đã viết cho Antigravity `schedule`; khi chạy bằng Claude Code hãy dùng `ScheduleWakeup`/skill `loop` thay thế, xem mục 4).
 - `scratchpad/qa_chapters.ps1` — script QA (kiểm CJK sót, mojibake, lệch đoạn, trùng lặp, tỉ lệ độ dài).
+- `scratchpad/qa_chapters.py` — **bản port Python 1:1 của `qa_chapters.ps1`** (đã verify byte-for-byte cùng logic, cùng pattern mojibake, cùng ngưỡng FAIL/WARN), dùng khi QA phải chạy trên môi trường Linux/cloud không có PowerShell (xem mục 5 — 2 cloud routine tự động). Cách chạy: `python3 scratchpad/qa_chapters.py --start <N> --end <M>` (fallback `python` nếu không có `python3`), output CSV cùng định dạng tại `scratchpad/qa_output.csv`. Trên máy Windows local vẫn ưu tiên dùng bản `.ps1` như mục 3 mô tả.
 - `scratchpad/build_epub_full.ps1` — đóng gói EPUB từ toàn bộ `chapters_out/`.
+- `scratchpad/build_epub_full.py` — bản port Python (Linux/bash-safe) của `build_epub_full.ps1`, dùng khi build EPUB phải chạy trên môi trường cloud/Linux không có PowerShell (xem mục 5 — cloud routine). Cách chạy: `python3 scratchpad/build_epub_full.py` (fallback `python`). Đọc `first_new_chapter_vi`/`last_done_vi`/`book_title`/`book_file_prefix` từ `memo/PROGRESS.json`, lấy asset (cover, css, cover.xhtml) từ `scratchpad/epub_assets/`, xuất ra `{book_file_prefix} - Chuong {first}-{last}.epub` ở root repo. Đã verify tạo ra file zip/epub hợp lệ.
 
 Công thức số chương: **`Zh_Chapter = Vi_Chapter + offset_zh_minus_vi`** (đọc `offset_zh_minus_vi` từ `PROGRESS.json`).
 
@@ -98,6 +104,15 @@ Bất kỳ hành động nào có thể thất bại (git push/pull bị reject,
 `memo/AUTONOMOUS_PLAN.md` viết cho Antigravity CLI (`invoke_subagent`, `schedule`). Khi chạy vòng lặp tự động bằng Claude Code:
 - Dùng skill `loop` (`/loop`) hoặc tool `ScheduleWakeup` để tự đặt lịch thức dậy dịch batch tiếp theo, thay vì cú pháp `schedule(DurationSeconds=..., TimerCondition="never")`.
 - Mỗi lần "thức dậy": lặp lại đúng Bước 1→6 ở mục 3 (đọc `PROGRESS.json` → chia cụm 5 chương/Agent Sonnet → QA 1 lượt cho cả dải → cập nhật memo → commit+push 1 lượt) rồi mới đặt lịch thức dậy kế tiếp.
+
+### 5.1 Cloud routine đang chạy (tạo qua skill `schedule`/tool `RemoteTrigger`)
+
+Để dịch tự động ngay cả khi máy Windows local tắt/không mở phiên Claude Code, đã tạo **1 cloud routine** (cloud session cô lập, clone repo từ GitHub, chạy trên môi trường Linux — do đó **không có PowerShell**, xem ngoại lệ bên dưới). Routine này dịch tiếp **25 chương** mỗi lần chạy (5 cụm × 5 chương/Agent Sonnet), QA, cập nhật memo, commit + push lên `huyen-giam-tien-toc`:
+- **`HuyenGiamTienToc - Dich 25 chuong (moi 5h)`** — id `trig_01VTyAKTZgU5x2cxxj5DfpkQ`, cron `53 */5 * * *` (chạy lúc 00:53, 05:53, 10:53, 15:53, 20:53 UTC = 07:53, 12:53, 17:53, 22:53, 03:53 Asia/Saigon — 5 lần/ngày, cách nhau 5h, riêng khoảng 20:53→00:53 hôm sau chỉ cách 4h vì 24h không chia hết cho 5).
+- Chỉ 1 routine duy nhất chạy pipeline này (đã tắt phương án 2-routine trước đó để đơn giản và tránh dễ chạm rate limit khi 2 routine cùng gọi nhiều subagent song song).
+- Quản lý (xem/sửa/tắt/xoá) tại https://claude.ai/code/routines — Claude không tự xoá routine được, chỉ có thể `update` (đổi cron/enabled) qua `RemoteTrigger`.
+- **Ngoại lệ bắt buộc cho cloud routine** (đã ghi trong prompt của routine): dùng `scratchpad/qa_chapters.py` (Python) thay cho `qa_chapters.ps1` ở Bước 3, và `scratchpad/build_epub_full.py` thay cho `build_epub_full.ps1` ở Bước 4 — routine chạy build EPUB **mỗi lần** sau khi QA sạch, commit luôn file `.epub` mới cùng `chapters_out/`+`memo/` (Python script tự dọn EPUB cũ cùng prefix, không để tích file rác).
+- Mỗi lần thức dậy đều bắt buộc `git pull --rebase` trước khi đọc `PROGRESS.json` và trước khi push, để không dẫm lên tiến độ dịch thủ công ở máy local.
 
 ---
 

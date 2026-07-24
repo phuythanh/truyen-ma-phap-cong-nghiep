@@ -2,12 +2,6 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "permissions": {
     "defaultMode": "acceptEdits",
-    "ask": [
-      "Bash(git push:*)",
-      "Bash(git push)",
-      "PowerShell(git push:*)",
-      "PowerShell(git push)"
-    ],
     "allow": [
       "Read",
       "Glob",
@@ -51,7 +45,8 @@
       "PowerShell(Select-String:*)",
       "PowerShell(Select-Xml:*)",
       "PowerShell(Test-Path:*)",
-      "PowerShell(Write-Output:*)"
+      "PowerShell(Write-Output:*)",
+      "Bash(git *)"
     ]
   },
   "hooks": {
