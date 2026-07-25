@@ -52,3 +52,20 @@
 - **Trì Bộ Tử & Huyền Đam Thái Âm Bạch Nguyệt Quế Chi:** Đại Chân Nhân Thanh Trì lấy được trọng bảo thất truyền của Thuần Nhất Đảo bằng thủ đoạn bí mật giết một Liên Mẫn.
 - **Trường Tiêu (Nhan Kiến Tiêu):** Đại chân nhân phương Bắc tái xuất sau nhiều năm mất tích, cảnh báo nguy cơ đại chiến Trường Tiêu Môn với Thái Dương đạo thống.
 - **Lưu ý dữ liệu nguồn:** chapters_zh/0914.txt (tương ứng ch.1722-1723) chứa gộp 2 chương do lỗi thu thập dữ liệu gốc — đã được dịch tách đúng thành 1722.md và 1723.md; chapters_zh/0912.txt-0913.txt có tên nhân vật "李承?" bị khuyết ký tự trong nguyên văn, tạm dịch "Lý Thừa" giữ nguyên phần khuyết.
+
+## 📌 TÓM TẮT BỐI CẢNH CẬP NHẬT: CHƯƠNG 1729 - 1738
+
+### 1. Diễn biến cốt truyện chính:
+- **Trấn Đào Phủ & Động Lộ Nguyên Thủy (1729):** Lý Hi Minh dò theo bản đồ cổ tới cặp đảo Lộc Lai - Trường Trụ ở Quần Di, tìm ra động phủ ẩn giấu Trấn Đào Phủ của một Phủ Thủy tu sĩ đã mất tích từ lâu, dùng viên châu thần thức của Lục Giang Tiên phá trận, thu được linh vật quý Động Lộ Nguyên Thủy (tức Huyền Hồ Nhất Khí Động Nguyên) và chiếm được luôn đại trận Tử Phủ Huyền Nguyên Trấn Phủ Linh Trận trong động.
+- **Cao Phục & Đinh Lan - hậu trường phương Bắc (1730-1731):** Cao Phục (Bột Liệt Vương) đích thân tới đón hài cốt trưởng bối Giang Hồ Tử tại Phù Vân Động; Lý Chu Vi cảnh giác trước hàm ý chính trị Cao-Lý bất hòa, nghi ngờ có kẻ giấu mặt muốn khoét sâu mâu thuẫn hai nhà giữa lúc Thái Dương đạo thống nhạy cảm.
+- **Phục Huân & Chu La Quốc (1732-1734, 1738):** Lý Hi Minh cùng Lý Hi Tuấn/Lý Huyền Tuyên gặp Đại Sa Bà Vương Phục Huân tại Tây Bà Quốc (Bà La Đóa), qua trung gian Lưu Trường Điệp (nhân vật có quan hệ cũ với gia đình Lý Hi Minh) để xin linh hỏa Hồng Trĩ Xung Ly Diễm từ thần chim Họa Dương của Chu La Quốc — dòng dõi từng một thời hùng cứ Bà La Đóa, nay suy vi trước Bách Giá Quốc.
+- **Hoài Giang Đạo & thế cục Nam-Bắc (1735-1738):** Phương Bắc lập ra Hoài Giang Đạo mới, Nghiệp Cối được cử làm Trị Huyền Chính Đạo tại Trị Huyền Tạ, lập tức lên kinh gặp Vệ Huyền Nhân, tình hình chưa rõ ràng. Chân nhân Thiên Hoắc (con út tông chủ Kim Vũ Tông) tới thăm Lý Chu Vi tại Vọng Nguyệt Hồ, trả ơn bằng cách trao Lân Quang Huy Dương Đan Quyển (bản gốc thuật luyện đan Quang Chiếu Kỳ Lân Luyện Pháp) đổi lại việc Kim Vũ Tông từng mượn dùng đệ tử Tô Yến (mang dấu ấn truyền thừa Giang Hà Đại Lăng Kinh của nhà họ Trần) để giải khóa cổ tịch lấy từ nhà họ Lý. Thiên Hoắc úp mở cảnh báo có "quý khách" lớn sắp tới cả Giang Bắc lẫn Giang Nam.
+- **Lý Hi Minh về Hổ Di luyện đan (cuối 1738):** Sau khi lấy được linh vật ở Tây Bà Quốc, Lý Hi Minh trở về Hổ Di, vào Quý Độ Điện chuẩn bị khai lò luyện 15 viên đan cho Định Dương Tử bằng linh hỏa Thương Châu Hủy Lân vừa thu được, chờ đạo hữu Thanh Diễn tới.
+
+### 2. Các nhân vật & Địa danh/Pháp bảo mới:
+- **Phục Huân (Đại Sa Bà Vương) & Họa Dương:** Vua yêu tộc cai quản Tây Bà Quốc/Bà La Đóa; Họa Dương là thần điểu tu Ly hỏa, chủ nhân thực sự của linh hỏa Hồng Trĩ Xung Ly Diễm, hậu duệ dòng dõi từng hùng cứ Bà La Đóa.
+- **Lưu Trường Điệp:** Nhân vật mới, có quan hệ cũ (qua con gái) với Lý Hi Minh, tu Kho Kim (Phủ Kim), đóng vai trung gian dẫn dắt tại Tây Bà Quốc và Hổ Di.
+- **Chân nhân Thiên Hoắc:** Con út tông chủ Kim Vũ Tông, tính tình phóng túng nhưng hành xử chu đáo, mang tin tức chính trị Hoài Giang Đạo và trao đổi bảo vật với Lý Chu Vi.
+- **Trấn Đào Phủ & Động Lộ Nguyên Thủy:** Động phủ cổ của một Phủ Thủy tu sĩ ẩn tại đảo Trường Trụ; Động Lộ Nguyên Thủy (Huyền Hồ Nhất Khí Động Nguyên) là linh thủy hiếm, được Lý Hi Minh thu về cùng đại trận Huyền Nguyên Trấn Phủ Linh Trận.
+- **Hoài Giang Đạo & Trị Huyền Tạ:** Đạo thống mới lập ở phương Bắc; Nghiệp Cối được đề bạt làm Trị Huyền Chính Đạo, cho thấy tham vọng chính trị của y tiếp tục mở rộng.
+- **Lưu ý dịch thuật:** Tên địa danh 婆罗埵 dịch thống nhất là "Bà La Đóa" (đã sửa một chỗ dịch lệch "Đỏa" trong ch.1734 cho khớp toàn bộ).
