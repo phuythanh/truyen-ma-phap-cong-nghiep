@@ -87,3 +87,12 @@
 - **Diệu Tuệ Tu, Thanh Diễn, Vọng Tấn Huyền Diễn Đan:** Tuyến truyện phụ Phục Huân/Tây Bà Quốc tiếp diễn — Lý Hi Minh hoàn thành đan dược khó nhất từ trước đến nay cho Phục Huân.
 - **Chu Cung bị trọng thương:** Đồng minh ma tu của Đinh Lan tại Đông Hải trúng độc Quyết Âm, cần Lý Hi Minh (Chiêu Cảnh chân nhân) tới cứu chữa — plot hook cho các chương tiếp theo.
 - **Lưu ý dữ liệu nguồn:** Cuối ch.1747 nguồn gốc (0939.txt) có một dòng quảng cáo phân trang website không thuộc nội dung truyện, đã lược bỏ khi dịch (không tính vào lệch đoạn).
+
+## 📌 TÓM TẮT BỐI CẢNH CẬP NHẬT: CHƯƠNG 1749 - 1751
+
+### 1. Diễn biến cốt truyện chính:
+- **Nội bộ Lý gia — thế hệ Trúc Cơ (1749-1750):** Xoay quanh nhánh đích hệ họ Lý tại Vọng Nguyệt Hồ: Lý Chu Đạt (thừa kế y bát Lý Thừa Trất) và Lý Chu Thoái tranh đua ngấm ngầm, Lý Chu Tốn (người từng từ bỏ quyền kế thừa) đứng giữa hòa giải. Lý Chu Minh (ngũ công tử của Lý Huyền Tuyên) vừa đột phá lên Tiên Cơ, cùng phu nhân Hạ Thụ Ngư. Có nhắc lại việc Lý Giáng Lương (con Lý Chu Vi) có quan hệ tình cảm với Dương Điền U (nhà họ Dương/Đế Duệ) — cho thấy mạng lưới thông gia giữa các thế gia lớn.
+- **Sự vụ Chu Cung & Mật Phiếm (1751):** Làm rõ thêm bối cảnh Chu Cung trúng độc Quyết Âm là do ma tu phương Bắc Chúc Khôi hại; nhắc tới di sản đan sư quá cố Thôi Ngạc (tác giả gốc Lân Quang Huy Dương Đan Quyển) và đạo thống Mật Phiếm.
+- **Giải mã bí ẩn glossary cũ:** Nguồn chương 1750/1751 xác nhận ký tự khuyết trong "李承?" (đã ghi chú treo từ ch.912-913) chính là 晊, chốt tên "Lý Thừa Trất" — thay thế placeholder "Lý Thừa" cũ.
+
+### 2. Các nhân vật mới: xem GLOSSARY.tsv (Lý Chu Đạt, Lý Chu Tốn, Lý Chu Minh, Lý Giáng Lương/Thuần/Niên, Dương Điền U, Chúc Khôi, Thôi Ngạc — nhánh nhân vật phụ mở rộng gia tộc họ Lý và tuyến Chu Cung/Mật Phiếm).

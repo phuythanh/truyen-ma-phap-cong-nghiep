@@ -4,7 +4,7 @@
   "git_branch": "huyen-giam-tien-toc",
   "offset_zh_minus_vi": -808,
   "first_new_chapter_vi": 1634,
-  "last_done_vi": 1748,
-  "note": "Cấu hình dịch tiếp từ chương 1634 tiếng Việt (tương ứng chương 826 tiếng Trung: Giải hoặc). Offset = 826 - 1634 = -808. Lưu ý: chapters_zh/0914.txt gộp 2 chương do lỗi thu thập dữ liệu (đã dịch tách thành ch.1722 và 1723 tiếng Việt); chapters_zh/0912-0913.txt có tên nhân vật khuyết ký tự trong nguyên văn. chapters_zh/0939.txt (ch.1747) có 1 dòng quảng cáo phân trang website đã lược bỏ khi dịch.",
-  "next_action": "Dịch chương 1749"
+  "last_done_vi": 1751,
+  "note": "Cấu hình dịch tiếp từ chương 1634 tiếng Việt (tương ứng chương 826 tiếng Trung: Giải hoặc). Offset = 826 - 1634 = -808. Lưu ý: chapters_zh/0914.txt gộp 2 chương do lỗi thu thập dữ liệu (đã dịch tách thành ch.1722 và 1723 tiếng Việt); chapters_zh/0912-0913.txt và 0942.txt có tên nhân vật khuyết ký tự '李承?' trong nguyên văn — đã giải mã là 晊 (Lý Thừa Trất) từ ch.1751, chốt tên chính thức. chapters_zh/0939.txt (ch.1747) có 1 dòng quảng cáo phân trang website đã lược bỏ khi dịch, tương tự 0942.txt/0943.txt (ch.1750-1751).",
+  "next_action": "Dịch chương 1752"
 }
