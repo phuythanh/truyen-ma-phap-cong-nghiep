@@ -43,7 +43,19 @@
 
 ---
 
-## 📝 5. FORMAT ĐẦU RA (MẶC ĐỊNH)
+## 📖 5. THÀNH NGỮ / ĐIỂN CỐ XA LẠ (BÀI HỌC KINH NGHIỆM)
+- Thành ngữ 4 chữ hoặc điển cố Hán Việt không thông dụng trong tiếng Việt: KHÔNG dịch cứng theo âm Hán Việt/nghĩa đen rồi để nguyên, vì độc giả Việt sẽ không hiểu ẩn ý.
+- Chêm giải thích ngắn gọn, tự nhiên ngay trong câu văn (không dùng chú thích/footnote, không phá vỡ mạch kể) để truyền tải đúng ý nghĩa.
+- Thành ngữ đã quen thuộc với người Việt (họa vô đơn chí, một mất một còn, thân bại danh liệt...) thì dịch bình thường, không cần giải thích thêm.
+
+---
+
+## 🗑️ 6. LOẠI BỎ RÁC QUẢNG CÁO WEBSITE NGUỒN
+- Một số chương gốc có lẫn câu quảng cáo phân trang kiểu "本章未完，请点击下一页继续阅读" (biến thể: "chương này chưa xong/chưa hết, mời bấm trang tiếp theo để đọc tiếp nội dung đặc sắc..."). Đây không phải nội dung truyện — loại bỏ hoàn toàn, không dịch, không giữ lại trong bản dịch.
+
+---
+
+## 📝 7. FORMAT ĐẦU RA (MẶC ĐỊNH)
 - **Dòng 1:** `Chương {N}: {Tiêu đề dịch}` (Ví dụ: `Chương 1: Khởi đầu`).
 - **Dòng 2:** Để trống.
 - **Dòng 3 trở đi:** Nội dung dịch.

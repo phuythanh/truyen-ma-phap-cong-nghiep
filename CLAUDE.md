@@ -38,7 +38,9 @@ Công thức số chương: **`Zh_Chapter = Vi_Chapter + offset_zh_minus_vi`** (
 3. **Lặp đoạn văn**: QA phát `WARN_DUP` khi phát hiện câu đầu đoạn liên tiếp trùng nhau — phải mở file kiểm tra và xóa đoạn lặp.
 4. **Lệch tên riêng**: luôn tra `memo/GLOSSARY.tsv` + `memo/STORY_BIBLE.md` trước khi dịch tên mới; thêm ngay vào glossary khi gặp tên chưa có.
 5. **Xưng hô**: hạn chế tối đa "mày - tao" trừ khi cãi vã dữ dội; phân biệt "chúng tôi" (không gồm người nghe) và "chúng ta" (gồm người nghe).
-6. **PowerShell không chạy được nếu Agent/Task bị đẩy sang môi trường Linux**: `qa_chapters.ps1` và `build_epub_full.ps1` cần `powershell.exe`/`pwsh`, chỉ có sẵn trên máy Windows của phiên chính. Nếu spawn qua `Agent` với `isolation: "remote"` (cloud) hoặc bất kỳ agent nền nào có khả năng chạy trên container Linux, script `.ps1` sẽ lỗi "command not found". Vì vậy **các bước QA (Bước 3) và build EPUB (Bước 4) phải do chính main agent của phiên hiện tại chạy trực tiếp bằng tool `PowerShell`, tuyệt đối không giao (delegate) cho một `Agent`/Task con khác thực thi**. Các subagent dịch (Bước 2) thì an toàn vì chỉ dùng Read/Write file, không phụ thuộc OS.
+6. **Dòng quảng cáo phân trang website lẫn trong nguồn**: một số file `chapters_zh/*.txt` có sẵn câu quảng cáo kiểu "本章未完，请点击下一页继续阅读" (biến thể dịch ra: "Chương này chưa xong/chưa hết/chưa kết thúc, mời bấm/nhấp trang tiếp theo/kế tiếp/trang sau để đọc/xem tiếp nội dung đặc sắc/hấp dẫn"). Đây **không phải nội dung truyện** — subagent dịch phải tự nhận diện và loại bỏ hoàn toàn (cả câu lẫn dòng trống thừa quanh nó), tuyệt đối không dịch nguyên câu đó ra tiếng Việt rồi để lại trong file `.md` (đã từng lọt 34 dòng qua 27 chương trước khi bị phát hiện và dọn thủ công). Dấu hiệu nhận diện: câu chứa đồng thời "chưa xong/chưa hết/chưa kết thúc" + "trang" + "tiếp theo/kế tiếp/trang sau" + "đọc/xem". Nếu phát hiện sót lại ở QA sau này, dùng `scratchpad/remove_ads.ps1` để quét dọn hàng loạt (giữ nguyên số đoạn còn lại, tự gộp dòng trống thừa).
+7. **Thành ngữ/điển cố Hán Việt xa lạ với độc giả Việt**: nhiều thành ngữ 4 chữ hoặc điển cố gốc Trung không thông dụng trong tiếng Việt — nếu dịch nghĩa đen/Hán Việt thẳng mà không giải thích, độc giả Việt sẽ không hiểu ẩn ý. Khi gặp thành ngữ/điển cố mà bản dịch Hán Việt/nghĩa đen khó hiểu với người Việt bình thường, subagent cần chêm giải thích ngắn gọn tự nhiên ngay trong câu văn (không phải chú thích cuối trang, không phá vỡ mạch kể) để truyền tải đúng ý nghĩa/ẩn dụ.
+8. **PowerShell không chạy được nếu Agent/Task bị đẩy sang môi trường Linux**: `qa_chapters.ps1` và `build_epub_full.ps1` cần `powershell.exe`/`pwsh`, chỉ có sẵn trên máy Windows của phiên chính. Nếu spawn qua `Agent` với `isolation: "remote"` (cloud) hoặc bất kỳ agent nền nào có khả năng chạy trên container Linux, script `.ps1` sẽ lỗi "command not found". Vì vậy **các bước QA (Bước 3) và build EPUB (Bước 4) phải do chính main agent của phiên hiện tại chạy trực tiếp bằng tool `PowerShell`, tuyệt đối không giao (delegate) cho một `Agent`/Task con khác thực thi**. Các subagent dịch (Bước 2) thì an toàn vì chỉ dùng Read/Write file, không phụ thuộc OS.
 
 ---
 
@@ -59,7 +61,7 @@ Công thức số chương: **`Zh_Chapter = Vi_Chapter + offset_zh_minus_vi`** (
 - **Không** dùng `subagent_type: "fork"` cho việc dịch — dịch thuật không cần kế thừa context hội thoại, và fork sẽ không nhận `model` override (fork luôn chạy model của agent cha).
 
 ### Bước 3 — Main agent chờ tất cả subagent dịch xong, RỒI MỚI chạy QA 1 LƯỢT
-Đây là điểm khác biệt quan trọng so với chạy từng cụm riêng lẻ: **main agent gom toàn bộ dải chương vừa dịch (toàn bộ các cụm 5 chương) và chỉ chạy QA + commit + push MỘT LẦN DUY NHẤT ở cuối phiên**, không QA/commit riêng từng cụm 5 chương. **Bước này main agent phải tự chạy bằng tool `PowerShell` của chính phiên hiện tại — không giao cho `Agent` con** (xem lỗi #6 ở mục 2: agent con có thể chạy trên Linux, không có `powershell.exe`).
+Đây là điểm khác biệt quan trọng so với chạy từng cụm riêng lẻ: **main agent gom toàn bộ dải chương vừa dịch (toàn bộ các cụm 5 chương) và chỉ chạy QA + commit + push MỘT LẦN DUY NHẤT ở cuối phiên**, không QA/commit riêng từng cụm 5 chương. **Bước này main agent phải tự chạy bằng tool `PowerShell` của chính phiên hiện tại — không giao cho `Agent` con** (xem lỗi #8 ở mục 2: agent con có thể chạy trên Linux, không có `powershell.exe`).
 ```powershell
 powershell.exe -NoProfile -Command ".\scratchpad\qa_chapters.ps1 -Start <Start_toan_dai> -End <End_toan_dai>"
 ```
@@ -68,7 +70,7 @@ powershell.exe -NoProfile -Command ".\scratchpad\qa_chapters.ps1 -Start <Start_t
 - Lặp lại QA cho đến khi toàn dải đạt `OK` (hoặc chỉ còn WARN đã xem xét và chấp nhận được).
 
 ### Bước 4 — Đóng gói EPUB (tùy chọn, khi user yêu cầu hoặc đủ mốc chương)
-Cũng phải do main agent tự chạy trực tiếp, không delegate cho `Agent` con (cùng lý do PowerShell/Linux ở lỗi #6).
+Cũng phải do main agent tự chạy trực tiếp, không delegate cho `Agent` con (cùng lý do PowerShell/Linux ở lỗi #8).
 ```powershell
 powershell.exe -NoProfile -Command ".\scratchpad\build_epub_full.ps1"
 ```

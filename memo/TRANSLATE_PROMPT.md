@@ -35,6 +35,19 @@
 
 ---
 
-## 📌 4. CHỌN MODEL DỊCH
+## 📌 4. LOẠI BỎ RÁC KHÔNG PHẢI NỘI DUNG TRUYỆN
+- Một số file `chapters_zh/*.txt` có lẫn câu quảng cáo phân trang của website nguồn (ví dụ: "本章未完，请点击下一页继续阅读" hoặc các biến thể tương tự) chèn giữa các đoạn văn.
+- Đây **không phải nội dung truyện** — khi gặp câu dạng "chương/tiểu chương này chưa xong/chưa hết/chưa kết thúc, mời/xin bấm/nhấp/click trang tiếp theo/kế tiếp/trang sau để đọc/xem tiếp nội dung đặc sắc/hấp dẫn phía sau", **bỏ hẳn câu đó** (và dòng trống thừa quanh nó), không dịch và không giữ lại trong file `.md` đầu ra.
+- Việc này không tính là lệch số đoạn khi so khớp với bản gốc — chỉ cần khớp đúng các đoạn nội dung truyện thật.
+
+---
+
+## 📌 5. GIẢI THÍCH THÀNH NGỮ/ĐIỂN CỐ KHÓ HIỂU
+- Nhiều thành ngữ 4 chữ hoặc điển cố Hán Việt trong bản gốc không thông dụng với độc giả Việt Nam bình thường. Nếu dịch thẳng theo âm Hán Việt hoặc nghĩa đen mà không ai hiểu ẩn ý, hãy chêm giải thích ngắn gọn, tự nhiên ngay trong câu văn (không dùng chú thích cuối trang, không phá vỡ mạch kể) để người đọc nắm được ý nghĩa/ẩn dụ thực sự.
+- Chỉ áp dụng cho thành ngữ/điển cố thực sự xa lạ; các thành ngữ đã quen thuộc trong tiếng Việt (ví dụ "họa vô đơn chí", "một mất một còn"...) thì dịch bình thường, không cần giải thích thêm.
+
+---
+
+## 📌 6. CHỌN MODEL DỊCH
 - **Phiên chính điều phối (Orchestrator):** Sử dụng model Gemini 3.5 Flash để quản lý quy trình (điều phối subagent, chạy script QA, đồng bộ tiến độ, đóng gói EPUB, và commit Git).
 - **Subagent dịch:** Sử dụng model Gemini 3.5 Pro (lựa chọn `pro` trong invoke_subagent) để thực hiện dịch thuật cốt lõi nhằm đảm bảo chất lượng văn phong cao nhất và tính toàn vẹn của ngữ cảnh.

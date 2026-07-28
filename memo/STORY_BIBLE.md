@@ -41,6 +41,35 @@ Họ Lý ở thôn Lê Kính (sau là Thanh Đỗ Lý thị) tuân theo bài th�
 - **Lý Hi Tuấn (李曦峻):** Trúc Cơ đỉnh phong/Tử Phủ cảnh giới, người xử lý nội vụ và mưu hoạch chiến lược tối cao bên cạnh Lý Hi Minh. Tính tình thâm trầm, cẩn trọng.
 - **Lý Hi Trị (李曦治):** Tu sĩ Lý gia ẩn mình làm đệ tử cốt lõi trong Thanh Trì Tông, hỗ trợ tình báo và thiết lập đồng minh nội bộ cho gia tộc.
 
+### Thế hệ hiện tại & mạng lưới quan hệ (cập nhật đến ch.1751):
+*Mục này tóm tắt nhân vật đang hoạt động tích cực gần đây để dễ theo dõi — cập nhật mỗi khi có nhân vật quan trọng mới hoặc quan hệ mới xuất hiện, không để mục "2. Danh sách nhân vật chính" ở trên (dừng ở Act 3/ch.1633) là nguồn duy nhất.*
+
+**Trụ cột đối nội/đối ngoại (song song lãnh đạo gia tộc):**
+- **Lý Hi Minh (Chiêu Cảnh chân nhân):** MC — Tử Phủ chân nhân đầu tiên của Lý gia, đan sư khống hỏa hàng đầu. Lo phần đối ngoại/kỹ thuật (luyện đan, kết giao, thám hiểm).
+- **Lý Chu Vi (Minh Hoàng chân nhân):** Gia chủ đương nhiệm, mang huyết mạch Ngụy Lý Minh Dương. Lo phần quân sự/chính trị, trực tiếp đối đầu các thế lực phương Bắc (Thiết Phất Quốc, nước Yên).
+- **Lý Hi Tuấn & Lý Hi Trị:** Anh em cùng thế hệ "Hi" với Lý Hi Minh — Hi Tuấn lo nội vụ/mưu hoạch chiến lược, Hi Trị làm gián điệp nằm vùng trong Thanh Trì Tông.
+
+**Thế hệ kế thừa (Trúc Cơ, con cháu — nhánh đích hệ Vọng Nguyệt Hồ):**
+- **Lý Chu Đạt:** Thừa kế y bát của Lý Thừa Trất (tộc thúc đời trước), tính nóng nảy dũng cảm — đang tranh vị trí kế thừa.
+- **Lý Chu Tốn:** Từng chủ động từ bỏ quyền kế thừa Lý Thừa Trất, nay đứng giữa hòa giải tranh chấp nội bộ.
+- **Lý Chu Minh:** Ngũ công tử của Lý Huyền Tuyên (đời trước), vừa đột phá Tiên Cơ; vợ là **Hạ Thụ Ngư**.
+- **Lý Giáng Lương, Lý Giáng Thuần, Lý Giáng Niên:** Ba con trai của Lý Chu Vi. Giáng Lương có quan hệ tình cảm với **Dương Điền U** (nữ Trúc Cơ nhà họ Dương/Đế Duệ) — mối thông gia tiềm năng giữa hai thế gia.
+- **Lý Giáng Thiên:** Nhân vật trẻ nổi bật ở tuyến Hoang Dã/Thang Đao Sơn, có mưu sĩ trợ giúp là **Lý Khuyết Uyển**; con trai là **Lý Giáng Tông**.
+
+**Đồng minh/nhân duyên ngoài gia tộc:**
+- **Đinh Lan (Tử Yên Môn):** Nữ chân nhân, người có tình cảm/gắn bó lâu dài với Lý Hi Minh, thường xuyên hỗ trợ nhau.
+- **Lưu Trường Điệp:** Có quan hệ cũ (qua con gái) với Lý Hi Minh, làm trung gian ở Tây Bà Quốc/Hổ Di.
+- **Phí Thanh Nhã:** Nữ nhân tài họ Phí, được Lý Hi Minh bảo trợ gia nhập Thái Dương đạo thống (họ Phí sau đó bị trừng phạt vì phản bội của Phí Thanh Dực, chỉ Thanh Nhã và chị gái Phí Thanh Y được miễn).
+- **Nghiệp Cối:** Chân nhân trẻ đạo thống Đâu Huyền, cứu Lý Hi Minh ở Thang Đao Sơn nên là đồng minh, nhưng có dã tâm chứng Chân Quân — cần đề phòng về lâu dài.
+- **Ninh Uyển (Thu Hồ chân nhân):** Đương nhiệm chưởng môn Thanh Trì Tông — không hẳn thù địch, có hợp tác kỹ thuật với Lý Hi Minh; thuộc hạ tâm phúc là **Lý Uyên Khâm**.
+
+**Thế lực/nhân vật đối địch hoặc cần cảnh giác:**
+- **Hách Liên Vô Cương & Hách Liên Ngột Mãnh:** Trụ cột quân sự Thiết Phất Quốc (phương Bắc) — đối thủ trực diện tại Thang Đao Sơn và Sơn Kê Quận.
+- **Mộ Dung Nhan & Thị Lâu Doanh Các:** Hai Tử Phủ trẻ nước Yên, đối đầu Lý Chu Vi tại chiến tuyến Giang Bắc.
+- **Tùy Quán:** Đại chân nhân bí ẩn, thần thông áp đảo, chi phối ngầm cả Thanh Trì Tông — nhân vật lớn, thế lực thật sự chưa rõ, cần theo dõi kỹ.
+
+---
+
 ### Vị thần thủ hộ:
 - **Lục Giang Tiên (陆江仙):** Linh hồn lập trình viên hiện đại xuyên không nhập vào chiếc gương cổ xám xanh. Đóng vai trò là khí linh/thần kính hộ mệnh của Lý gia, ban truyền công pháp, pháp thuật và âm thầm chỉ điểm thế hệ con cháu họ Lý phát triển tiên lộ.
 
