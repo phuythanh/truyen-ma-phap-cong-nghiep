@@ -1,94 +1,368 @@
-# STORY BIBLE — BÁCH KHOA TOÀN THƯ THẾ GIỚI TRUYỆN HUYỀN GIÁM TIÊN TỘC
+# 📖 STORY BIBLE — HUYỀN GIÁM TIÊN TỘC (玄鉴仙族)
 
-*Tài liệu này lưu trữ thông tin hệ thống, thế lực, nhân vật và các mạch truyện đang diễn ra trong tác phẩm. Cập nhật tài liệu này khi có nhân vật mới, thế lực mới hoặc thông tin quan trọng xuất hiện.*
-
----
-
-## 🌍 1. TỔNG QUAN THẾ GIỚI & HỆ THỐNG TU LUYỆN
-- **Bối cảnh:** Thế giới tu tiên huyền huyễn kỳ ảo, luật lệ sinh tồn tàn khốc, tài nguyên tu luyện cực kỳ khan hiếm. Các tu sĩ tranh đấu khốc liệt để giành giật linh mạch, quả vị và đạo thống.
-- **Hệ thống cảnh giới tu luyện:**
-  1. **Thai Tức (胎息):** Cảnh giới nhập môn, gồm các giai đoạn nhỏ như Huyền Cảnh luân, Kính Luân, Thừa Minh luân, v.v.
-  2. **Luyện Khí (练气):** Tích lũy linh khí, điều chuyển chu thiên, thọ nguyên kéo dài đến khoảng 120 năm.
-  3. **Trúc Cơ (筑基):** Thiết lập nền móng đạo cơ vững chắc, thọ nguyên tăng lên khoảng 200 - 300 năm.
-  4. **Tử Phủ (紫府):** Khai mở Tử Phủ thần thức, trở thành chân nhân một phương, bắt đầu ngưng tụ và tu luyện Mệnh Thần Thông.
-  5. **Kim Đan (金丹):** Chia thành các phẩm cấp khác nhau (Quả vị, Dư vị, Nhuận vị), là ranh giới phân định cường giả thượng đẳng.
-  6. **Đạo Thai (道胎):** Cảnh giới bán tiên nhân cực hạn.
-- **Quy luật Mệnh Thần Thông:**
-  Khi tu sĩ Tử Phủ đạt được Mệnh Thần Thông, họ dần dần buông bỏ thất tình lục dục và các vướng bận phàm trần (như gia tộc, tông tộc, sư đồ), xem chúng chỉ là công cụ và nấc thang để phi thăng thành tiên.
+> **Tác giả:** Quý Việt Nhân (季越人)
+> **Nền tảng:** Khởi Điểm Trung Văn (起点中文网)
+> **Khởi đăng:** 7/10/2022
+> **Thể loại:** Tiên hiệp — Gia tộc tu tiên — Quần tượng sử thi
+> **Giải thưởng:** 2024 — "Thập Nhị Thiên Vương" (阅文集团2023年度十二天王), danh hiệu "Cổ Điển Tiên Hiệp Tinh Phẩm Vương"
 
 ---
 
-## 👥 2. DANH SÁCH CÁC NHÂN VẬT CHÍNH
-Họ Lý ở thôn Lê Kính (sau là Thanh Đỗ Lý thị) tuân theo bài thơ truyền đời để đặt tên tự theo bối cảnh thế hệ:
-> *“Huyền Cảnh Uyên Thanh, Hy Nguyệt Thừa Minh. Chu Hành Giáng Khuyết, Toại Ngữ Thanh Nguyên. Ngọc Kinh Ánh Tượng, Duy Kiến Linh Sơ.”*
+## 🌍 1. BỐI CẢNH THẾ GIỚI
 
-### Thế hệ Khởi đầu (Đời thứ 1 & 2):
-- **Lý Mộc Điền (李木田):** Ông tổ khai hoang của Lý gia tại thôn Lê Kính dưới chân núi Đại Lê. Tính tình đa nghi, quyết đoán, nghiêm khắc. Ông là người dẫn dắt gia đình phàm nhân ban đầu vượt qua nghịch cảnh và gieo mầm cơ duyên tu tiên.
-- **Lý Trường Hồ (李长湖):** Đại ca trong "Lê Kính Tứ Tử". Chăm chỉ, chất phác, gánh vác phần lớn các công việc nông tang và trị lý gia vụ đời thường của gia tộc phàm trần.
-- **Lý Thông Nhai (李通崖):** Nhị ca, rường cột và mưu lược gia vĩ đại nhất thời kỳ đầu của Lý gia. Người đầu tiên đột phá Trúc Cơ chân nhân (tu luyện thủy hệ công pháp), tính tình thâm trầm, nhìn xa trông rộng, thiết lập chiến lược bang giao để gia tộc mở rộng thế lực ở Vọng Nguyệt Hồ.
-- **Lý Hạng Bình (李项平):** Tam ca, người nhặt được thần kính Lục Giang Tiên dưới sông Mi Xích. Có tướng mạo và khí chất dũng mãnh, quyết đoán (mang khí chất hổ báo), giữ chức vụ gia chủ chèo lái và xử lý các thế lực đối địch trong thời微 mạt.
-- **Lý Xích Kính (李尺泾):** Tứ đệ, kiếm tu thiên tài kiệt xuất nhất đời thứ hai. Tính cách sắt bén như kiếm, gia nhập môn phái lớn nhưng về sau chịu số phận bi thảm, hy sinh thân mình trong cuộc chiến tranh giành quyền lực để lại di sản bảo hộ trăm năm cho gia tộc.
+### Tổng quan
+Câu chuyện xảy ra trong một thế giới tu tiên **sau khi Thiên Đạo sụp đổ** — hậu quả của một cuộc "Tiên Ma Đại Chiến" thời cổ đại khiến trật tự tu chân tan vỡ. Đây là một thế giới **tối tăm, tàn khốc, "kẻ mạnh ăn thịt kẻ yếu"** theo nghĩa đen:
 
-### Thế hệ Trung kiên (Thế hệ chữ Huyền - Uyên - Thanh):
-- **Lý Huyền Tuyên (李玄宣):** Gia chủ thời kỳ trung hưng, con trai của Lý Trường Hồ. Ông là người sở hữu linh căn chế phù, tính cách ôn hòa, kiên nhẫn. Lived a very long life, tiễn biệt nhiều thế hệ anh em con cháu, chứng kiến gia tộc chuyển mình từ một gia tộc Trúc Cơ nhỏ bé lên vị thế bá chủ địa phương.
-- **Lý Huyền Phong (李玄锋):** Đích tôn thúc mạch, cung thủ thiên tài kiệt xuất (danh xưng *Kim Giao Cương Huyền* hay *Biên Yến Cung Tiên*). Tính tình dũng cảm, cả đời cống hiến cho bờ cõi biên cương gia tộc, cuối cùng hy sinh oanh liệt tại dãy núi Biên Yến ở Nam Cương.
-- **Lý Thanh Hồng (李清虹):** Nữ lôi tu kiệt xuất, con gái của Lý Huyền Lĩnh. Sử dụng thương pháp và sấm sét dữ dội. Cô đã tự nguyện giảm thọ nguyên và không sinh con để chuyên tâm tu luyện và bảo vệ gia tộc, sau đó dẫn dắt phân gia mở rộng ra vùng biển Đông Hải.
-- **Lý Uyên Giao (李渊蛟):** Một thủ lĩnh quân sự kiệt xuất của gia tộc, tính tình quyết đoán, dũng cảm mưu lược, góp công lớn trong các cuộc chinh phạt mở rộng địa bàn.
+- **Tài nguyên tu luyện cực kỳ khan hiếm.** Tu sĩ cao cấp coi tu sĩ thấp cấp và phàm nhân như nguồn tài nguyên để khai thác (luyện đan, hút huyết khí, phách hồn).
+- **Thiên đạo không còn vẹn toàn.** Các tu sĩ không thể chỉ dựa vào thiên tư và công pháp để thăng tiến — họ phải tranh đoạt, tận diệt đồng đạo, cướp đoạt cơ duyên.
+- **Hệ thống tông môn kiểu "trại nuôi":** Nhiều tông môn thực chất là những gia tộc quyền quý "thay bình đổi nắp", dùng đệ tử thấp cấp như nguyên liệu thô.
 
-### Thế hệ Tử Phủ & Kế thừa (Thế hệ chữ Hy - Chu - Minh):
-- **Lý Hi Minh (李曦明 / Chiêu Cảnh chân nhân):** Trụ cột tối cao hiện tại của Lý gia. Người đầu tiên đột phá cảnh giới Tử Phủ Chân Nhân, thăng hoa gia tộc lên vị thế Tử Phủ Tiên Tộc. Là một đan sư xuất chúng, am hiểu khống chế Minh Dương hỏa diễm (Cốc Phong Dẫn Hỏa, Yết Thiên Môn).
-- **Lý Chu Vi (李周巍):** Gia chủ đương nhiệm, mang trong mình dòng máu đặc thù *Ngụy Lý Minh Dương*. Một chiến tướng dũng mãnh, kiệt xuất về cả quân sự lẫn chính trị, chèo lái đại cục gia tộc đối phó với thế lực Phật môn và ma tông.
-- **Lý Hi Tuấn (李曦峻):** Trúc Cơ đỉnh phong/Tử Phủ cảnh giới, người xử lý nội vụ và mưu hoạch chiến lược tối cao bên cạnh Lý Hi Minh. Tính tình thâm trầm, cẩn trọng.
-- **Lý Hi Trị (李曦治):** Tu sĩ Lý gia ẩn mình làm đệ tử cốt lõi trong Thanh Trì Tông, hỗ trợ tình báo và thiết lập đồng minh nội bộ cho gia tộc.
+### Địa lý quan trọng
 
-### Thế hệ hiện tại & mạng lưới quan hệ (cập nhật đến ch.1751):
-*Mục này tóm tắt nhân vật đang hoạt động tích cực gần đây để dễ theo dõi — cập nhật mỗi khi có nhân vật quan trọng mới hoặc quan hệ mới xuất hiện, không để mục "2. Danh sách nhân vật chính" ở trên (dừng ở Act 3/ch.1633) là nguồn duy nhất.*
-
-**Trụ cột đối nội/đối ngoại (song song lãnh đạo gia tộc):**
-- **Lý Hi Minh (Chiêu Cảnh chân nhân):** MC — Tử Phủ chân nhân đầu tiên của Lý gia, đan sư khống hỏa hàng đầu. Lo phần đối ngoại/kỹ thuật (luyện đan, kết giao, thám hiểm).
-- **Lý Chu Vi (Minh Hoàng chân nhân):** Gia chủ đương nhiệm, mang huyết mạch Ngụy Lý Minh Dương. Lo phần quân sự/chính trị, trực tiếp đối đầu các thế lực phương Bắc (Thiết Phất Quốc, nước Yên).
-- **Lý Hi Tuấn & Lý Hi Trị:** Anh em cùng thế hệ "Hi" với Lý Hi Minh — Hi Tuấn lo nội vụ/mưu hoạch chiến lược, Hi Trị làm gián điệp nằm vùng trong Thanh Trì Tông.
-
-**Thế hệ kế thừa (Trúc Cơ, con cháu — nhánh đích hệ Vọng Nguyệt Hồ):**
-- **Lý Chu Đạt:** Thừa kế y bát của Lý Thừa Trất (tộc thúc đời trước), tính nóng nảy dũng cảm — đang tranh vị trí kế thừa.
-- **Lý Chu Tốn:** Từng chủ động từ bỏ quyền kế thừa Lý Thừa Trất, nay đứng giữa hòa giải tranh chấp nội bộ.
-- **Lý Chu Minh:** Ngũ công tử của Lý Huyền Tuyên (đời trước), vừa đột phá Tiên Cơ; vợ là **Hạ Thụ Ngư**.
-- **Lý Giáng Lương, Lý Giáng Thuần, Lý Giáng Niên:** Ba con trai của Lý Chu Vi. Giáng Lương có quan hệ tình cảm với **Dương Điền U** (nữ Trúc Cơ nhà họ Dương/Đế Duệ) — mối thông gia tiềm năng giữa hai thế gia.
-- **Lý Giáng Thiên:** Nhân vật trẻ nổi bật ở tuyến Hoang Dã/Thang Đao Sơn, có mưu sĩ trợ giúp là **Lý Khuyết Uyển**; con trai là **Lý Giáng Tông**.
-
-**Đồng minh/nhân duyên ngoài gia tộc:**
-- **Đinh Lan (Tử Yên Môn):** Nữ chân nhân, người có tình cảm/gắn bó lâu dài với Lý Hi Minh, thường xuyên hỗ trợ nhau.
-- **Lưu Trường Điệp:** Có quan hệ cũ (qua con gái) với Lý Hi Minh, làm trung gian ở Tây Bà Quốc/Hổ Di.
-- **Phí Thanh Nhã:** Nữ nhân tài họ Phí, được Lý Hi Minh bảo trợ gia nhập Thái Dương đạo thống (họ Phí sau đó bị trừng phạt vì phản bội của Phí Thanh Dực, chỉ Thanh Nhã và chị gái Phí Thanh Y được miễn).
-- **Nghiệp Cối:** Chân nhân trẻ đạo thống Đâu Huyền, cứu Lý Hi Minh ở Thang Đao Sơn nên là đồng minh, nhưng có dã tâm chứng Chân Quân — cần đề phòng về lâu dài.
-- **Ninh Uyển (Thu Hồ chân nhân):** Đương nhiệm chưởng môn Thanh Trì Tông — không hẳn thù địch, có hợp tác kỹ thuật với Lý Hi Minh; thuộc hạ tâm phúc là **Lý Uyên Khâm**.
-
-**Thế lực/nhân vật đối địch hoặc cần cảnh giác:**
-- **Hách Liên Vô Cương & Hách Liên Ngột Mãnh:** Trụ cột quân sự Thiết Phất Quốc (phương Bắc) — đối thủ trực diện tại Thang Đao Sơn và Sơn Kê Quận.
-- **Mộ Dung Nhan & Thị Lâu Doanh Các:** Hai Tử Phủ trẻ nước Yên, đối đầu Lý Chu Vi tại chiến tuyến Giang Bắc.
-- **Tùy Quán:** Đại chân nhân bí ẩn, thần thông áp đảo, chi phối ngầm cả Thanh Trì Tông — nhân vật lớn, thế lực thật sự chưa rõ, cần theo dõi kỹ.
+| Địa danh | Ý nghĩa |
+|---|---|
+| **Đại Lê Sơn (大黎山)** | Ngọn núi nguy hiểm, bí ẩn gần làng ban đầu của Lý gia — nơi phát sinh nhiều nguy cơ |
+| **Mi Xích Hà (眉尺河)** | Con sông ven làng Lý gia — nơi Lý Hạng Bình nhặt được gương đồng |
+| **Hoài Giang Đạo** | Vùng địa phương ban đầu, có các tông môn như Xưng Huân, Đô Tiên, Huyền Diệu |
+| **Việt Quốc** | Quốc gia / vùng cai quản mà Lý gia hoạt động trong giai đoạn đầu |
+| **Vọng Nguyệt Hồ** | Nơi Lý Hy Minh chứng đạo Tử Phủ — cột mốc quan trọng của Lý gia |
 
 ---
 
-### Vị thần thủ hộ:
-- **Lục Giang Tiên (陆江仙):** Linh hồn lập trình viên hiện đại xuyên không nhập vào chiếc gương cổ xám xanh. Đóng vai trò là khí linh/thần kính hộ mệnh của Lý gia, ban truyền công pháp, pháp thuật và âm thầm chỉ điểm thế hệ con cháu họ Lý phát triển tiên lộ.
+## 🏛️ 2. HỆ THỐNG TU LUYỆN
+
+### Các cảnh giới chính (Tử Phủ Kim Đan Đạo)
+
+```
+Phôi Tức Cảnh (胎息境)
+    └─► Luyện Khí Cảnh (练气境)
+            └─► Trúc Cơ Cảnh (筑基境)  ← Xác định "Đạo Cơ" / "Đạo Cơ Thần Thông"
+                    └─► TỬ PHỦ CẢNH (紫府境)  ← Đạt "Mệnh Thần Thông"
+                            └─► KIM ĐAN CẢNH (金丹境)  ← Chứng "Kim Tính Quả Vị"
+                                    └─► ĐẠO THAI CẢNH (道胎境)
+```
+
+### Giải thích các khái niệm cốt lõi
+
+#### Đạo Cơ (道基) — "Nền móng Đạo"
+- Là thành quả cốt lõi của giai đoạn **Trúc Cơ**. Quyết định toàn bộ con đường tu luyện tương lai.
+- **Một khi xác lập, không thể thay đổi.** Phẩm cấp công pháp Trúc Cơ ảnh hưởng trực tiếp đến sức chiến đấu và vận mệnh tu sĩ.
+- Đạo Cơ xác định "đồng đạo" (bạn đồng hành) và "dị đạo" (kẻ thù tiềm năng) — những người có Đạo Cơ cùng loại sẽ tranh giành nguồn lực quả vị suốt đời.
+
+#### Mệnh Thần Thông (命神通) — "Thần Thông Mệnh Số"
+- Khi tu sĩ **thăng hoa Đạo Cơ thành Mệnh Thần Thông**, họ bước vào cảnh **Tử Phủ**.
+- Là thần thông đặc thù, mạnh mẽ hơn bất kỳ pháp thuật bình thường nào. Ví dụ: đọc tâm toàn thời gian, khống chế tinh thần, thao túng nhân quả, cảnh báo nguy hiểm.
+- Tử Phủ tu sĩ cần tu luyện thêm **bốn thần thông đồng đạo** (cộng với Mệnh Thần Thông = 5 thần thông) để luyện thành **Kim Tính**, chuẩn bị chứng Kim Đan.
+
+#### Kim Tính (金性) — "Một điểm tính mệnh đạo quả"
+- Là tinh hoa ngưng tụ của tu sĩ, nền tảng để thành Kim Đan Chân Quân.
+- **Bất hủ bất diệt, bất tăng bất giảm** — số lượng quả vị mỗi loại Kim Tính cực kỳ có hạn.
+- Khi tu sĩ đột phá thất bại và tử vong, Kim Tính sẽ lưu lại và hóa thành yêu tà — bị các thế lực cao cấp (Âm Tư, Long Tộc...) thèm muốn.
+- **Hệ quả:** Cùng đạo đồ tu sĩ vĩnh viễn là kẻ thù của nhau vì tranh giành quả vị.
+
+#### Đạo Thống (道统) — "Hệ phái Đạo"
+- Phân loại tu sĩ theo nguồn gốc công pháp và Kim Tính.
+- Các đạo thống lớn: **Thanh Huyền, Thông Huyền, Đâu Huyền** (三玄道统 — Tam Huyền)
+- **Thái Dương Đạo Thống:** Từng hưng thịnh ở vùng Giang Nam, sau suy yếu do nội chiến (Thanh Tùng Lục Tử phản bội)
+- **Thái Âm Nguyệt Hoa (太阴月华):** Nguồn lực tu luyện quan trọng — dùng để luyện công pháp, ngưng tụ phù chủng, hỗ trợ đột phá
+
+#### Sáu Luân trong Phôi Tức Cảnh
+Giai đoạn khởi điểm, tu sĩ cần ôn dưỡng "Sáu Luân" trong linh khiếu:
+`Huyền Cảnh — Thừa Minh — Chu Hành — Thanh Nguyên — Ngọc Kinh — Linh Sơ`
 
 ---
 
-## 🏛️ 3. THẾ LỰC & ĐỊA DANH QUAN TRỌNG
-- **Vọng Nguyệt Hồ (望月湖):** Hồ nước lớn linh khí dồi dào, đại bản doanh và là căn cơ lập nghiệp trung hậu kỳ của Thanh Đỗ Lý thị.
-- **Lê Kính Thôn (黎泾村):** Thôn làng nguyên thủy dưới chân núi Đại Lê, nơi Lý gia bắt đầu lập nghiệp phàm trần và tìm thấy gương cổ.
-- **Thanh Trì Tông (青池宗):** Đại tông môn đứng đầu Việt Quốc (thuộc Tam tông Bát môn). Hành sự lạnh lùng, thực dụng, lợi ích chí thượng (thường bị coi là ma môn trá hình), kiểm soát các gia tộc phụ thuộc.
-- **Tử Yên Môn (紫烟门):** Tông môn lớn đối địch cạnh tranh địa bàn và đạo thống với Thanh Trì Tông, có mối quan hệ hợp tác/lợi dụng phức tạp với Lý gia (thông qua Đinh Lan).
-- **Sơn Việt (山越):** Các bộ tộc dị tộc vùng núi Đại Lê Sơn, kẻ thù truyền kiếp thời kỳ đầu của Lý gia.
-- **Đông Hải & Nam Cương:** Các vùng biển phía Đông và bờ cõi phía Nam, nơi diễn ra các cuộc chiến khai phá đẫm máu của tu sĩ và phân gia Lý thị.
+## 🔮 3. NHÂN VẬT TRUNG TÂM
+
+### LỤC GIANG TIÊN (陆江仙) — Khí Linh / Thực thể chủ của Gương
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Danh hiệu** | Thanh Huyền Tử (青玄子) |
+| **Bản thể** | Người hiện đại, chết vì thức khuya làm việc |
+| **Trạng thái** | Tàn hồn phụ vào mảnh gương đồng xám xanh đầy vết nứt |
+| **Pháp khí** | **Nhật Nguyệt Lưỡng Nghi Huyền Giám (日月两仪玄鉴)** — gương đồng xám xanh, Trấn Tộc Pháp Khí của Lý gia |
+| **Vai trò** | Khí linh — hướng dẫn Lý gia từ phía sau, không thể trực tiếp ra tay |
+
+**Tính cách:** Thận trọng, lạnh tĩnh, lão luyện, tính toán sâu xa. Đã trải qua những năm tháng dài đằng đẵng, tích lũy kiến thức và kinh nghiệm sâu rộng. Là "điểm vàng" và người bảo hộ của Lý gia.
+
+**Vai trò trong truyện:** Truyền pháp cho Lý gia, chỉ điểm cơ duyên, cung cấp công pháp và tri thức tu tiên. Không thể tự mình hành động — phải thông qua các thành viên Lý gia.
 
 ---
 
-## 🧵 4. CÁC MẠCH TRUYỆN ĐANG DIỄN RA (ACTS & ARCS)
-- **Act 1: Khởi Nghiệp Lê Kính (Chương 1 - 200):**
-  Lý gia nhặt được gương thần Lục Giang Tiên dưới sông Mi Xích. Thế hệ đầu tiên "Lê Kính Tứ Tử" dẫn dắt gia tộc vượt man man Man tộc Sơn Việt, diệt trừ thế lực thù địch địa phương. Lý Xích Kính hy sinh oai dũng. Lý Thông Nhai đột phá Trúc Cơ, chính thức mở ra kỷ nguyên tu tiên cho Lý gia.
-- **Act 2: Trầm Hùng Vọng Nguyệt Hồ (Chương 201 - 800):**
-  Lý gia di dời đại bản doanh tới Vọng Nguyệt Hồ. Lý Thông Nhai tạ thế trong vinh quang bình yên. Lý Huyền Tuyên kế nhiệm gia chủ. Thế hệ Huyền - Uyên - Thanh ra trận. Lý Huyền Phong lập công lớn thủ vững biên cương trước khi tử trận anh dũng. Lý Thanh Hồng dẫn binh dẹp loạn, mở bờ cõi tới Đông Hải.
-- **Act 3: Tử Phủ Tiên Tộc & Long Tranh Hổ Đấu (Chương 801 - 1633):**
-  Lý Hi Minh xuất thế, trở thành Tử Phủ chân nhân đầu tiên của gia tộc, phá vỡ thế bị chèn ép của các tông môn lớn. Lý Chu Vi gánh vác vị trí thống soái quân sự. Gia tộc chống chọi với ma tu, sự suy tàn của Thanh Trì Tông và cuộc xâm lăng của Phật môn (释修). Kết thúc ở chương 1633 với sự xuất hiện của biến động Thổ Đức (Xã Thổ) tại hải ngoại, đưa Lý gia vào thế trận củng cố quyền lực mới.
+## 👨‍👩‍👧‍👦 4. LÝ GIA — TỪNG ĐỜI NHÂN VẬT
+
+> **Quy tắc đặt tên theo bội phận:** Các chữ lót theo đời:
+> Hạng (项) → Thông (通) → Huyền (玄) → Uyên (渊) → Hy (曦) → Chu (周) → Giáng (绛)...
+
+---
+
+### ĐỜI THỨ 8 — Sáng Lập Gia Tộc
+
+#### LÝ MỘC ĐIỀN (李木田) — Thủy Tổ Lý Gia
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 8 |
+| **Vai trò** | Gia chủ đầu tiên, thủy tổ sáng lập |
+| **Tính cách** | Đa mưu, quả đoán, hung lạnh |
+| **Kết cục** | Đặt nền móng cho Lý gia |
+
+**Tóm tắt:** Là cha của Lý Trường Hồ, Lý Thông Nhai, Lý Hạng Bình. Báo thù cho cha anh, dẫn dắt gia tộc từ làng phàm nhân vươn lên. Đặt nền tảng sơ khai cho sự hưng thịnh của Lý gia.
+
+---
+
+### ĐỜI THỨ 9 — Tiếp Nhận Huyền Giám, Bước Vào Tu Đạo
+
+#### LÝ TRƯỜNG HỒ (李长湖) — Con Trưởng Lý Mộc Điền
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 9 |
+| **Tính cách** | Hiền lành, ôn hòa, có lòng thiện |
+| **Kết cục** | Bị ám sát bởi tàn dư Nguyên gia khi ra tay giúp đỡ nạn dân |
+
+**Tóm tắt:** Do thiên tư tu tiên không đủ, Lý Trường Hồ từ bỏ tiên đồ sớm, tập trung quản lý tục vụ gia tộc. Vì lòng tốt cứu nạn dân, bị phục kích và mất mạng — bi kịch tiêu biểu cho giai đoạn đầu "kẻ thiện không sống lâu" của truyện.
+
+---
+
+#### LÝ HẠNG BÌNH (李项平) — Người Nhặt Được Gương
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 9 |
+| **Vai trò** | Người đầu tiên nhặt được Huyền Giám tại Mi Xích Hà |
+| **Ý nghĩa** | Người mở ra con đường tu tiên của Lý gia |
+
+---
+
+#### LÝ THÔNG NHAI (李通崖) — Cột Trụ Chiến Lược
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 9 |
+| **Vai trò** | Phụ trách đối ngoại, mở rộng liên minh |
+| **Con cái** | Lý Uyên Giao (thế hệ Uyên) |
+| **Kết cục** | Qua đời, để lại gánh nặng cho Lý Uyên Giao gánh vác |
+
+---
+
+### ĐỜI THỨ 10 — Củng Cố Nền Tảng
+
+#### LÝ XÍCH KÍNH (李尺泾) — Người Vào Thanh Trì Tông
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 10 (sớm) |
+| **Thân phận** | Thành viên Lý gia giai đoạn đầu |
+| **Kết cục** | Bị thu nhận vào Thanh Trì Tông, sau bị sát hại trong tranh đấu tông môn |
+| **Ý nghĩa** | Thể hiện sự phức tạp và tàn khốc giữa gia tộc nhỏ và tông môn lớn |
+
+---
+
+#### LÝ HUYỀN TUYÊN (李玄宣) — Gia Chủ Trung Kỳ
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 10 |
+| **Thân phận** | Con di phúc của Lý Trường Hồ (sinh sau khi cha mất) |
+| **Đặc điểm** | Người đầu tiên đặt tên theo bối "Huyền" |
+| **Tính cách** | Siêng năng, hết lòng với gia tộc, kiên nhẫn |
+
+**Tóm tắt:** Lớn lên trong hoàn cảnh khắc nghiệt, Lý Huyền Tuyên kế thừa gia nghiệp của cha, cai quản gia tộc với tinh thần "tận tụy hết mình". Chứng kiến toàn bộ quá trình Lý gia từ phàm nhân vươn lên thành một thế lực tu tiên.
+
+---
+
+#### LÝ HUYỀN PHONG (李玄锋) — Chiến Lực Trẻ
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 10 |
+| **Thiên tư** | Xuất sắc |
+| **Thành tựu** | Tu thành nhiều đạo thần thông mạnh mẽ |
+| **Vai trò** | Đại diện sức mạnh chiến đấu của Lý gia giai đoạn đầu |
+
+---
+
+### ĐỜI THỨ 11 — Thời Kỳ Tích Lũy và Bi Kịch
+
+#### LÝ UYÊN TU (李渊修) — Thế Tử Tài Năng Bị Sát Hại
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 11 |
+| **Thân phận** | Con trai của Lý Huyền Tuyên, anh của Lý Uyên Giao |
+| **Tính cách** | Thông minh, rộng rãi, ôn hòa, có tài trị gia |
+| **Kết cục** | Bị Uất gia (郁家) toan tính và ám hại — tử vong sớm |
+
+**Tóm tắt:** Được kỳ vọng cao nhất trong thế hệ mình. Có khả năng điều phối các nhánh gia tộc, biết cứng biết mềm. Cái chết của Lý Uyên Tu là tổn thất lớn của gia tộc, đồng thời là nguyên nhân khiến em trai Lý Uyên Giao thay đổi tính cách, trở nên kiên quyết và thâm trầm hơn.
+
+---
+
+#### LÝ UYÊN GIAO (李渊蛟) — Gánh Vác Trong Nguy Khốn
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 11 |
+| **Thân phận** | Con trai Lý Thông Nhai |
+| **Biệt danh ban đầu** | "Trúc Cơ bỏ túi" (草包筑基) — bị xem thường |
+| **Câu nói nổi tiếng** | **"Giao bất dám quên"** (蛟不敢忘) |
+| **Kết cục** | Bi tráng, một đời cúc cung tận tụy vì gia tộc |
+
+**Tóm tắt:** Sau khi anh trai Lý Uyên Tu mất, Lý Uyên Giao gánh vác toàn bộ trách nhiệm gia tộc trong giai đoạn khó khăn nhất. Dù thiên tư cá nhân không phải xuất sắc nhất, sự kiên trì và hi sinh của ông đã bảo vệ ngọn lửa gia tộc không tắt. Đây là một trong những nhân vật để lại ấn tượng sâu sắc nhất trong truyện.
+
+---
+
+### ĐỜI THỨ 12 — Lý Gia Bước Vào Tử Phủ Thời Đại
+
+#### LÝ HY MINH (李曦明) — Người Đầu Tiên Chứng Tử Phủ
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 12 |
+| **Thân phận** | Con trai của Lý Uyên Giao (hoặc Lý Uyên Bình) |
+| **Tính cách** | Nhạt bạc, một lòng hướng đạo, thiên tư luyện đan cực cao |
+| **Thành tựu lớn nhất** | Người đầu tiên của Lý gia chứng đạo Tử Phủ tại Vọng Nguyệt Hồ |
+| **Pháp khí / Linh thú** | Thỉnh Sơn Phó Hải Hổ (赶山赴海虎) |
+| **Dược phẩm** | Vọng Tấn Huyền Diễn Đan (望晋玄衍丹) và các đan dược quý hiếm |
+
+**Tóm tắt:** Lý Hy Minh là **bước ngoặt lịch sử của Lý gia**. Trước khi ông chứng Tử Phủ, Lý gia vẫn là gia tộc nhỏ vật lộn trong bóng tối. Sau khi ông thành công, Lý gia chính thức trở thành **"Vọng Nguyệt Lý Thị"** — thế lực Tử Phủ. Ông là biểu tượng tinh thần "củi tàn lửa truyền" của gia tộc.
+
+---
+
+### ĐỜI THỨ 13-14 — Thế Hệ Hưng Thịnh
+
+#### LÝ CHU UY (李周巍) — Gia Chủ Hiện Tại / Thiên Mệnh Chi Tử
+
+| Thuộc tính | Thông tin |
+|---|---|
+| **Đời** | Thứ 14 |
+| **Đạo hiệu** | Minh Hoàng (明煌) |
+| **Thiên mệnh** | Minh Dương Thiên Mệnh (明阳天命) — thiên tư tối cao |
+| **Dị tượng khi sinh** | Kỳ lân trắng bạch, tiếng ve trắng (白蝉), đôi mắt như vàng |
+| **Tính cách** | Thông minh, hơi hung tính hồi nhỏ, lớn lên trở nên trầm tĩnh |
+
+**Tóm tắt:** Lý Chu Uy là "thiên mệnh chi tử" — người được đặt kỳ vọng dẫn Lý gia chinh phục Kim Đan cảnh. Ông sa vào những tranh chấp phức tạp của đạo thống "Minh Dương" và là quân cờ quan trọng trong bàn cục của Lục Giang Tiên.
+
+---
+
+### ĐỜI GIÁNG — Thiên Kiêu Thế Hệ Mới
+
+#### LÝ GIÁNG THIÊN (李绛迁) — Ác Thiền
+
+| Biệt danh | Vai trò |
+|---|---|
+| **"Ác Thiền" (恶蝉)** | Thiên kiêu thế hệ mới của Lý gia |
+
+#### LÝ GIÁNG THUẦN (李绛淳) — Thiếu Âm Kiếm Tiên
+
+| Danh hiệu | Chuyên môn |
+|---|---|
+| **Thiếu Âm Kiếm Tiên (少阴剑仙)** | Kiếm tu |
+
+---
+
+## 🏯 5. CÁC THẾ LỰC VÀ TÔNG MÔN
+
+### Tông môn chính trong vùng
+
+| Tên | Đặc điểm | Liên quan đến Lý gia |
+|---|---|---|
+| **Thanh Trì Tông (青池宗)** | Tông môn lớn, thực chất là "gia tộc trá hình" | Lý Xích Kính bị thu nhận vào, sau bị giết |
+| **Kim Vũ Tông (金羽宗)** | Thế lực Kim Đan cấp cao | Áp lực gián tiếp lên Lý gia |
+| **Lạc Hà Sơn (落霞山)** | Một trong các thế lực lớn | Tranh chấp nguồn lực đạo thống |
+| **Xưng Huân Tiên Môn (称昀仙门)** | Thuộc Đâu Huyền Đạo Thống | Cựu thế lực ở Hoài Giang Đạo |
+| **Đô Tiên (都仙)** | Tông môn vùng Hoài Giang Đạo | — |
+| **Huyền Diệu (玄妙)** | Tông môn vùng Hoài Giang Đạo | — |
+
+### Thanh Tùng Quan và Thanh Tùng Lục Tử
+- **Thanh Tùng Quan:** Thế lực đã suy tàn. Từng có **Doanh Trắc tiên quân (盈昃)** — Kim Tính tu sĩ thuộc Thái Dương Đạo Thống — cố gắng phục hưng.
+- **Thanh Tùng Lục Tử:** Sáu đệ tử cốt lõi. Cuối cùng mỗi người một ngả, phản bội lẫn nhau — phản ánh sự tàn nhẫn của tu tiên giới.
+
+---
+
+## 📜 6. TÓM TẮT CỐT TRUYỆN THEO GIAI ĐOẠN
+
+### Giai đoạn 1 — Khởi Đầu (Đời thứ 8-9)
+- Lục Giang Tiên chết vì làm việc quá sức, tàn hồn phụ vào mảnh gương đồng xám xanh.
+- Gương trôi dạt đến chân Đại Lê Sơn, ven Mi Xích Hà.
+- **Lý Hạng Bình** nhặt được gương → Lục Giang Tiên bắt đầu hướng dẫn Lý gia tu tiên.
+- Lý Mộc Điền lãnh đạo gia tộc từ phàm nhân vươn lên, bước đầu xây dựng nền tảng tu tiên.
+- Lý Trường Hồ chết oan vì lòng tốt — hồi chuông cảnh tỉnh về sự tàn khốc của thế giới này.
+
+### Giai đoạn 2 — Tích Lũy (Đời thứ 10-11)
+- Lý Huyền Tuyên kế thừa, kiên trì gây dựng.
+- Lý Uyên Tu tài năng nhưng chết trẻ do Uất gia âm mưu.
+- Lý Uyên Giao gánh vác trong gian khó, **"Giao bất dám quên"** — hình tượng bi tráng nhất giai đoạn này.
+- Lý Xích Kính vào Thanh Trì Tông, trải qua những mưu tính phức tạp giữa gia tộc và tông môn.
+
+### Giai đoạn 3 — Bứt Phá (Đời thứ 12)
+- **Lý Hy Minh** chứng đạo Tử Phủ tại Vọng Nguyệt Hồ — cột mốc lịch sử của Lý gia.
+- Lý gia từ gia tộc nhỏ bé chính thức trở thành **"Vọng Nguyệt Lý Thị"** — thế lực Tử Phủ.
+- Lý Hy Minh tham gia các cuộc bố cục tầm cao.
+
+### Giai đoạn 4 — Hưng Thịnh (Đời thứ 13-14 trở đi)
+- Lý Chu Uy xuất hiện với Minh Dương Thiên Mệnh — thế hệ hy vọng.
+- Lý gia bước vào bàn cờ tranh đấu của các thế lực Kim Đan, Đạo Thai.
+- Thế hệ "Giáng" (Lý Giáng Thiên, Lý Giáng Thuần...) là thiên kiêu mới nhất.
+
+---
+
+## 📝 7. CHỦ ĐỀ & TINH THẦN CỐT LÕI
+
+| Chủ đề | Biểu hiện trong truyện |
+|---|---|
+| **"Củi tàn lửa truyền" (薪尽火传)** | Mỗi đời hy sinh để thế hệ sau tiếp tục con đường |
+| **Sinh tồn trong bóng tối** | Không có nhân vật nào là "an toàn" — kể cả nhân vật tốt cũng có thể chết bất ngờ |
+| **Sức mạnh tập thể** | Không phải một anh hùng đơn độc mà là cả gia tộc chung sức |
+| **Bi kịch và anh hùng ca** | Bi kịch của từng cá nhân tạo nên sự hùng tráng của cả gia tộc |
+| **Quyền lực và nhân tính** | Trong thế giới tu tiên tàn khốc, con người vẫn giữ được nhân tính hay bị tha hóa? |
+
+---
+
+## 🗣️ 8. LƯU Ý DỊCH THUẬT QUAN TRỌNG
+
+### Xưng hô trong Lý gia
+- Gia chủ → thường xưng "ta" (ta/tôi), gọi thuộc hạ bằng tên hoặc chức vị
+- Trưởng bối → xưng "ta", gọi hậu bối bằng tên
+- Hậu bối trước trưởng bối → xưng "cháu/tiểu tử/con", gọi "trưởng phụ/thúc thúc..."
+- Tu sĩ đồng cấp → xưng "tôi/ta", gọi "đạo hữu/huynh/đệ..."
+- **TRÁNH dùng "mày/tao"** trừ khi có tranh cãi, mắng chửi kịch liệt
+
+### Thuật ngữ cần nhất quán
+
+| Tiếng Trung | Phiên âm Việt | Ghi chú |
+|---|---|---|
+| 玄鉴仙族 | Huyền Giám Tiên Tộc | Tên truyện |
+| 日月两仪玄鉴 | Nhật Nguyệt Lưỡng Nghi Huyền Giám | Gương đồng (pháp khí chủ lực) |
+| 器灵 | Khí Linh | Linh hồn trong pháp khí |
+| 道基 | Đạo Cơ | Nền tảng tu đạo giai đoạn Trúc Cơ |
+| 命神通 | Mệnh Thần Thông | Thần thông mệnh số của Tử Phủ tu sĩ |
+| 金性 | Kim Tính | Hạt nhân Kim Đan, bất hủ bất diệt |
+| 紫府 | Tử Phủ | Cảnh giới tu tiên thứ 4 |
+| 金丹 | Kim Đan | Cảnh giới tu tiên thứ 5 |
+| 道胎 | Đạo Thai | Cảnh giới tu tiên thứ 6 |
+| 胎息境 | Phôi Tức Cảnh | Cảnh giới đầu tiên |
+| 练气境 | Luyện Khí Cảnh | Cảnh giới thứ 2 |
+| 筑基境 | Trúc Cơ Cảnh | Cảnh giới thứ 3 |
+| 果位 | Quả Vị | "Suất/chỗ" Kim Tính — có hạn |
+| 道统 | Đạo Thống | Hệ phái tu tiên |
+| 三玄道统 | Tam Huyền Đạo Thống | Ba đạo thống lớn |
+| 太阴月华 | Thái Âm Nguyệt Hoa | Nguồn lực tu luyện từ Mặt Trăng |
+| 太阳道统 | Thái Dương Đạo Thống | Đạo thống ánh sáng Mặt Trời |
+| 大黎山 | Đại Lê Sơn | Địa danh — ngọn núi nguy hiểm |
+| 眉尺河 | Mi Xích Hà | Địa danh — con sông |
+| 玄珠符种 | Huyền Châu Phù Chủng | Căn cơ tu tiên ban đầu Lục Giang Tiên trao cho Lý gia |
+| 望晋玄衍丹 | Vọng Tấn Huyền Diễn Đan | Dược đan quý do Lý Hy Minh luyện chế |
+| 赶山赴海虎 | Thỉnh Sơn Phó Hải Hổ | Linh khí/linh thú của Lý Hy Minh |
+| 明阳天命 | Minh Dương Thiên Mệnh | Thiên tư đặc thù của Lý Chu Uy |
+| 望月李氏 | Vọng Nguyệt Lý Thị | Danh hiệu Lý gia sau khi có Tử Phủ tu sĩ |
+| 青池宗 | Thanh Trì Tông | Tông môn lớn vùng này |
+| 青松观 | Thanh Tùng Quan | Thế lực đã suy tàn |
+| 青松六子 | Thanh Tùng Lục Tử | Sáu đệ tử cốt lõi Thanh Tùng Quan |
+
+---
+
+*Tài liệu được tổng hợp từ Baidu Baike (baike.baidu.com) và nhiều nguồn độc giả trên mạng.*
+*Phục vụ mục đích dịch thuật nội bộ dự án Huyền Giám Tiên Tộc.*
+*Cập nhật lần cuối: 2026-07-28*

@@ -1,13 +1,19 @@
-# HƯỚNG DẪN VĂN PHONG DỊCH (STYLE GUIDE TEMPLATE)
+# HƯỚNG DẪN VĂN PHONG DỊCH (STYLE GUIDE)
 
-*Tài liệu này định hình phong cách dịch thuật cho truyện mới. Khi bắt đầu truyện mới, hãy chỉnh sửa tài liệu này để phù hợp với văn phong của truyện đó. Dưới đây là khung mẫu và các bài học kinh nghiệm.*
+*Áp dụng cho dự án: **Huyền Giám Tiên Tộc** (玄鉴仙族) — tác giả Quý Việt Nhân.*
 
 ---
 
-## 📌 1. VAI TRÒ & GIỌNG VĂN CHUNG
-- **Vai trò:** Dịch giả truyện mạng chuyên nghiệp, chuyên dịch Trung → Việt các thể loại (Huyền huyễn, Đô thị, Võ hiệp, Khoa học ma pháp, Công nghiệp, v.v.).
-- **Tiêu chuẩn:** Văn phong mượt mà, thuần Việt, trung thành với bản gốc, không dịch word-by-word kiểu Convert thô, nhưng cũng không phóng tác quá đà.
-- **Tính nhất quán:** Giữ nguyên cấu trúc câu thoại và văn tả tự nhiên, tránh lạm dụng từ Hán Việt quá nặng nề trong những bối cảnh hiện đại/kinh doanh/kỹ thuật.
+## 📌 1. TINH THẦN CHUNG — ĐỌC TRƯỚC KHI DỊCH
+
+**Mục tiêu:** Bản dịch phải đọc như một cuốn truyện tiếng Việt chính gốc — trơn tru, có hồn, người đọc không cảm giác đang đọc bản dịch.
+
+**Ba nguyên tắc cốt lõi:**
+1. **Tự nhiên trước, sát nghĩa sau.** Câu văn phải chạy mượt trong tiếng Việt. Nếu dịch sát mà câu nghe cứng, hãy tái cấu trúc câu.
+2. **Không lạm dụng Hán Việt.** Chỉ dùng Hán Việt cho những thứ CẦN THIẾT (xem mục 3). Còn lại dùng tiếng Việt thuần túy, tự nhiên.
+3. **Không dịch word-by-word.** Một câu dài trong tiếng Trung có thể tách thành 2–3 câu ngắn cho dễ đọc, hoặc ngược lại gộp 2 câu ngắn thành 1 câu có nhịp điệu hơn.
+
+**Văn phong của truyện này:** Cổ điển, trầm lắng, có chiều sâu — nhưng không nên dịch ra kiểu "cổ văn cứng đơ". Hãy giữ cái không khí u trầm, sử thi của nguyên tác, nhưng câu chữ vẫn phải chảy tự nhiên.
 
 ---
 
@@ -26,11 +32,26 @@
 
 ---
 
-## 🗺️ 3. PHÂN LOẠI TÊN RIÊNG & THUẬT NGỮ (TRANSLATION RULES)
-- **Tên nhân vật gốc Trung:** Dùng âm **Hán Việt** (Ví dụ: `许亦` = `Hứa Dịch`).
-- **Tên phương Tây / Latin (Nếu có):** Chuyển về dạng **chữ Latin/Tây gốc**, KHÔNG dùng âm Hán Việt (Ví dụ: `邦塔` = `Bontar`, `斯塔克` = `Stark`).
-- **Tên mang ý nghĩa đặc trưng (Ví dụ: Tên tộc Elf, địa danh tự nhiên):** Dịch nghĩa sang **tiếng Anh** hoặc **tiếng Việt** tương ứng để tạo cảm giác kỳ ảo tự nhiên (Ví dụ: `影歌` = `Shadowsong`).
-- **Thuật ngữ lặp đi lặp lại:** Ghi nhận ngay vào [memo/GLOSSARY.tsv](file:///E:/work/truyen/truyen-ma-phap-cong-nghiep/memo/GLOSSARY.tsv). Tuyệt đối cấm dịch tự phát lệch tên khi từ điển đã có quy ước.
+## 🗺️ 3. PHÂN LOẠI TÊN RIÊNG & THUẬT NGỮ — DÙNG HÁN VIỆT KHI NÀO?
+
+### ✅ DÙNG HÁN VIỆT (bắt buộc):
+- **Tên nhân vật chính:** Dùng âm Hán Việt đầy đủ. Ví dụ: `陆江仙` = **Lục Giang Tiên**, `李曦明` = **Lý Hy Minh**.
+- **Địa danh quan trọng, xuất hiện nhiều lần:** Ví dụ: `大黎山` = **Đại Lê Sơn**, `眉尺河` = **Mi Xích Hà**, `紫府` = **Tử Phủ**.
+- **Thuật ngữ tu tiên cốt lõi** (cảnh giới, pháp khí, thần thông...): Ví dụ: **Đạo Cơ, Mệnh Thần Thông, Kim Tính, Trúc Cơ, Kim Đan**.
+- **Danh hiệu / đạo hiệu:** Ví dụ: **Thanh Huyền Tử, Minh Hoàng**.
+- **Tên tông môn, gia tộc, thế lực:** Ví dụ: **Thanh Trì Tông, Lý gia, Vọng Nguyệt Lý Thị**.
+
+### ❌ KHÔNG DÙNG HÁN VIỆT (dùng tiếng Việt tự nhiên):
+- **Từ thông thường có sẵn trong tiếng Việt:** Đừng viết "thần sắc" khi có thể viết "vẻ mặt"; đừng viết "mục quang" khi có thể viết "ánh mắt"; đừng viết "tâm tư" ở mọi chỗ khi "trong lòng" hoặc "nghĩ ngợi" nghe tự nhiên hơn.
+- **Hành động / cảm xúc thường ngày:** "Hắn mỉm cười" thay vì "hắn vi tiếu"; "bước nhanh" thay vì "khoái bộ".
+- **Mô tả ngoại cảnh, thời tiết, cảm giác thể chất:** Dùng văn xuôi tiếng Việt thuần túy, không cần Hán hoá.
+- **Câu thoại bình thường:** Hội thoại nên nghe như người thật nói, không phải đọc sách giáo khoa cổ đại.
+
+### ⚠️ RANH GIỚI MỜ — dùng theo ngữ cảnh:
+- Những từ Hán Việt đã ngấm sâu vào tiếng Việt ("pháp thuật", "linh khí", "tu luyện", "gia tộc") thì dùng bình thường.
+- Những từ nghe lạ tai hoặc cầu kỳ quá thì thay bằng từ Việt đơn giản hơn.
+
+**Thuật ngữ lặp đi lặp lại:** Ghi nhận ngay vào [memo/GLOSSARY.tsv](file:///C:/truyen/maphap/memo/GLOSSARY.tsv). Tuyệt đối cấm dịch tự phát lệch tên khi từ điển đã có quy ước.
 
 ---
 
@@ -43,10 +64,19 @@
 
 ---
 
-## 📖 5. THÀNH NGỮ / ĐIỂN CỐ XA LẠ (BÀI HỌC KINH NGHIỆM)
-- Thành ngữ 4 chữ hoặc điển cố Hán Việt không thông dụng trong tiếng Việt: KHÔNG dịch cứng theo âm Hán Việt/nghĩa đen rồi để nguyên, vì độc giả Việt sẽ không hiểu ẩn ý.
-- Chêm giải thích ngắn gọn, tự nhiên ngay trong câu văn (không dùng chú thích/footnote, không phá vỡ mạch kể) để truyền tải đúng ý nghĩa.
-- Thành ngữ đã quen thuộc với người Việt (họa vô đơn chí, một mất một còn, thân bại danh liệt...) thì dịch bình thường, không cần giải thích thêm.
+## 📖 5. THÀNH NGỮ / ĐIỂN CỐ / CÂU VĂN KHÓ
+
+**Thành ngữ 4 chữ:** KHÔNG dịch cứng âm Hán Việt rồi để nguyên. Người đọc Việt sẽ không hiểu "củi tàn lửa truyền" nếu không giải thích. Hãy hoặc:
+- Dịch nghĩa tự nhiên vào câu văn: "cứ thế thế hệ này truyền cho thế hệ kia, ngọn lửa chưa bao giờ tắt"
+- Hoặc dùng thành ngữ/tục ngữ Việt tương đương nếu có
+
+**Những thành ngữ người Việt đã quen** (họa vô đơn chí, một mất một còn, thân bại danh liệt...) thì dịch bình thường, không cần giải thích.
+
+**Câu văn dài, cú pháp phức tạp:** Cắt ra, sắp xếp lại cho phù hợp nhịp đọc tiếng Việt. Ưu tiên câu ngắn — trung bình — dài xen kẽ nhau để tạo nhịp điệu.
+
+**Mô tả hành động chiến đấu / pháp thuật:** Dùng động từ mạnh, ngắn gọn. Tránh câu mô tả dài lê thê kiểu báo cáo. Hãy để người đọc "cảm" được cú đánh, không phải "đọc" về nó.
+
+**Đoạn độc thoại nội tâm:** Phải nghe như người thật đang suy nghĩ — có thể dùng câu cụt, câu hỏi tự hỏi, không cần hoàn chỉnh ngữ pháp.
 
 ---
 
