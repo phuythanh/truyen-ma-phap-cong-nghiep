@@ -84,14 +84,17 @@ Khi người dùng ra lệnh dịch, agent sẽ tự động chạy theo quy tr�
    - Dòng 2: Trống
    - Dòng 3 trở đi: Nội dung dịch (mỗi đoạn phân tách bằng 1 dòng trống, khớp 1-1 với bản gốc).
 
-### Bước 3: Chạy QA Tự động, Đóng gói & Git Commit (Bằng Main Agent với model Gemini Flash)
+### Bước 3: Chạy QA Tự động, Đánh giá Chất lượng (>= 9.7/10), Đóng gói & Git Commit (Bằng Main Agent)
 Main Agent (model `flash`) quản lý toàn bộ quy trình hậu kỳ và điều hướng kiểm tra chất lượng:
-1. Chạy script kiểm tra chất lượng cho các chương vừa dịch bằng PowerShell:
+1. **QA Tự động:** Chạy script kiểm tra chất lượng cho các chương vừa dịch bằng PowerShell:
 ```powershell
 powershell.exe -NoProfile -Command ".\scratchpad\qa_chapters.ps1 -Start <vi_chapter> -End <vi_chapter>"
 ```
-- Nếu kết quả trả về là `OK`: Đạt chuẩn.
+- Nếu kết quả trả về là `OK`: Đạt chuẩn kĩ thuật.
 - Nếu trả về lỗi (`FAIL_CJK`, `FAIL_MOJIBAKE`, `WARN_PARACOUNT`, `WARN_DUP`): Agent phải mở file dịch ra rà soát, sửa lỗi thủ công hoặc yêu cầu dịch lại phần bị hỏng.
+2. **Đánh giá Chất lượng Dịch thuật (Bắt buộc đạt từ 9.7/10 trở lên):**
+- Đánh giá độ mượt, nhịp điệu, thần thái Cổ Phong Tiên Gia, cách xưng hô trang trọng và độ chính xác của từ ngữ/thuật ngữ.
+- Nếu phát hiện câu từ ngô nghê, thuần Việt hóa quá đà hoặc sai phong thái tiên gia (dưới 9.7/10), Agent phải tiến hành tinh chỉnh/edit lại ngay trước khi chuyển sang bước tiếp theo.
 
 ### Bước 4: Đóng gói sách EPUB
 Chạy script PowerShell để build sách điện tử tự động:

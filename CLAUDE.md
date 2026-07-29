@@ -61,14 +61,15 @@ Công thức số chương: **`Zh_Chapter = Vi_Chapter + offset_zh_minus_vi`** (
 - Nếu dải chương cần dịch nhiều hơn 5 (ví dụ 20 chương = 4 cụm), gọi **nhiều Agent trong cùng một message** (song song) để tối ưu thời gian — mỗi lời gọi vẫn là 1 subagent riêng phụ trách đúng 5 chương của nó.
 - **Không** dùng `subagent_type: "fork"` cho việc dịch — dịch thuật không cần kế thừa context hội thoại, và fork sẽ không nhận `model` override (fork luôn chạy model của agent cha).
 
-### Bước 3 — Main agent chờ tất cả subagent dịch xong, RỒI MỚI chạy QA 1 LƯỢT
+### Bước 3 — Chạy QA tự động & Đánh giá chất lượng (>= 9.7/10)
 Đây là điểm khác biệt quan trọng so với chạy từng cụm riêng lẻ: **main agent gom toàn bộ dải chương vừa dịch (toàn bộ các cụm 5 chương) và chỉ chạy QA + commit + push MỘT LẦN DUY NHẤT ở cuối phiên**, không QA/commit riêng từng cụm 5 chương. **Bước này main agent phải tự chạy bằng tool `PowerShell` của chính phiên hiện tại — không giao cho `Agent` con** (xem lỗi #8 ở mục 2: agent con có thể chạy trên Linux, không có `powershell.exe`).
 ```powershell
 powershell.exe -NoProfile -Command ".\scratchpad\qa_chapters.ps1 -Start <Start_toan_dai> -End <End_toan_dai>"
 ```
 - Nếu có `FAIL_CJK`, `FAIL_MOJIBAKE`, `FAIL_RATIO`, `FAIL_SPACE`, `FAIL_BADBYTE`: mở file lỗi, sửa tay hoặc spawn lại 1 Agent (model `sonnet`) dịch lại đúng chương đó.
 - `WARN_PARACOUNT`, `WARN_DUP`: đối chiếu nguồn, sửa thủ công.
-- Lặp lại QA cho đến khi toàn dải đạt `OK` (hoặc chỉ còn WARN đã xem xét và chấp nhận được).
+- **Đánh giá chất lượng dịch thuật (Bắt buộc đạt từ 9.7/10 trở lên):** Đánh giá độ mượt, nhịp điệu, thần thái Cổ Phong Tiên Gia và độ chính xác của từ ngữ/thuật ngữ. Nếu dưới 9.7/10, rà soát và edit tinh chỉnh lại ngay.
+- Lặp lại QA và rà soát chất lượng cho đến khi toàn dải đạt `OK` và đủ tiêu chuẩn >= 9.7/10.
 
 ### Bước 4 — Đóng gói EPUB (tùy chọn, khi user yêu cầu hoặc đủ mốc chương)
 Cũng phải do main agent tự chạy trực tiếp, không delegate cho `Agent` con (cùng lý do PowerShell/Linux ở lỗi #8).
