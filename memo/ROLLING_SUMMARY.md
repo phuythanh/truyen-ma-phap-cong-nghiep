@@ -36,6 +36,21 @@
 - **Xung Dương Hạt Tinh Bảo Bàn:** Chí bảo giúp tinh luyện và khống chế Minh Dương hỏa quang của Lý Hi Minh.
 - **Lý Giáng Thiên & Lý Chu Vi:** Thế hệ trụ cột Lý thị khẳng định uy danh tại Hoang Dã.
 
+## 📌 TÓM TẮT BỐI CẢNH CẬP NHẬT: CHƯƠNG 1697 - 1701
+
+### 1. Diễn biến cốt truyện chính:
+- **Đại chiến Thang Đao Sơn (1697-1701):** Khởi đầu đại chiến Nam Bắc. Thích tu phương Bắc (đứng đầu là Giá Lư và Bì Gia, thuộc các đạo Không Vô và Đại Dục) chiếm cứ Thang Đao Sơn, lập Đại Nguyên Quang Ẩn Tự, đúc thành hai pho kim thân khổng lồ đe dọa trực tiếp khe Bạch Giang (ranh giới Nam-Bắc). Kim Vũ tông nhắm mắt làm ngơ, khiến Đô Tiên Đạo không thể địch lại, phải cầu viện Lý Hi Minh (Chiêu Cảnh chân nhân).
+- **Lý Hi Minh và Đạo thống Thái Dương ra tay (1699-1700):** Lý Hi Minh dẫn theo các Tử Phủ Giang Nam đi đến Thang Đao Sơn, cùng nhóm đại biểu đạo thống Thái Dương gồm: Khuê Kỳ, Đinh Lan, Hậu Phất, Ninh Uyển. Trận chiến bắt đầu khi hai bên đối diện nhau. Phía Thích tu gọi ra 4 vị Ma Ha: Giá Lư, Bì Gia, Đãi Tất, Nô Tư, đồng thời Hách Liên Ngột Mãnh (đạo thống Thiết Phất) cũng hiện thân.
+- **Uy thế của Hưu Quỳ Đại chân nhân Lâu Hành (1700-1701):** Hưu Quỳ Đại chân nhân - Kiếm Tiên Lâu Hành bất ngờ đích thân xuất thủ. Bằng một kiếm tuyệt đỉnh từ 【 Đại Tuyết Tuyệt Phong 】, ông ta không chỉ đâm nát pháp thân của Bì Gia mà còn áp chế toàn bộ Thang Đao Sơn. Các Ma Ha sợ hãi bỏ chạy, để lại một đám Liên Mẫn làm bia đỡ đạn. Lý Hi Minh, Đinh Lan, Khuê Kỳ, Hậu Phất phối hợp tiêu diệt nhiều Liên Mẫn. Lý Hi Minh kết liễu thành công tên Liên Mẫn Hoa Không, thể hiện thực lực cường hãn với Thiên Môn và chân hỏa.
+- **Lâu Hành truyền lại đạo thống (1701):** Sau chiến thắng áp đảo, Hành Tinh chân nhân (Hành Chúc nhất đạo) xuất hiện chúc mừng. Khi trở về Hổ Di Sơn, Lâu Hành tuyên bố trận chiến Thang Đao Sơn mới chỉ là mở đầu nhằm cảnh cáo Bắc Thích. Đồng thời, ông tiết lộ việc thọ mạng của mình chỉ còn hai, ba năm và đã từ bỏ hy vọng đột phá Kim Đan. Lâu Hành quyết định sẽ đến Lạc Hà Sơn tìm Tiết Ương để đi nốt chặng đường kiếm đạo cuối cùng, và giao phó đạo thống Thái Dương lại cho nhóm Khuê Kỳ.
+
+### 2. Các nhân vật & Địa danh/Pháp bảo mới:
+- **Lâu Hành (Hưu Quỳ Đại chân nhân):** Kiếm Tiên đạo thống Thái Dương, từng vang danh cùng thời với Tử Bái chân nhân. Thần thông cái thế, tung một kiếm có uy lực truy đuổi 400 năm. Sắp cạn thọ mạng, chuẩn bị đến Lạc Hà Sơn.
+- **Giá Lư, Bì Gia, Đãi Tất, Nô Tư:** 4 vị Ma Ha của Bắc Thích, đại diện cho Không Vô Đạo và Đại Dục Đạo, chủ chốt của trận Thang Đao Sơn.
+- **Hành Tinh chân nhân:** Đại diện của Hành Chúc nhất đạo, một thế lực ngày càng xa cách với đạo thống Thái Dương.
+- **Hoa Không:** Tên Liên Mẫn bốn tay hai đầu bị Lý Hi Minh giết chết bằng sự phối hợp của các loại pháp thuật, dị hỏa và thần thông.
+- **Đại Nguyên Quang Ẩn Tự:** Ngôi chùa Thích tu lập trên Thang Đao Sơn nhằm làm bàn đạp tiến xuống Giang Nam.
+
 ## 📌 TÓM TẮT BỐI CẢNH CẬP NHẬT: CHƯƠNG 1704 - 1728
 
 ### 1. Diễn biến cốt truyện chính:
