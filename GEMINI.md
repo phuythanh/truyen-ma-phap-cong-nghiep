@@ -56,7 +56,11 @@ Khi người dùng chuyển sang branch này và yêu cầu dịch một truyệ
 - **Hành động:** Khi xuất hiện nhân vật/địa danh mới, hãy thêm ngay vào `GLOSSARY.tsv` kèm quy định dịch để các chương tiếp theo không bị lệch.
 
 ### 5. Lỗi xưng hô đại từ
-- **Bài học:** Cực kỳ hạn chế dùng "mày - tao" trừ khi nhân vật chửi bới, cãi vã dữ dội. Dùng "tôi", "ta", "ông/bà" để giữ văn phong nhã nhặn. Phân biệt rõ "chúng tôi" (không gồm người nghe) và "chúng ta" (gồm người nghe) để dịch chính xác ngữ cảnh.
+- **Bài học:** Cực kỳ hạn chế dùng "mày - tao" trừ khi nhân vật chửi bới, cãi vã dữ dội. Dùng "tôi", "ta", "đạo hữu", "sư điệt", "tiền bối", "vãn bối" để giữ văn phong nhã nhặn. Phân biệt rõ "chúng tôi" (không gồm người nghe) và "chúng ta" (gồm người nghe) để dịch chính xác ngữ cảnh.
+
+### 6. Đánh giá chất lượng dịch thuật (Bắt buộc đạt từ 9.7/10 trở lên)
+- **Bài học:** Không được dịch thuần Việt ngô nghê làm mất khí thái cổ phong tiên hiệp (như dịch "bạch y nam tử" thành "người đàn ông mặc áo trắng", "địa giới" thành "địa bàn"...).
+- **Hành động:** Bản dịch bắt buộc phải giữ Hán Việt Cổ Phong đẹp, xưng hô trang trọng và phải đạt điểm đánh giá chất lượng từ **9.7 / 10** trở lên về độ mượt, nhịp điệu và thần thái nhân vật.
 
 ---
 

@@ -8,9 +8,11 @@
 
 **Mục tiêu:** Bản dịch phải đọc như một cuốn truyện tiếng Việt chính gốc — trơn tru, có hồn, người đọc không cảm giác đang đọc bản dịch.
 
+**Tiêu chuẩn chất lượng:** Bản dịch của mỗi chương sau khi hoàn thành phải đạt điểm đánh giá chất lượng từ **9.7 / 10** trở lên về độ mượt, nhịp điệu, khí thái Cổ Phong Tiên Gia và độ chính xác thuật ngữ.
+
 **Ba nguyên tắc cốt lõi:**
 1. **Tự nhiên trước, sát nghĩa sau.** Câu văn phải chạy mượt trong tiếng Việt. Nếu dịch sát mà câu nghe cứng, hãy tái cấu trúc câu.
-2. **Không lạm dụng Hán Việt.** Chỉ dùng Hán Việt cho những thứ CẦN THIẾT (xem mục 3). Còn lại dùng tiếng Việt thuần túy, tự nhiên.
+2. **Hán Việt Cổ Phong thần thái.** Giữ nguyên các hình tượng miêu tả cổ điển ("bạch y nam tử", "lão giả", "thiếu nữ", "động phủ"...). Chỉ loại bỏ từ Hán Việt thô/sượng câu.
 3. **Không dịch word-by-word.** Một câu dài trong tiếng Trung có thể tách thành 2–3 câu ngắn cho dễ đọc, hoặc ngược lại gộp 2 câu ngắn thành 1 câu có nhịp điệu hơn.
 
 **Văn phong của truyện này:** Cổ điển, trầm lắng, có chiều sâu — nhưng không nên dịch ra kiểu "cổ văn cứng đơ". Hãy giữ cái không khí u trầm, sử thi của nguyên tác, nhưng câu chữ vẫn phải chảy tự nhiên.
