@@ -35,21 +35,18 @@
 ## 🗺️ 3. PHÂN LOẠI TÊN RIÊNG & THUẬT NGỮ — DÙNG HÁN VIỆT KHI NÀO?
 
 ### ✅ DÙNG HÁN VIỆT (bắt buộc):
-- **Tên nhân vật chính:** Dùng âm Hán Việt đầy đủ. Ví dụ: `陆江仙` = **Lục Giang Tiên**, `李曦明` = **Lý Hy Minh**.
-- **Địa danh quan trọng, xuất hiện nhiều lần:** Ví dụ: `大黎山` = **Đại Lê Sơn**, `眉尺河` = **Mi Xích Hà**, `紫府` = **Tử Phủ**.
-- **Thuật ngữ tu tiên cốt lõi** (cảnh giới, pháp khí, thần thông...): Ví dụ: **Đạo Cơ, Mệnh Thần Thông, Kim Tính, Trúc Cơ, Kim Đan**.
-- **Danh hiệu / đạo hiệu:** Ví dụ: **Thanh Huyền Tử, Minh Hoàng**.
-- **Tên tông môn, gia tộc, thế lực:** Ví dụ: **Thanh Trì Tông, Lý gia, Vọng Nguyệt Lý Thị**.
+- **Tên nhân vật, địa danh, thế lực:** Dùng âm Hán Việt đầy đủ (Lục Giang Tiên, Lý Hy Minh, Tử Phủ, Thái Dương đạo thống...).
+- **Thuật ngữ tu tiên cốt lõi:** Đạo Cơ, Mệnh Thần Thông, Kim Tính, Trúc Cơ, Kim Đan, Linh Khí, Linh Bảo, Động Phủ...
+- **Từ Hán Việt miêu tả cổ phong (TẠO THẦN THÁI & KHÍ THÁI TIÊN GIA):** 
+  - **Giữ nguyên các cụm từ miêu tả hình tượng cổ điển:** Dùng **"bạch y nam tử"** (tuyệt đối không dịch thành "người đàn ông áo trắng"), **"lão giả"**, **"thiếu nữ"**, **"hắc衣"**, **"hồng y"**, **"tiên phong đạo cốt"**...
+  - Không thuần Việt hóa những từ miêu tả hình tượng đã trở thành nét đẹp đặc trưng của tiên hiệp.
 
-### ❌ KHÔNG DÙNG HÁN VIỆT (dùng tiếng Việt tự nhiên):
-- **Từ thông thường có sẵn trong tiếng Việt:** Đừng viết "thần sắc" khi có thể viết "vẻ mặt"; đừng viết "mục quang" khi có thể viết "ánh mắt"; đừng viết "tâm tư" ở mọi chỗ khi "trong lòng" hoặc "nghĩ ngợi" nghe tự nhiên hơn.
-- **Hành động / cảm xúc thường ngày:** "Hắn mỉm cười" thay vì "hắn vi tiếu"; "bước nhanh" thay vì "khoái bộ".
-- **Mô tả ngoại cảnh, thời tiết, cảm giác thể chất:** Dùng văn xuôi tiếng Việt thuần túy, không cần Hán hoá.
-- **Câu thoại bình thường:** Hội thoại nên nghe như người thật nói, không phải đọc sách giáo khoa cổ đại.
+### ❌ KHÔNG DÙNG HÁN VIỆT CỨNG / THÔ (dùng tiếng Việt tự nhiên):
+- **Từ ngữ Hán Việt thô, sượng làm cứng câu văn:** Đừng dùng "thần sắc" khi có thể viết "vẻ mặt"; đừng dùng "mục quang" khi có thể viết "ánh mắt"; tránh "khoái bộ" (viết "bước nhanh"), "khái tấu" (viết "ho khan").
+- **Hành động / cảm xúc thường ngày:** "Hắn mỉm cười" thay vì "hắn vi tiếu"; "trong lòng nghĩ ngợi" thay vì "tâm tư".
 
-### ⚠️ RANH GIỚI MỜ — dùng theo ngữ cảnh:
-- Những từ Hán Việt đã ngấm sâu vào tiếng Việt ("pháp thuật", "linh khí", "tu luyện", "gia tộc") thì dùng bình thường.
-- Những từ nghe lạ tai hoặc cầu kỳ quá thì thay bằng từ Việt đơn giản hơn.
+### ⚠️ RANH GIỚI MỜ & QUY TẮC XƯNG HÔ TIÊN GIA:
+- **Xưng hô tiên gia/tu sĩ:** Giữ phong thái trang trọng của tu sĩ cổ đại. Tử Phủ Chân Nhân xưng **"ta - ngươi"**, **"đạo hữu"**, **"chân nhân"**, **"tiền bối"**, **"vãn bối"**. Tuyệt đối không chuyển thành xưng hô đời thường/hiện đại kiểu "cô - tôi", "ông - tôi".
 
 **Thuật ngữ lặp đi lặp lại:** Ghi nhận ngay vào [memo/GLOSSARY.tsv](file:///C:/truyen/maphap/memo/GLOSSARY.tsv). Tuyệt đối cấm dịch tự phát lệch tên khi từ điển đã có quy ước.
 
