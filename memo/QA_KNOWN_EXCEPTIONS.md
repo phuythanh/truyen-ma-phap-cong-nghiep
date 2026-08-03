@@ -9,10 +9,16 @@ chỉ bỏ qua.
 | 1727 | WARN_PARACOUNT (lệch ~3 đoạn) | Đã đối chiếu `chapters_zh/0919.txt`, cuối file không có quảng cáo/rác — chỉ là chênh lệch cách ngắt đoạn tự nhiên khi dịch, nội dung đầy đủ, không thiếu ý. |
 | 1756 | FAIL_SLANG ("mày"/"tao") | Câu "Mày... Sao mày còn chưa đi đi!" — dùng "mày" đúng nghĩa đại từ xưng hô suồng sã thật, nhưng nằm trong cảnh cãi vã dữ dội, thuộc ngoại lệ được phép theo `STYLE_GUIDE.md`/mục 2.5 CLAUDE.md ("hạn chế tối đa mày-tao trừ khi cãi vã dữ dội"). Không sửa.
 
-**Không áp dụng cho `MISSING_ZH` (ví dụ chương 1723 / zh 0915):** đây là loại lỗi khác — file nguồn
-`chapters_zh/*.txt` bị thiếu thật trên đĩa. Trường hợp 1723 không sao vì `chapters_out/1723.md`
-đã dịch xong đầy đủ từ trước khi file nguồn bị mất, nhưng nếu `MISSING_ZH` xuất hiện ở một chương
-CHƯA có file `chapters_out` tương ứng thì vẫn là lỗi thật cần xử lý (không được thêm vào bảng này).
+**`MISSING_ZH` luôn là lỗi thật cần xử lý**, không thuộc diện bỏ qua như bảng trên. Nếu gặp lại,
+thử phục hồi từ `chapters_zh/full_source.txt` (bản gộp GBK-encoded toàn bộ truyện) trước khi báo
+user — xem case đã xử lý: chương 1723 (zh 0915) từng bị `MISSING_ZH` do file `0915.txt` mất, đã
+phục hồi thành công bằng cách tách từ `full_source.txt` (đọc bằng
+`[System.Text.Encoding]::GetEncoding(936)`, tìm ranh giới bằng tiêu đề chương liền trước/sau,
+convert UTF-8 CRLF, bỏ khoảng trắng full-width `　　` đầu dòng). Lưu ý: dòng tiêu đề trong
+`full_source.txt` đôi khi lỗi scrape thiếu chữ "章" (ví dụ "第九百一十五玄儋太阴" thay vì
+"第九百一十五章玄儋太阴") nên khi dò ranh giới bằng regex `^第[...]+章` có thể trượt — phải tìm bằng
+nội dung lân cận (từ khóa xuất hiện trong bản dịch đã có, nếu chương đó đã dịch rồi) rồi đối chiếu
+tay, không chỉ dựa thuần vào regex tiêu đề.
 
 ## Cách dùng
 - Trước khi report cho user "còn X FAIL/WARN", loại trừ các dòng khớp bảng trên trước.
