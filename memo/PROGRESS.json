@@ -4,7 +4,7 @@
   "git_branch": "huyen-giam-tien-toc",
   "offset_zh_minus_vi": -808,
   "first_new_chapter_vi": 1634,
-  "last_done_vi": 1765,
-  "note": "Hoàn thành 5 chương từ 1667 đến 1671, bổ sung phần thiếu.",
+  "last_done_vi": 1775,
+  "note": "Đã dịch chương 1766-1775, QA sạch (fix false positive FAIL_SLANG cho từ 'mày' trong cụm 'mày ngắn' trong qa_chapters.ps1).",
   "next_action": "Dịch các chương tiếp theo"
 }

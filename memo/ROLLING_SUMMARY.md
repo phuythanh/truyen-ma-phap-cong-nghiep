@@ -111,3 +111,22 @@
 - **Giải mã bí ẩn glossary cũ:** Nguồn chương 1750/1751 xác nhận ký tự khuyết trong "李承?" (đã ghi chú treo từ ch.912-913) chính là 晊, chốt tên "Lý Thừa Trất" — thay thế placeholder "Lý Thừa" cũ.
 
 ### 2. Các nhân vật mới: xem GLOSSARY.tsv (Lý Chu Đạt, Lý Chu Tốn, Lý Chu Minh, Lý Giáng Lương/Thuần/Niên, Dương Điền U, Chúc Khôi, Thôi Ngạc — nhánh nhân vật phụ mở rộng gia tộc họ Lý và tuyến Chu Cung/Mật Phiếm).
+
+## 📌 TÓM TẮT BỐI CẢNH CẬP NHẬT: CHƯƠNG 1766 - 1775
+
+### 1. Diễn biến cốt truyện chính:
+- **Trường Hoài Sơn sụp đổ & Dương Trạc lộ diện (1766-1768, 1770):** Tại nước Ngô, đại trận trấn giữ Vấn Vũ Bình Thanh Chí của Trường Hoài Sơn đột ngột sụp đổ không rõ nguyên nhân, Lý Hi Minh dò xét không thấy dấu vết tu sĩ Trường Hoài Sơn nào. Song song, Lý Giáng Lương và người anh cả xa cách Lý Giáng Thiên đến Tầm Lâm Nguyên, chạm trán nhân vật đáng sợ **Dương Trạc** — cuối ch.1770, Lý Chu Vi suy đoán Dương Trạc rất có thể là hóa thân kim tính "Chân Khí" thất lạc của Thiên Vũ Chân Quân cổ đại, được Âm Ty hậu thuẫn, đang mưu đồ thống nhất/khống chế nước Việt đang phân liệt.
+- **Tân Dậu Lục Trạch Ấn & thế cục Trì Bộ Tử (1769):** Trì Bộ Tử đàm phán với Phù Huyền và Vệ Huyền Nhân quanh bảo ấn 【Tân Dậu Lục Trạch Ấn】 (ẩn giấu kim tính), bị ép phải chọn quy phục Long tộc hoặc một "đại nhân" bí ẩn (Lục vị) để sống sót — gợi lại số phận bi thảm của Ninh Điều Tiêu năm xưa.
+- **Cổ sự Kiếm Tiên (1769-1770):** Đông Phương Hợp Vân và Lý Thanh Hồng được kể lại truyền thuyết cổ về các vị Kiếm Tiên, quả vị "Không Chứng", và nguồn gốc thật của Ngọc Chân nguyên chủ — mở rộng thêm tầng lore vũ trụ quan.
+- **Trấn Đào Phủ & bí cảnh Hồng Tuyết Môn (1771-1773):** Lý Chu Vi cử Lý Khuyết Uyển tới trấn giữ Trấn Đào Phủ làm đường lui dự phòng cho gia tộc; phát hiện chủ nhân cũ của phủ — Lý Tuyền Đào — có liên hệ với đạo thống Mật Phiếm bí ẩn qua manh mối Lưu Trường Điệp. Tại Hoang Dã, phát hiện bí cảnh cổ của Hồng Tuyết Môn (một nhánh Ngụy Lý từng thọ ân Mật Phiếm) nơi giam giữ Lý Tuyền Đào, đối đầu căng thẳng với **Thiên Uyển chân nhân** (Xích Tiều Đảo) và Huyền Di chân nhân, cuối cùng đạt thỏa thuận chia ba đạo thống Hồng Tuyết.
+- **Tư Nguyên Lễ xuất quan (1773-1775):** Tư Nguyên Lễ (Tư gia) xuất quan sau nhiều năm bế quan cầu chứng thần thông, chính thức bước vào Tử Phủ; củng cố quyền lực nội bộ (phế truất tông chủ nhu nhược Lâm Ô Ninh trên thực tế qua thuộc hạ Tần Hiểm), chủ động kết giao và dò xét tin tức từ Lý gia, hé lộ manh mối về Tùy Quán bí ẩn đứng sau vụ Bạch Giang Khê/Trọc Sát Lăng.
+- **Cao trào cuối batch (1775):** Lý Chu Vi quyết định liều lĩnh dốc sức dục thai thần thông 『Quân Đạo Nguy』 ngay trước khi động thiên Uyển Lăng Thiên rơi xuống; Lý Hi Minh đến hiện trường tụ hội của nhiều đại chân nhân các thế lực lớn (Hách Liên gia, Kim Vũ Tông, Trường Hoài Sơn) đang chờ chia phần các bí cảnh phụ thuộc sắp lộ diện.
+
+### 2. Các nhân vật & Địa danh/Pháp bảo mới:
+- **Dương Trạc:** Nhân vật lớn mới tại Tầm Lâm, nghi là hóa thân kim tính Chân Khí của Thiên Vũ Chân Quân, có Âm Ty hậu thuẫn — theo dõi kỹ ở các chương sau.
+- **Thiên Uyển chân nhân:** Đại chân nhân 『Hàn Khí』 Xích Tiều Đảo, xuất hiện đậm nét tại bí cảnh Hồng Tuyết Môn, được Lý Chu Vi gọi "Trương tiền bối".
+- **Tân Dậu Lục Trạch Ấn:** Bảo ấn trung tâm tranh đoạt giữa Trì Bộ Tử, Long tộc và thế lực bí ẩn "Lục vị".
+- **Hồng Tuyết Môn & Lý Tuyền Đào:** Tông môn cổ của một nhánh Ngụy Lý, liên quan đạo thống Mật Phiếm; Lý Tuyền Đào là chủ cũ Trấn Đào Phủ bị giam giữ tại bí cảnh này.
+- **Tư Nguyên Lễ & Tam Nguyên (Tư gia):** Tư Nguyên Lễ xuất quan thành Tử Phủ, củng cố quyền lực; Nguyên Tu/Nguyên Tố/Nguyên Ô là ba tiền bối trụ cột Tư gia.
+- **Lưu ý dữ liệu nguồn:** ch.0958 (→1766) và ch.0964 (→1772) có khối thông báo rút thăm trúng thưởng vé tháng của tác giả gốc (không phải nội dung truyện), đã lược bỏ khi dịch, không tính vào lệch đoạn.
+- **Cần xác minh thêm:** 戚览堰 (ch.1766/1771-1775) có thể là biến thể chữ Hán của 识览郾 Thích Lãm Yển đã biết; 秦险/Tần Hiểm (thuộc hạ Ninh gia) có thể trùng với Tần Hiểm từng giết tông chủ thiếu niên Thanh Trì (ch.1739-1740) do tu sĩ trường thọ.

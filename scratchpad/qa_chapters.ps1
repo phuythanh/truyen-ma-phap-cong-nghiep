@@ -138,7 +138,7 @@ for ($vi = $Start; $vi -le $End; $vi++) {
     # legitimate eyebrow/anatomy compound words (chân mày, nhíu mày, mày tâm, mày ngài...) or
     # elegance compounds (tao nhã, phong tao) which are unrelated common Vietnamese vocabulary.
     $mayEyebrowBefore = "nhíu|nhướng|nhướn|cau|chau|lông|mặt|cúi|cụp|chân|đôi|nhấc|ngước|ngẩng|giãn|hàng|giữa|đầu|chặt|xương|rũ|dưới|trên|đẹp|nhếch|rướn|hẹp|trong|khóe|nét|nhăn|vẽ|mi|thanh|kiếm|ăn"
-    $mayEyebrowAfter = "tâm|mắt|rậm|ngài|liễu|cao|dài|thanh|nhíu"
+    $mayEyebrowAfter = "tâm|mắt|rậm|ngài|liễu|cao|dài|thanh|nhíu|ngắn"
     $slangMayRegex = "(?<!\b($mayEyebrowBefore)\s)\bmày\b(?!\s($mayEyebrowAfter)\b)"
     $slangTaoRegex = "(?<!\b(phong|thanh)\s)\btao\b(?!\snhã)"
     $slangCount = 0
