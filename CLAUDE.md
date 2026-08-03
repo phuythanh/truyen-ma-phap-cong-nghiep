@@ -84,9 +84,10 @@ powershell.exe -NoProfile -Command ".\scratchpad\build_epub_full.ps1"
 3. Cập nhật `memo/ROLLING_SUMMARY.md` (và `memo/STORY_BIBLE.md` nếu có diễn biến lớn).
 
 ### Bước 6 — Commit & push MỘT LƯỢT DUY NHẤT
-Sau khi toàn bộ dải chương của phiên đã qua QA sạch, main agent mới `git add` + `git commit` + `git push` — gộp chung mọi cụm 5 chương đã dịch trong phiên này thành 1 commit (không commit riêng từng cụm 5 chương):
+Sau khi toàn bộ dải chương của phiên đã qua QA sạch, main agent mới `git add` + `git commit` + `git push` — gộp chung mọi cụm 5 chương đã dịch trong phiên này thành 1 commit (không commit riêng từng cụm 5 chương). Luôn kèm `scratchpad/qa_output.csv` (kết quả QA vừa chạy ở Bước 3) trong cùng commit này — **không bỏ sót**, kể cả khi chỉ thay đổi vài dòng. Nếu Bước 4 (build EPUB) có chạy trong phiên, kèm luôn file `.epub` mới (và để `git rm`/`git add` tự xử lý việc xóa file `.epub` mốc chương cũ mà script đã tự dọn):
 ```bash
-git add chapters_out/ memo/
+git add chapters_out/ memo/ scratchpad/qa_output.csv
+# Nếu có build EPUB ở Bước 4: git add "*.epub" (bao gồm cả xóa file .epub mốc cũ)
 git commit -m "Dich chuong <Start>-<End> <Ten truyen>, QA dat chuan"
 git push origin huyen-giam-tien-toc
 ```
