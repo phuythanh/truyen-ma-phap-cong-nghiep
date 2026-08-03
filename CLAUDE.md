@@ -22,6 +22,7 @@ Tài liệu này là bản tương đương của [GEMINI.md](GEMINI.md) nhưng 
   - `STORY_BIBLE.md` — nhân vật, thế lực, bối cảnh.
   - `TRANSLATE_PROMPT.md` — prompt mẫu cho subagent dịch.
   - `AUTONOMOUS_PLAN.md` — kế hoạch chạy vòng lặp tự động dài hạn (đã viết cho Antigravity `schedule`; khi chạy bằng Claude Code hãy dùng `ScheduleWakeup`/skill `loop` thay thế, xem mục 4).
+  - `QA_KNOWN_EXCEPTIONS.md` — danh sách chương đã bị QA gắn cờ (`WARN_PARACOUNT`, `FAIL_SLANG`...) nhưng đã kiểm tra tay và xác nhận hợp lệ, không cần sửa/điều tra lại. Trước khi báo cáo kết quả QA cho user, đối chiếu bảng này để loại trừ các dòng đã biết; chỉ báo cáo cảnh báo MỚI hoặc `MISSING_ZH`/`MISSING_OUT` (loại lỗi luôn cần xử lý, không nằm trong file này).
 - `scratchpad/qa_chapters.ps1` — script QA (kiểm CJK sót, mojibake, lệch đoạn, trùng lặp, tỉ lệ độ dài).
 - `scratchpad/qa_chapters.py` — **bản port Python 1:1 của `qa_chapters.ps1`** (đã verify byte-for-byte cùng logic, cùng pattern mojibake, cùng ngưỡng FAIL/WARN), dùng khi QA phải chạy trên môi trường Linux/cloud không có PowerShell (xem mục 5 — 2 cloud routine tự động). Cách chạy: `python3 scratchpad/qa_chapters.py --start <N> --end <M>` (fallback `python` nếu không có `python3`), output CSV cùng định dạng tại `scratchpad/qa_output.csv`. Trên máy Windows local vẫn ưu tiên dùng bản `.ps1` như mục 3 mô tả.
 - `scratchpad/build_epub_full.ps1` — đóng gói EPUB từ toàn bộ `chapters_out/`.

@@ -67,22 +67,39 @@ for ($vi = $Start; $vi -le $End; $vi++) {
     $outLines = $outText -split "`r?`n" | Where-Object { $_.Trim() -ne "" }
     $outParaCount = if ($outLines.Count -gt 0) { $outLines.Count - 1 } else { 0 }  # minus title line
 
-    # Filter out ZH ad/promo lines before counting
-    # Strategy: find the last "story content" line in the final 50 lines, then cut everything after
+    # Filter out ZH ad/promo lines before counting (website footer/author-note junk,
+    # not real story content, so it must not count against paragraph-count parity)
     $zhAllLines = $zhText -split "`r?`n"
-    # Detect end of story: scan backwards from end, find last line with CJK full-stop U+3002 or double-quote dialog
+
+    # Author-note / lottery-footer keywords: verified against the whole chapters_zh corpus to
+    # only ever appear in web-serial footer blocks (patron shout-outs, monthly-vote lottery
+    # draws, "extra chapter" notices), never inside actual story narrative.
+    $adKeywords = @(
+        "月票", "抽奖", "中奖", "活动群", "管理QQ", "请大家核对", "视同放弃资格", "折现", "月饼",
+        "打赏", "加更", "订阅", "作者的话", "盟主", "书友", "推荐票", "求月票", "求收藏", "本章说"
+    )
+
+    # 1) Trailing ad/footer block: scan the last ~80 non-empty lines for the first line hit by an
+    # ad keyword, then cut everything from there to EOF (footers are always a contiguous block
+    # at the very end, spanning multiple paragraphs — patron lists, lottery number dumps, etc).
+    $nonEmptyIdx = for ($ri = 0; $ri -lt $zhAllLines.Length; $ri++) { if ($zhAllLines[$ri].Trim() -ne '') { $ri } }
     $zhCutAt = $zhAllLines.Length
-    for ($ri = $zhAllLines.Length - 1; $ri -ge [Math]::Max(0, $zhAllLines.Length - 60); $ri--) {
-        $rl = $zhAllLines[$ri].Trim()
-        if ($rl.Length -gt 5) {
-            # Check for U+3002 (Chinese period) or U+300D (right corner bracket) indicating story text
-            $hasCjkEnd = ($rl.ToCharArray() | Where-Object { [int][char]$_ -eq 0x3002 -or [int][char]$_ -eq 0x300D -or [int][char]$_ -eq 0xFF01 }).Count -gt 0
-            if ($hasCjkEnd) { $zhCutAt = $ri + 1; break }
-        }
+    $tailStart = [Math]::Max(0, $nonEmptyIdx.Count - 80)
+    for ($k = $tailStart; $k -lt $nonEmptyIdx.Count; $k++) {
+        $ri = $nonEmptyIdx[$k]
+        $rl = $zhAllLines[$ri]
+        $isAd = $false
+        foreach ($kw in $adKeywords) { if ($rl.Contains($kw)) { $isAd = $true; break } }
+        if ($isAd) { $zhCutAt = $ri; break }
     }
+
     $zhLines = $zhAllLines[1..($zhCutAt-1)] | Where-Object {
         $l = $_.Trim()
         if ($l -eq '') { return $false }
+        # 2) Mid-chapter pagination notice ("本章未完，请点击下一页继续阅读...") — a single
+        # injected line with real story content both before and after it, so only that one
+        # paragraph is dropped rather than truncating the rest of the chapter.
+        if ($l.Contains("下一页")) { return $false }
         # Also skip lines with 3+ ideographic commas U+3001 (lottery number dumps)
         $ideoCommaCount = ($l.ToCharArray() | Where-Object { [int][char]$_ -eq 0x3001 }).Count
         if ($ideoCommaCount -ge 3) { return $false }
@@ -116,9 +133,18 @@ for ($vi = $Start; $vi -le $End; $vi++) {
 
     # Informal Slang Check (using escape chars, non-accented regex & exact Unicode patterns)
     $slangRegex = '(?i)(\b(dach|sui tam|con ranh|con a|thang on|dut lot|boc phet|bo doi|xach dit)\b|' + [char]0x0111 + 'á' + [char]0x00AD + 'ch|' + [char]0x0111 + 'á' + [char]0x0063 + 'h)'
-    $slangPatterns = @("đách", "sủi tăm", " mày ", " tao ", "mày tao", "con ranh", "con ả", "thằng ôn", "đút lót", "bốc phét", "bố đời", "xách đít")
+    $slangPatterns = @("đách", "sủi tăm", "mày tao", "con ranh", "con ả", "thằng ôn", "đút lót", "bốc phét", "bố đời", "xách đít")
+    # "mày"/"tao" as rude 2nd/1st-person pronouns must be excluded when they're actually part of
+    # legitimate eyebrow/anatomy compound words (chân mày, nhíu mày, mày tâm, mày ngài...) or
+    # elegance compounds (tao nhã, phong tao) which are unrelated common Vietnamese vocabulary.
+    $mayEyebrowBefore = "nhíu|nhướng|nhướn|cau|chau|lông|mặt|cúi|cụp|chân|đôi|nhấc|ngước|ngẩng|giãn|hàng|giữa|đầu|chặt|xương|rũ|dưới|trên|đẹp|nhếch|rướn|hẹp|trong|khóe|nét|nhăn|vẽ|mi|thanh|kiếm|ăn"
+    $mayEyebrowAfter = "tâm|mắt|rậm|ngài|liễu|cao|dài|thanh|nhíu"
+    $slangMayRegex = "(?<!\b($mayEyebrowBefore)\s)\bmày\b(?!\s($mayEyebrowAfter)\b)"
+    $slangTaoRegex = "(?<!\b(phong|thanh)\s)\btao\b(?!\snhã)"
     $slangCount = 0
     if ($outText -match $slangRegex) { $slangCount++ }
+    if ($outText -match $slangMayRegex) { $slangCount++ }
+    if ($outText -match $slangTaoRegex) { $slangCount++ }
     foreach ($sp in $slangPatterns) {
         if ($outText.Contains($sp)) { $slangCount++ }
     }
