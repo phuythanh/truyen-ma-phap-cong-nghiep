@@ -1,0 +1,5 @@
+$text = [System.IO.File]::ReadAllText('C:\truyen\maphap\chapters_out\1669.md', [System.Text.Encoding]::UTF8)
+$text = $text.Replace('【', '[').Replace('】', ']').Replace('『', '"').Replace('』', '"')
+$text = $text.Replace('thấc hoa quang', 'tấc hoa quang')
+$text = $text.Replace('Thượng Diệu cầm trượng', 'Thượng Diệu Chính Trì')
+[System.IO.File]::WriteAllText('C:\truyen\maphap\scratchpad\1669_fixed.md', $text, [System.Text.Encoding]::UTF8)
