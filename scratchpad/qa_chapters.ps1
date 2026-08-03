@@ -139,7 +139,26 @@ for ($vi = $Start; $vi -le $End; $vi++) {
 }
 
 $results | Format-Table -AutoSize
-$results | Export-Csv -Path $OutCsv -NoTypeInformation -Encoding UTF8
+
+# Smart Merge into existing CSV to preserve historical QA records
+if (Test-Path $OutCsv) {
+    try {
+        $existing = Import-Csv -Path $OutCsv -Encoding UTF8
+        $dict = @{}
+        foreach ($item in $existing) {
+            $dict[[string]$item.Chuong] = $item
+        }
+        foreach ($item in $results) {
+            $dict[[string]$item.Chuong] = $item
+        }
+        $finalResults = $dict.Values | Sort-Object { [int]$_.Chuong }
+        $finalResults | Export-Csv -Path $OutCsv -NoTypeInformation -Encoding UTF8
+    } catch {
+        $results | Export-Csv -Path $OutCsv -NoTypeInformation -Encoding UTF8
+    }
+} else {
+    $results | Export-Csv -Path $OutCsv -NoTypeInformation -Encoding UTF8
+}
 Write-Host "---"
 Write-Host "QA Results exported to: $OutCsv" -ForegroundColor Green
 $failCount = ($results | Where-Object { $_.Status -ne "OK" }).Count
