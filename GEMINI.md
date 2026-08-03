@@ -55,12 +55,14 @@ Khi người dùng chuyển sang branch này và yêu cầu dịch một truyệ
 - **Bài học:** Bắt buộc phải đọc và tra cứu nhanh tên riêng trong `memo/GLOSSARY.tsv` và `memo/STORY_BIBLE.md` trước khi dịch.
 - **Hành động:** Khi xuất hiện nhân vật/địa danh mới, hãy thêm ngay vào `GLOSSARY.tsv` kèm quy định dịch để các chương tiếp theo không bị lệch.
 
-### 5. Lỗi xưng hô đại từ
-- **Bài học:** Cực kỳ hạn chế dùng "mày - tao" trừ khi nhân vật chửi bới, cãi vã dữ dội. Dùng "tôi", "ta", "đạo hữu", "sư điệt", "tiền bối", "vãn bối" để giữ văn phong nhã nhặn. Phân biệt rõ "chúng tôi" (không gồm người nghe) và "chúng ta" (gồm người nghe) để dịch chính xác ngữ cảnh.
+### 5. Lỗi xưng hô đại từ & từ ngữ suồng sả
+- **Bài học:** Cực kỳ hạn chế dùng "mày - tao" trừ khi nhân vật chửi bới, cãi vã dữ dội. TUYỆT ĐỐI KHÔNG dùng từ ngữ suồng sả, tục tĩu (như: "đách", "sủi tăm", "thằng ôn", "con ranh", "bốc phét", "xách đít"...). Dùng "tôi", "ta", "đạo hữu", "sư điệt", "tiền bối", "vãn bối" để giữ văn phong Hán Việt Cổ Phong trang trọng. Phân biệt rõ "chúng tôi" (không gồm người nghe) và "chúng ta" (gồm người nghe) để dịch chính xác ngữ cảnh.
 
-### 6. Đánh giá chất lượng dịch thuật (Bắt buộc đạt từ 9.7/10 trở lên)
+### 6. Đánh giá chất lượng dịch thuật & Xử lý quảng cáo
 - **Bài học:** Không được dịch thuần Việt ngô nghê làm mất khí thái cổ phong tiên hiệp (như dịch "bạch y nam tử" thành "người đàn ông mặc áo trắng", "địa giới" thành "địa bàn"...).
-- **Hành động:** Bản dịch bắt buộc phải giữ Hán Việt Cổ Phong đẹp, xưng hô trang trọng và phải đạt điểm đánh giá chất lượng từ **9.7 / 10** trở lên về độ mượt, nhịp điệu và thần thái nhân vật.
+- **Hành động:** 
+  - Bản dịch bắt buộc phải giữ Hán Việt Cổ Phong đẹp, xưng hô trang trọng và phải đạt điểm đánh giá chất lượng từ **9.7 / 10** trở lên về độ mượt, nhịp điệu và thần thái nhân vật.
+  - Khi gặp các dòng quảng cáo/rác trang web ở cuối file nguồn tiếng Trung, Agent tự động im lặng loại bỏ (lọc rác), TUYỆT ĐỐI KHÔNG báo cáo hay note giải thích về việc xóa quảng cáo trong câu trả lời.
 
 ---
 
@@ -91,7 +93,7 @@ Main Agent (model `flash`) quản lý toàn bộ quy trình hậu kỳ và đi�
 powershell.exe -NoProfile -Command ".\scratchpad\qa_chapters.ps1 -Start <vi_chapter> -End <vi_chapter>"
 ```
 - Nếu kết quả trả về là `OK`: Đạt chuẩn kĩ thuật.
-- Nếu trả về lỗi (`FAIL_CJK`, `FAIL_MOJIBAKE`, `WARN_PARACOUNT`, `WARN_DUP`): Agent phải mở file dịch ra rà soát, sửa lỗi thủ công hoặc yêu cầu dịch lại phần bị hỏng.
+- Nếu trả về lỗi (`FAIL_CJK`, `FAIL_MOJIBAKE`, `FAIL_SLANG`, `FAIL_AD_NOTE`, `WARN_PARACOUNT`, `WARN_DUP`): Agent phải mở file dịch ra rà soát, sửa lỗi thủ công hoặc yêu cầu dịch lại phần bị hỏng.
 2. **Đánh giá Chất lượng Dịch thuật (Bắt buộc đạt từ 9.7/10 trở lên):**
 - Đánh giá độ mượt, nhịp điệu, thần thái Cổ Phong Tiên Gia, cách xưng hô trang trọng và độ chính xác của từ ngữ/thuật ngữ.
 - Nếu phát hiện câu từ ngô nghê, thuần Việt hóa quá đà hoặc sai phong thái tiên gia (dưới 9.7/10), Agent phải tiến hành tinh chỉnh/edit lại ngay trước khi chuyển sang bước tiếp theo.
