@@ -67,8 +67,28 @@ for ($vi = $Start; $vi -le $End; $vi++) {
     $outLines = $outText -split "`r?`n" | Where-Object { $_.Trim() -ne "" }
     $outParaCount = if ($outLines.Count -gt 0) { $outLines.Count - 1 } else { 0 }  # minus title line
 
-    $zhLines = $zhText -split "`r?`n" | Where-Object { $_.Trim() -ne "" }
-    $zhParaCount = if ($zhLines.Count -gt 0) { $zhLines.Count - 1 } else { 0 }  # minus header line
+    # Filter out ZH ad/promo lines before counting
+    # Strategy: find the last "story content" line in the final 50 lines, then cut everything after
+    $zhAllLines = $zhText -split "`r?`n"
+    # Detect end of story: scan backwards from end, find last line with CJK full-stop U+3002 or double-quote dialog
+    $zhCutAt = $zhAllLines.Length
+    for ($ri = $zhAllLines.Length - 1; $ri -ge [Math]::Max(0, $zhAllLines.Length - 60); $ri--) {
+        $rl = $zhAllLines[$ri].Trim()
+        if ($rl.Length -gt 5) {
+            # Check for U+3002 (Chinese period) or U+300D (right corner bracket) indicating story text
+            $hasCjkEnd = ($rl.ToCharArray() | Where-Object { [int][char]$_ -eq 0x3002 -or [int][char]$_ -eq 0x300D -or [int][char]$_ -eq 0xFF01 }).Count -gt 0
+            if ($hasCjkEnd) { $zhCutAt = $ri + 1; break }
+        }
+    }
+    $zhLines = $zhAllLines[1..($zhCutAt-1)] | Where-Object {
+        $l = $_.Trim()
+        if ($l -eq '') { return $false }
+        # Also skip lines with 3+ ideographic commas U+3001 (lottery number dumps)
+        $ideoCommaCount = ($l.ToCharArray() | Where-Object { [int][char]$_ -eq 0x3001 }).Count
+        if ($ideoCommaCount -ge 3) { return $false }
+        return $true
+    }
+    $zhParaCount = if ($zhLines.Count -gt 0) { $zhLines.Count } else { 0 }  # already excluded title
 
     # consecutive duplicate paragraph check (exact match)
     $dupCount = 0
