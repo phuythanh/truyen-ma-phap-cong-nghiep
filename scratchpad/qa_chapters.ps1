@@ -94,9 +94,19 @@ for ($vi = $Start; $vi -le $End; $vi++) {
         }
     }
 
+    # Informal Slang Check (using escape chars or Unicode)
+    $slangRegex = '(?i)(\b(dach|sui tam|bam|may|tao|con ranh|con a|no me|thang on|dut lot|boc phet|bo doi|xach dit)\b|' + [char]0x0111 + 'á' + [char]0x00AD + 'ch|' + [char]0x0111 + 'á' + [char]0x0063 + 'h)'
+    # Unicode patterns for exact slang matching
+    $slangPatterns = @("đách", "sủi tăm", "mày", "tao", "con ranh", "con ả", "thằng ôn", "đút lót", "bốc phét", "bố đời", "xách đít")
+    $slangCount = 0
+    foreach ($sp in $slangPatterns) {
+        if ($outText.Contains($sp)) { $slangCount++ }
+    }
+
     $status = "OK"
     if ($cjkCount -gt 0) { $status = "FAIL_CJK" }
     elseif ($hasMojibake) { $status = "FAIL_MOJIBAKE" }
+    elseif ($slangCount -gt 0) { $status = "FAIL_SLANG" }
     elseif ($ratio -lt 1.0 -or $ratio -gt 2.0) { $status = "FAIL_RATIO" }
     elseif ($spacePct -lt 9) { $status = "FAIL_SPACE" }
     elseif ($badBytes -gt 0) { $status = "FAIL_BADBYTE" }
