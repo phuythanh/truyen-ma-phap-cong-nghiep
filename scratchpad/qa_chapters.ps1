@@ -94,9 +94,11 @@ for ($vi = $Start; $vi -le $End; $vi++) {
         }
     }
 
-    # Informal Slang Check (using exact Unicode patterns)
+    # Informal Slang Check (using escape chars, non-accented regex & exact Unicode patterns)
+    $slangRegex = '(?i)(\b(dach|sui tam|con ranh|con a|thang on|dut lot|boc phet|bo doi|xach dit)\b|' + [char]0x0111 + 'á' + [char]0x00AD + 'ch|' + [char]0x0111 + 'á' + [char]0x0063 + 'h)'
     $slangPatterns = @("đách", "sủi tăm", " mày ", " tao ", "mày tao", "con ranh", "con ả", "thằng ôn", "đút lót", "bốc phét", "bố đời", "xách đít")
     $slangCount = 0
+    if ($outText -match $slangRegex) { $slangCount++ }
     foreach ($sp in $slangPatterns) {
         if ($outText.Contains($sp)) { $slangCount++ }
     }
